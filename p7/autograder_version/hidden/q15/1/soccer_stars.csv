@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+565661,A. Ross,26,Somalia,Griffin-Tucker,Premier League (England),€194.1M,€494K,81.2,91.1,57.7,43.2,89,LWB,180cm,Left
+49686,B. Ochoa,20,Vietnam,Paris Saint Germain,Cook-Conway (Solomon Islands),€188.3M,€479K,77.0,89.5,86.3,24.8,89,ST,179cm,Left
+206744,R. Skinner,29,Solomon Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€189.4M,€496K,68.3,91.3,81.2,51.2,89,LWB,178cm,Left
+526765,C. Hicks,35,Western Sahara,Paris Saint Germain,Cook-Conway (Solomon Islands),€197.4M,€547K,81.1,51.3,37.8,92.0,89,LW,202cm,Right
+503403,D. Johnson,44,Brunei Darussalam,"Hunt, Ortega and Howell",Premier League (England),€249.1M,€457K,71.3,90.2,84.3,56.0,89,LWB,200cm,Left
+184238,M. Ruiz,22,Sao Tome and Principe,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€182.6M,€468K,77.8,91.3,81.2,48.5,89,LWB,193cm,Left
+254346,G. Miller,25,Solomon Islands,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€181.1M,€496K,74.5,28.7,47.0,92.8,88,LW,193cm,Right
+148833,J. Bishop,28,Brunei Darussalam,Velazquez Group,Gibson PLC (Somalia),€170.5M,€476K,90.7,80.6,59.0,48.5,88,LWB,191cm,Left
+969027,Z. Walton,24,Vietnam,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€159.1M,€463K,49.5,40.3,79.3,90.7,88,CF,184cm,Right
+257661,Nathan Roberts,52,Brunei Darussalam,Paris Saint Germain,Cook-Conway (Solomon Islands),€163.4M,€455K,74.3,92.8,47.1,30.9,88,LWB,207cm,Right
+569040,D. Levy,26,Western Sahara,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€174.3M,€448K,43.6,37.5,76.3,91.6,88,CF,163cm,Right
+156147,John Meyer,31,Vietnam,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€167.5M,€449K,51.9,11.1,78.4,90.0,87,CF,206cm,Right
+304374,E. Martin,30,Brunei Darussalam,Kennedy PLC,Torres Inc (Cameroon),€152.9M,€452K,81.7,74.9,88.5,38.8,87,ST,200cm,Left
+559029,D. Gonzalez,30,Vietnam,FC Barcelona,Gibson PLC (Somalia),€151.6M,€442K,39.3,49.4,86.8,86.2,87,CF,191cm,Right
+764951,P. Palmer,35,Western Sahara,Grant-Wong,Premier League (England),€159.7M,€446K,78.7,44.1,22.6,89.8,87,LW,204cm,Right
+25939,D. Owens,31,Brunei Darussalam,Medina PLC,Premier League (England),€153.5M,€440K,63.1,93.8,46.5,38.9,86,RWB,158cm,Left
+779873,M. Harrington,34,Sao Tome and Principe,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€133.8M,€421K,59.1,60.4,86.6,84.1,86,RB,177cm,Right
+321281,D. Garcia,31,Solomon Islands,Nolan and Sons,Cook-Conway (Solomon Islands),€139.4M,€421K,80.8,60.4,87.6,24.1,86,LWB,177cm,Left
+706658,M. Roberts,34,Pitcairn Islands,Robinson PLC,Rogers Ltd (French Polynesia),€155M,€421K,76.9,40.1,35.6,88.4,86,GK,177cm,Left
+633343,Jordan,53,Western Sahara,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€144.8M,€423K,81.6,71.0,86.9,32.0,86,ST,195cm,Left
+77186,J. Garcia,52,Sao Tome and Principe,Griffin-Tucker,Premier League (England),€127.2M,€418K,70.9,40.8,34.4,91.5,86,LW,180cm,Right
+180402,Steven Dougherty,37,Western Sahara,"Wells, Kelly and Cox",Premier League (England),€128.3M,€414K,60.8,93.3,48.5,43.8,85,LWB,194cm,Right
+401639,J. Miller,35,Gibraltar,Baker Inc,Premier League (England),€143.3M,€413K,67.8,90.6,27.7,62.9,85,RWB,170cm,Left
+762504,R. Nguyen,29,Australia,Griffin-Tucker,Premier League (England),€120.6M,€421K,22.7,48.7,64.8,92.1,85,CF,172cm,Right
+615191,William Lindsey,25,Australia,"Wells, Kelly and Cox",Premier League (England),€116.4M,€405K,76.4,87.7,75.8,21.5,85,ST,192cm,Left
+985741,Shannon,21,Brunei Darussalam,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€129.8M,€412K,41.0,91.2,25.6,66.7,85,RWB,168cm,Left
+265359,R. Lawrence,33,Gibraltar,Porter-Barker,Premier League (England),€117.9M,€409K,58.9,93.6,48.9,49.2,85,LWB,208cm,Right
+339515,M. Mills,26,French Polynesia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€115.3M,€411K,63.0,92.5,27.8,53.4,85,LWB,200cm,Right
+737794,Joshua Hubbard,24,Brunei Darussalam,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€117.2M,€400K,68.1,88.8,22.3,47.5,84,LWB,201cm,Right
+229972,B. Conway,20,Cameroon,"Harvey, Nguyen and Smith",Premier League (England),€114.6M,€392K,59.2,24.7,92.0,40.7,84,RB,210cm,Left
+639909,Anthony Jr.,26,Vietnam,"Rose, Romero and Gallegos",Premier League (England),€105.5M,€397K,17.7,42.3,67.7,89.7,84,LB,189cm,Right
+534282,John Smith,33,Brunei Darussalam,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€111M,€397K,30.6,35.9,92.1,58.5,84,RB,160cm,Left
+321406,S. Dorsey,29,Vietnam,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€115.1M,€386K,32.5,42.9,65.0,91.0,84,LB,204cm,Right
+321421,Gregory Hamilton,22,Sao Tome and Principe,Baker Inc,Premier League (England),€94.6M,€385K,27.3,60.6,91.1,62.3,84,RB,151cm,Right
+862408,Mark Wong,33,French Polynesia,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€94.7M,€416K,57.9,45.0,64.2,91.1,84,CF,208cm,Right
+534746,N. Foley,33,Solomon Islands,"Hunt, Ortega and Howell",Premier League (England),€98.1M,€386K,90.3,65.9,56.5,27.6,84,LWB,181cm,Left
+158774,T. Ryan,26,Somalia,"Wells, Kelly and Cox",Premier League (England),€85.2M,€379K,62.9,91.6,30.0,41.4,84,RWB,198cm,Left
+888315,C. Bailey,20,Cameroon,Hernandez-Adams,Premier League (England),€88.4M,€379K,58.5,42.9,62.1,90.9,84,CF,161cm,Right
+3872,A. Martinez,22,Cameroon,Hernandez-Adams,Premier League (England),€79.3M,€382K,63.2,91.6,46.4,25.8,84,LWB,156cm,Right
+929577,D. Murray,30,Pitcairn Islands,Baker Inc,Premier League (England),€102.6M,€379K,20.4,57.6,83.9,83.9,84,RM,175cm,Right
+877430,R. Henry,45,Pitcairn Islands,Howard and Sons,Premier League (England),€83M,€389K,58.7,39.7,91.5,48.4,83,RB,153cm,Right
+713960,K. Lopez,22,Solomon Islands,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€73.5M,€363K,63.6,84.5,76.6,45.0,83,ST,179cm,Left
+788343,Z. Brewer,23,Gibraltar,"Rose, Romero and Gallegos",Premier League (England),€76.4M,€369K,58.4,22.0,53.1,90.7,83,CF,151cm,Right
+272480,P. Holmes,26,Somalia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€76M,€375K,75.9,84.9,75.7,15.3,83,ST,185cm,Left
+43404,E. Hernandez,54,Vietnam,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€72.4M,€363K,75.8,65.6,85.3,46.3,83,LWB,201cm,Left
+551311,Lewis,28,Somalia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€69.5M,€363K,41.1,37.5,82.9,81.8,83,RB,201cm,Right
+879139,D. Combs,31,Gibraltar,Nolan and Sons,Cook-Conway (Solomon Islands),€76.1M,€359K,79.7,34.3,84.2,50.3,83,ST,176cm,Right
+94101,A. Ramirez,33,Vietnam,Grant-Wong,Premier League (England),€70.4M,€359K,70.4,55.1,38.4,87.4,83,GK,191cm,Left
+643091,B. Smith,18,French Polynesia,"Hunt, Ortega and Howell",Premier League (England),€63.8M,€342K,37.3,14.0,87.2,69.4,83,CF,195cm,Right
+688724,B. Bailey,35,Solomon Islands,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€73.4M,€358K,57.8,85.7,17.6,72.8,83,RW,208cm,Right
+368779,Raymond,24,Solomon Islands,"Rose, Romero and Gallegos",Premier League (England),€61.1M,€347K,82.0,26.8,50.7,81.1,82,LW,209cm,Right
+287113,J. Rose,51,Pitcairn Islands,Porter-Barker,Premier League (England),€63.6M,€345K,48.2,92.5,35.9,50.9,82,LWB,204cm,Right
+426524,Brian Jr.,28,Vietnam,Johnson-Ray,Premier League (England),€60.9M,€340K,89.3,59.4,54.0,38.4,82,LWB,194cm,Left
+230070,R. Orr,49,Vietnam,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€52.5M,€339K,36.6,42.1,88.9,59.3,82,RB,151cm,Left
+525042,C. Levy,30,Australia,FC Barcelona,Gibson PLC (Somalia),€68.4M,€336K,55.3,22.7,73.3,84.4,82,RB,208cm,Right
+803870,J. Thomas,53,Somalia,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€52.5M,€358K,46.0,42.6,58.7,89.4,82,CF,209cm,Right
+705949,A. Aguilar,49,French Polynesia,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€50M,€338K,73.9,85.3,57.2,26.1,82,LWB,188cm,Right
+976686,E. Mullins,34,Cameroon,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€52.4M,€325K,84.1,29.2,59.0,77.5,82,RM,158cm,Left
+247707,Golden,33,Western Sahara,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€43.4M,€323K,18.2,60.3,49.0,89.4,82,LB,173cm,Right
+190524,J. Fisher,21,French Polynesia,Nolan and Sons,Cook-Conway (Solomon Islands),€47.6M,€314K,26.9,35.4,79.3,83.0,82,CF,156cm,Right
+502032,J. Rivera,29,Sao Tome and Principe,Nolan and Sons,Cook-Conway (Solomon Islands),€42.5M,€303K,33.0,51.9,39.2,92.0,82,LB,185cm,Right
+551353,L. Collins,26,Gibraltar,Paris Saint Germain,Cook-Conway (Solomon Islands),€36.3M,€304K,83.5,41.1,77.5,32.0,82,ST,196cm,Right
+658444,C. Anderson,31,Western Sahara,"Harvey, Nguyen and Smith",Premier League (England),€42.6M,€309K,38.4,90.1,45.9,59.6,82,RWB,204cm,Left
+675065,Shawn Jr.,22,Sao Tome and Principe,Hernandez-Adams,Premier League (England),€43.5M,€306K,62.6,43.6,37.1,88.9,82,LW,204cm,Right
+273816,J. Atkinson,20,Brunei Darussalam,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€30.4M,€311K,30.9,45.1,89.0,60.2,82,RB,202cm,Right
+510575,I. Williams,25,Pitcairn Islands,Manchester United,Rogers Ltd (French Polynesia),€35.3M,€294K,82.0,25.7,32.4,77.4,82,CDM,200cm,Left
+90129,C. Harris,30,Sao Tome and Principe,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€42.8M,€296K,36.8,22.4,91.5,48.4,81,RB,162cm,Right
+303125,Steven Jr.,30,Sao Tome and Principe,Rose Group,Garcia-Cook (Australia),€30M,€294K,74.8,37.9,22.5,83.5,81,GK,164cm,Left
+270394,L. Perez,20,Cameroon,Maldonado and Sons,Larson and Sons (Australia),€18.7M,€289K,54.2,67.9,84.9,25.3,81,LWB,209cm,Left
+516697,R. Graham,33,Pitcairn Islands,Maldonado and Sons,Larson and Sons (Australia),€29.7M,€285K,24.7,41.0,88.3,58.7,81,CF,168cm,Left
+762553,Michael Jr.,26,Western Sahara,"Wells, Kelly and Cox",Premier League (England),€19.3M,€280K,55.8,44.0,17.8,89.8,81,LW,182cm,Right
+500465,G. Rodgers,25,Cameroon,"Salazar, Moore and Mueller",Larson and Sons (Australia),€16.9M,€303K,61.2,28.4,38.7,87.7,81,LW,184cm,Right
+910236,J. Griffin,25,Vietnam,Medina PLC,Premier League (England),€12.5M,€280K,75.1,83.5,42.0,33.6,81,LWB,176cm,Right
+337167,T. Thompson,34,Australia,Paris Saint Germain,Cook-Conway (Solomon Islands),€10.1M,€279K,51.1,78.7,81.3,27.3,81,ST,179cm,Left
+329022,C. Nicholson,25,Cameroon,Paris Saint Germain,Cook-Conway (Solomon Islands),€22.3M,€293K,43.2,35.6,88.3,59.0,81,RB,167cm,Right
+771402,C. Andersen,31,Sao Tome and Principe,Robinson PLC,Rogers Ltd (French Polynesia),€14.3M,€280K,18.3,53.8,40.7,89.4,81,LB,152cm,Right
+34222,John Jr.,28,Sao Tome and Principe,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€9.8M,€262K,82.6,36.2,75.7,38.7,81,ST,166cm,Right
+124402,J. Gonzales,24,Western Sahara,Ward Group,Premier League (England),€14.8M,€279K,59.4,48.1,77.9,81.7,81,RB,155cm,Right
+714358,C. Thomas,25,Somalia,"Salazar, Moore and Mueller",Larson and Sons (Australia),€9.9M,€268K,51.1,87.2,63.8,33.2,81,ST,207cm,Left
+34582,J. Ellis,34,Solomon Islands,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€10M,€251K,22.9,22.1,85.5,68.8,81,CF,201cm,Right
+157485,Michael Jr.,21,Gibraltar,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€9.8M,€239K,27.4,52.6,82.2,79.2,81,RM,188cm,Right
+280377,N. Taylor,25,Vietnam,Velazquez Group,Gibson PLC (Somalia),€9.6M,€238K,69.8,41.0,41.8,85.2,81,LW,186cm,Left
+239985,S. Maxwell,30,Western Sahara,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€9.7M,€241K,40.7,83.8,72.4,12.4,81,CAM,172cm,Left
+788960,Terry Jr.,24,Sao Tome and Principe,"Wells, Kelly and Cox",Premier League (England),€9.6M,€247K,66.9,61.4,86.0,43.6,81,LWB,159cm,Left
+150242,Billy Vazquez,24,Western Sahara,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€9.4M,€220K,64.7,57.4,85.8,31.0,81,ST,171cm,Left
+133957,Robert Jr.,20,French Polynesia,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€9.5M,€233K,57.9,10.0,86.6,63.9,81,LB,184cm,Left
+19461,J. Berger,31,Sao Tome and Principe,Wilson Ltd,Premier League (England),€9.3M,€232K,84.3,51.0,44.9,72.7,81,LW,175cm,Right
+896467,J. Lopez,33,Australia,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€9.9M,€237K,55.4,42.5,89.7,43.9,81,CF,193cm,Left
+224920,Michael Davis,32,Solomon Islands,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€9.5M,€199K,60.3,80.4,80.9,44.8,81,ST,177cm,Left
+437919,S. Clark,26,Brunei Darussalam,"Wells, Kelly and Cox",Premier League (England),€9.3M,€249K,46.2,38.9,89.7,53.7,81,CF,160cm,Left
+749252,Matthew Garcia,35,Brunei Darussalam,Howard and Sons,Premier League (England),€9.2M,€203K,54.8,38.7,89.1,54.9,81,RB,179cm,Left
+216799,C. Baird,55,Brunei Darussalam,Garcia Group,Cook-Conway (Solomon Islands),€9.3M,€205K,56.5,37.6,89.5,49.8,81,CF,180cm,Left
+405413,Acevedo,35,Sao Tome and Principe,Velazquez Group,Gibson PLC (Somalia),€8.8M,€185K,88.8,58.2,53.4,44.2,81,LWB,164cm,Left
+962494,Thomas Jr.,46,French Polynesia,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€9.3M,€178K,75.2,83.5,58.7,46.8,81,LWB,202cm,Left
+901394,J. Graham,24,Pitcairn Islands,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€8.9M,€183K,84.8,43.4,21.8,64.2,80,CB,189cm,Right
+975484,C. Baker,29,Pitcairn Islands,Grant-Wong,Premier League (England),€9.2M,€183K,22.7,54.4,60.1,86.5,80,LB,173cm,Right
+393965,B. Garcia,53,Gibraltar,Kennedy PLC,Torres Inc (Cameroon),€9M,€167K,53.4,20.5,89.0,34.6,80,CF,179cm,Left
+549944,White,35,Brunei Darussalam,"Salazar, Moore and Mueller",Larson and Sons (Australia),€8.5M,€176K,85.0,17.4,26.7,63.4,80,LW,185cm,Right
+754804,M. Reynolds,21,Australia,Manchester United,Rogers Ltd (French Polynesia),€8.7M,€165K,76.5,62.3,81.7,54.7,80,LWB,168cm,Left
+287936,J. Henderson,32,Western Sahara,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€8.5M,€187K,57.8,38.7,50.1,88.0,80,GK,165cm,Left
+592629,Barker,31,Solomon Islands,Medina PLC,Premier League (England),€8.4M,€178K,51.8,89.8,34.1,26.5,80,LWB,154cm,Right
+208019,M. Daugherty,35,Pitcairn Islands,Kennedy PLC,Torres Inc (Cameroon),€8.2M,€151K,28.1,42.7,85.7,62.5,80,LM,166cm,Left
+896292,J. Harris,23,Pitcairn Islands,Baker Inc,Premier League (England),€8.2M,€151K,39.7,21.9,89.5,53.1,80,LB,181cm,Left
+666942,N. Thompson,32,Australia,Johnson-Ray,Premier League (England),€8.3M,€153K,51.7,84.0,69.8,6.3,80,CAM,184cm,Left
+429888,Sean Jr.,34,Western Sahara,Hernandez-Adams,Premier League (England),€8.1M,€144K,61.0,85.8,46.8,18.4,80,LWB,196cm,Right
+847766,R. Ford,43,Brunei Darussalam,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€8.2M,€131K,73.7,82.4,54.5,48.9,80,LWB,165cm,Right
+622775,Young,32,Brunei Darussalam,Howard and Sons,Premier League (England),€8M,€152K,79.6,45.1,45.4,77.6,79,GK,155cm,Left
+983269,J. Nelson,34,Brunei Darussalam,Baker Inc,Premier League (England),€8.1M,€141K,67.6,36.7,54.5,82.7,79,GK,199cm,Left
+65882,A. Montoya,33,Pitcairn Islands,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€8M,€144K,42.2,30.6,90.8,44.7,79,LB,186cm,Left
+246373,I. Lang,28,Somalia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€7.9M,€130K,79.0,26.8,37.6,79.3,79,GK,187cm,Left
+90969,J. Caldwell,26,Gibraltar,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€7.9M,€127K,80.5,55.6,75.4,9.4,79,ST,199cm,Left
+869233,Brad Hopkins,23,Sao Tome and Principe,"Hunt, Ortega and Howell",Premier League (England),€8M,€116K,28.7,55.7,69.3,81.6,79,RB,176cm,Right
+508979,Gerald Griffin,44,Sao Tome and Principe,"Carter, Evans and Simon",Premier League (England),€7.6M,€100K,76.9,47.7,36.9,79.6,79,LW,155cm,Left
+821044,Jose Holmes,21,Gibraltar,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€7.5M,€108K,82.3,56.4,68.6,27.4,79,ST,205cm,Left
+346004,P. Goodman,24,Solomon Islands,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€7.7M,€113K,80.9,37.8,59.8,73.5,79,RM,163cm,Left
+469030,V. Nelson,30,Sao Tome and Principe,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€8M,€122K,83.8,54.7,66.0,24.1,79,LWB,191cm,Left
+370800,J. Wright,35,Cameroon,Robinson PLC,Rogers Ltd (French Polynesia),€7.8M,€102K,17.6,52.1,17.1,87.9,79,RW,188cm,Right
+231588,N. Obrien,27,Western Sahara,"Hunt, Ortega and Howell",Premier League (England),€7.5M,€99K,82.6,57.2,68.7,26.6,79,ST,176cm,Right
+444695,K. Morgan,26,Gibraltar,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€7.5M,€99K,83.3,37.0,44.1,65.8,79,CB,197cm,Right
+821651,Z. Gonzalez,20,Western Sahara,Paris Saint Germain,Cook-Conway (Solomon Islands),€7.5M,€99K,86.1,31.5,35.4,58.9,79,LW,155cm,Right
+444878,Kevin Jr.,23,Pitcairn Islands,Kennedy PLC,Torres Inc (Cameroon),€7.3M,€98K,79.5,77.9,78.7,28.2,79,LWB,162cm,Left
+445372,Kurt Jr.,35,Somalia,Medina PLC,Premier League (England),€7.4M,€97K,47.3,53.4,87.8,29.8,79,ST,191cm,Left
+331151,Juarez,21,Somalia,"Hunt, Ortega and Howell",Premier League (England),€7.4M,€99K,58.8,38.4,86.2,53.8,79,LB,166cm,Left
+36336,D. Butler,24,Vietnam,"Salazar, Moore and Mueller",Larson and Sons (Australia),€7.5M,€99K,51.3,33.9,19.7,88.4,79,LW,182cm,Right
+290317,H. Hubbard,20,Gibraltar,Ward Group,Premier League (England),€7.2M,€97K,66.9,31.5,57.8,82.7,79,GK,152cm,Left
+986699,Brandon Jr.,46,Somalia,"Salazar, Moore and Mueller",Larson and Sons (Australia),€7.2M,€97K,69.3,48.0,82.6,59.6,79,ST,162cm,Right
+118484,B. Craig,26,Pitcairn Islands,Howard and Sons,Premier League (England),€7.5M,€97K,86.1,48.5,36.7,59.1,79,LW,171cm,Right
+577256,K. Benton,35,Australia,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€7.2M,€99K,64.6,80.9,72.0,42.4,79,LWB,201cm,Left
+814926,Edward Wright,32,Gibraltar,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€7.2M,€97K,57.6,32.3,85.9,28.4,79,CF,191cm,Left
+32775,Grant,23,Solomon Islands,Grant-Wong,Premier League (England),€7.1M,€97K,64.1,55.7,82.3,38.2,78,ST,167cm,Left
+491868,J. Holmes,29,Somalia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€7.1M,€97K,82.5,50.2,23.7,66.3,78,RM,207cm,Left
+819553,Michael Jr.,28,Western Sahara,Kennedy PLC,Torres Inc (Cameroon),€7.1M,€97K,84.8,46.5,39.2,55.9,78,CB,155cm,Right
+606612,E. Williams,35,Western Sahara,"Dennis, Mata and Green",Larson and Sons (Australia),€7M,€97K,41.6,52.9,77.0,78.9,78,RB,208cm,Right
+901924,Brandon Jr.,32,Vietnam,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€6.9M,€96K,77.0,32.5,78.9,25.6,78,ST,184cm,Right
+41999,K. Kelly,26,Cameroon,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€7.1M,€96K,32.1,59.8,63.7,82.3,78,LB,209cm,Right
+164986,Macias,34,Cameroon,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€7M,€96K,36.0,61.0,66.1,82.6,78,LB,178cm,Right
+935184,W. Anderson,22,Western Sahara,Grant-Wong,Premier League (England),€6.8M,€96K,51.8,50.5,36.9,86.3,78,LB,172cm,Right
+632095,R. Torres,23,Sao Tome and Principe,Johnson-Ray,Premier League (England),€6.8M,€96K,52.9,35.0,86.7,32.7,78,RB,174cm,Left
+165185,P. Jackson,30,Cameroon,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€7M,€96K,40.3,88.5,36.6,45.0,78,RWB,174cm,Left
+648571,M. Gillespie,23,Australia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€6.8M,€96K,81.7,36.9,30.0,68.7,78,RM,168cm,Left
+566674,B. Smith,34,Australia,Velazquez Group,Gibson PLC (Somalia),€6.7M,€95K,55.8,51.4,85.9,47.2,78,LM,200cm,Left
+542251,Michael Morales,29,Western Sahara,Nolan and Sons,Cook-Conway (Solomon Islands),€6.6M,€97K,36.3,59.2,84.8,38.7,78,RB,161cm,Left
+501610,R. Powell,22,French Polynesia,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€6.6M,€95K,92.0,11.4,19.2,35.5,78,CB,181cm,Right
+264073,M. Rogers,34,Gibraltar,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€6.8M,€95K,46.7,83.4,41.6,59.8,78,RWB,210cm,Left
+141310,J. Hernandez,40,Pitcairn Islands,Rose Group,Garcia-Cook (Australia),€6.5M,€94K,47.0,51.1,86.7,25.5,78,CF,208cm,Left
+952457,D. Ward,50,Western Sahara,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€6.5M,€94K,39.1,56.2,78.6,74.6,78,RB,164cm,Right
+928089,J. Patrick,26,French Polynesia,Rose Group,Garcia-Cook (Australia),€6.8M,€95K,67.5,82.0,22.7,65.0,78,RWB,192cm,Left
+715111,M. Romero,35,Western Sahara,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€6.5M,€94K,50.4,87.1,29.8,34.0,78,LWB,194cm,Right
+510387,F. Bishop,44,Somalia,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€6.4M,€94K,57.8,23.7,30.4,84.6,78,GK,172cm,Right
+191006,J. Brown,53,Solomon Islands,"Hunter, Johnson and Frank",Larson and Sons (Australia),€6.4M,€93K,89.7,20.3,41.4,34.2,78,CB,163cm,Right
+346704,B. Malone,21,Australia,Maldonado and Sons,Larson and Sons (Australia),€6.4M,€94K,76.3,78.9,76.3,29.9,78,LWB,200cm,Left
+166491,T. Gardner,35,Brunei Darussalam,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€6.4M,€93K,76.7,58.6,78.9,21.1,78,LWB,160cm,Left
+527156,M. Hobbs,23,Gibraltar,"Rose, Romero and Gallegos",Premier League (England),€6.3M,€93K,56.2,84.7,25.7,46.9,78,LWB,169cm,Right
+650173,M. Boone,26,Brunei Darussalam,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€6M,€93K,47.2,36.7,15.4,88.6,78,LW,203cm,Right
+265670,J. Smith,21,Cameroon,Medina PLC,Premier League (England),€6.5M,€93K,56.7,25.4,72.0,80.3,78,CF,205cm,Right
+282060,C. Hayes,35,Sao Tome and Principe,Hernandez-Adams,Premier League (England),€6M,€93K,53.6,55.1,34.5,86.1,78,GK,171cm,Left
+536104,Joseph Cameron,27,Vietnam,Rose Group,Garcia-Cook (Australia),€5.9M,€92K,44.6,82.0,64.5,17.4,78,ST,167cm,Left
+921508,R. Johnson,30,Brunei Darussalam,"Hunt, Ortega and Howell",Premier League (England),€5.9M,€92K,40.6,43.6,73.1,79.5,78,RM,152cm,Right
+253992,G. Taylor,29,Western Sahara,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€6M,€93K,34.3,85.1,47.1,51.1,77,CM,167cm,Left
+335931,J. Wilson,27,Sao Tome and Principe,Manchester United,Rogers Ltd (French Polynesia),€5.9M,€92K,87.3,40.7,36.3,47.6,77,CB,192cm,Right
+540892,Mckinney,29,Vietnam,Wilson Ltd,Premier League (England),€5.8M,€92K,63.4,81.5,6.2,40.3,77,CM,207cm,Right
+794618,M. Carpenter,23,French Polynesia,"Rose, Romero and Gallegos",Premier League (England),€5.9M,€92K,49.7,61.1,80.2,67.2,77,LM,171cm,Left
+295146,George,26,Gibraltar,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€5.7M,€92K,83.5,17.3,32.6,56.1,77,LW,161cm,Right
+549102,J. Holland,17,Vietnam,FC Barcelona,Gibson PLC (Somalia),€5.8M,€95K,67.5,26.8,80.8,57.5,77,ST,188cm,Right
+8444,C. Rubio,35,Australia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€5.9M,€91K,19.1,67.5,79.5,70.1,77,RM,194cm,Right
+737866,Moore,32,Pitcairn Islands,"Carter, Evans and Simon",Premier League (England),€5.5M,€91K,57.7,35.7,79.7,68.0,77,LB,199cm,Left
+574045,W. Ayala,24,Vietnam,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€5.6M,€91K,73.0,73.6,78.6,13.7,77,ST,178cm,Left
+647836,T. Williams,25,Somalia,Hernandez-Adams,Premier League (England),€5.6M,€92K,64.1,81.2,19.5,52.5,77,RWB,203cm,Left
+902116,M. Taylor,31,Gibraltar,"Harvey, Nguyen and Smith",Premier League (England),€5.4M,€91K,73.8,77.9,62.1,20.2,77,LWB,150cm,Left
+476176,M. Perez,27,Solomon Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€5.5M,€91K,77.0,77.2,66.6,45.9,77,ST,190cm,Left
+476195,J. Dunlap,33,Brunei Darussalam,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€5.5M,€92K,18.4,17.2,48.1,86.2,77,RW,152cm,Right
+763178,Robert Parrish,34,Australia,Rose Group,Garcia-Cook (Australia),€5.5M,€91K,82.3,57.2,30.2,62.1,77,GK,187cm,Left
+222584,John Rosario,23,Pitcairn Islands,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€5.4M,€91K,71.0,58.8,18.0,79.3,77,LW,197cm,Left
+34353,A. Foster,19,Western Sahara,FC Barcelona,Gibson PLC (Somalia),€5.3M,€91K,29.5,12.5,84.9,52.7,77,CF,151cm,Left
+214901,W. Rowe,41,Pitcairn Islands,"Carter, Evans and Simon",Premier League (England),€5.1M,€91K,58.9,22.7,83.2,37.6,77,LB,177cm,Left
+706534,D. Hensley,34,Brunei Darussalam,Kennedy PLC,Torres Inc (Cameroon),€5.1M,€91K,69.3,79.9,38.7,41.9,77,LWB,174cm,Right
+821280,Daniel Rodriguez,24,Brunei Darussalam,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€5.3M,€90K,69.5,79.7,40.6,50.7,77,CM,188cm,Right
+141384,Jackson,26,French Polynesia,Paris Saint Germain,Cook-Conway (Solomon Islands),€4.7M,€90K,46.8,27.8,74.8,77.3,77,RB,170cm,Right
+813277,A. Anderson,20,Gibraltar,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€4.8M,€90K,20.6,26.0,87.9,43.2,77,LB,180cm,Left
+985316,M. Sherman,32,Cameroon,Garcia Group,Cook-Conway (Solomon Islands),€5M,€90K,82.3,49.9,60.0,41.9,77,ST,210cm,Right
+35144,D. Andrews,41,Brunei Darussalam,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€4.6M,€89K,52.2,32.7,71.9,79.0,77,LM,198cm,Left
+600440,Johnson,31,Pitcairn Islands,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€4.6M,€89K,53.3,84.9,54.1,25.9,77,LWB,177cm,Right
+289179,Tracy Jr.,27,Vietnam,Medina PLC,Premier League (England),€5M,€89K,55.1,60.6,82.4,25.5,77,ST,158cm,Left
+346678,M. Butler,22,French Polynesia,Johnson-Ray,Premier League (England),€4.6M,€90K,66.5,55.5,43.7,80.5,77,LW,152cm,Left
+789431,C. Jennings,27,Vietnam,"Salazar, Moore and Mueller",Larson and Sons (Australia),€4.2M,€89K,58.0,54.9,82.8,24.3,77,ST,175cm,Left
+806160,Stephens,34,Sao Tome and Principe,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€4.6M,€88K,58.7,57.3,83.4,49.1,77,LM,166cm,Left
+896541,Alexander Jr.,23,Gibraltar,Nolan and Sons,Cook-Conway (Solomon Islands),€4.5M,€89K,73.8,51.8,78.6,44.9,77,ST,171cm,Right
+487171,A. Garcia,28,Australia,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€4.2M,€88K,76.8,69.3,77.6,24.5,77,ST,161cm,Left
+134990,Valencia,29,Sao Tome and Principe,Nolan and Sons,Cook-Conway (Solomon Islands),€4.1M,€88K,22.6,46.7,84.0,57.8,77,RM,194cm,Right
+143272,Hernandez,32,Brunei Darussalam,FC Bayern München,Premier League (England),€4.5M,€88K,49.6,61.3,52.7,81.8,77,GK,208cm,Left
+602056,Brent Jr.,20,Australia,"Carter, Evans and Simon",Premier League (England),€4.1M,€88K,53.5,56.4,74.8,77.7,77,LM,175cm,Left
+397352,K. Diaz,35,Cameroon,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€4.1M,€89K,72.6,40.0,78.6,54.0,77,ST,191cm,Right
+675891,M. Love,18,French Polynesia,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€4M,€87K,57.1,42.6,84.2,46.7,77,LB,152cm,Left
+262214,Johnson,36,Western Sahara,Rose Group,Garcia-Cook (Australia),€3.9M,€87K,39.9,43.3,79.8,66.5,76,CF,209cm,Right
+688212,Edwards,28,Western Sahara,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€3.9M,€87K,65.1,56.8,53.2,79.1,76,LW,173cm,Right
+974935,W. Harper,21,Gibraltar,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€4M,€88K,49.0,84.2,52.2,8.3,76,ST,189cm,Left
+794821,O. Curtis,28,Australia,Grant-Wong,Premier League (England),€3.7M,€87K,85.3,25.0,49.5,38.5,76,CB,160cm,Right
+393790,Michael Bailey,28,Gibraltar,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€3.7M,€86K,31.9,54.8,76.1,75.8,76,LM,154cm,Left
+598624,M. Huff,24,French Polynesia,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€4M,€87K,73.0,47.2,23.5,76.9,76,RM,156cm,Left
+442979,Porter,52,Cameroon,"Dennis, Mata and Green",Larson and Sons (Australia),€3.7M,€87K,46.8,80.6,61.4,44.5,76,ST,208cm,Left
+893577,J. Brooks,24,Sao Tome and Principe,Hernandez-Adams,Premier League (England),€3.5M,€86K,49.1,85.0,49.5,46.6,76,CM,204cm,Left
+705273,M. Santos,43,Australia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€3.5M,€86K,23.4,86.0,44.5,20.7,76,CM,194cm,Left
+689026,P. Hudson,33,Western Sahara,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€3.6M,€86K,47.6,33.8,78.3,70.8,76,RB,173cm,Right
+525268,Robert Ward,20,French Polynesia,"Rose, Romero and Gallegos",Premier League (England),€3.7M,€86K,8.7,47.3,77.5,71.6,76,RM,209cm,Right
+205872,Marc Owen,33,Solomon Islands,Velazquez Group,Gibson PLC (Somalia),€3.5M,€86K,64.7,20.2,14.8,79.6,76,GK,159cm,Right
+296023,C. Robertson,21,Somalia,Garcia Group,Cook-Conway (Solomon Islands),€3.3M,€86K,14.3,90.7,33.6,33.4,76,LM,206cm,Right
+1259,C. Zhang,31,French Polynesia,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€3.5M,€86K,15.8,79.4,64.9,37.0,76,CAM,180cm,Left
+714133,M. Smith,29,Solomon Islands,Grant-Wong,Premier League (England),€3.3M,€85K,85.1,22.4,30.5,48.0,76,CB,155cm,Right
+140808,W. Russell,28,Gibraltar,Garcia Group,Cook-Conway (Solomon Islands),€3.3M,€85K,76.6,38.4,74.7,29.1,76,ST,207cm,Right
+444112,Burton,55,Solomon Islands,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€3.2M,€85K,46.8,80.6,64.0,45.2,76,CDM,193cm,Left
+75643,B. Thompson,26,Gibraltar,Paris Saint Germain,Cook-Conway (Solomon Islands),€3.2M,€85K,44.6,43.0,67.8,79.0,76,RM,173cm,Right
+854114,D. Lewis,30,French Polynesia,Paris Saint Germain,Cook-Conway (Solomon Islands),€3.2M,€85K,43.0,34.0,76.3,73.5,76,RB,178cm,Right
+461326,R. Conner,32,Gibraltar,Rose Group,Garcia-Cook (Australia),€3.2M,€85K,75.1,76.8,47.5,31.6,76,LWB,203cm,Right
+338494,A. Herrera,26,Somalia,Hernandez-Adams,Premier League (England),€3.2M,€84K,42.7,67.4,45.0,78.6,76,CM,173cm,Right
+395856,F. Key,34,Cameroon,Rose Group,Garcia-Cook (Australia),€3M,€84K,30.6,28.7,70.9,77.8,76,RB,180cm,Right
+912144,Stephen Jr.,25,Brunei Darussalam,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€2.8M,€85K,37.9,88.7,36.2,22.4,76,LWB,159cm,Right
+289752,L. Webb,31,Western Sahara,Maldonado and Sons,Larson and Sons (Australia),€2.8M,€84K,15.1,81.7,60.3,30.2,76,CAM,151cm,Left
+732138,Murray,26,Brunei Darussalam,Baker Inc,Premier League (England),€2.8M,€84K,71.1,78.1,65.1,22.6,76,ST,168cm,Left
+183307,A. Fuentes,22,Brunei Darussalam,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€2.8M,€84K,76.8,72.0,44.0,47.7,76,LWB,166cm,Right
+887830,J. Moon,24,Cameroon,Johnson-Ray,Premier League (England),€2.8M,€85K,62.8,24.8,21.7,80.9,76,GK,183cm,Left
+35899,Philip Franklin,29,Sao Tome and Principe,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€2.8M,€83K,76.7,56.7,71.9,23.1,76,ST,199cm,Right
+183464,K. Harris,50,Solomon Islands,"Wells, Kelly and Cox",Premier League (England),€2.6M,€83K,34.1,62.6,68.9,78.1,76,LB,175cm,Right
+904441,David Jr.,24,Australia,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€2.7M,€83K,84.6,34.5,47.4,50.7,76,CB,203cm,Right
+978224,B. Boyer,32,Solomon Islands,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€2.6M,€84K,51.1,83.9,30.3,46.7,76,CM,171cm,Left
+486861,K. Christensen,25,Solomon Islands,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€2.6M,€84K,55.2,82.9,23.9,27.6,76,LWB,170cm,Right
+798256,C. Sanchez,23,Pitcairn Islands,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€2.5M,€83K,82.3,53.2,51.8,58.6,76,ST,151cm,Right
+986680,Terry Rios,22,Vietnam,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€2.6M,€83K,65.8,78.0,31.6,68.2,76,RWB,167cm,Left
+872285,Terrance Jr.,22,Somalia,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€2.7M,€83K,31.2,55.9,77.2,71.4,76,RB,193cm,Right
+516144,M. Dixon,35,Sao Tome and Principe,Porter-Barker,Premier League (England),€2.4M,€81K,27.2,43.5,85.0,41.4,75,LM,195cm,Left
+565302,C. Hansen,34,Pitcairn Islands,Garcia Group,Cook-Conway (Solomon Islands),€2.4M,€83K,18.1,35.2,58.7,80.6,75,LB,207cm,Right
+245914,J. Todd,32,Solomon Islands,"Harvey, Nguyen and Smith",Premier League (England),€2.5M,€82K,58.6,45.8,80.9,25.3,75,ST,195cm,Right
+942365,M. Wilson,45,French Polynesia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€2.5M,€81K,80.2,36.0,58.1,56.9,75,RM,187cm,Left
+614700,T. Martin,24,Australia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€2.4M,€81K,54.5,81.9,41.7,37.9,75,LWB,206cm,Right
+467278,Arthur Wall,34,Cameroon,FC Bayern München,Premier League (England),€2.2M,€81K,81.3,53.9,55.4,27.7,75,LWB,192cm,Left
+778769,J. Morgan,48,Gibraltar,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€2.3M,€82K,77.8,63.5,65.2,33.1,75,LWB,152cm,Left
+918035,M. Vega,24,Pitcairn Islands,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€2.2M,€81K,29.7,67.5,72.2,76.5,75,RM,184cm,Right
+705452,Perry,25,Gibraltar,"Salazar, Moore and Mueller",Larson and Sons (Australia),€2.1M,€81K,13.8,82.2,35.9,55.1,75,LM,174cm,Right
+459754,M. Wong,24,Solomon Islands,"Hunter, Johnson and Frank",Larson and Sons (Australia),€2.2M,€80K,69.5,61.8,77.1,55.8,75,ST,181cm,Right
+713799,Jose Jr.,42,Cameroon,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€2.2M,€81K,84.7,27.8,21.3,45.1,75,CB,200cm,Right
+795925,M. Stewart,35,Brunei Darussalam,Baker Inc,Premier League (England),€2.3M,€80K,78.2,31.4,57.1,67.0,75,GK,163cm,Left
+902465,A. Johnson,24,Pitcairn Islands,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€2.1M,€80K,24.0,57.3,30.1,81.0,75,LB,195cm,Right
+165449,C. Wagner,33,Somalia,Rose Group,Garcia-Cook (Australia),€2.2M,€80K,64.1,59.8,78.7,27.1,75,LWB,183cm,Left
+271960,J. Gonzalez,29,Somalia,FC Barcelona,Gibson PLC (Somalia),€2.1M,€79K,50.1,21.3,32.8,82.8,75,LW,150cm,Right
+747103,P. Jennings,27,Cameroon,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€2M,€79K,44.5,66.7,78.2,21.4,75,ST,167cm,Left
+394852,Johnson,33,Vietnam,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€2.1M,€79K,50.1,49.5,41.5,83.2,75,LW,171cm,Right
+804562,Charles Lopez,35,Solomon Islands,Johnson-Ray,Premier League (England),€1.9M,€78K,47.4,28.1,52.2,82.3,75,CF,181cm,Right
+255940,M. Garcia,24,French Polynesia,"Hunt, Ortega and Howell",Premier League (England),€1.9M,€80K,39.4,45.0,49.3,83.6,75,RW,210cm,Right
+952290,D. Montes,31,Cameroon,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€1.9M,€79K,64.6,24.9,78.8,42.4,75,LM,196cm,Left
+59423,S. Stanley,36,Gibraltar,"Dennis, Mata and Green",Larson and Sons (Australia),€1.9M,€77K,41.6,82.4,54.0,43.2,75,CAM,164cm,Left
+583781,Bobby Edwards,32,Sao Tome and Principe,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€1.9M,€77K,55.3,46.0,81.0,48.0,75,LM,189cm,Left
+305615,Stanley,28,Western Sahara,Ward Group,Premier League (England),€1.9M,€78K,69.2,65.5,77.0,35.3,75,ST,191cm,Left
+543331,Webb,28,Sao Tome and Principe,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€1.9M,€78K,82.5,40.6,51.5,50.7,75,RM,171cm,Left
+428684,R. Reese,30,Vietnam,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€1.9M,€77K,29.8,60.7,54.3,79.7,75,RM,202cm,Right
+781033,Williams,22,Australia,"Hunt, Ortega and Howell",Premier League (England),€1.8M,€78K,23.0,41.5,82.5,53.0,75,RB,184cm,Right
+576247,R. Mckinney,23,Solomon Islands,"Harvey, Nguyen and Smith",Premier League (England),€1.7M,€77K,76.8,22.5,23.4,70.4,75,LW,185cm,Right
+543686,Armstrong,29,Sao Tome and Principe,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€1.7M,€77K,77.0,32.7,67.6,37.8,75,ST,169cm,Right
+207831,James Lee,18,Somalia,FC Bayern München,Premier League (England),€1.8M,€77K,65.8,54.6,75.7,73.5,75,LM,156cm,Left
+396428,F. Wolfe,34,Pitcairn Islands,Nolan and Sons,Cook-Conway (Solomon Islands),€1.4M,€76K,77.0,70.1,66.4,39.0,75,LWB,199cm,Left
+674969,B. Perez,33,Sao Tome and Principe,Grant-Wong,Premier League (England),€1.5M,€76K,30.3,23.1,39.5,86.2,75,RW,186cm,Right
+355496,Smith,18,Australia,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€1.5M,€76K,70.5,17.6,39.2,76.1,75,LW,202cm,Right
+445717,K. Singh,24,Vietnam,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€1.3M,€76K,79.1,21.9,44.8,62.5,75,CB,172cm,Right
+503128,M. Bates,32,Solomon Islands,"Dennis, Mata and Green",Larson and Sons (Australia),€1.3M,€75K,61.3,58.9,80.0,54.3,75,ST,195cm,Right
+937360,S. Nelson,26,Sao Tome and Principe,Garcia Group,Cook-Conway (Solomon Islands),€1.2M,€76K,25.4,82.3,52.1,46.7,75,CM,163cm,Left
+19993,D. Allen,52,Pitcairn Islands,"Hunt, Ortega and Howell",Premier League (England),€1.3M,€76K,51.5,36.5,49.3,83.1,75,RM,170cm,Left
+429597,C. Brooks,27,Solomon Islands,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€1.1M,€75K,34.9,85.0,31.0,45.8,75,RWB,203cm,Left
+872008,A. Lewis,33,Sao Tome and Principe,"Salazar, Moore and Mueller",Larson and Sons (Australia),€1.1M,€75K,77.8,24.4,39.3,67.1,75,LW,203cm,Right
+593725,J. Nguyen,28,French Polynesia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€1.1M,€75K,30.9,34.2,86.4,40.0,75,RB,201cm,Left
+511852,N. Arellano,35,Pitcairn Islands,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€1.2M,€75K,64.6,61.9,78.9,56.4,75,ST,176cm,Right
+176034,J. Booth,54,Vietnam,FC Bayern München,Premier League (England),€996K,€75K,58.9,13.9,69.4,77.5,75,CF,193cm,Right
+610317,W. Williams,35,Brunei Darussalam,Pineda-Flynn,Premier League (England),€1.5M,€74K,44.1,75.6,24.1,71.5,75,CM,153cm,Right
+967330,K. Aguirre,31,Western Sahara,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€1M,€75K,73.0,74.4,54.6,23.4,74,ST,156cm,Left
+369705,A. Aguilar,34,Western Sahara,"Salazar, Moore and Mueller",Larson and Sons (Australia),€997K,€74K,17.5,34.7,44.4,84.4,74,RW,165cm,Right
+386355,R. Harris,23,Solomon Islands,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€993K,€74K,77.4,26.4,37.8,65.7,74,RM,154cm,Left
+992667,Gabriel Leon,22,Australia,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€991K,€74K,51.6,81.4,43.4,50.1,74,LWB,171cm,Right
+689616,D. Coleman,28,Somalia,Nolan and Sons,Cook-Conway (Solomon Islands),€1M,€74K,71.8,35.5,25.6,75.4,74,RM,187cm,Left
+173537,Kenneth Jr.,31,Solomon Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€988K,€75K,49.0,57.8,24.9,78.8,74,CM,151cm,Right
+525967,Nicholas Massey,26,Cameroon,"Hunt, Ortega and Howell",Premier League (England),€985K,€74K,60.4,56.7,20.7,78.9,74,CM,166cm,Right
+280218,K. Benson,31,Solomon Islands,Wilson Ltd,Premier League (England),€985K,€73K,67.8,75.4,63.2,16.3,74,CDM,201cm,Left
+378561,W. Hanson,24,Sao Tome and Principe,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€986K,€74K,36.8,58.4,64.3,77.6,74,RB,201cm,Right
+935646,S. Campbell,35,French Polynesia,Griffin-Tucker,Premier League (England),€989K,€74K,77.2,53.3,25.4,62.6,74,CAM,167cm,Right
+919268,Roberto Jacobs,48,Sao Tome and Principe,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€984K,€73K,30.6,34.4,47.7,82.4,74,RM,198cm,Right
+42731,Woodard,22,Western Sahara,"Carter, Evans and Simon",Premier League (England),€981K,€72K,60.3,47.1,29.4,78.7,74,CM,158cm,Right
+18189,Tony Bennett,21,Sao Tome and Principe,Garcia Group,Cook-Conway (Solomon Islands),€983K,€74K,58.0,24.1,79.5,50.2,74,CF,197cm,Left
+190403,J. Baker,34,Sao Tome and Principe,FC Barcelona,Gibson PLC (Somalia),€983K,€73K,72.6,74.2,24.3,47.2,74,LWB,159cm,Right
+542773,D. Johnson,27,Cameroon,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€981K,€72K,81.4,26.8,36.0,51.6,74,RM,156cm,Left
+59554,E. Davis,28,Cameroon,Baker Inc,Premier League (England),€980K,€72K,59.2,57.7,48.8,79.3,74,GK,203cm,Left
+461336,J. Parker,31,Cameroon,Maldonado and Sons,Larson and Sons (Australia),€980K,€73K,37.2,57.0,48.7,79.6,74,LW,192cm,Left
+477721,J. Williams,25,Cameroon,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€980K,€72K,31.7,12.7,18.8,87.6,74,GK,158cm,Right
+666209,M. Johnston,34,Somalia,Paris Saint Germain,Cook-Conway (Solomon Islands),€977K,€72K,69.0,75.8,41.5,49.5,74,RWB,200cm,Left
+453240,Ruiz,21,Pitcairn Islands,"Wells, Kelly and Cox",Premier League (England),€982K,€72K,77.0,15.5,63.0,62.8,74,RM,210cm,Left
+862851,D. Clark,26,Brunei Darussalam,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€979K,€72K,33.9,69.2,14.6,75.9,74,CM,201cm,Right
+10999,N. Moore,27,French Polynesia,Kennedy PLC,Torres Inc (Cameroon),€978K,€72K,58.7,78.1,60.1,24.3,74,CDM,157cm,Left
+478017,Grant,29,Australia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€973K,€72K,41.6,79.6,34.6,56.6,74,CM,157cm,Left
+732106,M. Hernandez,23,Vietnam,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€973K,€72K,76.6,62.9,33.4,66.0,74,LW,193cm,Left
+601190,J. Rice,21,Pitcairn Islands,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€977K,€72K,76.2,44.8,42.0,68.8,74,LW,185cm,Right
+380124,J. Tucker,19,Somalia,Garcia Group,Cook-Conway (Solomon Islands),€976K,€71K,58.3,30.1,79.0,50.9,74,LM,154cm,Left
+396568,M. Black,34,French Polynesia,Manchester United,Rogers Ltd (French Polynesia),€972K,€71K,87.6,34.5,24.9,33.0,74,CB,210cm,Right
+544297,Matthew Lee,23,French Polynesia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€971K,€71K,63.7,20.6,46.2,77.7,74,GK,178cm,Right
+290568,D. Cherry,21,Vietnam,Johnson-Ray,Premier League (England),€968K,€71K,77.7,17.7,40.3,63.3,74,CB,206cm,Right
+995282,T. Harrison,21,Sao Tome and Principe,Medina PLC,Premier League (England),€970K,€71K,51.2,69.1,49.1,75.9,74,LW,206cm,Left
+745500,Michael Ferrell,23,Pitcairn Islands,Hernandez-Adams,Premier League (England),€962K,€70K,36.0,47.7,80.6,51.3,73,RM,168cm,Right
+958558,Jeremy Jr.,31,Australia,"Salazar, Moore and Mueller",Larson and Sons (Australia),€969K,€70K,46.7,36.5,57.5,77.9,73,RM,154cm,Left
+852217,T. Kim,30,Somalia,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€967K,€70K,54.4,74.5,34.1,70.1,73,CM,154cm,Right
+327943,J. Pope,20,Solomon Islands,Pineda-Flynn,Premier League (England),€965K,€72K,40.9,62.6,35.5,76.7,73,LW,200cm,Left
+57660,T. Brennan,32,Solomon Islands,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€959K,€70K,80.2,30.4,49.7,53.3,73,RM,187cm,Left
+639543,Stephen Monroe,26,Western Sahara,Ward Group,Premier League (England),€958K,€70K,46.1,80.1,18.0,53.5,73,CM,177cm,Right
+336472,M. Smith,27,Cameroon,Baker Inc,Premier League (England),€957K,€70K,57.0,78.4,37.8,45.7,73,RWB,182cm,Left
+664257,R. Bryant,31,Pitcairn Islands,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€958K,€70K,30.4,30.7,87.4,26.0,73,CF,166cm,Left
+172922,Anthony Steele,33,Western Sahara,Nolan and Sons,Cook-Conway (Solomon Islands),€959K,€69K,53.8,23.6,31.3,79.7,73,RM,164cm,Left
+197547,William Allen,26,Gibraltar,Pineda-Flynn,Premier League (England),€957K,€68K,62.7,48.7,76.9,46.5,73,RB,183cm,Left
+746712,K. Bailey,22,Sao Tome and Principe,Baker Inc,Premier League (England),€955K,€68K,74.1,69.5,19.5,39.7,73,CAM,197cm,Right
+197991,C. Smith,31,Brunei Darussalam,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€956K,€69K,75.9,15.9,31.6,64.0,73,CB,187cm,Right
+222673,J. Pratt,26,Western Sahara,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€952K,€68K,51.5,51.0,76.5,64.4,73,RB,165cm,Right
+378678,K. Martin,44,Pitcairn Islands,Porter-Barker,Premier League (England),€950K,€68K,22.7,83.1,23.2,43.0,73,LM,207cm,Right
+805024,D. Anderson,27,Solomon Islands,"Carter, Evans and Simon",Premier League (England),€951K,€68K,74.2,70.8,40.0,45.8,73,LWB,202cm,Right
+387303,Lowery,32,Solomon Islands,Ward Group,Premier League (England),€951K,€68K,74.1,49.7,69.1,48.5,73,ST,172cm,Right
+813332,Douglas Jr.,26,Vietnam,FC Barcelona,Gibson PLC (Somalia),€944K,€70K,52.5,36.6,79.6,53.0,73,CF,192cm,Right
+928045,A. Davis,32,Somalia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€942K,€68K,46.9,70.9,41.8,74.0,73,LW,168cm,Left
+633367,Kline,27,Sao Tome and Principe,Porter-Barker,Premier League (England),€947K,€68K,67.4,74.5,43.4,31.7,73,CDM,194cm,Left
+338513,J. Jordan,27,Vietnam,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€948K,€68K,16.6,81.9,44.6,27.9,73,CAM,184cm,Left
+871147,J. Jones,30,Vietnam,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€931K,€67K,24.3,57.9,50.2,77.7,73,RM,181cm,Right
+297763,Ryan Jr.,27,Brunei Darussalam,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€935K,€67K,75.7,23.2,28.2,63.8,73,LW,151cm,Right
+699463,G. Reynolds,38,French Polynesia,Griffin-Tucker,Premier League (England),€938K,€68K,45.4,81.8,36.0,41.4,73,LM,184cm,Right
+855217,W. Williams,25,Vietnam,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€933K,€68K,77.0,32.4,11.4,60.1,73,CB,186cm,Right
+298177,J. Little,26,Solomon Islands,Paris Saint Germain,Cook-Conway (Solomon Islands),€943K,€67K,72.5,68.5,45.2,72.6,73,LW,207cm,Left
+576725,J. Schultz,20,French Polynesia,Paris Saint Germain,Cook-Conway (Solomon Islands),€929K,€67K,63.7,76.0,42.5,30.7,73,LWB,206cm,Right
+691551,C. Thomas,23,Vietnam,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€929K,€67K,28.9,54.1,77.9,57.3,73,RM,163cm,Right
+61016,D. Pierce,34,Vietnam,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€927K,€67K,45.5,80.7,16.8,49.5,73,RWB,176cm,Left
+159544,J. Robinson,22,French Polynesia,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€928K,€66K,49.2,79.1,53.8,22.3,73,ST,208cm,Left
+12215,R. Mitchell,22,Western Sahara,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€924K,€66K,78.0,42.4,59.0,25.2,73,ST,165cm,Right
+172050,J. Cook,20,Australia,Grant-Wong,Premier League (England),€926K,€66K,43.9,11.2,81.9,34.6,72,LB,189cm,Left
+139338,Douglas Sanders,30,French Polynesia,Manchester United,Rogers Ltd (French Polynesia),€924K,€67K,66.6,73.2,27.9,41.2,72,LWB,183cm,Right
+158023,Joshua Smith,26,Cameroon,Maldonado and Sons,Larson and Sons (Australia),€922K,€65K,38.6,59.7,74.8,62.6,72,LM,166cm,Left
+950631,A. Castillo,22,Western Sahara,Manchester United,Rogers Ltd (French Polynesia),€920K,€67K,75.6,59.6,22.0,40.9,72,LWB,185cm,Right
+770471,M. Mason,22,Solomon Islands,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€924K,€66K,53.9,36.7,49.2,77.9,72,GK,201cm,Right
+377336,T. Rivas,34,Cameroon,Velazquez Group,Gibson PLC (Somalia),€926K,€66K,21.8,52.4,74.9,63.7,72,RM,159cm,Right
+705238,Alexander Graham,35,French Polynesia,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€916K,€65K,73.2,62.0,68.0,52.6,72,ST,150cm,Right
+484212,T. Gibbs,28,Australia,"Wells, Kelly and Cox",Premier League (England),€917K,€65K,68.5,35.5,34.6,73.0,72,GK,206cm,Left
+271436,J. Clark,29,Solomon Islands,Rose Group,Garcia-Cook (Australia),€919K,€65K,38.7,21.4,75.5,60.3,72,RWB,210cm,Right
+517415,S. Huffman,27,Solomon Islands,Johnson-Ray,Premier League (England),€921K,€65K,72.8,68.1,36.3,52.2,72,LWB,156cm,Right
+230770,Jeffrey Lewis,41,Gibraltar,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€913K,€65K,62.1,30.2,47.5,75.7,72,LW,187cm,Right
+878038,B. Warner,25,Somalia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€913K,€65K,43.5,33.7,75.6,61.8,72,CF,159cm,Right
+181815,Fuller,35,Western Sahara,Velazquez Group,Gibson PLC (Somalia),€916K,€64K,28.1,75.4,63.0,16.3,72,CAM,166cm,Left
+304719,Garner,30,Cameroon,Kennedy PLC,Torres Inc (Cameroon),€918K,€65K,60.7,76.1,48.9,46.4,72,LWB,171cm,Right
+509758,Edward Jr.,26,Brunei Darussalam,Robinson PLC,Rogers Ltd (French Polynesia),€909K,€64K,28.7,45.4,79.8,48.0,72,RB,182cm,Right
+681868,Matthew Jr.,30,Pitcairn Islands,Pineda-Flynn,Premier League (England),€912K,€65K,61.6,31.6,39.9,75.9,72,LW,169cm,Left
+83925,K. Williams,27,French Polynesia,Rose Group,Garcia-Cook (Australia),€913K,€64K,47.7,76.9,49.6,56.4,72,RWB,184cm,Left
+223255,J. Gross,25,Pitcairn Islands,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€914K,€64K,46.4,78.9,22.6,51.2,72,LWB,151cm,Right
+551120,K. Watts,35,Solomon Islands,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€899K,€64K,79.7,50.1,23.3,50.5,72,RM,181cm,Left
+698750,T. Medina,32,Australia,FC Barcelona,Gibson PLC (Somalia),€904K,€64K,25.5,15.6,71.6,71.5,72,CF,156cm,Right
+606204,R. Robertson,20,Western Sahara,Garcia Group,Cook-Conway (Solomon Islands),€906K,€64K,75.0,61.3,59.4,36.1,72,ST,165cm,Right
+142018,David Jr.,27,Solomon Islands,Baker Inc,Premier League (England),€912K,€63K,58.5,27.8,48.4,75.9,72,LM,181cm,Left
+568270,John Jr.,30,Solomon Islands,Nolan and Sons,Cook-Conway (Solomon Islands),€898K,€64K,37.4,44.5,76.8,56.2,72,LM,205cm,Left
+60463,D. Smith,26,Gibraltar,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€898K,€63K,32.9,41.3,82.1,30.1,72,RB,168cm,Left
+363757,K. Rivera,54,Brunei Darussalam,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€897K,€63K,59.5,76.3,32.7,45.1,72,CM,159cm,Right
+192221,S. Bryan,31,Western Sahara,"Rose, Romero and Gallegos",Premier League (England),€901K,€63K,41.8,81.9,37.1,40.2,72,RWB,162cm,Left
+552756,D. Davis,24,Pitcairn Islands,Rose Group,Garcia-Cook (Australia),€891K,€63K,46.9,39.2,38.2,80.4,72,LW,170cm,Left
+413639,Quinn,49,Vietnam,"Carter, Evans and Simon",Premier League (England),€895K,€63K,33.0,32.0,81.8,42.7,72,RB,182cm,Left
+483724,T. Livingston,27,Pitcairn Islands,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€893K,€63K,56.7,75.4,6.7,59.5,71,CDM,205cm,Right
+410204,K. Thompson,31,Vietnam,Kennedy PLC,Torres Inc (Cameroon),€896K,€63K,60.0,75.1,59.3,7.5,71,ST,155cm,Left
+328317,D. Freeman,31,Vietnam,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€886K,€62K,39.2,81.7,20.0,21.2,71,LM,151cm,Right
+582374,D. Williams,42,Cameroon,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€899K,€63K,30.9,25.6,69.7,71.7,71,CF,165cm,Right
+975919,Joseph Huang,25,Pitcairn Islands,Medina PLC,Premier League (England),€889K,€62K,20.2,73.8,62.1,11.4,71,CAM,159cm,Left
+50306,R. Ramirez,47,Gibraltar,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€887K,€63K,83.4,33.2,28.3,33.5,71,CB,189cm,Right
+206498,Randy Jr.,30,Cameroon,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€871K,€62K,71.9,26.5,39.2,67.3,71,CB,155cm,Right
+75569,J. Brown,43,Western Sahara,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€884K,€62K,48.5,78.4,21.0,30.1,71,CM,196cm,Left
+476977,A. Silva,28,Somalia,Velazquez Group,Gibson PLC (Somalia),€879K,€62K,64.0,73.8,12.3,55.1,71,CM,163cm,Right
+75593,C. Thomas,29,Sao Tome and Principe,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€876K,€62K,24.8,45.8,37.2,79.9,71,RW,187cm,Right
+550779,R. Jones,27,French Polynesia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€870K,€62K,71.8,60.9,37.9,67.0,71,LW,202cm,Left
+198712,Martinez,52,Vietnam,Maldonado and Sons,Larson and Sons (Australia),€865K,€61K,20.2,63.8,42.9,73.4,71,LB,179cm,Right
+977011,E. Boyd,25,Vietnam,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€870K,€62K,44.9,71.3,69.7,39.2,71,ST,203cm,Left
+239738,K. Taylor,30,Cameroon,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€879K,€61K,56.4,75.2,59.4,22.0,71,CDM,179cm,Left
+272611,Christopher Jr.,26,Cameroon,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€863K,€61K,51.7,73.3,62.9,22.8,71,CAM,157cm,Left
+740001,C. Berg,17,Pitcairn Islands,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€857K,€61K,39.1,29.6,72.8,64.0,71,RB,209cm,Right
+690989,Matthew Jr.,30,French Polynesia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€868K,€61K,69.9,32.5,71.5,45.8,71,ST,171cm,Right
+265276,J. Lin,34,French Polynesia,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€861K,€61K,76.4,47.4,54.0,50.0,71,LW,172cm,Left
+994391,J. Carney,19,Somalia,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€854K,€60K,43.5,80.6,36.5,12.8,71,CAM,178cm,Left
+191642,S. Foster,32,Solomon Islands,FC Barcelona,Gibson PLC (Somalia),€854K,€60K,22.4,30.2,19.2,84.3,71,RW,208cm,Right
+117978,B. Keller,35,Brunei Darussalam,"Harvey, Nguyen and Smith",Premier League (England),€857K,€60K,61.2,58.9,74.4,34.8,71,RWB,151cm,Right
+953901,T. Salazar,38,Western Sahara,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€856K,€60K,61.9,73.8,33.6,49.6,71,CM,154cm,Right
+257635,A. Davis,20,Western Sahara,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€855K,€60K,36.4,58.4,30.7,75.0,71,LB,165cm,Right
+69459,Tony Jr.,29,Vietnam,Nolan and Sons,Cook-Conway (Solomon Islands),€846K,€60K,31.9,38.1,82.0,22.6,71,CF,169cm,Left
+323582,K. Warner,31,Gibraltar,Johnson-Ray,Premier League (England),€853K,€60K,57.0,34.4,33.4,76.1,71,LW,172cm,Right
+540822,D. Ray,30,French Polynesia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€847K,€60K,38.1,80.0,24.0,40.8,70,LM,210cm,Right
+123236,J. Wilson,33,Vietnam,Nolan and Sons,Cook-Conway (Solomon Islands),€843K,€59K,71.5,54.3,34.8,63.9,70,RM,168cm,Left
+393730,M. Graves,30,Cameroon,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€844K,€60K,22.9,17.2,72.7,63.5,70,LB,188cm,Left
+385595,Morse,23,Solomon Islands,Maldonado and Sons,Larson and Sons (Australia),€840K,€60K,62.4,59.7,35.2,72.0,70,CM,183cm,Right
+213565,Terry,18,Pitcairn Islands,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€848K,€60K,45.7,21.8,65.6,70.9,70,LB,170cm,Left
+180825,A. Lopez,26,Sao Tome and Principe,Hernandez-Adams,Premier League (England),€837K,€59K,19.5,74.2,32.4,57.7,70,CM,170cm,Left
+967328,A. Parks,28,Solomon Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€842K,€59K,15.3,82.8,17.0,29.6,70,LM,189cm,Right
+25263,Troy Jr.,31,Solomon Islands,Robinson PLC,Rogers Ltd (French Polynesia),€838K,€59K,37.3,55.8,34.2,75.2,70,LB,174cm,Right
+877297,Derek Jr.,28,Vietnam,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€839K,€60K,42.5,79.8,26.9,31.3,70,CDM,202cm,Left
+91001,R. Williams,21,Western Sahara,Ward Group,Premier League (England),€827K,€59K,35.2,56.0,74.7,48.0,70,RB,171cm,Left
+222201,B. Johnston,21,Vietnam,"Wells, Kelly and Cox",Premier League (England),€827K,€59K,59.8,53.3,73.0,22.6,70,LWB,173cm,Left
+74793,R. Jimenez,35,Australia,Nolan and Sons,Cook-Conway (Solomon Islands),€831K,€59K,63.1,34.8,28.7,72.5,70,GK,178cm,Right
+984140,C. Sanders,24,French Polynesia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€837K,€59K,48.4,77.2,5.2,42.4,70,CM,193cm,Right
+320652,R. Curry,22,Cameroon,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€815K,€58K,63.8,72.5,53.6,20.2,70,LWB,169cm,Left
+976095,J. Ryan,27,Gibraltar,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€833K,€58K,66.8,61.2,38.3,71.6,70,CM,163cm,Right
+722246,D. Grant,27,Sao Tome and Principe,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€819K,€58K,26.0,24.4,75.0,53.7,70,CF,190cm,Right
+353744,K. Lindsey,33,Solomon Islands,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€814K,€59K,57.4,67.3,71.3,24.6,70,LWB,205cm,Left
+353948,Castro,20,Brunei Darussalam,Velazquez Group,Gibson PLC (Somalia),€813K,€58K,64.5,71.5,22.6,56.5,70,LWB,161cm,Right
+837476,Arias,33,Solomon Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€823K,€57K,74.9,23.1,54.6,48.0,70,RM,158cm,Left
+599992,Wilson,27,Pitcairn Islands,"Salazar, Moore and Mueller",Larson and Sons (Australia),€811K,€57K,24.3,77.4,21.1,49.8,70,LM,157cm,Right
+796618,S. Simmons,25,Vietnam,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€813K,€57K,18.3,43.2,39.7,79.0,70,RW,205cm,Right
+993337,M. Guerrero,33,Western Sahara,"Carter, Evans and Simon",Premier League (England),€803K,€56K,47.7,70.4,44.2,67.3,70,CM,154cm,Right
+895111,Atkins,33,Solomon Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€805K,€57K,40.6,34.4,74.0,58.2,70,CF,157cm,Left
+805184,Joseph Jr.,42,Brunei Darussalam,Maldonado and Sons,Larson and Sons (Australia),€800K,€57K,14.2,30.0,44.1,79.2,70,RW,167cm,Right
+715099,Jason Fisher,19,Pitcairn Islands,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€802K,€58K,72.9,47.8,21.5,62.6,70,LW,183cm,Right
+526849,T. Knight,34,Vietnam,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€797K,€56K,44.6,78.5,30.9,18.7,70,CDM,203cm,Left
+715266,M. Griffith,22,Sao Tome and Principe,Howard and Sons,Premier League (England),€795K,€57K,50.2,57.6,73.9,45.0,70,ST,171cm,Left
+756261,J. Rodriguez,32,Pitcairn Islands,FC Bayern München,Premier League (England),€799K,€56K,50.7,45.3,76.2,26.4,70,RB,203cm,Left
+461373,C. Sanchez,28,French Polynesia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€798K,€56K,74.7,43.5,30.5,56.8,70,RM,204cm,Left
+85154,Larsen,25,Vietnam,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€805K,€56K,76.0,48.3,45.0,52.4,70,GK,204cm,Left
+953651,Bruce,23,Somalia,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€790K,€56K,59.3,29.0,73.5,32.2,70,CF,209cm,Left
+3472,Joshua Myers,31,Somalia,"Carter, Evans and Simon",Premier League (England),€792K,€56K,18.0,61.7,38.9,73.4,70,LB,177cm,Right
+839161,E. Lopez,31,Australia,Kennedy PLC,Torres Inc (Cameroon),€794K,€55K,55.9,23.3,74.4,46.0,70,RB,150cm,Right
+486940,Michael Mann,26,French Polynesia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€786K,€55K,44.4,79.2,36.4,13.5,70,CDM,162cm,Left
+765649,Kyle Salinas,32,Gibraltar,"Hunter, Johnson and Frank",Larson and Sons (Australia),€785K,€55K,65.3,71.4,12.9,62.7,70,RWB,206cm,Left
+446180,Hunter Williams,26,Vietnam,Paris Saint Germain,Cook-Conway (Solomon Islands),€786K,€56K,40.2,77.3,47.8,46.2,70,CM,208cm,Left
+61285,B. Stone,34,Australia,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€783K,€55K,45.6,46.6,62.5,72.4,70,CF,177cm,Right
+872321,Aaron Jr.,53,Vietnam,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€779K,€55K,50.0,65.7,71.0,24.6,70,CAM,205cm,Left
+684027,Alexander Jr.,44,Australia,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€783K,€55K,49.4,48.5,61.4,72.5,70,RB,166cm,Right
+938002,Wells,36,Somalia,Medina PLC,Premier League (England),€790K,€55K,49.1,48.9,34.3,77.3,70,GK,195cm,Left
+188439,R. Payne,24,Western Sahara,"Salazar, Moore and Mueller",Larson and Sons (Australia),€778K,€55K,51.7,51.5,75.1,41.7,69,CF,189cm,Left
+442568,J. Tate,20,Western Sahara,"Hunt, Ortega and Howell",Premier League (England),€777K,€55K,44.4,45.6,74.6,53.0,69,LM,163cm,Left
+196980,Timothy Jr.,23,Australia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€777K,€55K,61.2,35.2,45.5,71.3,69,LW,166cm,Right
+704919,D. Davis,24,French Polynesia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€776K,€55K,58.6,24.7,41.2,73.0,69,GK,163cm,Left
+729546,A. Carter,33,Pitcairn Islands,Garcia Group,Cook-Conway (Solomon Islands),€780K,€54K,60.4,24.6,53.3,72.1,69,GK,176cm,Left
+615026,Moreno,35,Somalia,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€762K,€53K,36.2,66.8,69.9,63.2,69,RM,200cm,Right
+836223,R. Stewart,29,Brunei Darussalam,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€766K,€54K,70.7,46.2,33.6,64.2,69,GK,157cm,Left
+107228,Lucas,28,Sao Tome and Principe,Wilson Ltd,Premier League (England),€762K,€53K,70.2,57.8,40.5,66.6,69,GK,199cm,Left
+730111,C. Green,25,Sao Tome and Principe,Rose Group,Garcia-Cook (Australia),€772K,€54K,60.1,53.7,69.2,67.4,69,RB,187cm,Right
+525702,K. Johnson,29,Vietnam,"Hunter, Johnson and Frank",Larson and Sons (Australia),€758K,€53K,71.0,15.5,29.6,61.2,69,RM,195cm,Left
+959931,Scott Jr.,18,Australia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€759K,€53K,64.4,69.9,32.3,35.6,69,LWB,156cm,Right
+542144,D. Bennett,51,French Polynesia,Ward Group,Premier League (England),€760K,€53K,51.1,32.2,74.8,38.1,69,ST,173cm,Right
+591491,C. Webb,15,Somalia,"Hunt, Ortega and Howell",Premier League (England),€759K,€53K,39.2,51.3,75.3,29.0,69,CF,179cm,Left
+788171,P. Boyd,27,Sao Tome and Principe,FC Bayern München,Premier League (England),€752K,€52K,71.7,60.6,57.8,61.1,69,GK,193cm,Left
+247579,K. Campbell,31,Western Sahara,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€757K,€52K,61.9,23.9,33.2,71.4,69,GK,181cm,Right
+92111,D. Jacobson,26,Brunei Darussalam,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€757K,€52K,20.0,72.7,57.0,15.8,69,CAM,192cm,Left
+616503,Joshua Clark,26,Cameroon,"Harvey, Nguyen and Smith",Premier League (England),€749K,€53K,48.2,59.4,28.3,71.9,69,CM,158cm,Right
+919679,S. Johnson,27,Sao Tome and Principe,Porter-Barker,Premier League (England),€740K,€52K,43.6,51.1,35.8,74.4,69,CM,169cm,Right
+149905,B. Richardson,29,Somalia,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€741K,€52K,53.1,72.2,15.5,58.1,69,CM,183cm,Right
+584270,R. White,27,Cameroon,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€744K,€52K,63.0,46.7,24.5,70.4,69,CB,174cm,Right
+35713,Roy Thomas,20,Somalia,Porter-Barker,Premier League (England),€746K,€52K,55.9,73.1,23.6,37.9,69,CDM,164cm,Right
+977827,A. Tanner,33,Pitcairn Islands,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€739K,€52K,65.7,68.6,38.8,69.5,69,RWB,167cm,Left
+846759,T. George,32,Somalia,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€738K,€52K,32.8,17.6,81.6,32.5,69,LB,151cm,Left
+756896,J. Newman,33,Gibraltar,Robinson PLC,Rogers Ltd (French Polynesia),€765K,€52K,56.5,69.7,40.1,66.2,69,CDM,170cm,Right
+683295,R. Haas,27,Vietnam,Paris Saint Germain,Cook-Conway (Solomon Islands),€736K,€51K,46.6,38.7,75.9,41.1,69,LB,177cm,Left
+216454,Stephens,32,Cameroon,FC Bayern München,Premier League (England),€730K,€51K,51.3,61.6,40.7,71.1,69,GK,155cm,Left
+945613,C. Gray,24,Solomon Islands,Kennedy PLC,Torres Inc (Cameroon),€730K,€51K,61.2,69.5,51.5,65.6,69,LW,192cm,Left
+462399,A. Dominguez,35,Gibraltar,Howard and Sons,Premier League (England),€738K,€51K,31.8,74.2,18.5,52.4,69,LM,198cm,Right
+274124,R. Greer,43,Brunei Darussalam,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€734K,€51K,29.4,68.8,18.1,68.3,69,RWB,182cm,Left
+978732,N. Villarreal,23,Gibraltar,"Harvey, Nguyen and Smith",Premier League (England),€727K,€50K,72.0,34.2,35.7,61.1,69,RM,186cm,Left
+233271,J. Gonzalez,49,Cameroon,"Harvey, Nguyen and Smith",Premier League (England),€726K,€50K,47.6,27.4,51.7,74.5,69,CF,151cm,Right
+954310,Brandon Jr.,15,Brunei Darussalam,Griffin-Tucker,Premier League (England),€725K,€51K,46.1,25.2,77.2,44.8,69,ST,164cm,Right
+827460,B. Wright,32,Solomon Islands,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€727K,€50K,38.8,74.3,47.7,38.6,68,CAM,197cm,Left
+720967,T. Smith,29,Pitcairn Islands,Griffin-Tucker,Premier League (England),€720K,€50K,24.9,36.4,22.9,78.4,68,RW,165cm,Right
+418010,Mccarthy,24,Solomon Islands,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€727K,€50K,34.7,61.4,70.5,51.8,68,RM,206cm,Right
+606440,J. Powell,34,French Polynesia,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€722K,€50K,55.7,71.7,37.2,44.6,68,LWB,175cm,Right
+852398,Robert Osborne,29,Solomon Islands,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€721K,€50K,60.6,47.4,71.0,40.9,68,RB,186cm,Left
+492121,A. Webster,29,Solomon Islands,Johnson-Ray,Premier League (England),€714K,€50K,54.2,72.5,48.5,26.2,68,CM,193cm,Left
+524974,Young,33,Cameroon,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€716K,€50K,25.7,12.4,54.3,72.0,68,CF,159cm,Right
+58107,M. Hart,29,Brunei Darussalam,Nolan and Sons,Cook-Conway (Solomon Islands),€719K,€49K,36.9,26.0,78.2,36.1,68,RB,157cm,Left
+287501,Anthony Jr.,27,Sao Tome and Principe,FC Barcelona,Gibson PLC (Somalia),€724K,€49K,27.1,33.1,34.2,78.9,68,GK,190cm,Right
+697313,P. Rios,34,Vietnam,Hernandez-Adams,Premier League (England),€711K,€49K,68.6,61.8,31.8,67.1,68,GK,200cm,Left
+132068,D. Gonzalez,36,Solomon Islands,Medina PLC,Premier League (England),€719K,€50K,71.8,37.9,53.1,54.9,68,LW,181cm,Right
+17744,C. Hull,28,Solomon Islands,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€712K,€49K,44.8,46.5,67.5,68.4,68,LB,163cm,Right
+214423,J. Gilmore,20,Australia,Robinson PLC,Rogers Ltd (French Polynesia),€712K,€49K,46.9,37.8,32.5,75.4,68,LB,181cm,Right
+1476,S. Wilson,22,Western Sahara,FC Barcelona,Gibson PLC (Somalia),€711K,€48K,21.5,13.8,70.1,61.4,68,LB,201cm,Left
+574975,C. Steele,20,Western Sahara,Garcia Group,Cook-Conway (Solomon Islands),€709K,€49K,49.5,74.7,42.1,41.6,68,CDM,187cm,Right
+599616,Marc Haas,32,Gibraltar,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€710K,€49K,27.9,57.8,53.0,71.6,68,RM,181cm,Right
+943771,Thompson,33,Gibraltar,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€708K,€48K,35.7,69.2,40.2,64.7,68,CM,209cm,Right
+362305,J. Chambers,53,Sao Tome and Principe,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€707K,€48K,37.6,54.1,71.8,55.2,68,RM,167cm,Right
+690048,W. Davis,31,Australia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€706K,€48K,32.7,70.9,37.8,58.2,68,CM,157cm,Right
+755602,Michael Davis,25,Gibraltar,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€710K,€48K,70.9,57.4,51.7,12.1,68,ST,170cm,Left
+698472,A. Fleming,44,Australia,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€703K,€48K,34.0,69.6,17.2,64.0,68,RWB,152cm,Left
+362612,M. Moore,33,Western Sahara,"Harvey, Nguyen and Smith",Premier League (England),€702K,€47K,41.6,12.7,52.0,72.9,68,CF,179cm,Right
+911483,Johnson,29,Australia,"Carter, Evans and Simon",Premier League (England),€700K,€47K,71.7,55.4,40.8,54.0,68,GK,172cm,Left
+985439,G. Hill,24,Sao Tome and Principe,Garcia Group,Cook-Conway (Solomon Islands),€708K,€47K,58.6,15.0,65.2,69.6,68,CF,206cm,Right
+600696,T. Sharp,32,Pitcairn Islands,Griffin-Tucker,Premier League (England),€700K,€48K,33.8,31.6,74.2,49.7,68,RM,150cm,Right
+396064,E. Howard,33,Brunei Darussalam,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€698K,€47K,42.5,41.1,74.1,49.2,68,RWB,189cm,Right
+920545,J. Curtis,27,Brunei Darussalam,Pineda-Flynn,Premier League (England),€700K,€47K,59.0,37.1,69.9,61.3,68,LB,170cm,Left
+805873,J. Perry,26,Vietnam,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€698K,€47K,30.0,81.1,25.6,27.2,68,LM,150cm,Right
+216063,Oneal,21,Sao Tome and Principe,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€697K,€47K,63.9,27.6,41.0,69.9,68,CB,193cm,Right
+3280,Samuel Lee,31,Cameroon,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€696K,€47K,26.8,58.2,71.7,28.3,68,CAM,176cm,Left
+11573,L. Norton,28,Gibraltar,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€696K,€47K,30.8,76.1,37.1,42.0,68,CM,188cm,Right
+716113,L. Stanley,28,Somalia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€697K,€47K,57.8,32.6,69.5,64.7,68,LM,171cm,Left
+953766,B. Wilkins,30,Vietnam,Kennedy PLC,Torres Inc (Cameroon),€699K,€47K,33.4,71.4,52.9,58.4,68,LM,204cm,Right
+495251,R. Wiggins,21,French Polynesia,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€689K,€46K,60.3,47.0,70.9,45.4,68,RB,203cm,Right
+593627,S. Murphy,35,Brunei Darussalam,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€696K,€46K,55.7,35.8,48.9,72.2,68,CB,164cm,Right
+880500,Powers,20,Solomon Islands,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€688K,€46K,72.8,44.7,35.7,53.3,68,CAM,162cm,Right
+192511,W. Dunn,33,Australia,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€691K,€47K,67.9,31.1,13.9,66.3,68,CAM,159cm,Right
+475558,Clark,44,Australia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€691K,€46K,61.9,69.2,7.7,50.8,67,CAM,205cm,Right
+778752,B. Johnson,25,Brunei Darussalam,Robinson PLC,Rogers Ltd (French Polynesia),€684K,€46K,29.5,41.2,75.2,32.9,67,LB,177cm,Left
+836105,T. Conner,29,Gibraltar,Johnson-Ray,Premier League (England),€683K,€45K,71.8,53.4,41.9,49.6,67,LW,174cm,Left
+885291,B. Richardson,34,Somalia,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€680K,€46K,76.4,36.6,10.0,38.6,67,CAM,160cm,Right
+164609,M. Cannon,33,Western Sahara,"Hunt, Ortega and Howell",Premier League (England),€675K,€45K,70.3,49.0,56.0,26.8,67,ST,188cm,Right
+795411,Keith Jr.,32,Western Sahara,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€672K,€45K,60.7,68.8,20.9,56.7,67,CM,169cm,Right
+287543,A. Dominguez,24,Brunei Darussalam,Grant-Wong,Premier League (England),€673K,€45K,49.3,68.8,34.1,62.6,67,CAM,204cm,Right
+525226,R. Williams,37,Gibraltar,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€681K,€45K,63.3,67.7,56.9,36.9,67,LWB,176cm,Left
+50467,R. Velazquez,23,Pitcairn Islands,Pineda-Flynn,Premier League (England),€671K,€44K,76.1,21.1,33.8,38.5,67,CB,162cm,Right
+648559,M. Gonzales,27,Western Sahara,"Dennis, Mata and Green",Larson and Sons (Australia),€672K,€45K,37.5,77.3,20.3,23.0,67,LM,207cm,Right
+99728,J. Lopez,28,French Polynesia,Wilson Ltd,Premier League (England),€672K,€45K,46.2,28.2,66.0,67.4,67,RB,193cm,Right
+501617,Shawn Jr.,29,Western Sahara,Pineda-Flynn,Premier League (England),€669K,€44K,31.0,39.6,66.4,67.4,67,LB,160cm,Left
+26745,R. Francis,30,Western Sahara,"Carter, Evans and Simon",Premier League (England),€672K,€43K,27.9,48.7,68.9,60.5,67,RWB,161cm,Right
+256185,H. White,24,Solomon Islands,Griffin-Tucker,Premier League (England),€663K,€43K,48.3,73.4,29.1,42.3,67,CDM,154cm,Left
+649487,M. Lee,26,Western Sahara,Howard and Sons,Premier League (England),€668K,€45K,54.6,71.4,42.9,24.4,67,CAM,197cm,Left
+428346,D. Harris,24,Gibraltar,Robinson PLC,Rogers Ltd (French Polynesia),€662K,€44K,43.2,50.1,72.3,44.9,67,RB,201cm,Left
+444820,Donovan,21,Western Sahara,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€663K,€43K,53.5,63.9,14.0,67.6,67,CDM,184cm,Right
+453074,Ball,16,Vietnam,Ward Group,Premier League (England),€660K,€44K,36.2,72.4,32.1,49.1,67,CM,197cm,Right
+10929,Timothy Martinez,27,Solomon Islands,Velazquez Group,Gibson PLC (Somalia),€657K,€43K,35.7,67.7,63.5,56.5,67,RM,184cm,Right
+887492,B. Johnson,21,Cameroon,Medina PLC,Premier League (England),€657K,€43K,37.1,43.1,31.3,75.1,67,LB,152cm,Right
+93137,J. Cohen,30,Western Sahara,"Carter, Evans and Simon",Premier League (England),€652K,€42K,36.5,55.1,13.3,71.0,67,CM,183cm,Right
+207850,C. Sullivan,45,French Polynesia,Velazquez Group,Gibson PLC (Somalia),€654K,€41K,45.0,53.5,39.0,71.1,67,LB,189cm,Right
+461828,Brent Jr.,35,Cameroon,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€646K,€42K,73.1,32.7,42.0,49.7,67,GK,171cm,Left
+748552,R. Young,33,Somalia,Baker Inc,Premier League (England),€653K,€41K,63.1,34.2,67.7,44.2,67,LM,201cm,Left
+633931,R. Chavez,33,Vietnam,"Hunt, Ortega and Howell",Premier League (England),€656K,€42K,56.1,45.4,70.5,42.3,67,ST,171cm,Right
+879892,J. Robles,53,French Polynesia,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€644K,€41K,68.2,47.7,42.6,64.7,67,RM,175cm,Left
+191877,D. Malone,30,Gibraltar,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€644K,€41K,64.2,67.4,43.2,53.2,67,RWB,162cm,Left
+3612,John Wright,22,Brunei Darussalam,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€644K,€41K,67.9,52.3,62.8,36.6,67,CDM,208cm,Left
+233004,D. Trujillo,28,Solomon Islands,"Rose, Romero and Gallegos",Premier League (England),€629K,€40K,33.9,61.3,68.4,56.1,67,RM,187cm,Right
+896763,M. Joseph,25,Western Sahara,Porter-Barker,Premier League (England),€629K,€41K,36.9,27.7,16.6,77.0,67,GK,163cm,Right
+429895,S. Ibarra,20,Australia,Maldonado and Sons,Larson and Sons (Australia),€628K,€41K,66.8,67.1,45.2,43.5,67,CAM,151cm,Right
+413596,W. Kramer,21,Somalia,"Harvey, Nguyen and Smith",Premier League (England),€636K,€40K,31.9,61.5,44.3,68.6,67,RWB,193cm,Left
+28681,Larson,23,Somalia,"Wells, Kelly and Cox",Premier League (England),€627K,€40K,76.8,38.4,35.6,35.8,67,CAM,157cm,Right
+516481,G. Ferguson,29,Pitcairn Islands,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€625K,€40K,10.1,42.6,70.3,54.8,66,RM,184cm,Right
+254339,B. Pope,20,Brunei Darussalam,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€628K,€40K,70.3,46.5,40.9,55.1,66,LW,156cm,Left
+663960,A. Martin,25,Pitcairn Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€641K,€40K,47.1,19.1,41.8,71.8,66,RM,171cm,Left
+197131,R. Lewis,22,Somalia,Johnson-Ray,Premier League (England),€626K,€40K,53.0,31.2,69.8,39.3,66,RB,205cm,Left
+877169,B. Nguyen,34,Solomon Islands,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€618K,€40K,65.6,66.5,51.8,52.1,66,RWB,150cm,Left
+615185,B. Harris,24,Somalia,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€623K,€40K,69.9,43.0,39.2,52.9,66,CB,150cm,Right
+287511,N. Fleming,36,French Polynesia,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€621K,€39K,63.2,52.3,67.5,44.4,66,RB,161cm,Left
+599334,B. Scott,30,Western Sahara,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€618K,€40K,21.0,29.6,63.2,66.9,66,RM,159cm,Right
+156981,Christopher Kennedy,22,Australia,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€616K,€39K,55.4,63.0,5.4,66.5,66,CM,162cm,Right
+542219,Christopher Jr.,24,French Polynesia,Howard and Sons,Premier League (England),€616K,€39K,70.4,53.8,48.2,23.1,66,ST,151cm,Right
+665130,C. Newton,22,French Polynesia,"Dennis, Mata and Green",Larson and Sons (Australia),€616K,€39K,36.6,71.1,51.9,40.0,66,CDM,154cm,Left
+976479,M. Rollins,33,Gibraltar,Howard and Sons,Premier League (England),€612K,€39K,63.8,66.4,16.3,46.4,66,CAM,177cm,Right
+452202,M. Robinson,24,Solomon Islands,Pineda-Flynn,Premier League (England),€613K,€39K,39.9,74.3,27.3,27.1,66,LM,187cm,Right
+960124,C. Diaz,22,Australia,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€612K,€39K,50.7,43.3,60.4,67.2,66,LM,205cm,Left
+83756,Z. Marsh,31,Somalia,"Dennis, Mata and Green",Larson and Sons (Australia),€623K,€39K,65.8,52.1,66.6,51.0,66,LWB,197cm,Left
+927630,E. White,32,French Polynesia,"Rose, Romero and Gallegos",Premier League (England),€605K,€38K,21.2,22.0,30.2,78.6,66,RW,188cm,Right
+722840,S. Patterson,29,Gibraltar,Robinson PLC,Rogers Ltd (French Polynesia),€609K,€39K,67.7,24.0,48.0,59.6,66,RM,185cm,Left
+419775,White,54,Brunei Darussalam,"Hunt, Ortega and Howell",Premier League (England),€608K,€38K,44.4,22.3,72.6,39.3,66,CF,194cm,Left
+714710,C. Smith,23,Brunei Darussalam,"Carter, Evans and Simon",Premier League (England),€608K,€38K,31.5,42.5,67.1,63.8,66,LB,192cm,Right
+862295,J. Gomez,23,Western Sahara,Maldonado and Sons,Larson and Sons (Australia),€611K,€38K,68.9,49.2,30.8,58.1,66,LW,181cm,Left
+272497,Evans,35,Somalia,Robinson PLC,Rogers Ltd (French Polynesia),€601K,€38K,58.6,44.0,51.3,68.9,66,LW,164cm,Right
+551074,Jordan Martin,28,Australia,FC Barcelona,Gibson PLC (Somalia),€596K,€38K,30.7,29.0,47.5,72.3,66,RW,168cm,Right
+420069,J. Ball,27,Vietnam,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€602K,€38K,53.4,30.9,16.9,70.5,66,GK,203cm,Right
+321857,A. Arnold,34,Australia,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€599K,€37K,53.6,34.0,18.2,70.5,66,LW,153cm,Left
+575954,J. Snyder,55,Sao Tome and Principe,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€596K,€37K,39.5,57.6,48.9,69.4,66,LW,206cm,Left
+887391,M. Garza,32,French Polynesia,Paris Saint Germain,Cook-Conway (Solomon Islands),€595K,€38K,70.0,17.7,16.4,54.0,66,LW,168cm,Right
+330400,P. Jackson,18,Western Sahara,Hernandez-Adams,Premier League (England),€593K,€39K,66.4,62.9,46.6,36.7,66,CDM,193cm,Left
+879385,Anthony Moss,21,French Polynesia,"Salazar, Moore and Mueller",Larson and Sons (Australia),€593K,€37K,6.5,36.3,25.3,76.3,66,RW,192cm,Right
+322407,N. Powell,29,French Polynesia,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€590K,€37K,66.6,50.2,35.3,63.1,66,RM,187cm,Left
+461682,Bradley Jr.,33,Brunei Darussalam,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€591K,€38K,45.3,35.7,68.4,60.0,66,LB,207cm,Right
+674782,A. Rodriguez,22,Pitcairn Islands,Rose Group,Garcia-Cook (Australia),€591K,€37K,30.7,72.2,46.6,47.0,66,RWB,200cm,Left
+134149,Flores,30,Australia,Robinson PLC,Rogers Ltd (French Polynesia),€589K,€36K,23.7,23.4,68.0,61.6,66,CF,181cm,Right
+257043,B. Cowan,21,Gibraltar,"Salazar, Moore and Mueller",Larson and Sons (Australia),€589K,€36K,54.1,48.9,41.9,70.2,66,GK,184cm,Left
+494852,J. Wagner,47,Sao Tome and Principe,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€589K,€37K,47.1,39.1,72.3,31.9,66,RB,171cm,Left
+126398,S. Fisher,55,Vietnam,Velazquez Group,Gibson PLC (Somalia),€586K,€37K,56.9,36.0,69.7,35.3,66,CF,201cm,Left
+912834,S. Edwards,34,Somalia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€578K,€36K,57.8,30.1,36.7,68.5,66,GK,204cm,Right
+798215,S. Jones,44,Brunei Darussalam,Wilson Ltd,Premier League (England),€584K,€36K,30.3,21.1,53.3,70.2,66,RW,162cm,Left
+462596,Ortiz,28,Western Sahara,Robinson PLC,Rogers Ltd (French Polynesia),€582K,€36K,68.8,58.4,57.1,54.4,66,ST,162cm,Right
+888595,K. Martinez,26,Western Sahara,Manchester United,Rogers Ltd (French Polynesia),€583K,€36K,37.0,57.1,68.3,46.3,66,RM,172cm,Right
+683869,Oconnell,27,Australia,Medina PLC,Premier League (England),€571K,€35K,62.3,67.0,50.0,50.4,66,LWB,159cm,Right
+216988,Henry Savage,20,Somalia,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€572K,€36K,74.1,14.8,41.1,34.4,66,CB,158cm,Right
+868451,T. Wolfe,44,Gibraltar,Kennedy PLC,Torres Inc (Cameroon),€575K,€35K,29.2,72.2,25.6,43.6,65,LM,166cm,Right
+983861,Aguirre,25,Pitcairn Islands,Maldonado and Sons,Larson and Sons (Australia),€571K,€36K,64.1,43.5,59.4,64.8,65,RB,174cm,Left
+729954,Patrick,32,Western Sahara,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€569K,€35K,67.7,15.9,35.8,55.8,65,CB,164cm,Right
+255031,J. Williams,33,Pitcairn Islands,FC Barcelona,Gibson PLC (Somalia),€571K,€35K,70.4,30.7,15.9,49.7,65,CB,153cm,Right
+468181,Clark,32,Solomon Islands,Griffin-Tucker,Premier League (England),€570K,€35K,38.8,33.5,74.3,28.2,65,RWB,157cm,Right
+664889,B. Chang,23,French Polynesia,Maldonado and Sons,Larson and Sons (Australia),€591K,€35K,49.5,69.6,35.5,20.9,65,CM,201cm,Left
+574872,Goodman,33,French Polynesia,"Dennis, Mata and Green",Larson and Sons (Australia),€566K,€35K,67.6,24.5,21.4,58.3,65,LW,159cm,Right
+804471,T. Harris,46,Vietnam,Robinson PLC,Rogers Ltd (French Polynesia),€565K,€35K,58.0,67.5,34.0,31.1,65,CAM,158cm,Right
+214950,Donald Ramirez,55,Vietnam,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€565K,€34K,19.4,66.7,60.9,6.0,65,CAM,166cm,Left
+813202,Fox,21,Gibraltar,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€568K,€34K,66.4,16.0,30.5,60.5,65,RM,190cm,Left
+395479,Michael Jr.,24,Brunei Darussalam,Baker Inc,Premier League (England),€559K,€34K,40.5,68.5,49.8,53.1,65,RM,151cm,Right
+59911,Kenneth Wilson,25,Somalia,Robinson PLC,Rogers Ltd (French Polynesia),€570K,€34K,45.2,71.6,33.8,31.7,65,LWB,208cm,Right
+158393,Walter Villa,41,French Polynesia,Manchester United,Rogers Ltd (French Polynesia),€563K,€35K,55.5,47.2,51.8,68.3,65,CF,154cm,Right
+707354,H. Brown,24,Somalia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€564K,€34K,28.5,31.0,74.9,36.0,65,RWB,209cm,Right
+772890,Christopher Jr.,34,Gibraltar,Nolan and Sons,Cook-Conway (Solomon Islands),€558K,€33K,46.6,65.8,29.7,63.9,65,CDM,203cm,Right
+339074,A. Johnson,25,Solomon Islands,Johnson-Ray,Premier League (England),€555K,€34K,65.0,49.5,63.2,48.1,65,CDM,185cm,Left
+650503,C. Wright,30,Gibraltar,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€553K,€34K,56.0,50.5,67.4,30.8,65,ST,184cm,Right
+281895,Brian Gray,15,Somalia,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€554K,€33K,34.3,58.5,66.6,46.5,65,RM,166cm,Right
+675206,J. Howard,31,Gibraltar,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€551K,€33K,57.6,47.7,68.0,44.6,65,RB,159cm,Left
+200165,B. Cameron,17,French Polynesia,Garcia Group,Cook-Conway (Solomon Islands),€547K,€33K,16.2,68.4,54.4,15.9,65,CAM,171cm,Left
+716307,S. Jordan,33,Vietnam,Pineda-Flynn,Premier League (England),€551K,€33K,51.8,69.6,48.0,28.3,65,CM,183cm,Left
+405065,T. Smith,24,French Polynesia,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€551K,€33K,67.2,33.4,37.5,59.6,65,LW,198cm,Left
+601852,Mark Jr.,28,Vietnam,"Harvey, Nguyen and Smith",Premier League (England),€547K,€32K,53.6,44.4,69.2,42.3,65,LM,166cm,Left
+724918,J. Wright,23,Pitcairn Islands,Maldonado and Sons,Larson and Sons (Australia),€543K,€32K,40.2,16.8,46.0,70.7,65,RW,195cm,Left
+733116,W. Collins,32,Cameroon,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€546K,€32K,61.2,37.7,66.8,47.8,65,LM,178cm,Left
+938009,L. Perkins,25,Somalia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€547K,€33K,66.1,63.2,28.6,44.8,65,CDM,169cm,Right
+237717,J. Rush,31,Cameroon,Robinson PLC,Rogers Ltd (French Polynesia),€532K,€31K,51.9,32.4,48.4,67.8,64,RM,183cm,Left
+950534,Blake Olson,19,Vietnam,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€531K,€32K,41.1,48.8,11.8,68.4,64,CDM,210cm,Right
+305,W. Richardson,15,Australia,Pineda-Flynn,Premier League (England),€531K,€32K,40.6,35.9,54.4,67.3,64,LM,183cm,Left
+745887,B. Mcdonald,24,Cameroon,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€564K,€32K,42.0,72.0,25.1,37.8,64,CDM,199cm,Right
+344479,J. Nguyen,30,Brunei Darussalam,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€524K,€31K,41.8,38.6,71.6,35.4,64,RWB,167cm,Right
+901547,A. Gentry,18,Solomon Islands,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€524K,€31K,60.6,62.1,14.6,64.8,64,CM,177cm,Right
+934369,Adam Henry,33,Australia,Pineda-Flynn,Premier League (England),€525K,€31K,64.6,61.1,16.0,36.8,64,CAM,201cm,Right
+16962,D. Myers,31,Pitcairn Islands,Maldonado and Sons,Larson and Sons (Australia),€526K,€31K,57.1,28.0,66.4,54.1,64,ST,208cm,Right
+49756,H. Jennings,35,French Polynesia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€522K,€30K,66.9,50.6,22.3,57.0,64,LW,173cm,Right
+57988,Seth Jr.,20,Pitcairn Islands,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€519K,€30K,58.2,21.0,24.3,65.6,64,CB,156cm,Right
+410271,J. Dalton,35,Solomon Islands,"Salazar, Moore and Mueller",Larson and Sons (Australia),€536K,€30K,50.9,67.9,29.4,40.8,64,CDM,205cm,Left
+533193,T. Ramos,21,Western Sahara,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€520K,€31K,36.2,44.5,65.0,59.4,64,RB,195cm,Left
+254668,C. Melton,39,Pitcairn Islands,Hernandez-Adams,Premier League (England),€516K,€30K,60.2,34.8,64.3,62.3,64,RWB,160cm,Right
+902049,D. Brewer,54,Somalia,Grant-Wong,Premier League (England),€515K,€30K,49.3,56.6,66.4,9.6,64,CAM,196cm,Left
+443419,C. Larson,31,Somalia,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€517K,€30K,69.1,33.0,50.2,32.1,64,ST,177cm,Right
+402493,D. Davenport,22,French Polynesia,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€519K,€30K,67.5,34.8,45.1,53.6,64,GK,175cm,Left
+386162,J. Rose,30,Cameroon,Garcia Group,Cook-Conway (Solomon Islands),€504K,€30K,48.9,44.4,69.2,47.4,64,RB,155cm,Left
+386391,T. Adams,28,Western Sahara,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€510K,€30K,63.7,64.4,23.7,25.7,64,LWB,162cm,Right
+361883,D. Burgess,33,Somalia,FC Bayern München,Premier League (England),€513K,€30K,58.0,62.5,34.3,65.0,64,LW,196cm,Left
+959927,L. Henry,32,Somalia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€507K,€29K,62.0,49.8,49.7,64.5,64,LW,165cm,Right
+615901,R. Alvarez,22,Pitcairn Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€497K,€30K,54.5,39.6,67.8,52.0,64,RB,194cm,Right
+239281,D. Stewart,21,Gibraltar,"Salazar, Moore and Mueller",Larson and Sons (Australia),€499K,€29K,21.1,45.6,60.0,65.6,64,LB,155cm,Right
+100171,M. Price,50,Australia,Robinson PLC,Rogers Ltd (French Polynesia),€496K,€29K,33.0,27.8,70.9,41.3,64,RB,187cm,Left
+214902,Anthony Jr.,44,Brunei Darussalam,FC Bayern München,Premier League (England),€502K,€29K,53.0,28.3,64.5,62.1,64,LM,196cm,Left
+673803,David Smith,34,French Polynesia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€491K,€29K,45.8,69.5,41.6,19.5,64,CDM,183cm,Left
+722980,P. Osborn,22,Pitcairn Islands,Porter-Barker,Premier League (England),€493K,€29K,68.5,22.5,29.2,50.3,64,RM,193cm,Left
+370768,Ryan Jr.,22,Sao Tome and Principe,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€508K,€29K,43.9,17.3,41.6,71.1,64,RW,200cm,Left
+534664,D. Taylor,54,Sao Tome and Principe,Hernandez-Adams,Premier League (England),€494K,€29K,56.3,14.2,67.0,34.0,64,LB,157cm,Left
+518464,Daniel Jr.,27,Pitcairn Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€487K,€29K,40.5,70.9,45.0,42.6,64,CDM,204cm,Left
+551252,T. Walker,22,Brunei Darussalam,Howard and Sons,Premier League (England),€494K,€29K,70.4,45.9,40.6,44.6,64,CAM,191cm,Right
+805440,N. Johnson,30,Pitcairn Islands,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€490K,€29K,63.1,39.9,36.9,64.6,64,LW,176cm,Left
+428738,R. Gutierrez,34,Western Sahara,Maldonado and Sons,Larson and Sons (Australia),€487K,€29K,44.2,45.4,17.4,70.7,64,RW,183cm,Left
+117444,J. Osborn,32,Gibraltar,Manchester United,Rogers Ltd (French Polynesia),€486K,€28K,64.2,46.4,52.4,61.9,64,LW,208cm,Left
+707405,J. Richardson,39,Cameroon,"Carter, Evans and Simon",Premier League (England),€484K,€28K,16.0,23.5,26.4,77.1,64,RW,184cm,Right
+625498,E. Martinez,34,Somalia,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€486K,€28K,66.9,22.1,30.6,54.4,64,CB,165cm,Right
+191372,C. Bauer,47,Sao Tome and Principe,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€487K,€29K,67.1,50.5,46.0,54.1,64,LW,188cm,Left
+27570,Andrew Jr.,33,Pitcairn Islands,"Harvey, Nguyen and Smith",Premier League (England),€479K,€28K,43.9,70.8,35.5,40.4,64,CDM,203cm,Left
+453639,H. Richard,44,Gibraltar,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€483K,€28K,64.6,48.0,23.6,63.3,64,CDM,163cm,Right
+994436,K. Powell,29,Somalia,"Dennis, Mata and Green",Larson and Sons (Australia),€480K,€28K,54.5,63.6,63.5,21.1,64,ST,195cm,Left
+240789,Salas,32,Australia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€483K,€28K,64.3,63.8,34.4,52.4,64,LW,191cm,Left
+150821,Robert Morales,53,Western Sahara,"Carter, Evans and Simon",Premier League (England),€476K,€27K,58.4,65.9,25.3,34.9,64,LWB,157cm,Right
+855562,A. Christensen,20,Cameroon,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€475K,€27K,39.8,26.4,35.4,71.4,64,GK,179cm,Right
+298688,T. Jones,34,French Polynesia,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€475K,€28K,55.5,51.6,30.3,66.8,64,LW,202cm,Left
+356183,Martin Jr.,38,Pitcairn Islands,Robinson PLC,Rogers Ltd (French Polynesia),€476K,€28K,67.3,55.5,27.7,49.7,64,LWB,182cm,Right
+204817,P. Ellis,23,Western Sahara,"Dennis, Mata and Green",Larson and Sons (Australia),€473K,€27K,41.3,67.6,43.2,50.9,63,CDM,195cm,Right
+201,Joshua Anderson,28,Brunei Darussalam,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€485K,€27K,28.4,33.9,67.7,48.1,63,LB,160cm,Left
+655710,D. Bishop,23,French Polynesia,Baker Inc,Premier League (England),€468K,€27K,54.0,17.6,49.8,65.5,63,LW,188cm,Right
+999843,Carl Jr.,21,French Polynesia,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€469K,€27K,35.6,56.8,64.4,59.0,63,LB,163cm,Right
+385605,Fisher,22,Sao Tome and Principe,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€466K,€27K,62.8,53.4,62.6,58.3,63,RB,209cm,Left
+926554,David Gonzalez,25,Australia,Wilson Ltd,Premier League (England),€463K,€27K,60.7,64.3,41.2,37.3,63,CDM,185cm,Right
+66549,Randy Jr.,32,Vietnam,Hernandez-Adams,Premier League (England),€464K,€27K,62.3,17.0,42.7,62.8,63,CB,157cm,Right
+99577,Kevin Jr.,33,Solomon Islands,"Hunter, Johnson and Frank",Larson and Sons (Australia),€461K,€27K,71.3,39.8,7.9,28.4,63,CAM,171cm,Right
+755140,A. Washington,25,Pitcairn Islands,FC Barcelona,Gibson PLC (Somalia),€468K,€26K,44.6,69.5,33.4,32.6,63,CAM,151cm,Right
+255609,Javier Jr.,30,French Polynesia,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€459K,€26K,43.6,67.0,24.5,52.2,63,RWB,198cm,Left
+542431,E. Stephens,28,Somalia,Hernandez-Adams,Premier League (England),€460K,€27K,54.2,65.2,58.0,47.0,63,LWB,179cm,Right
+771863,M. Diaz,20,French Polynesia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€458K,€27K,63.1,61.7,42.0,46.5,63,CM,175cm,Right
+198598,A. Smith,31,Sao Tome and Principe,"Dennis, Mata and Green",Larson and Sons (Australia),€457K,€25K,19.2,42.2,51.3,66.4,63,RM,165cm,Right
+714909,Smith,35,Gibraltar,Nolan and Sons,Cook-Conway (Solomon Islands),€459K,€26K,29.8,35.9,41.6,70.4,63,RW,155cm,Right
+788643,J. Peterson,15,Solomon Islands,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€456K,€26K,38.0,39.4,65.3,54.4,63,LB,209cm,Right
+141578,Roberts,33,Gibraltar,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€458K,€26K,37.2,64.0,58.2,33.2,63,LWB,195cm,Right
+846138,P. Lamb,24,Pitcairn Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€448K,€25K,70.9,34.7,36.9,40.8,63,CAM,151cm,Right
+903839,Samuel Lynch,35,Brunei Darussalam,Kennedy PLC,Torres Inc (Cameroon),€444K,€25K,66.1,41.8,22.3,54.0,63,LW,169cm,Right
+993956,Vincent Vasquez,29,Australia,Ward Group,Premier League (England),€453K,€25K,35.9,43.9,30.8,69.5,63,RW,177cm,Right
+264875,J. Morris,31,French Polynesia,Howard and Sons,Premier League (England),€450K,€26K,17.1,65.6,30.0,53.3,63,LM,192cm,Right
+412557,Eric Jr.,20,French Polynesia,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€438K,€24K,31.8,70.5,38.6,32.7,63,CM,173cm,Left
+150471,R. Francis,33,Western Sahara,Nolan and Sons,Cook-Conway (Solomon Islands),€437K,€24K,48.4,43.8,30.2,68.1,63,GK,210cm,Right
+674796,John Jr.,26,Sao Tome and Principe,Velazquez Group,Gibson PLC (Somalia),€432K,€24K,29.6,57.9,62.6,63.7,63,RB,198cm,Left
+44236,Blevins,32,Pitcairn Islands,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€431K,€25K,54.3,65.5,53.7,10.3,63,CAM,160cm,Left
+503285,D. Becker,19,Pitcairn Islands,FC Bayern München,Premier League (England),€428K,€24K,64.7,59.4,33.8,36.3,63,CAM,182cm,Right
+724507,N. Smith,34,Vietnam,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€426K,€23K,61.2,39.2,64.2,56.0,63,LM,166cm,Left
+221313,J. Hill,21,Pitcairn Islands,Nolan and Sons,Cook-Conway (Solomon Islands),€427K,€24K,42.4,53.2,17.2,65.0,62,LW,192cm,Left
+401720,T. Cruz,35,Pitcairn Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€432K,€24K,55.2,33.1,64.5,49.0,62,ST,190cm,Right
+344645,Billy Jr.,34,Vietnam,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€425K,€23K,39.7,49.5,40.1,66.2,62,LW,191cm,Left
+991822,P. Smith,32,Gibraltar,Grant-Wong,Premier League (England),€420K,€25K,48.2,46.6,44.0,66.5,62,CDM,206cm,Right
+320121,Christopher Morris,21,Western Sahara,"Dennis, Mata and Green",Larson and Sons (Australia),€422K,€23K,41.6,45.0,54.7,64.3,62,CF,171cm,Right
+434874,M. Crawford,29,Pitcairn Islands,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€425K,€23K,18.2,35.3,64.2,56.5,62,RM,170cm,Right
+852873,S. Hess,31,Pitcairn Islands,Robinson PLC,Rogers Ltd (French Polynesia),€417K,€22K,60.8,29.4,62.8,43.8,62,RB,160cm,Left
+50256,J. Gutierrez,23,Solomon Islands,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€417K,€22K,47.0,66.7,16.0,46.2,62,CM,170cm,Right
+845380,Jose Briggs,29,French Polynesia,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€417K,€22K,34.7,44.3,67.5,35.5,62,CAM,181cm,Left
+75504,C. Perez,29,Brunei Darussalam,"Hunter, Johnson and Frank",Larson and Sons (Australia),€418K,€22K,62.3,53.6,61.7,24.5,62,LWB,161cm,Left
+509820,A. Sweeney,22,Gibraltar,Manchester United,Rogers Ltd (French Polynesia),€406K,€21K,21.2,63.0,60.1,55.3,62,LB,193cm,Right
+223134,Michael Jr.,23,Pitcairn Islands,"Hunt, Ortega and Howell",Premier League (England),€430K,€21K,26.4,52.5,65.8,45.0,62,RWB,182cm,Right
+821412,R. Roberts,23,Solomon Islands,Nolan and Sons,Cook-Conway (Solomon Islands),€411K,€21K,34.8,47.9,33.3,67.1,62,RW,174cm,Right
+747738,Anderson,21,Vietnam,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€414K,€21K,17.5,33.7,65.6,52.6,62,RM,202cm,Right
+813392,D. Vang,28,Cameroon,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€404K,€20K,41.2,25.5,53.1,65.3,62,RB,196cm,Right
+518484,Jose Jr.,26,Vietnam,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€405K,€21K,62.6,60.1,20.5,52.9,62,RWB,179cm,Left
+862811,T. Tapia,20,Somalia,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€405K,€20K,36.4,51.8,61.8,61.8,62,RB,168cm,Right
+436832,M. Mack,41,Pitcairn Islands,Baker Inc,Premier League (England),€416K,€21K,21.0,52.0,65.7,25.2,62,CAM,198cm,Left
+248485,J. Wilson,17,Pitcairn Islands,Garcia Group,Cook-Conway (Solomon Islands),€398K,€20K,46.3,65.6,17.9,52.5,62,CDM,164cm,Right
+355238,T. Yu,21,French Polynesia,Paris Saint Germain,Cook-Conway (Solomon Islands),€387K,€20K,48.8,18.5,35.8,66.7,62,GK,187cm,Right
+3027,M. Brown,20,Pitcairn Islands,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€384K,€20K,52.2,47.9,30.6,64.6,62,LW,188cm,Left
+723989,T. Martinez,26,Australia,FC Bayern München,Premier League (England),€395K,€20K,65.3,28.8,49.5,53.2,62,GK,154cm,Right
+822314,Holmes,31,Sao Tome and Principe,Baker Inc,Premier League (England),€382K,€18K,41.3,25.5,67.3,47.8,62,RB,197cm,Right
+781359,S. Mcdonald,46,French Polynesia,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€380K,€20K,65.0,54.8,29.6,52.6,62,CDM,180cm,Left
+462287,A. Soto,25,Pitcairn Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€382K,€20K,65.0,26.8,27.7,51.7,62,GK,183cm,Left
+986751,D. Stokes,25,Vietnam,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€382K,€19K,44.6,44.0,65.5,50.8,62,RB,205cm,Left
+847514,Raymond Davis,21,French Polynesia,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€390K,€20K,33.5,37.4,67.6,43.5,62,RB,193cm,Left
+175825,E. Moore,22,Solomon Islands,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€377K,€18K,60.6,62.2,19.3,62.3,62,LW,195cm,Left
+167676,Bernard,31,Solomon Islands,Paris Saint Germain,Cook-Conway (Solomon Islands),€378K,€18K,10.0,17.9,17.4,76.1,62,RW,190cm,Right
+819250,Bird,25,Pitcairn Islands,"Hunt, Ortega and Howell",Premier League (England),€379K,€18K,55.8,60.7,61.1,53.3,61,RB,204cm,Right
+540882,Brandon Jr.,35,Gibraltar,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€375K,€18K,57.6,37.2,25.2,62.3,61,RM,185cm,Left
+287493,J. Stevens,26,Cameroon,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€374K,€17K,45.0,36.5,57.3,62.5,61,LM,192cm,Left
+107572,L. Padilla,38,Brunei Darussalam,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€372K,€18K,52.0,37.4,14.3,64.1,61,CAM,198cm,Right
+58472,V. Holt,21,Brunei Darussalam,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€377K,€18K,67.1,10.3,31.6,44.6,61,CB,177cm,Right
+9341,J. Welch,23,Pitcairn Islands,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€372K,€17K,47.8,34.4,63.0,53.5,61,CF,183cm,Left
+33975,L. Peterson,25,Western Sahara,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€375K,€17K,30.4,64.6,49.7,32.8,61,CDM,179cm,Left
+132495,Trevino,35,Western Sahara,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€361K,€16K,37.2,63.0,26.6,55.4,61,CDM,200cm,Right
+411033,Nicholas Snyder,26,Gibraltar,Porter-Barker,Premier League (England),€361K,€16K,58.9,15.9,15.1,61.9,61,CB,151cm,Right
+345565,W. Beck,35,Brunei Darussalam,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€352K,€15K,61.9,56.7,38.1,43.2,61,CDM,202cm,Right
+927222,Johnston,20,Gibraltar,Grant-Wong,Premier League (England),€371K,€15K,54.6,36.2,62.7,46.8,61,LB,197cm,Left
+493312,Moore,38,Vietnam,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€350K,€17K,24.9,28.4,65.8,47.4,61,RB,163cm,Right
+902921,S. Benton,24,Solomon Islands,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€359K,€16K,37.4,63.6,43.3,54.6,61,LM,203cm,Right
+231444,N. Smith,22,Brunei Darussalam,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€342K,€15K,17.6,66.9,39.6,43.7,61,CAM,181cm,Left
+690266,M. Jones,29,French Polynesia,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€343K,€16K,25.4,37.6,51.1,64.2,61,LB,210cm,Left
+149657,Wang,24,French Polynesia,"Rose, Romero and Gallegos",Premier League (England),€344K,€15K,65.9,28.5,46.3,35.1,61,CB,206cm,Right
+616695,M. Hernandez,21,Cameroon,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€349K,€15K,27.3,44.2,32.4,66.3,61,RW,201cm,Left
+903463,T. Jackson,21,Cameroon,"Hunt, Ortega and Howell",Premier League (England),€339K,€14K,48.3,59.2,17.2,61.1,61,CAM,190cm,Right
+633198,Alejandro Weber,15,Brunei Darussalam,"Dennis, Mata and Green",Larson and Sons (Australia),€346K,€14K,28.8,36.7,17.9,69.3,61,RW,190cm,Left
+346506,Wallace,49,Brunei Darussalam,Garcia Group,Cook-Conway (Solomon Islands),€337K,€15K,52.5,46.2,49.9,63.9,61,RWB,163cm,Right
+649977,K. Greene,15,Somalia,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€339K,€15K,60.9,48.1,14.7,60.4,61,CB,155cm,Right
+928511,Carl Jr.,27,Pitcairn Islands,"Dennis, Mata and Green",Larson and Sons (Australia),€337K,€14K,61.9,31.9,55.7,59.8,61,GK,152cm,Left
+396110,B. Jones,20,Vietnam,Pineda-Flynn,Premier League (England),€325K,€14K,34.7,45.3,62.5,55.4,61,RB,150cm,Right
+953439,R. Shaw,32,Cameroon,"Wells, Kelly and Cox",Premier League (England),€335K,€14K,43.3,30.4,67.4,34.8,61,LB,181cm,Left
+666961,S. Torres,23,Gibraltar,"Hunter, Johnson and Frank",Larson and Sons (Australia),€324K,€14K,32.3,67.3,23.8,41.8,61,CM,193cm,Right
+462371,C. Horton,31,Gibraltar,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€319K,€14K,61.0,45.5,59.2,38.7,61,ST,188cm,Right
+544464,Steven Woods,29,Sao Tome and Principe,Grant-Wong,Premier League (England),€320K,€14K,44.7,49.1,18.4,65.1,61,CDM,191cm,Right
+241628,J. Nguyen,53,Sao Tome and Principe,Rose Group,Garcia-Cook (Australia),€319K,€14K,63.0,46.2,41.0,55.1,61,CB,159cm,Right
+762135,Aaron Hughes,30,Pitcairn Islands,Johnson-Ray,Premier League (England),€318K,€14K,56.8,11.0,61.3,58.1,60,LB,162cm,Left
+745797,B. Wilson,27,French Polynesia,Baker Inc,Premier League (England),€315K,€14K,41.1,61.1,15.1,55.3,60,RWB,163cm,Left
+49541,Brian Cooke,21,Western Sahara,Porter-Barker,Premier League (England),€327K,€14K,56.8,57.7,41.6,60.6,60,RWB,185cm,Right
+418554,B. Mcmillan,18,Australia,FC Barcelona,Gibson PLC (Somalia),€316K,€14K,60.2,58.1,40.4,42.5,60,CM,165cm,Right
+99077,J. Hamilton,54,Australia,"Hunter, Johnson and Frank",Larson and Sons (Australia),€312K,€13K,48.7,58.7,60.2,36.2,60,ST,150cm,Left
+967516,Michael Jr.,52,Cameroon,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€306K,€13K,53.6,39.5,48.9,62.7,60,LB,199cm,Right
+484226,D. Moore,50,Australia,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€305K,€13K,50.6,27.0,62.2,52.9,60,LM,151cm,Left
+787561,S. Bell,34,Australia,"Carter, Evans and Simon",Premier League (England),€314K,€14K,55.5,37.0,60.6,57.1,60,CF,207cm,Left
+402564,L. Castillo,22,Pitcairn Islands,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€309K,€13K,61.6,55.0,55.4,48.9,60,CDM,156cm,Left
+705693,Steven Jr.,34,Australia,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€310K,€13K,16.9,21.8,55.4,61.8,60,RW,172cm,Right
+779860,Darren Jr.,32,Sao Tome and Principe,"Dennis, Mata and Green",Larson and Sons (Australia),€304K,€13K,44.4,63.1,43.8,48.9,60,CAM,175cm,Right
+534280,Thomas Jefferson,21,Australia,Manchester United,Rogers Ltd (French Polynesia),€302K,€13K,57.7,34.8,29.1,61.3,60,LW,150cm,Right
+730909,S. Mcgee,25,Gibraltar,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€303K,€11K,52.4,58.1,55.9,60.5,60,RB,180cm,Right
+730972,J. Walsh,25,Gibraltar,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€300K,€13K,51.5,58.9,59.8,16.3,60,ST,171cm,Left
+911513,Freeman,21,Vietnam,"Dennis, Mata and Green",Larson and Sons (Australia),€300K,€11K,61.0,56.0,42.3,13.2,60,CDM,179cm,Left
+313800,Ellison,47,Western Sahara,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€300K,€11K,38.0,31.6,37.6,67.9,60,LB,158cm,Right
+756525,Bryan Gordon,34,Cameroon,"Wells, Kelly and Cox",Premier League (England),€302K,€11K,62.5,39.4,23.1,51.8,60,GK,198cm,Right
+207817,Mike Lee,34,French Polynesia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€299K,€11K,20.2,39.4,67.1,34.1,60,CF,192cm,Left
+175060,L. Klein,35,Cameroon,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€296K,€10K,60.6,16.9,48.4,57.1,60,CB,210cm,Right
+232429,P. Kline,20,Australia,Rose Group,Garcia-Cook (Australia),€297K,€11K,39.4,60.3,57.4,19.8,60,CDM,181cm,Left
+158785,Matthew Jr.,24,Brunei Darussalam,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€298K,€11K,30.7,65.7,43.8,41.2,60,CM,175cm,Left
+650323,J. Mcmillan,34,Brunei Darussalam,"Carter, Evans and Simon",Premier League (England),€292K,€10K,58.1,26.7,60.6,42.5,60,CF,150cm,Left
+85251,J. Hensley,21,Australia,Wilson Ltd,Premier League (England),€290K,€10K,51.9,46.7,40.6,62.3,60,GK,184cm,Left
+372157,Justin Jr.,33,Gibraltar,Hernandez-Adams,Premier League (England),€289K,€10K,59.8,45.7,59.6,59.1,60,RB,158cm,Right
+396775,S. Smith,49,Cameroon,Kennedy PLC,Torres Inc (Cameroon),€305K,€10K,51.6,62.4,51.8,33.0,60,CDM,203cm,Left
+683796,J. Carroll,28,Pitcairn Islands,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€279K,€10K,44.1,44.5,43.7,65.2,60,LW,178cm,Left
+708478,M. Anderson,15,Cameroon,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€284K,€10K,66.0,37.5,40.7,35.8,60,CB,154cm,Right
+978944,Bradley Williams,49,Gibraltar,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€276K,€11K,50.4,34.5,63.1,43.2,60,RWB,191cm,Right
+917565,S. Ruiz,30,Cameroon,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€286K,€10K,31.3,54.6,11.9,61.0,59,CDM,197cm,Right
+344130,B. Villa,22,Sao Tome and Principe,Pineda-Flynn,Premier League (England),€273K,€9K,17.2,48.9,62.4,48.8,59,RM,200cm,Right
+860227,J. Potts,29,Vietnam,Medina PLC,Premier League (England),€274K,€10K,60.2,15.6,56.0,49.6,59,RM,167cm,Left
+655440,Z. Francis,21,Brunei Darussalam,"Wells, Kelly and Cox",Premier League (England),€275K,€10K,61.0,52.0,35.3,42.3,59,CDM,164cm,Right
+434383,J. Huber,28,Vietnam,Hernandez-Adams,Premier League (England),€273K,€9K,33.1,51.6,55.1,60.3,59,LM,170cm,Left
+369539,M. Burgess,33,French Polynesia,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€270K,€8K,6.0,48.2,56.3,60.0,59,RW,189cm,Right
+173088,T. Morrison,32,Cameroon,Pineda-Flynn,Premier League (England),€274K,€9K,56.3,43.4,60.5,28.3,59,RWB,160cm,Right
+869721,C. Fowler,46,Somalia,"Harvey, Nguyen and Smith",Premier League (England),€266K,€9K,14.8,48.5,55.1,60.5,59,RW,155cm,Right
+362154,T. Nichols,27,French Polynesia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€263K,€10K,48.0,37.3,62.7,36.3,59,RB,188cm,Left
+919220,K. Martin,23,Gibraltar,"Dennis, Mata and Green",Larson and Sons (Australia),€262K,€8K,11.0,65.4,40.8,21.0,59,LM,158cm,Right
+788265,J. Fritz,34,Cameroon,FC Bayern München,Premier League (England),€267K,€8K,62.3,47.3,10.4,43.3,59,CM,175cm,Right
+821055,R. Morris,55,Sao Tome and Principe,"Salazar, Moore and Mueller",Larson and Sons (Australia),€259K,€8K,53.3,61.3,36.0,43.4,59,CM,189cm,Right
+763729,Isaiah Jr.,29,Australia,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€261K,€9K,44.9,60.5,15.1,53.2,59,RWB,187cm,Left
+493689,M. Stevens,25,Gibraltar,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€253K,€8K,54.4,54.1,32.5,60.3,59,CAM,170cm,Right
+616657,R. Moore,23,Solomon Islands,Maldonado and Sons,Larson and Sons (Australia),€259K,€8K,41.3,7.9,12.4,64.4,59,GK,167cm,Right
+264522,J. Dorsey,21,Western Sahara,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€253K,€8K,26.0,32.0,50.3,61.3,59,RW,176cm,Right
+756138,D. Ray,35,Solomon Islands,Paris Saint Germain,Cook-Conway (Solomon Islands),€259K,€7K,41.2,22.2,56.8,59.5,59,RWB,191cm,Right
+584438,Cunningham,27,Brunei Darussalam,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€239K,€6K,36.1,6.2,21.7,67.3,59,GK,169cm,Right
+101129,C. Rice,26,Cameroon,Manchester United,Rogers Ltd (French Polynesia),€260K,€7K,26.6,55.3,59.6,13.4,59,CAM,195cm,Left
+789447,B. Peters,27,Solomon Islands,Kennedy PLC,Torres Inc (Cameroon),€242K,€7K,22.0,65.6,37.2,38.6,59,CAM,195cm,Left
+125898,Adams,52,Australia,Grant-Wong,Premier League (England),€241K,€6K,61.5,52.8,34.2,33.8,59,CDM,158cm,Right
+920540,D. Fowler,20,French Polynesia,Baker Inc,Premier League (England),€237K,€6K,52.2,39.8,60.8,32.1,59,ST,168cm,Right
+724027,Jorge Mckinney,24,Pitcairn Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€237K,€6K,55.0,60.7,46.8,33.2,59,LWB,178cm,Right
+535649,M. Lynn,27,French Polynesia,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€246K,€6K,63.9,34.9,46.0,34.2,59,CB,190cm,Right
+126051,P. Alexander,28,Solomon Islands,"Wells, Kelly and Cox",Premier League (England),€235K,€6K,20.3,59.2,33.2,56.4,59,CM,207cm,Left
+453772,Michael Torres,15,Gibraltar,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€226K,€7K,41.8,60.8,37.8,52.8,59,CDM,200cm,Left
+707748,K. Gilmore,21,French Polynesia,Medina PLC,Premier League (England),€236K,€5K,42.9,58.4,58.8,32.9,59,LWB,161cm,Right
+625919,T. Jackson,34,Australia,Garcia Group,Cook-Conway (Solomon Islands),€224K,€6K,35.0,51.7,61.0,49.0,59,RB,165cm,Left
+822737,Richard Jr.,35,Vietnam,Baker Inc,Premier League (England),€225K,€5K,55.2,44.0,30.2,60.7,59,RM,189cm,Left
+978480,R. Little,21,Solomon Islands,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€233K,€5K,28.8,31.0,61.4,50.0,59,CF,199cm,Left
+896808,Philip Jr.,28,French Polynesia,Robinson PLC,Rogers Ltd (French Polynesia),€219K,€5K,63.7,45.7,14.0,45.5,59,CDM,183cm,Right
+618483,J. Gibson,33,Western Sahara,"Wells, Kelly and Cox",Premier League (England),€219K,€6K,38.6,27.4,45.3,64.0,59,GK,158cm,Right
+33012,B. Gomez,31,Cameroon,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€219K,€5K,38.6,41.3,63.2,35.0,58,RB,188cm,Left
+803299,Justin Jr.,27,French Polynesia,Ward Group,Premier League (England),€223K,€4K,40.6,58.4,8.6,56.7,58,CM,183cm,Right
+344652,Robinson,23,Somalia,Nolan and Sons,Cook-Conway (Solomon Islands),€214K,€4K,29.3,47.5,53.0,59.6,58,RWB,209cm,Right
+811743,Alexander,31,Sao Tome and Principe,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€217K,€4K,50.2,36.7,42.9,60.9,58,RWB,170cm,Right
+508977,Matthew Diaz,20,Western Sahara,Velazquez Group,Gibson PLC (Somalia),€218K,€4K,47.2,58.6,52.9,57.7,58,LM,179cm,Right
+558260,C. Andrews,21,Solomon Islands,Kennedy PLC,Torres Inc (Cameroon),€214K,€4K,59.2,56.2,25.0,54.7,58,CAM,176cm,Right
+566562,Phillips,31,Brunei Darussalam,Porter-Barker,Premier League (England),€210K,€4K,40.8,46.3,55.1,58.6,58,RB,200cm,Right
+116510,B. Marquez,21,Australia,"Dennis, Mata and Green",Larson and Sons (Australia),€214K,€3K,21.3,39.9,58.3,57.9,58,LB,159cm,Left
+42819,J. Johnson,24,Vietnam,Velazquez Group,Gibson PLC (Somalia),€218K,€4K,55.0,58.7,41.3,48.5,58,LWB,197cm,Right
+411580,R. Hunter,34,Cameroon,"Hunt, Ortega and Howell",Premier League (England),€204K,€3K,63.5,40.7,43.1,42.0,58,CAM,172cm,Right
+575490,Clayton Jr.,23,Cameroon,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€207K,€3K,59.7,33.2,52.9,44.4,58,CF,175cm,Left
+698616,D. Anderson,34,Western Sahara,Rose Group,Garcia-Cook (Australia),€214K,€3K,40.1,41.6,51.0,60.6,58,RM,157cm,Right
+452855,J. Smith,24,Solomon Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€209K,€3K,41.0,45.2,23.0,62.8,58,CDM,179cm,Right
+362994,S. Vega,33,Somalia,Pope-Ingram,Orozco-Potts (Sao Tome and Principe),€199K,€2K,63.4,21.2,42.1,43.4,58,CB,187cm,Right
+846337,M. Salas,20,Australia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€208K,€3K,26.1,42.9,58.9,55.5,58,RB,168cm,Right
+330971,S. Williams,33,French Polynesia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€201K,€2K,39.3,47.0,29.8,61.1,58,RW,184cm,Right
+716273,Bridges,30,Sao Tome and Principe,Garcia Group,Cook-Conway (Solomon Islands),€204K,€2K,47.0,61.1,50.4,44.3,58,ST,171cm,Right
+773709,Johnson,32,Brunei Darussalam,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€202K,€3K,43.2,63.6,37.5,27.1,58,LM,198cm,Right
+52985,George Jordan,19,Australia,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€197K,€2K,47.9,43.9,23.6,61.5,58,GK,159cm,Right
+888722,Middleton,21,Brunei Darussalam,Howard and Sons,Premier League (England),€196K,€2K,59.7,18.9,52.8,34.4,58,LB,176cm,Left
+274389,L. Lee,32,Australia,Robinson PLC,Rogers Ltd (French Polynesia),€197K,€2K,34.3,64.1,41.4,31.9,58,LM,208cm,Right
+122946,S. Barr,52,Brunei Darussalam,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€198K,€1K,8.1,34.6,31.5,64.2,57,RW,210cm,Left
+631019,Shane Harvey,34,Gibraltar,Medina PLC,Premier League (England),€188K,€1K,41.5,47.2,60.6,24.8,57,CF,203cm,Left
+688373,Jorge Brennan,23,Australia,"Rose, Romero and Gallegos",Premier League (England),€195K,€2K,58.3,39.3,47.1,53.6,57,LW,210cm,Left
+884995,E. Martin,23,Pitcairn Islands,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€190K,€1K,54.2,57.3,54.1,26.4,57,ST,205cm,Right
+647500,A. Schroeder,31,Somalia,Kennedy PLC,Torres Inc (Cameroon),€188K,€1K,61.8,21.1,42.8,39.3,57,CB,176cm,Right
+295510,L. Yang,24,Gibraltar,"Carter, Evans and Simon",Premier League (England),€191K,€1K,57.6,36.3,53.3,24.5,57,CF,194cm,Left
+303713,J. Smith,30,Australia,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€186K,€1K,53.4,24.5,58.7,51.3,57,ST,160cm,Right
+50078,J. Smith,32,Australia,Manchester United,Rogers Ltd (French Polynesia),€185K,€1K,57.3,38.1,29.7,56.8,57,GK,162cm,Right
+9172,R. Gonzales,22,Cameroon,Medina PLC,Premier League (England),€185K,€1K,37.3,50.9,33.2,59.0,57,RW,199cm,Left
+615656,J. Hartman,33,Somalia,Velazquez Group,Gibson PLC (Somalia),€180K,€1K,53.6,50.3,58.1,50.0,57,GK,173cm,Left
+640302,Charles Parker,15,Western Sahara,Robinson PLC,Rogers Ltd (French Polynesia),€181K,€0,21.0,46.3,26.8,61.0,57,RW,191cm,Left
+181567,Mark Jr.,21,Australia,Howard and Sons,Premier League (England),€184K,€0,38.2,43.2,51.2,59.5,57,LB,168cm,Right
+181591,A. Taylor,34,Gibraltar,"Wells, Kelly and Cox",Premier League (England),€172K,€0,38.6,61.4,27.1,42.2,57,RWB,189cm,Left
+468436,L. Myers,47,Pitcairn Islands,Robinson PLC,Rogers Ltd (French Polynesia),€173K,€0,31.4,47.2,57.8,54.1,57,LB,168cm,Right
+345870,A. Reed,52,Solomon Islands,"Rose, Romero and Gallegos",Premier League (England),€179K,€0,58.4,34.3,17.6,51.2,57,LW,190cm,Left
+772212,S. Willis,34,Cameroon,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€181K,€0,52.2,56.7,29.5,57.4,57,CM,209cm,Left
+133252,Brian Graham,22,Gibraltar,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€163K,€0,54.4,57.5,43.0,44.5,57,LWB,209cm,Right
+903329,C. Walker,33,Vietnam,"Wells, Kelly and Cox",Premier League (England),€163K,€0,55.5,40.6,57.2,25.4,57,ST,161cm,Right
+780563,Gordon,50,Pitcairn Islands,Robinson PLC,Rogers Ltd (French Polynesia),€167K,€0,34.9,40.7,50.7,59.0,57,CF,205cm,Left
+420291,Jason Grant,34,Cameroon,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€172K,€0,35.5,59.1,46.6,49.7,57,CM,169cm,Left
+403999,T. Hayes,52,Pitcairn Islands,Nolan and Sons,Cook-Conway (Solomon Islands),€163K,€0,54.8,58.3,54.4,50.6,57,RWB,195cm,Right
+158334,T. Smith,21,French Polynesia,"Rose, Romero and Gallegos",Premier League (England),€160K,€0,46.4,38.1,19.2,60.5,57,LW,195cm,Left
+150254,R. Thomas,33,Sao Tome and Principe,Porter-Barker,Premier League (England),€161K,€0,58.8,36.8,43.6,50.7,57,RWB,199cm,Right
+478163,A. Price,15,French Polynesia,Grant-Wong,Premier League (England),€179K,€0,53.5,57.2,56.6,6.6,57,ST,166cm,Left
+691345,M. Carr,34,Brunei Darussalam,Baker Inc,Premier League (England),€157K,€0,51.6,59.1,52.0,24.9,57,ST,156cm,Right
+839137,B. Wolf,34,Vietnam,Johnson-Ray,Premier League (England),€157K,€0,57.1,38.8,17.6,57.5,57,LW,195cm,Left
+716271,A. Johnson,31,Australia,FC Bayern München,Premier League (England),€154K,€0,18.6,66.6,29.2,30.1,57,LM,173cm,Right
+69219,J. Oliver,33,Brunei Darussalam,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€155K,€0,50.2,59.5,46.6,44.4,57,RWB,170cm,Left
+331655,T. Murphy,24,French Polynesia,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€153K,€0,41.6,52.2,58.3,45.4,57,CDM,196cm,Left
+913368,R. Reynolds,33,Sao Tome and Principe,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€150K,€0,14.3,14.1,45.2,60.4,57,RW,173cm,Right
+282610,G. Jones,33,Pitcairn Islands,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€153K,€0,36.3,61.0,44.9,38.9,57,CDM,180cm,Right
+716789,J. Davis,23,Australia,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€152K,€0,35.3,26.0,52.9,58.9,57,RW,184cm,Right
+905220,J. Mcgrath,21,Pitcairn Islands,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€148K,€0,54.6,43.1,22.7,57.6,57,LW,168cm,Right
+847903,R. Lynn,27,Pitcairn Islands,"Wells, Kelly and Cox",Premier League (England),€141K,€0,19.8,41.9,48.3,59.9,57,RW,200cm,Left
+123189,Wright,20,Pitcairn Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€146K,€0,28.5,62.0,37.5,28.7,56,CDM,203cm,Left
+762956,Brandon Newton,31,Brunei Darussalam,Grant-Wong,Premier League (England),€148K,€0,41.2,29.4,56.1,54.0,56,RB,158cm,Right
+476419,J. Schwartz,50,Cameroon,Pineda-Flynn,Premier League (England),€138K,€0,29.6,56.0,55.5,14.7,56,CAM,165cm,Left
+271938,Nicholas Jr.,24,Brunei Darussalam,Porter-Barker,Premier League (England),€131K,€0,15.9,47.3,55.8,54.9,56,RW,161cm,Left
+722520,Rangel,30,Gibraltar,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€130K,€0,58.9,24.7,32.6,48.6,56,CB,189cm,Right
+509694,M. Ellis,35,Australia,Howard and Sons,Premier League (England),€139K,€0,10.6,60.9,40.2,41.9,56,LM,175cm,Right
+550732,A. Ryan,23,Pitcairn Islands,Grant-Wong,Premier League (England),€128K,€0,50.3,48.8,58.0,36.7,56,RWB,184cm,Right
+616327,M. Flores,29,Solomon Islands,Medina PLC,Premier League (England),€128K,€0,44.2,18.0,40.9,60.4,56,RW,156cm,Left
+747453,D. Johnson,17,French Polynesia,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€140K,€0,53.7,28.1,56.6,54.5,56,RB,186cm,Right
+313382,Howard,25,French Polynesia,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€125K,€0,53.6,36.2,56.4,40.9,56,LB,198cm,Left
+968771,Roy Jr.,25,Gibraltar,Kennedy PLC,Torres Inc (Cameroon),€115K,€0,57.0,27.1,45.0,55.0,56,CB,208cm,Right
+723182,D. Smith,26,Solomon Islands,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€111K,€0,51.2,46.7,46.0,57.5,56,LB,192cm,Right
+846200,R. Smith,34,French Polynesia,Wilson Ltd,Premier League (England),€122K,€0,32.1,63.0,36.0,29.0,56,LM,163cm,Right
+805322,C. Castillo,26,French Polynesia,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€110K,€0,47.8,58.7,42.1,47.4,56,CAM,192cm,Right
+330263,B. Harris,35,Pitcairn Islands,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€122K,€0,56.8,30.4,53.8,46.0,56,RB,168cm,Right
+544091,T. Webb,31,Pitcairn Islands,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€110K,€0,58.6,28.9,38.2,48.0,56,RWB,161cm,Right
+896463,Palmer,55,Sao Tome and Principe,Johnson-Ray,Premier League (England),€110K,€0,58.3,30.3,32.3,48.6,56,CB,194cm,Right
+224782,D. Jones,15,Western Sahara,"Harvey, Nguyen and Smith",Premier League (England),€110K,€0,32.9,60.6,38.9,40.5,56,LM,200cm,Right
+716361,A. Jones,21,Vietnam,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€106K,€0,55.2,49.3,56.0,39.6,56,RB,163cm,Left
+298697,J. Mora,31,Western Sahara,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€102K,€0,49.8,42.3,57.6,29.4,56,CF,168cm,Left
+737495,T. Davenport,33,Brunei Darussalam,Manchester United,Rogers Ltd (French Polynesia),€105K,€0,43.0,40.4,58.8,41.0,55,CF,155cm,Left
+517074,Thomas Jr.,43,Australia,Paris Saint Germain,Cook-Conway (Solomon Islands),€109K,€0,34.8,19.1,55.9,52.6,55,RWB,189cm,Right
+435628,Z. Meyer,22,Sao Tome and Principe,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€109K,€0,27.8,49.7,18.3,56.6,55,RW,177cm,Right
+779976,W. Brady,20,Solomon Islands,Hernandez-Adams,Premier League (England),€102K,€0,58.0,47.5,18.4,38.6,55,CB,194cm,Right
+34538,T. Kennedy,30,Brunei Darussalam,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€97K,€0,56.5,50.6,50.8,42.8,55,CM,198cm,Left
+837437,John Jr.,49,Australia,"Wells, Kelly and Cox",Premier League (England),€94K,€0,48.0,36.1,49.4,56.7,55,ST,200cm,Right
+485303,M. Conner,22,Western Sahara,Kennedy PLC,Torres Inc (Cameroon),€92K,€0,41.7,58.2,45.7,27.1,55,CDM,201cm,Left
+26672,J. Moreno,23,Somalia,Nolan and Sons,Cook-Conway (Solomon Islands),€77K,€0,56.5,11.6,37.8,51.7,55,GK,179cm,Right
+387152,A. Martinez,28,Western Sahara,Grant-Wong,Premier League (England),€79K,€0,31.3,34.4,58.0,47.4,55,LM,199cm,Left
+100563,W. Johnson,28,Somalia,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€81K,€0,26.1,55.6,51.7,42.1,55,RWB,159cm,Right
+92453,D. Woodard,30,Brunei Darussalam,Porter-Barker,Premier League (England),€76K,€0,8.2,35.3,55.0,55.0,55,RW,194cm,Left
+518763,D. Dodson,31,Australia,Wilson Ltd,Premier League (England),€75K,€0,54.6,42.4,49.5,55.8,55,GK,175cm,Right
+928663,Timothy Smith,26,Cameroon,Baker Inc,Premier League (England),€80K,€0,30.9,17.5,56.4,51.9,55,LB,160cm,Left
+404547,Richardson,30,French Polynesia,Manchester United,Rogers Ltd (French Polynesia),€76K,€0,54.0,48.7,55.4,19.8,55,CDM,162cm,Left
+593163,T. Jones,21,Vietnam,Grant-Wong,Premier League (England),€62K,€0,30.6,61.9,35.5,26.6,55,LM,177cm,Right
+298568,J. Roberson,23,Solomon Islands,Wilson Ltd,Premier League (England),€61K,€0,44.7,39.2,58.8,26.8,55,CF,157cm,Left
+757385,R. Smith,28,Western Sahara,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€76K,€0,46.2,57.8,44.5,32.8,55,CDM,209cm,Right
+782085,A. Evans,40,Gibraltar,Kennedy PLC,Torres Inc (Cameroon),€66K,€0,56.1,52.8,15.4,47.0,55,CDM,178cm,Right
+691975,J. Hicks,25,Brunei Darussalam,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€73K,€0,56.4,11.2,31.1,50.3,55,GK,182cm,Right
+315208,J. Bradford,24,Solomon Islands,"Harvey, Nguyen and Smith",Premier League (England),€61K,€0,41.8,15.6,59.8,23.8,55,CF,200cm,Left
+204808,J. Lester,31,Solomon Islands,Velazquez Group,Gibson PLC (Somalia),€57K,€0,44.2,48.3,18.8,55.9,54,CDM,163cm,Right
+917799,J. Fisher,26,Australia,Wilson Ltd,Premier League (England),€55K,€0,48.3,26.2,55.9,30.3,54,ST,199cm,Right
+704873,P. Ritter,24,Vietnam,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€54K,€0,33.2,54.5,22.2,53.6,54,RWB,169cm,Left
+655761,E. Williams,47,Gibraltar,"Wells, Kelly and Cox",Premier League (England),€52K,€0,51.4,55.1,17.8,48.8,54,CDM,184cm,Right
+17028,J. Phillips,21,Sao Tome and Principe,Howard and Sons,Premier League (England),€58K,€0,54.9,23.2,38.7,51.4,54,CB,157cm,Right
+336728,R. Lowe,21,Vietnam,Griffin-Tucker,Premier League (England),€50K,€0,13.7,54.5,44.1,51.0,54,RM,167cm,Right
+607237,Harris,20,Solomon Islands,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€46K,€0,31.9,57.0,43.4,37.9,54,RWB,196cm,Right
+452355,A. Walker,21,Sao Tome and Principe,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€45K,€0,41.8,46.8,20.0,56.7,54,RW,182cm,Left
+460612,D. Johnson,31,Gibraltar,Ward Group,Premier League (England),€48K,€0,50.8,52.3,40.2,54.9,54,CAM,164cm,Right
+821413,A. Moss,34,Brunei Darussalam,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€46K,€0,17.6,47.4,55.7,13.6,54,CAM,155cm,Left
+403802,D. Richard,30,French Polynesia,"Taylor, Palmer and Underwood",Gibson PLC (Somalia),€40K,€0,35.1,58.4,40.0,28.1,54,RWB,199cm,Right
+2399,Daniel,23,Western Sahara,FC Barcelona,Gibson PLC (Somalia),€43K,€0,22.4,32.8,60.9,31.1,54,CF,187cm,Left
+141913,Eric Dominguez,35,Australia,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€44K,€0,35.2,25.8,54.4,51.8,54,LB,171cm,Left
+158471,C. Reeves,29,Sao Tome and Principe,Griffin-Tucker,Premier League (England),€53K,€0,22.1,24.6,48.9,55.3,54,RW,185cm,Left
+592685,A. White,25,Australia,Garcia Group,Cook-Conway (Solomon Islands),€33K,€0,36.7,39.4,24.2,58.8,54,GK,171cm,Right
+396112,J. Miller,33,Western Sahara,"Hunter, Johnson and Frank",Larson and Sons (Australia),€39K,€0,47.6,53.0,18.0,54.9,54,CM,204cm,Left
+248705,Mcknight,33,Australia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€40K,€0,56.2,41.9,48.5,40.2,54,CB,150cm,Right
+363419,Cannon,31,Australia,Nolan and Sons,Cook-Conway (Solomon Islands),€38K,€0,54.4,54.2,23.0,46.6,54,CAM,183cm,Right
+273927,John Jr.,35,Solomon Islands,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€27K,€0,22.6,36.8,52.8,54.5,54,LB,179cm,Right
+405480,R. Nelson,28,Western Sahara,"Hunt, Ortega and Howell",Premier League (England),€29K,€0,34.8,54.9,44.5,53.2,54,CDM,150cm,Right
+737373,M. Levy,34,Gibraltar,Velazquez Group,Gibson PLC (Somalia),€29K,€0,30.3,53.8,31.5,51.5,53,CM,157cm,Right
+148066,J. Arnold,24,Brunei Darussalam,Wilson Ltd,Premier League (England),€43K,€0,28.4,53.1,53.6,47.2,53,CDM,202cm,Left
+795235,A. Garcia,30,Pitcairn Islands,Nolan and Sons,Cook-Conway (Solomon Islands),€15K,€0,53.0,52.4,26.0,26.4,53,CM,183cm,Left
+811662,R. Ponce,33,Cameroon,Baker Inc,Premier League (England),€22K,€0,29.4,50.4,35.8,53.6,53,RW,161cm,Left
+336553,J. Stephens,35,Somalia,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€15K,€0,38.1,21.3,53.5,50.1,53,RB,201cm,Left
+467768,P. Perez,32,French Polynesia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€14K,€0,26.7,30.5,52.0,52.9,53,LB,179cm,Left
+918492,J. Wade,27,Somalia,Foster-Garcia,"Hicks, Davis and Moses (Brunei Darussalam)",€6K,€0,48.7,23.4,39.4,54.5,53,GK,173cm,Left
+230763,G. Carroll,30,Brunei Darussalam,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€18K,€0,18.5,49.8,54.2,7.6,53,CAM,186cm,Left
+75166,J. Miller,27,Sao Tome and Principe,Manchester United,Rogers Ltd (French Polynesia),€9K,€0,47.1,55.3,30.9,37.2,53,RWB,196cm,Left
+698382,M. Martinez,23,Gibraltar,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€11K,€0,29.4,44.0,13.9,55.7,53,GK,208cm,Right
+649806,B. Rivera,17,Vietnam,Medina PLC,Premier League (England),€750,€0,29.6,23.4,42.8,57.0,53,RW,179cm,Right
+338566,Bauer,30,French Polynesia,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€750,€0,43.7,56.2,43.2,41.6,53,CM,191cm,Left
+535674,G. Wyatt,33,Gibraltar,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€1K,€0,49.5,54.1,42.3,35.1,53,CAM,199cm,Right
+773570,Shane Graham,53,Australia,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€750,€0,47.7,40.5,54.5,48.8,53,RB,174cm,Left
+298886,P. Ray,30,Australia,FC Barcelona,Gibson PLC (Somalia),€750,€0,14.3,35.2,45.7,56.0,53,RW,170cm,Right
+220,Andrew Jr.,21,Vietnam,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€750,€0,55.3,43.3,37.1,29.1,52,CDM,153cm,Left
+713045,Cruz,23,French Polynesia,"Dennis, Mata and Green",Larson and Sons (Australia),€750,€0,14.0,53.7,23.7,47.7,52,LM,150cm,Right
+573830,Mark Ramirez,24,Western Sahara,Velazquez Group,Gibson PLC (Somalia),€750,€0,48.3,29.8,14.0,52.6,52,GK,198cm,Right
+500696,G. Silva,31,Western Sahara,"Hunter, Johnson and Frank",Larson and Sons (Australia),€750,€0,52.6,24.3,26.5,49.7,52,GK,167cm,Left
+623746,S. Horn,38,Western Sahara,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€750,€0,33.3,44.7,27.8,53.8,52,CDM,163cm,Right
+517574,Mark Jr.,18,Somalia,FC Barcelona,Gibson PLC (Somalia),€750,€0,48.4,53.8,27.2,37.4,52,CM,193cm,Left
+75458,Spencer Dawson,26,Sao Tome and Principe,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€750,€0,38.5,23.9,43.9,54.3,52,RWB,156cm,Right
+796536,P. Smith,40,Pitcairn Islands,Garcia Group,Cook-Conway (Solomon Islands),€750,€0,44.9,25.0,31.4,54.2,52,RW,209cm,Left
+632786,S. Huff,26,Somalia,"Wells, Kelly and Cox",Premier League (England),€750,€0,12.3,39.9,53.8,46.7,52,RM,166cm,Right
+928777,C. Clark,24,Brunei Darussalam,Velazquez Group,Gibson PLC (Somalia),€750,€0,39.2,16.3,54.7,45.4,52,CF,174cm,Left
+453685,M. Lang,27,Pitcairn Islands,Bailey-George,"Douglas, Wood and Conley (Brunei Darussalam)",€750,€0,31.0,28.2,16.5,58.7,52,GK,200cm,Right
+962348,T. Lindsey,24,Vietnam,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€750,€0,5.2,48.4,18.7,53.0,52,RW,183cm,Left
+618438,John Simmons,22,Somalia,Johnson-Ray,Premier League (England),€750,€0,32.2,12.8,34.3,58.5,52,GK,196cm,Right
+700389,R. Blackburn,22,Pitcairn Islands,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€750,€0,41.5,54.9,31.5,34.0,52,CDM,162cm,Left
+779253,M. Griffin,35,Brunei Darussalam,"Chapman, Smith and Ortiz","Hicks, Davis and Moses (Brunei Darussalam)",€750,€0,24.8,38.7,27.2,55.0,51,RW,194cm,Right
+476162,Jeff Jr.,36,Cameroon,FC Barcelona,Gibson PLC (Somalia),€750,€0,34.3,54.0,42.6,17.9,51,CDM,188cm,Left
+705637,Brian Jr.,49,Australia,Griffin-Tucker,Premier League (England),€750,€0,51.0,38.3,23.9,50.2,51,RM,185cm,Left
+140728,E. Kelly,35,Australia,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€750,€0,31.6,17.9,19.2,57.2,51,GK,166cm,Right
+894580,A. Gonzalez,28,Vietnam,Paris Saint Germain,Cook-Conway (Solomon Islands),€750,€0,24.1,53.8,43.5,37.3,51,CAM,159cm,Left
+18207,C. Kelley,27,French Polynesia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€500,€0,40.1,37.3,54.1,41.3,51,RB,206cm,Left
+313217,Justin Jr.,27,Somalia,"Harvey, Nguyen and Smith",Premier League (England),€750,€0,55.8,35.9,36.7,38.1,51,RWB,186cm,Right
+739271,R. Taylor,23,Australia,"Hernandez, Reyes and Woods",Garcia-Cook (Australia),€750,€0,27.9,17.8,52.1,46.3,51,LB,201cm,Left
+133244,D. Howe,32,Gibraltar,Ward Group,Premier League (England),€500,€0,33.1,47.4,12.5,52.6,51,CM,204cm,Right
+567535,Riley,33,Gibraltar,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€500,€0,46.7,45.5,52.5,35.1,51,CAM,169cm,Left
+485761,Benjamin Jr.,29,Cameroon,Paris Saint Germain,Cook-Conway (Solomon Islands),€500,€0,38.0,47.3,32.0,52.7,51,LW,180cm,Left
+649859,L. Rogers,35,French Polynesia,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€500,€0,25.8,34.4,21.4,56.8,51,RW,192cm,Left
+412493,J. Reyes,30,Solomon Islands,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€500,€0,40.2,43.5,53.2,37.0,51,LB,205cm,Left
+184015,R. Chavez,22,Pitcairn Islands,Griffin-Tucker,Premier League (England),€500,€0,41.0,20.9,43.1,54.0,51,GK,205cm,Right
+323311,D. Nash,48,Solomon Islands,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€500,€0,21.4,21.1,48.6,52.0,51,RW,167cm,Left
+254800,A. Rodriguez,21,Solomon Islands,"Jackson, Brooks and Allen",Orozco-Potts (Sao Tome and Principe),€500,€0,50.0,43.5,48.1,45.1,50,CDM,180cm,Left
+156676,E. Clark,33,Sao Tome and Principe,Griffin-Tucker,Premier League (England),€500,€0,31.3,56.1,13.4,23.2,50,LM,202cm,Right
+411519,T. Baker,26,Gibraltar,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€500,€0,43.2,52.0,23.1,32.9,50,CDM,166cm,Right
+51172,Christopher Jones,46,Pitcairn Islands,Baker Inc,Premier League (England),€500,€0,41.7,40.9,22.2,52.3,50,RW,155cm,Left
+969554,E. Allen,22,Brunei Darussalam,"Harvey, Nguyen and Smith",Premier League (England),€500,€0,34.9,52.8,37.9,40.9,50,RWB,202cm,Right
+757498,M. Jackson,21,Brunei Darussalam,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€500,€0,32.4,55.5,33.4,34.9,50,CM,203cm,Left
+876818,D. Oliver,20,Gibraltar,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€500,€0,36.4,51.3,40.3,38.7,49,CAM,200cm,Left
+344768,J. Fox,31,Western Sahara,Logan Inc,"Hicks, Davis and Moses (Brunei Darussalam)",€500,€0,17.7,56.9,24.0,21.8,49,LM,175cm,Right
+394330,Luke Diaz,53,Somalia,Pineda-Flynn,Premier League (England),€500,€0,36.1,49.4,24.0,49.2,49,RW,183cm,Right
+967888,A. Arellano,31,Vietnam,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€500,€0,33.8,50.0,45.3,25.2,49,CDM,189cm,Left
+542047,R. Spencer,34,Australia,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€500,€0,51.0,40.8,41.8,39.7,49,CAM,185cm,Right
+116512,M. Moses,36,Australia,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€500,€0,28.1,50.0,23.8,44.4,49,CDM,174cm,Right
+101848,D. Castro,30,Cameroon,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€500,€0,44.3,17.4,50.2,31.9,49,CB,161cm,Left
+806806,J. Chambers,20,Cameroon,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€500,€0,5.6,38.3,49.7,48.1,49,RW,156cm,Right
+516653,J. Phelps,29,Brunei Darussalam,Paris Saint Germain,Cook-Conway (Solomon Islands),€500,€0,38.1,45.4,20.8,48.3,48,CAM,201cm,Right
+648663,C. Smith,44,Australia,Kennedy PLC,Torres Inc (Cameroon),€250,€0,9.7,32.6,48.3,46.2,48,RW,189cm,Left
+542589,L. Evans,23,Pitcairn Islands,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€250,€0,47.3,21.1,32.9,48.4,48,CB,175cm,Left
+100481,E. Lewis,35,Australia,"Harvey, Nguyen and Smith",Premier League (England),€250,€0,36.2,48.1,42.1,48.1,48,CDM,173cm,Left
+191059,M. Mccoy,55,Brunei Darussalam,Kennedy PLC,Torres Inc (Cameroon),€250,€0,26.6,47.7,47.0,41.1,48,RWB,177cm,Right
+839639,Michael Ramsey,28,French Polynesia,"Rose, Romero and Gallegos",Premier League (England),€250,€0,21.8,52.6,18.9,36.2,48,CM,191cm,Left
+877133,Roberts,33,French Polynesia,"Randolph, Baker and Poole","Douglas, Wood and Conley (Brunei Darussalam)",€250,€0,28.6,26.9,48.4,41.6,47,CB,180cm,Left
+410992,J. Rivera,29,Vietnam,"Best, Lawson and Patton",Orozco-Potts (Sao Tome and Principe),€250,€0,44.4,36.7,46.3,47.3,47,CAM,154cm,Right
+978364,James Martin,35,Gibraltar,Medina PLC,Premier League (England),€250,€0,30.2,48.3,39.4,42.1,47,RW,172cm,Left
+679951,M. Lane,34,Sao Tome and Principe,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€250,€0,14.7,23.7,50.3,33.6,46,CB,202cm,Left
+827664,John Jr.,23,Australia,"Carter, Evans and Simon",Premier League (England),€250,€0,13.5,35.0,50.2,33.7,46,CB,162cm,Left
+992481,Reid,45,Somalia,Baker Inc,Premier League (England),€250,€0,47.2,14.1,40.5,20.2,46,CB,153cm,Left
+984805,Nicholas Jr.,33,Gibraltar,Parker LLC,"Douglas, Wood and Conley (Brunei Darussalam)",€250,€0,35.3,49.1,33.2,36.8,46,CDM,176cm,Right
+681825,Paul Lee,52,Brunei Darussalam,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€250,€0,27.4,27.9,30.4,50.6,46,GK,201cm,Right
+535414,J. Johnson,23,Pitcairn Islands,Campbell-Lopez,"Douglas, Wood and Conley (Brunei Darussalam)",€250,€0,13.2,32.1,17.8,50.6,46,RW,207cm,Left
+671875,D. Miller,32,French Polynesia,Griffin-Tucker,Premier League (England),€250,€0,46.4,32.6,27.1,40.2,45,CB,156cm,Left
+992750,Johnson,28,Cameroon,Manchester United,Rogers Ltd (French Polynesia),€250,€0,23.6,13.5,50.5,28.0,45,CF,187cm,Left
+642608,I. Neal,27,French Polynesia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€250,€0,30.3,48.0,34.9,16.4,45,CDM,210cm,Left
+329390,J. Mann,33,Sao Tome and Principe,Armstrong-Owens,"Douglas, Wood and Conley (Brunei Darussalam)",€250,€0,17.5,52.4,16.0,20.1,44,CM,197cm,Left
+649386,M. Henson,40,Gibraltar,"Harvey, Nguyen and Smith",Premier League (England),€250,€0,34.7,22.0,47.0,34.6,44,CB,171cm,Left
+737379,M. Peterson,28,Pitcairn Islands,Wilson Ltd,Premier League (England),€0,€0,46.3,32.1,12.5,31.1,43,CAM,163cm,Right
+404286,K. Stephens,20,Cameroon,Perez-Hicks,"Douglas, Wood and Conley (Brunei Darussalam)",€0,€0,24.7,28.0,39.6,43.9,43,RW,162cm,Left
+789400,G. Pennington,45,Brunei Darussalam,Howard and Sons,Premier League (England),€250,€0,39.7,22.4,44.2,38.1,43,RW,199cm,Left
+11746,B. Baker,34,French Polynesia,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€0,€0,19.3,22.4,34.8,45.4,43,CB,203cm,Left
+745676,J. Valenzuela,28,Pitcairn Islands,Holmes and Sons,Orozco-Potts (Sao Tome and Principe),€0,€0,31.3,26.6,22.9,45.3,42,CB,161cm,Left
+688528,Michael Cox,28,Brunei Darussalam,"Nguyen, Bennett and Peterson",Larson and Sons (Australia),€0,€0,42.4,42.3,23.9,41.4,42,CAM,199cm,Right
+967476,M. Lee,19,Australia,"Wells, Kelly and Cox",Premier League (England),€0,€0,27.6,44.4,36.3,26.3,42,CB,169cm,Left
+395361,B. Mathis,26,Australia,Garza-Scott,"Peterson, Davenport and Shelton (Pitcairn Islands)",€0,€0,21.0,18.9,34.8,43.9,42,CB,166cm,Left
+649348,M. Young,25,Pitcairn Islands,Wilson Ltd,Premier League (England),€0,€0,26.2,36.6,42.5,40.0,42,RWB,161cm,Right
+246135,C. Maynard,38,Sao Tome and Principe,"Salazar, Moore and Mueller",Larson and Sons (Australia),€0,€0,33.2,41.5,35.6,40.6,41,RW,186cm,Left
+910694,J. Wall,31,Vietnam,Hernandez-Adams,Premier League (England),€0,€0,43.0,35.0,23.1,28.0,41,CAM,197cm,Right
+806509,D. Roberts,51,Gibraltar,"Hunt, Ortega and Howell",Premier League (England),€0,€0,43.8,34.6,26.3,10.2,41,CB,153cm,Left
+880463,G. Bell,19,Cameroon,Kennedy PLC,Torres Inc (Cameroon),€0,€0,41.1,38.9,16.1,32.5,41,CAM,191cm,Right
+610223,C. Sanchez,32,Pitcairn Islands,"Salazar, Moore and Mueller",Larson and Sons (Australia),€0,€0,28.9,43.6,12.4,34.8,41,CDM,159cm,Right
+542658,K. Mason,52,Gibraltar,Garcia-Rosario,"Peterson, Davenport and Shelton (Pitcairn Islands)",€0,€0,14.8,7.5,43.3,20.2,38,CB,170cm,Left
+872187,A. Decker,32,Brunei Darussalam,Hernandez-Adams,Premier League (England),€0,€0,27.7,16.3,40.3,30.1,38,CB,189cm,Left
+25238,David Jr.,21,Cameroon,"Harvey, Nguyen and Smith",Premier League (England),€0,€0,37.0,23.8,37.0,17.8,37,CB,173cm,Left
+683079,S. Mueller,28,Vietnam,Schroeder Group,Orozco-Potts (Sao Tome and Principe),€0,€0,31.0,17.8,26.1,38.7,37,CB,168cm,Left
+493557,B. Miller,25,Australia,Strickland-Chen,"Peterson, Davenport and Shelton (Pitcairn Islands)",€0,€0,20.8,39.5,12.4,26.5,36,CB,199cm,Left
+232422,B. Rios,30,Vietnam,Maldonado and Sons,Larson and Sons (Australia),€0,€0,8.6,25.9,17.5,38.9,36,RW,176cm,Left
+536375,T. Meza,24,Vietnam,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€0,€0,20.3,27.2,23.4,39.2,36,RW,154cm,Left
+984734,Juan Jr.,26,Sao Tome and Principe,Garcia Group,Cook-Conway (Solomon Islands),€0,€0,37.0,24.4,22.7,28.4,35,CB,168cm,Left
+739345,Zachary Russell,35,Cameroon,FC Bayern München,Premier League (England),€0,€0,16.3,6.0,24.0,38.2,35,CB,157cm,Left
+649818,E. Anderson,21,Somalia,Grant-Wong,Premier League (England),€0,€0,34.2,24.0,12.1,26.2,32,CB,158cm,Left
+117838,P. Perez,21,Australia,"Dennis, Mata and Green",Larson and Sons (Australia),€0,€0,16.2,5.2,12.6,36.0,31,CB,205cm,Left
+397119,G. Acosta,44,Pitcairn Islands,Hernandez-Adams,Premier League (England),€0,€0,30.4,28.9,30.7,26.2,31,CB,182cm,Left
+950883,J. Lucero,34,Cameroon,Ward Group,Premier League (England),€0,€0,32.7,16.5,18.5,17.0,29,CB,179cm,Left
+288231,C. Pope,20,French Polynesia,Liverpool,"Douglas, Wood and Conley (Brunei Darussalam)",€0,€0,14.3,7.1,23.5,27.7,27,CB,172cm,Left

@@ -1,0 +1,82 @@
+{
+  "q1": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "stats_player_158023"
+  },
+  "q2": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "highest_valued_stats"
+  },
+  "q3": {
+    "format": "TEXT_FORMAT",
+    "answer": "highest_wage_nationality"
+  },
+  "q4": {
+    "format": "TEXT_FORMAT",
+    "answer": "highest_wage_position"
+  },
+  "q5": {
+    "format": "TEXT_FORMAT_UNORDERED_LIST",
+    "answer": "premier_league_teams"
+  },
+  "q6": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "preferred_foot_count"
+  },
+  "q7": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "preferred_foot_avg_overall"
+  },
+  "q8": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "positions_count"
+  },
+  "q9": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "positions_avg_age"
+  },
+  "q10": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "positions_avg_height"
+  },
+  "q11": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "positions_avg_attacking"
+  },
+  "q12": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "positions_avg_movement"
+  },
+  "q13": {
+    "format": "TEXT_FORMAT",
+    "answer": "best_defending_position"
+  },
+  "q14": {
+    "format": "TEXT_FORMAT",
+    "answer": "best_cdm_man_utd_id"
+  },
+  "q15": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "best_rw_liverpool"
+  },
+  "q16": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "best_starters_of_psg"
+  },
+  "q17": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "best_starters_of_bayern"
+  },
+  "q18": {
+    "format": "TEXT_FORMAT",
+    "answer": "bench_value_barcelona"
+  },
+  "q19": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "avg_attacking_prem_league"
+  },
+  "q20": {
+    "format": "TEXT_FORMAT",
+    "answer": "best_attackers_prem_league"
+  }
+}

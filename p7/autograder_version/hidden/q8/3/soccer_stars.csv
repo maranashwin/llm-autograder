@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+600150,Paul Jr.,20,Croatia,Jones Group,Premier League (England),€249.9M,€490K,91.9,91.9,27.0,66.5,92,CF,190cm,Right
+443986,P. Velazquez,28,El Salvador,Jones Group,Premier League (England),€193.4M,€496K,80.8,93.0,14.6,61.5,90,CF,152cm,Right
+673782,Francisco Jr.,45,Tajikistan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€191.5M,€493K,92.5,81.0,46.2,59.9,90,CF,199cm,Right
+240240,Pennington,24,South Africa,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€189.4M,€496K,87.5,91.4,25.8,52.0,90,CF,167cm,Right
+779800,J. Ward,22,Sudan,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€188.4M,€488K,88.8,88.4,50.1,45.0,89,LWB,210cm,Left
+813950,Ryan Walsh,32,Sudan,Becker-Koch,Ryan-Dyer (Mali),€188.2M,€475K,51.7,94.8,70.2,29.1,89,RW,181cm,Right
+880433,J. Houston,27,El Salvador,Cox Group,Premier League (England),€187.7M,€481K,80.2,91.5,26.4,20.8,89,CB,159cm,Right
+372581,K. Sanders,32,Antigua and Barbuda,Williams-Schmidt,Stewart Group (Chile),€195.5M,€486K,26.2,76.1,19.9,93.0,89,CM,188cm,Right
+713958,S. Wright,17,Croatia,Day-Chambers,Cooper Group (Botswana),€182M,€466K,71.9,93.7,23.7,55.0,88,CF,210cm,Right
+680176,P. Hernandez,24,Botswana,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€189.1M,€441K,61.3,93.9,25.6,66.0,87,CF,165cm,Right
+361174,P. Turner,29,Benin,Reyes Ltd,Premier League (England),€179.3M,€549K,88.0,84.9,39.8,15.3,87,LWB,194cm,Left
+771769,S. Smith,24,Antigua and Barbuda,Becker-Koch,Ryan-Dyer (Mali),€185.1M,€472K,87.3,87.5,27.7,58.9,87,CF,185cm,Right
+896874,M. Haney,25,El Salvador,Jones Group,Premier League (England),€175.4M,€438K,63.0,93.9,65.0,45.6,87,RW,207cm,Right
+206052,W. Holt,30,South Africa,Bender Inc,Rivas Inc (Botswana),€178.7M,€430K,35.7,92.9,67.0,18.1,86,RW,162cm,Right
+321451,J. Lopez,31,Tajikistan,Woods-Perry,Premier League (England),€173.2M,€449K,68.3,91.3,19.8,57.3,86,CB,210cm,Right
+698603,A. Santiago,31,Chile,Stewart-Nelson,Stewart Group (Chile),€173M,€440K,88.8,57.0,76.6,21.5,86,RM,191cm,Left
+364464,J. Warren,48,Antigua and Barbuda,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€172.9M,€427K,87.8,82.1,29.3,43.7,86,LWB,196cm,Left
+499799,Scott Ward,42,Antigua and Barbuda,Woods-Perry,Premier League (England),€166.3M,€420K,23.6,73.5,17.5,88.2,85,CM,198cm,Right
+909401,C. Arellano,26,South Africa,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€159.9M,€419K,87.2,79.3,17.9,67.1,85,CF,155cm,Right
+106675,Curtis Jr.,29,El Salvador,"Perkins, Salas and Weeks",Premier League (England),€172.2M,€439K,88.7,72.7,31.2,24.2,85,LWB,204cm,Left
+238118,Smith,28,Tajikistan,Harvey LLC,Premier League (England),€149.4M,€419K,55.2,94.6,48.7,38.5,85,RW,154cm,Right
+771245,C. Turner,35,Mali,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€151.5M,€408K,83.7,84.9,36.3,66.0,85,CF,155cm,Right
+764025,W. Daniel,21,South Africa,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€172.7M,€414K,89.7,46.2,71.6,21.0,85,RM,166cm,Left
+117731,Thomas,25,South Africa,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€151.8M,€411K,85.5,36.0,39.8,81.7,85,CF,156cm,Left
+576685,A. Brady,23,Croatia,Carroll LLC,Rivas Inc (Botswana),€157.4M,€413K,89.4,71.0,23.8,31.3,85,LWB,167cm,Left
+102326,Wilson,30,Tajikistan,Cardenas Inc,Premier League (England),€147.1M,€406K,91.2,60.7,35.2,68.0,85,CF,170cm,Right
+270355,Z. Ruiz,27,El Salvador,Martin Inc,Rivas Inc (Botswana),€141.7M,€398K,76.3,30.5,86.5,43.2,84,CAM,169cm,Left
+721166,M. Richardson,27,Benin,Day-Chambers,Cooper Group (Botswana),€148.5M,€407K,88.1,58.4,20.5,72.8,84,CF,156cm,Left
+648001,R. Russell,20,Benin,Cox Group,Premier League (England),€143.9M,€396K,77.7,86.2,21.3,25.5,84,CB,182cm,Right
+394097,Mendoza,25,Antigua and Barbuda,Whitney-Boyle,Ryan-Dyer (Mali),€139.5M,€408K,89.3,51.3,67.4,36.1,84,RM,166cm,Left
+230721,K. Smith,30,Chile,Cox Group,Premier League (England),€139.4M,€385K,82.9,84.4,46.0,69.0,84,CF,188cm,Right
+108000,J. Vaughn,28,Tajikistan,"Perkins, Salas and Weeks",Premier League (England),€138M,€395K,78.1,42.6,86.1,42.2,84,CAM,196cm,Left
+534598,B. Warner,22,Tajikistan,FC Bayern München,Premier League (England),€132.2M,€372K,15.9,79.5,85.0,63.0,84,CDM,166cm,Left
+871300,M. Curry,24,Mali,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€134.5M,€398K,71.2,87.8,10.5,30.3,84,CB,151cm,Right
+634015,C. Cross,29,Botswana,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€133.3M,€378K,30.2,74.9,49.6,86.9,84,CM,167cm,Right
+912954,M. Ho,21,Antigua and Barbuda,Manchester United,"Jones, Acevedo and Scott (Croatia)",€128.3M,€381K,87.7,70.0,47.5,54.7,84,CDM,166cm,Left
+65541,N. Garcia,27,Tajikistan,"Perkins, Salas and Weeks",Premier League (England),€125.3M,€367K,35.6,49.6,65.7,88.3,83,GK,162cm,Right
+213989,M. Walter,23,Sudan,Ruiz-Hanson,Ryan-Dyer (Mali),€125.8M,€361K,89.9,62.4,64.0,44.2,83,RM,186cm,Left
+509365,R. Bennett,28,Antigua and Barbuda,Reyes Ltd,Premier League (England),€140.4M,€367K,73.6,86.4,45.7,38.8,83,CF,164cm,Right
+985121,B. Larson,24,Croatia,"Marsh, Fields and Edwards",Premier League (England),€122.1M,€363K,79.5,84.3,18.3,48.9,83,CB,201cm,Right
+837687,C. Marshall,32,Tajikistan,Harvey LLC,Premier League (England),€116.2M,€357K,45.7,92.1,54.3,52.5,83,RW,204cm,Right
+445243,M. Coleman,30,Tajikistan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€112.5M,€375K,85.8,63.5,17.8,73.6,83,CF,180cm,Right
+306052,D. Compton,39,El Salvador,Paris Saint Germain,Premier League (England),€112.2M,€353K,62.5,87.3,58.9,68.4,83,LB,189cm,Left
+183185,V. Murray,22,Croatia,"Simon, Robinson and Jones",Premier League (England),€125.7M,€351K,84.3,77.6,43.2,40.5,83,CF,202cm,Right
+502906,S. Walker,21,Antigua and Barbuda,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€108.3M,€326K,29.4,75.7,16.1,84.8,83,CM,196cm,Right
+659025,R. Ross,27,Croatia,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€119.6M,€330K,85.3,40.9,75.8,27.2,83,RM,187cm,Left
+855654,Adam Reynolds,33,Mali,Stewart-Nelson,Stewart Group (Chile),€108M,€327K,67.3,87.9,19.3,29.4,83,CB,150cm,Right
+249681,S. Potter,23,Armenia,Stewart-Nelson,Stewart Group (Chile),€103.1M,€350K,33.9,85.4,76.4,30.8,83,RW,159cm,Right
+782169,M. Perez,30,El Salvador,"Banks, Olsen and Cook",Cooper Group (Botswana),€99.4M,€313K,83.6,56.1,81.2,27.6,83,RM,188cm,Left
+434225,S. Garcia,21,El Salvador,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€106.7M,€307K,57.2,90.1,53.2,40.4,82,RW,186cm,Right
+98,D. Dodson,29,Botswana,"Huber, Price and Carroll",Ryan-Dyer (Mali),€103.1M,€310K,81.4,40.0,51.8,81.9,82,CF,165cm,Left
+729200,R. Bell,24,Armenia,FC Barcelona,Ryan-Dyer (Mali),€101.6M,€339K,36.2,74.7,19.2,84.1,82,CM,197cm,Right
+737605,B. Guzman,27,Armenia,Carroll LLC,Rivas Inc (Botswana),€99M,€319K,85.8,44.8,48.6,71.0,82,CF,200cm,Left
+246489,P. Welch,33,Benin,"Obrien, Medina and Owens",Premier League (England),€88.9M,€295K,61.3,89.1,46.7,16.6,82,RW,179cm,Right
+549695,C. Thompson,30,Benin,"Perkins, Salas and Weeks",Premier League (England),€88.9M,€300K,74.0,84.5,34.1,71.2,82,CF,191cm,Right
+34002,Richard Dean,24,Botswana,Martin Inc,Rivas Inc (Botswana),€101.9M,€300K,47.5,75.8,84.4,43.5,82,CDM,207cm,Left
+468292,C. Jenkins,24,El Salvador,Woods-Perry,Premier League (England),€88.3M,€304K,89.2,62.4,58.9,20.2,82,RM,165cm,Left
+99793,Nathan Gilmore,25,Botswana,Ruiz-Hanson,Ryan-Dyer (Mali),€98.8M,€287K,69.8,17.8,86.4,56.6,82,CAM,193cm,Left
+575109,W. Scott,21,Antigua and Barbuda,Williams-Schmidt,Stewart Group (Chile),€86.9M,€289K,86.5,38.3,22.1,69.6,82,CF,210cm,Left
+788208,C. Howard,32,Tajikistan,Bender Inc,Rivas Inc (Botswana),€84M,€294K,41.2,76.9,30.8,84.3,82,RB,154cm,Left
+747599,R. Buck,31,Sudan,Cox Group,Premier League (England),€76.8M,€280K,82.4,49.4,80.9,46.1,82,RM,188cm,Left
+174300,S. Hicks,34,Antigua and Barbuda,Williams-Schmidt,Stewart Group (Chile),€81.7M,€287K,79.1,83.6,16.5,72.3,82,CF,184cm,Right
+297253,G. Allen,28,El Salvador,Paris Saint Germain,Premier League (England),€86.4M,€293K,19.1,60.6,17.6,89.4,82,CM,208cm,Right
+485775,Bruce Jr.,26,Botswana,"Obrien, Medina and Owens",Premier League (England),€83.1M,€282K,82.3,59.3,80.9,39.4,82,RM,175cm,Left
+297490,G. Meadows,25,Chile,Stewart-Nelson,Stewart Group (Chile),€72.7M,€281K,57.2,46.5,90.3,53.8,82,CAM,169cm,Left
+543815,Robert Jr.,20,El Salvador,Day-Chambers,Cooper Group (Botswana),€70.2M,€273K,56.7,89.8,42.3,29.4,82,ST,162cm,Left
+806063,Johnson,29,Croatia,Reyes Ltd,Premier League (England),€74.1M,€275K,33.5,71.6,85.7,32.4,82,CDM,202cm,Left
+773481,K. Soto,22,Mali,"Banks, Olsen and Cook",Cooper Group (Botswana),€81.5M,€269K,29.9,77.2,83.8,42.8,82,CDM,191cm,Left
+839306,R. Stewart,26,Sudan,Ellis-Hill,Rivas Inc (Botswana),€70M,€260K,83.9,56.5,35.5,77.4,82,CF,175cm,Left
+880334,Velazquez,29,South Africa,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€62.6M,€264K,29.3,75.1,34.5,84.3,82,CM,205cm,Right
+274271,Richard Jr.,30,South Africa,"Marsh, Fields and Edwards",Premier League (England),€66.5M,€234K,19.3,56.3,41.9,90.8,82,CM,166cm,Right
+765879,J. Sanchez,28,Mali,Carroll LLC,Rivas Inc (Botswana),€75.1M,€273K,59.5,86.6,36.8,69.9,82,CF,209cm,Right
+876867,D. Cruz,49,Croatia,Liverpool,Jimenez Ltd (Tajikistan),€64.1M,€250K,86.4,57.2,66.1,39.0,82,RW,203cm,Left
+853894,R. Santiago,27,Croatia,"Rose, Crawford and Giles",Cooper Group (Botswana),€61.6M,€224K,42.0,48.5,51.7,90.8,81,CM,168cm,Right
+624768,Anthony Jr.,32,Chile,Stewart-Nelson,Stewart Group (Chile),€61.5M,€228K,53.3,44.1,90.3,34.7,81,CAM,182cm,Left
+641256,Dixon,20,South Africa,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€58.8M,€234K,89.0,58.2,22.3,20.6,81,CAM,202cm,Right
+624988,M. Thompson,26,Sudan,"Perkins, Salas and Weeks",Premier League (England),€43M,€218K,21.2,83.5,74.8,38.2,81,CDM,195cm,Right
+215457,Roberts,23,Benin,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€51.8M,€208K,88.7,43.9,56.0,47.3,81,CAM,204cm,Right
+526882,Joshua Jr.,27,Benin,Cox Group,Premier League (England),€37.1M,€220K,77.2,82.3,41.0,69.9,81,CF,198cm,Right
+936794,A. Perez,32,Chile,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€54M,€209K,76.2,82.7,26.0,21.2,81,LB,156cm,Right
+289636,Jones,25,Tajikistan,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€35.8M,€200K,76.3,83.0,20.3,45.8,81,GK,174cm,Left
+298133,J. Gray,24,Sudan,Whitney-Boyle,Ryan-Dyer (Mali),€31.1M,€210K,13.6,59.5,56.7,87.8,81,RB,185cm,Left
+36037,R. Huber,22,Benin,Reyes Ltd,Premier League (England),€51.4M,€207K,76.8,82.4,25.1,70.2,81,CF,207cm,Right
+699628,J. Brown,20,Chile,Harvey LLC,Premier League (England),€34.2M,€196K,38.3,85.6,52.3,65.6,81,CM,203cm,Right
+577350,L. Cline,54,Benin,Reynolds-Buckley,Premier League (England),€30.8M,€196K,49.6,26.9,90.8,50.1,81,CAM,191cm,Left
+946093,W. Dunlap,28,Armenia,FC Bayern München,Premier League (England),€29.3M,€195K,72.1,84.4,30.6,40.6,81,LB,192cm,Right
+540886,B. Miller,23,Armenia,Russell LLC,Ryan-Dyer (Mali),€23.5M,€199K,72.3,82.7,40.5,66.7,80,LB,162cm,Left
+844351,Z. Bautista,47,Antigua and Barbuda,Whitney-Boyle,Ryan-Dyer (Mali),€28.5M,€181K,45.1,34.3,92.0,41.6,80,CB,160cm,Left
+795317,Kyle Jr.,23,South Africa,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€15.3M,€161K,72.7,82.4,18.2,44.0,80,GK,209cm,Left
+803596,B. Collier,29,Botswana,Stewart-Nelson,Stewart Group (Chile),€12.1M,€162K,7.8,72.1,33.0,82.7,80,CM,191cm,Right
+836714,Jeffery Martin,33,Chile,"Simon, Robinson and Jones",Premier League (England),€10M,€170K,35.1,82.2,69.8,73.7,80,CDM,181cm,Right
+829308,George Jr.,24,South Africa,"Solis, Estrada and Bell",Premier League (England),€9.9M,€159K,67.5,83.9,26.8,10.0,80,LB,200cm,Right
+509990,Samuel Jr.,16,Botswana,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€9.5M,€145K,11.3,76.1,54.9,81.3,80,RB,199cm,Left
+862519,D. Alexander,31,Antigua and Barbuda,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€9.9M,€179K,81.1,77.7,9.9,37.7,80,CB,173cm,Right
+625311,T. Taylor,35,Sudan,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€17.8M,€151K,64.9,81.2,77.7,68.1,80,LB,181cm,Left
+945001,J. Hill,34,Croatia,Becker-Koch,Ryan-Dyer (Mali),€9.9M,€140K,82.5,71.8,39.5,19.6,80,LWB,160cm,Left
+658350,T. Pierce,25,Chile,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€9.5M,€133K,61.2,85.1,65.0,32.6,80,RW,160cm,Right
+683164,M. Jones,30,Tajikistan,Jones Group,Premier League (England),€9.5M,€132K,36.7,85.9,61.3,47.4,80,CDM,207cm,Right
+396888,N. Andrews,27,Mali,"Rose, Crawford and Giles",Cooper Group (Botswana),€9.9M,€143K,51.7,88.6,42.8,53.1,80,CB,187cm,Right
+85792,Bradley Silva,51,Armenia,Ruiz-Hanson,Ryan-Dyer (Mali),€9.5M,€138K,36.9,70.0,83.1,60.5,80,CDM,177cm,Left
+413588,O. Jones,21,Botswana,FC Barcelona,Ryan-Dyer (Mali),€9.5M,€115K,66.4,84.0,49.0,42.7,80,RW,205cm,Right
+827557,A. Moss,32,Tajikistan,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€9.3M,€117K,37.4,84.5,46.6,62.0,79,ST,159cm,Left
+491741,Jackson,31,Benin,Carter PLC,Premier League (England),€9.3M,€126K,52.0,59.8,85.1,38.3,79,CDM,181cm,Left
+336465,W. Casey,53,Tajikistan,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€9.4M,€123K,65.1,41.1,30.2,83.8,79,GK,179cm,Right
+598648,C. Buck,30,Sudan,Ruiz-Hanson,Ryan-Dyer (Mali),€9.2M,€109K,60.8,85.5,24.2,55.4,79,ST,207cm,Left
+262783,J. Kidd,39,Chile,Day-Chambers,Cooper Group (Botswana),€9.2M,€106K,59.1,80.3,75.5,53.2,79,LB,170cm,Left
+369343,M. Riddle,29,Chile,Day-Chambers,Cooper Group (Botswana),€9.2M,€112K,62.1,84.2,61.7,24.5,79,LB,153cm,Right
+787491,J. Williamson,32,Sudan,Becker-Koch,Ryan-Dyer (Mali),€9.4M,€114K,89.7,33.6,21.8,45.7,79,CAM,150cm,Right
+869422,Christopher Wright,27,Benin,"Banks, Olsen and Cook",Cooper Group (Botswana),€9M,€101K,79.9,68.5,50.3,78.0,79,CF,187cm,Left
+320650,J. Charles,20,Mali,Manchester United,"Jones, Acevedo and Scott (Croatia)",€9M,€100K,44.6,85.1,51.6,59.7,79,CM,166cm,Right
+353695,J. Murphy,46,Mali,"Solis, Estrada and Bell",Premier League (England),€9.1M,€100K,50.0,86.8,53.7,30.7,79,RW,156cm,Right
+394857,B. Brown,44,Mali,Bender Inc,Rivas Inc (Botswana),€9M,€108K,10.0,80.3,41.8,74.2,79,CM,164cm,Right
+231176,C. Taylor,28,Chile,"Marsh, Fields and Edwards",Premier League (England),€8.8M,€101K,50.8,54.0,86.3,56.9,79,CAM,192cm,Left
+649000,Kenneth Chavez,31,Antigua and Barbuda,Jones Group,Premier League (England),€8.9M,€100K,64.9,83.2,54.6,37.1,79,LW,180cm,Right
+321387,L. Cook,20,Benin,Ruiz-Hanson,Ryan-Dyer (Mali),€8.8M,€100K,79.6,70.4,31.2,75.5,79,CF,154cm,Left
+649171,W. Diaz,22,Benin,Woods-Perry,Premier League (England),€8.9M,€100K,88.9,47.4,42.2,49.6,79,CF,199cm,Left
+927838,K. Carrillo,24,Chile,FC Bayern München,Premier League (England),€8.8M,€99K,32.1,86.4,57.9,22.1,79,RW,182cm,Right
+862536,R. Robinson,31,Antigua and Barbuda,Russell LLC,Ryan-Dyer (Mali),€8.8M,€100K,82.5,67.2,31.0,50.5,79,LWB,183cm,Left
+289461,C. Murray,26,Sudan,Harvey LLC,Premier League (England),€8.8M,€100K,34.3,86.7,55.4,31.4,79,ST,161cm,Left
+306218,J. Williams,25,Benin,Harvey LLC,Premier League (England),€8.8M,€99K,80.0,76.6,35.7,39.3,79,GK,184cm,Left
+838984,Patrick Jr.,22,Chile,Paris Saint Germain,Premier League (England),€8.5M,€99K,43.7,80.0,76.7,47.3,79,RW,204cm,Right
+327765,Garcia,42,El Salvador,Cox Group,Premier League (England),€8.5M,€98K,46.1,46.4,84.7,58.0,78,CAM,198cm,Left
+844013,M. Hughes,23,Antigua and Barbuda,Harrison Inc,Jimenez Ltd (Tajikistan),€8.7M,€99K,74.7,44.8,49.4,78.9,78,CF,189cm,Left
+532960,Shane Jr.,23,El Salvador,Martin Inc,Rivas Inc (Botswana),€8.7M,€98K,64.5,52.8,82.8,43.3,78,CAM,177cm,Left
+205500,C. Smith,26,Tajikistan,Harrison Inc,Jimenez Ltd (Tajikistan),€9M,€98K,79.2,27.1,24.2,74.8,78,RM,179cm,Right
+885710,Nicholas Jr.,46,Antigua and Barbuda,Ruiz-Hanson,Ryan-Dyer (Mali),€8.5M,€98K,83.9,61.1,22.6,31.2,78,LWB,185cm,Left
+279642,J. Leblanc,32,Armenia,Harrison Inc,Jimenez Ltd (Tajikistan),€8.5M,€98K,25.7,71.1,80.2,31.6,78,CDM,178cm,Left
+959720,Montgomery,23,Mali,"Simon, Robinson and Jones",Premier League (England),€8.5M,€98K,55.0,85.3,37.9,32.4,78,ST,205cm,Left
+664991,D. Chapman,21,Benin,FC Bayern München,Premier League (England),€8.5M,€98K,83.6,60.5,20.4,47.6,78,CAM,195cm,Right
+247438,A. Smith,28,Mali,Hamilton-West,Premier League (England),€8.5M,€98K,20.1,64.2,82.8,28.1,78,CDM,186cm,Left
+59321,Mark Jr.,27,Benin,Carroll LLC,Rivas Inc (Botswana),€8.4M,€97K,65.2,44.5,82.7,21.7,78,CAM,205cm,Left
+559040,A. Moore,35,Botswana,Harvey LLC,Premier League (England),€8.5M,€97K,20.5,64.7,82.2,39.5,78,CDM,176cm,Left
+772286,P. Robles,17,Sudan,Liverpool,Jimenez Ltd (Tajikistan),€8.5M,€97K,29.2,77.8,33.5,77.6,78,RB,175cm,Left
+362695,C. Gonzalez,30,Sudan,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€8.3M,€97K,89.9,32.5,42.4,33.2,78,RM,201cm,Left
+59853,A. Nichols,31,Croatia,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€8.3M,€97K,84.7,58.1,53.7,53.7,78,RM,198cm,Left
+601154,Greene,16,El Salvador,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€8.3M,€97K,81.8,65.2,49.2,16.9,78,LWB,209cm,Left
+707700,J. Rosario,24,Tajikistan,Carter PLC,Premier League (England),€8.1M,€96K,85.3,56.7,43.2,46.3,78,RM,198cm,Left
+224379,T. Rose,28,El Salvador,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€8.1M,€97K,78.5,31.4,35.9,75.7,78,RM,151cm,Right
+183462,A. Whitehead,32,Mali,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€8.1M,€96K,32.7,84.5,58.8,51.7,78,CDM,179cm,Right
+806108,S. Jackson,22,Tajikistan,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€8.1M,€96K,47.6,87.3,37.7,50.9,78,CB,190cm,Right
+118048,T. Sanders,21,Croatia,Carter PLC,Premier League (England),€8.1M,€96K,67.3,16.2,81.9,24.4,78,CAM,187cm,Left
+388509,J. Austin,33,Sudan,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€8.3M,€96K,37.7,52.4,33.6,86.6,78,CM,161cm,Right
+827467,K. Weaver,26,Croatia,Williams-Schmidt,Stewart Group (Chile),€8.1M,€96K,88.3,29.1,29.5,43.3,77,CAM,201cm,Right
+729455,J. Johnson,29,Botswana,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€8M,€96K,42.1,82.3,59.6,22.8,77,LB,163cm,Right
+565793,M. Hughes,32,Mali,Russell LLC,Ryan-Dyer (Mali),€7.9M,€95K,80.4,51.8,21.2,67.7,77,CF,162cm,Left
+697075,Joseph Collier,32,Tajikistan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€7.8M,€95K,82.1,29.0,57.9,61.0,77,RM,158cm,Right
+869137,A. Middleton,20,Mali,Reyes Ltd,Premier League (England),€7.8M,€96K,21.8,84.1,51.8,55.3,77,CM,153cm,Right
+238396,Kenneth Jr.,27,Botswana,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€7.8M,€95K,14.9,84.5,36.0,53.6,77,CM,191cm,Right
+918639,J. Salazar,21,Botswana,"Obrien, Medina and Owens",Premier League (England),€7.6M,€94K,44.5,82.9,49.9,57.8,77,ST,205cm,Left
+705657,S. Rich,31,South Africa,"Solis, Estrada and Bell",Premier League (England),€7.7M,€95K,45.9,69.3,79.5,62.5,77,CDM,205cm,Left
+853132,M. Campos,29,South Africa,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€8.1M,€95K,82.1,44.3,33.0,60.4,77,RM,181cm,Right
+599208,J. Gordon,27,Benin,Stewart-Nelson,Stewart Group (Chile),€7.7M,€95K,78.8,72.7,19.2,60.8,77,CF,151cm,Right
+541900,R. Rodriguez,33,Sudan,"Huber, Price and Carroll",Ryan-Dyer (Mali),€7.6M,€94K,23.8,82.5,25.3,59.6,77,CM,172cm,Right
+304593,K. Curry,48,Croatia,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€7.5M,€94K,75.9,42.3,42.2,78.0,77,RM,166cm,Right
+1612,W. Armstrong,27,Benin,"Obrien, Medina and Owens",Premier League (England),€7.5M,€94K,67.6,79.8,28.9,16.7,77,LB,209cm,Right
+517960,K. Walker,20,Mali,Whitney-Boyle,Ryan-Dyer (Mali),€7.6M,€95K,84.5,53.4,47.6,45.5,77,CF,150cm,Left
+132985,Jack Jr.,34,Croatia,Reyes Ltd,Premier League (England),€7.7M,€93K,43.4,82.7,60.6,31.4,77,LW,150cm,Right
+337810,A. Cooper,26,Armenia,Whitney-Boyle,Ryan-Dyer (Mali),€7.3M,€93K,70.9,78.4,39.0,47.3,77,CB,189cm,Right
+174686,D. Ball,34,Antigua and Barbuda,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€7.3M,€93K,79.5,69.6,26.5,43.9,77,LWB,206cm,Left
+182951,D. Hall,27,Botswana,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€7.5M,€93K,58.6,79.4,70.7,54.0,77,LB,210cm,Left
+641711,M. Lewis,26,Tajikistan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€7M,€93K,73.9,77.4,34.0,60.3,77,GK,197cm,Left
+780980,Hampton,32,Benin,Cardenas Inc,Premier League (England),€7.1M,€94K,38.4,47.4,87.5,24.6,77,CB,177cm,Left
+346812,R. Brown,33,Antigua and Barbuda,Harvey LLC,Premier League (England),€7.2M,€93K,48.9,46.6,45.1,86.6,77,GK,204cm,Right
+126244,S. Burnett,29,Croatia,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€7.3M,€93K,62.4,56.2,81.4,17.0,77,RM,168cm,Left
+593540,Ryan Adams,24,South Africa,Russell LLC,Ryan-Dyer (Mali),€7M,€92K,39.7,84.6,53.5,55.2,77,LB,206cm,Left
+254393,C. Floyd,39,El Salvador,Stewart-Nelson,Stewart Group (Chile),€7M,€92K,76.1,75.0,58.8,18.6,76,LB,201cm,Right
+270779,Douglas Foster,29,Croatia,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€7.5M,€93K,74.8,75.2,20.0,76.6,76,CF,196cm,Right
+877253,W. Waters,27,South Africa,Martin Inc,Rivas Inc (Botswana),€7M,€92K,71.6,53.9,65.1,77.0,76,GK,167cm,Right
+779009,M. Wong,28,Armenia,Cardenas Inc,Premier League (England),€6.6M,€92K,92.2,29.3,24.3,22.8,76,CAM,200cm,Right
+279601,D. Sanchez,28,Botswana,Martin Inc,Rivas Inc (Botswana),€6.6M,€92K,69.5,56.3,78.3,42.2,76,LW,169cm,Right
+705588,M. Krueger,53,South Africa,Woods-Perry,Premier League (England),€6.7M,€92K,76.2,76.5,14.1,32.6,76,LWB,182cm,Left
+304240,S. Simmons,24,South Africa,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€6.6M,€93K,81.5,57.7,40.0,35.0,76,CAM,154cm,Right
+419108,C. French,34,Chile,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€6.4M,€91K,83.7,51.6,25.7,23.6,76,CAM,179cm,Right
+509371,R. Berg,33,Botswana,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€6.6M,€92K,73.9,76.6,27.4,40.2,76,LWB,170cm,Left
+493013,R. Mason,19,South Africa,Day-Chambers,Cooper Group (Botswana),€6.4M,€92K,51.6,55.1,82.3,45.5,76,CDM,161cm,Left
+198207,H. Smith,30,Mali,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€6.4M,€92K,56.0,78.3,70.5,59.8,76,LB,156cm,Left
+312953,M. Randall,20,Benin,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€6.3M,€91K,82.9,32.6,55.2,31.1,76,RM,203cm,Left
+960258,E. Rodriguez,31,Chile,Woods-Perry,Premier League (England),€7M,€91K,15.8,75.8,75.3,42.8,76,CDM,197cm,Left
+75785,W. James,26,El Salvador,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€6.2M,€92K,14.3,82.6,39.1,56.1,76,CM,187cm,Right
+59404,D. Fuller,29,Armenia,Russell LLC,Ryan-Dyer (Mali),€6.3M,€91K,68.4,68.1,24.8,78.0,76,CF,176cm,Right
+215138,J. Hogan,23,Armenia,Stewart-Nelson,Stewart Group (Chile),€6.2M,€90K,41.0,64.4,80.5,48.4,76,CDM,157cm,Left
+117047,R. Hunt,35,El Salvador,Day-Chambers,Cooper Group (Botswana),€6.1M,€91K,73.1,76.5,32.9,58.0,76,GK,151cm,Left
+903481,Owens,21,Croatia,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€6.2M,€91K,48.1,84.8,46.0,12.9,76,LB,193cm,Right
+788965,Thomas,23,Botswana,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€6.3M,€91K,76.5,72.6,49.7,36.0,76,GK,203cm,Left
+969318,N. Herrera,21,Sudan,Russell LLC,Ryan-Dyer (Mali),€6.2M,€90K,17.9,57.3,17.1,81.7,76,CM,200cm,Right
+969672,F. Johnson,30,Mali,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€5.8M,€90K,68.8,78.4,49.5,31.8,76,LB,152cm,Right
+494697,James Jr.,23,Benin,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€5.8M,€90K,46.4,83.6,53.6,35.1,76,CDM,156cm,Right
+462569,Frank Caldwell,20,South Africa,Whitney-Boyle,Ryan-Dyer (Mali),€6M,€91K,73.5,76.2,60.1,24.5,76,LB,189cm,Right
+667456,M. Chapman,35,Tajikistan,"Solis, Estrada and Bell",Premier League (England),€5.8M,€89K,76.4,75.8,35.5,64.7,76,RB,200cm,Right
+282498,Richard Jr.,33,Benin,"Marsh, Fields and Edwards",Premier League (England),€5.9M,€89K,81.1,34.0,24.8,61.9,76,RM,181cm,Right
+716766,J. Newman,30,Mali,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€5.7M,€89K,36.3,79.4,67.0,66.4,76,LB,190cm,Left
+466973,E. Rodriguez,22,Tajikistan,Harrison Inc,Jimenez Ltd (Tajikistan),€5.7M,€90K,75.1,74.8,38.9,40.3,75,CB,175cm,Right
+41077,Adkins,25,Antigua and Barbuda,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€5.7M,€89K,79.6,63.0,39.8,36.2,75,RB,152cm,Right
+196802,Victor Fitzgerald,17,El Salvador,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€5.6M,€89K,58.9,80.6,51.2,24.9,75,LW,158cm,Right
+827641,Stephen Jr.,22,Mali,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€5.5M,€88K,44.0,75.8,64.1,74.3,75,CDM,179cm,Right
+262924,T. Norton,21,Sudan,"Banks, Olsen and Cook",Cooper Group (Botswana),€5.8M,€88K,62.1,78.7,47.3,24.0,75,LWB,194cm,Left
+738123,Jackson,28,Sudan,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€5.3M,€88K,75.2,67.9,37.6,75.4,75,CF,166cm,Right
+459733,C. Johnson,30,Chile,"Rose, Crawford and Giles",Cooper Group (Botswana),€5.4M,€88K,75.0,58.4,74.6,29.2,75,RM,189cm,Left
+222247,J. Ochoa,20,El Salvador,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€5.3M,€88K,69.4,77.3,33.3,36.7,75,CB,167cm,Right
+730195,Ricky Jr.,19,Tajikistan,Reyes Ltd,Premier League (England),€5.6M,€88K,19.5,48.1,31.6,84.5,75,RB,175cm,Left
+836906,B. Cannon,26,Armenia,"Obrien, Medina and Owens",Premier League (England),€5.1M,€88K,82.9,50.2,44.2,21.9,75,LWB,208cm,Left
+697702,Huber,26,Mali,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€5.1M,€88K,65.3,65.5,76.6,70.4,75,LB,155cm,Left
+869795,J. Bernard,27,South Africa,"Marsh, Fields and Edwards",Premier League (England),€5.3M,€88K,59.0,60.2,52.0,79.4,75,CF,191cm,Left
+75251,Daniel Wang,30,Chile,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€5.3M,€88K,8.0,49.3,23.9,83.8,75,RB,207cm,Left
+280070,S. Hernandez,23,Antigua and Barbuda,Carter PLC,Premier League (England),€5.1M,€87K,31.0,40.8,85.8,30.6,75,CDM,174cm,Left
+427634,D. Zimmerman,38,Antigua and Barbuda,Williams-Schmidt,Stewart Group (Chile),€4.9M,€88K,76.1,73.5,55.1,66.0,75,RB,173cm,Right
+575197,J. Paul,21,Armenia,Ruiz-Hanson,Ryan-Dyer (Mali),€4.9M,€87K,53.4,82.1,43.8,48.5,75,CB,152cm,Right
+460511,A. Sutton,31,Armenia,"Rose, Crawford and Giles",Cooper Group (Botswana),€5M,€87K,76.1,44.7,69.9,45.7,75,RM,187cm,Left
+837460,Ashley,32,Antigua and Barbuda,"Solis, Estrada and Bell",Premier League (England),€4.8M,€87K,65.7,8.2,38.6,77.8,75,ST,166cm,Right
+362339,D. Newton,49,Benin,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€4.9M,€86K,25.1,47.6,82.6,50.3,75,CDM,183cm,Left
+427960,R. Chang,26,Antigua and Barbuda,Cardenas Inc,Premier League (England),€4.9M,€87K,67.3,77.8,67.9,51.8,75,RW,162cm,Right
+296917,Roberto Jr.,21,Croatia,Carter PLC,Premier League (England),€4.7M,€86K,67.8,77.4,47.8,34.2,75,RW,209cm,Right
+526382,V. Hansen,22,Sudan,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€4.8M,€86K,78.1,27.4,66.4,34.2,75,CAM,171cm,Left
+264351,Z. Hamilton,33,El Salvador,Thomas-Weiss,Ryan-Dyer (Mali),€4.7M,€87K,37.0,86.0,40.8,39.0,75,ST,193cm,Left
+903395,David Klein,25,South Africa,Hamilton-West,Premier League (England),€4.7M,€86K,64.8,65.1,78.1,45.6,75,LW,173cm,Right
+477425,T. Shields,22,Tajikistan,Paris Saint Germain,Premier League (England),€4.7M,€86K,86.3,37.9,42.1,24.3,75,CAM,201cm,Right
+534977,Jonathan Jr.,35,Antigua and Barbuda,"Simon, Robinson and Jones",Premier League (England),€4.6M,€84K,74.6,52.2,74.6,20.4,75,RM,153cm,Left
+347185,H. Kline,33,Croatia,"Banks, Olsen and Cook",Cooper Group (Botswana),€4.5M,€84K,63.0,49.4,78.8,30.0,75,CAM,188cm,Left
+560556,Adam Copeland,34,Antigua and Barbuda,Liverpool,Jimenez Ltd (Tajikistan),€4.6M,€85K,59.4,16.0,80.3,50.3,75,LM,192cm,Left
+929312,J. Diaz,33,Chile,Whitney-Boyle,Ryan-Dyer (Mali),€4.7M,€85K,47.4,78.9,63.8,27.0,75,RW,206cm,Right
+773748,J. George,31,Armenia,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€4.4M,€84K,33.6,81.6,51.3,55.3,75,CM,158cm,Right
+77435,Z. Porter,26,El Salvador,Paris Saint Germain,Premier League (England),€4.5M,€84K,44.2,48.2,52.6,82.4,75,RB,184cm,Left
+741159,A. Bennett,27,Sudan,FC Barcelona,Ryan-Dyer (Mali),€4.4M,€84K,30.4,70.0,77.0,63.2,75,CDM,205cm,Left
+815061,Nathan Jr.,21,Sudan,"Marsh, Fields and Edwards",Premier League (England),€4.6M,€84K,54.9,66.2,77.4,32.6,75,RM,195cm,Left
+229584,H. Thomas,35,Sudan,"Solis, Estrada and Bell",Premier League (England),€4.1M,€86K,77.0,63.8,25.1,58.8,74,CF,164cm,Right
+803298,J. Winters,21,El Salvador,Harrison Inc,Jimenez Ltd (Tajikistan),€4.3M,€83K,39.5,67.2,76.1,31.6,74,CDM,154cm,Left
+213584,J. Hayes,32,Antigua and Barbuda,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€4.2M,€84K,57.1,34.8,79.7,31.1,74,RM,175cm,Left
+181040,M. Jones,32,Armenia,Jones Group,Premier League (England),€4.4M,€83K,81.3,23.0,52.9,53.1,74,RM,179cm,Right
+9058,T. Underwood,22,Antigua and Barbuda,Ellis-Hill,Rivas Inc (Botswana),€4M,€83K,43.7,62.0,77.5,45.9,74,LB,174cm,Left
+443644,M. Hernandez,33,Tajikistan,Paris Saint Germain,Premier League (England),€4.1M,€83K,72.8,74.0,32.8,54.0,74,LWB,157cm,Left
+533778,C. Shepard,34,Botswana,Carroll LLC,Rivas Inc (Botswana),€4M,€83K,66.3,76.8,23.5,37.3,74,GK,168cm,Left
+648587,Anthony Jr.,31,Sudan,Russell LLC,Ryan-Dyer (Mali),€4.1M,€82K,15.4,71.5,74.9,49.4,74,CDM,151cm,Right
+189861,Tyler,31,Antigua and Barbuda,Hamilton-West,Premier League (England),€3.7M,€82K,78.9,35.6,58.7,23.5,74,CAM,175cm,Left
+509357,Michael Coleman,29,Sudan,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€3.8M,€82K,76.7,54.9,24.7,67.7,74,CF,210cm,Left
+640517,Kenneth Good,26,Chile,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€3.9M,€81K,36.9,74.4,24.7,73.5,74,CM,167cm,Right
+419354,J. Thompson,18,Antigua and Barbuda,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€4.1M,€81K,79.2,59.2,50.5,26.0,74,LWB,183cm,Left
+304730,Corey Jr.,41,Botswana,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€3.6M,€81K,75.1,69.7,29.7,33.2,74,LWB,189cm,Left
+263895,R. King,21,Chile,Carter PLC,Premier League (England),€3.7M,€81K,85.5,31.6,41.1,31.9,74,CAM,176cm,Right
+936179,C. Bright,24,Benin,Russell LLC,Ryan-Dyer (Mali),€3.6M,€82K,7.7,78.0,45.3,61.8,74,RB,156cm,Left
+387403,Morales,27,Antigua and Barbuda,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€3.8M,€81K,68.4,76.4,53.3,13.9,74,LB,160cm,Right
+223631,A. Miller,55,Antigua and Barbuda,Bender Inc,Rivas Inc (Botswana),€3.5M,€81K,11.5,74.7,44.0,73.4,74,CDM,181cm,Right
+67996,J. Hays,21,Armenia,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€3.6M,€80K,50.1,20.9,80.7,54.6,74,CAM,209cm,Left
+133618,G. Hoffman,28,Mali,Reynolds-Buckley,Premier League (England),€3.5M,€81K,21.0,77.5,49.9,62.8,74,RB,191cm,Left
+371375,J. Thompson,19,Mali,Reyes Ltd,Premier League (England),€3.5M,€81K,40.7,49.9,37.8,81.7,74,CM,166cm,Right
+813892,A. Reynolds,28,Antigua and Barbuda,Woods-Perry,Premier League (England),€3.5M,€80K,30.8,70.0,44.4,74.9,74,CM,188cm,Right
+92998,S. Morales,23,Antigua and Barbuda,Ellis-Hill,Rivas Inc (Botswana),€3.3M,€81K,78.5,60.8,24.6,44.1,74,CF,170cm,Right
+887704,F. Hayes,24,South Africa,Reynolds-Buckley,Premier League (England),€3.3M,€79K,80.7,30.4,22.9,54.7,74,RM,175cm,Right
+928934,Antonio Jr.,25,Chile,"Huber, Price and Carroll",Ryan-Dyer (Mali),€3.3M,€80K,85.1,32.8,40.6,35.2,74,CAM,178cm,Right
+576848,E. Haynes,35,El Salvador,"Huber, Price and Carroll",Ryan-Dyer (Mali),€3.3M,€79K,42.4,78.0,64.0,53.9,74,LB,151cm,Left
+339378,Jordan Jr.,50,Croatia,Cox Group,Premier League (England),€3.2M,€79K,9.7,78.8,17.5,58.0,74,CM,208cm,Right
+937605,J. Kennedy,22,Croatia,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€3.3M,€79K,79.0,36.7,27.8,59.3,74,RM,150cm,Right
+352289,J. Powell,29,South Africa,Harrison Inc,Jimenez Ltd (Tajikistan),€3.3M,€78K,77.9,37.5,59.8,14.9,73,RM,170cm,Left
+229450,Dale Bennett,29,Tajikistan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€3.1M,€78K,58.4,76.5,52.0,63.8,73,LB,186cm,Left
+254072,T. Rogers,26,Antigua and Barbuda,Reyes Ltd,Premier League (England),€3.2M,€79K,73.0,54.5,35.4,72.1,73,CF,191cm,Left
+639125,J. Sanchez,31,Armenia,Cox Group,Premier League (England),€3.6M,€77K,43.3,27.9,80.3,50.1,73,CAM,196cm,Left
+827636,Romero,33,Mali,Carroll LLC,Rivas Inc (Botswana),€3M,€78K,65.2,45.1,75.7,34.2,73,LW,169cm,Right
+639278,James Henderson,31,South Africa,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€3M,€77K,72.5,73.4,69.2,36.2,73,LB,155cm,Left
+591077,A. Conrad,23,Antigua and Barbuda,Day-Chambers,Cooper Group (Botswana),€3M,€77K,47.8,81.0,14.0,24.0,73,CB,189cm,Right
+910668,K. Esparza,32,Chile,Cox Group,Premier League (England),€3M,€77K,36.2,40.5,77.1,62.3,73,CDM,169cm,Left
+116115,T. Miller,27,South Africa,Carroll LLC,Rivas Inc (Botswana),€3.2M,€77K,56.2,78.5,42.3,52.9,73,LB,197cm,Left
+58864,Steven Taylor,30,Antigua and Barbuda,Harvey LLC,Premier League (England),€3M,€76K,81.3,49.3,25.9,31.5,73,LB,159cm,Right
+394766,R. Myers,30,El Salvador,Jones Group,Premier League (England),€2.9M,€77K,69.7,10.9,41.4,73.5,73,ST,155cm,Right
+837142,B. Mcfarland,32,El Salvador,Russell LLC,Ryan-Dyer (Mali),€2.9M,€77K,44.8,74.7,27.3,69.6,73,CM,153cm,Right
+878267,R. Wright,32,Chile,"Simon, Robinson and Jones",Premier League (England),€2.9M,€77K,75.5,65.2,50.1,47.1,73,RB,206cm,Right
+608114,C. Price,27,Chile,Williams-Schmidt,Stewart Group (Chile),€2.8M,€76K,67.4,74.5,50.3,39.6,73,LB,154cm,Right
+690388,J. Collins,52,El Salvador,"Marsh, Fields and Edwards",Premier League (England),€2.9M,€76K,70.0,73.4,49.9,40.7,73,GK,195cm,Left
+174457,C. Ellis,29,South Africa,Williams-Schmidt,Stewart Group (Chile),€2.9M,€76K,50.6,15.5,78.5,57.2,73,LM,158cm,Left
+199064,E. Vazquez,26,Benin,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€2.8M,€76K,74.9,67.9,54.6,50.0,73,GK,162cm,Left
+51954,Timothy Douglas,34,Tajikistan,Hamilton-West,Premier League (England),€2.5M,€76K,39.1,78.6,55.1,35.2,73,ST,170cm,Left
+649999,D. Jimenez,34,Armenia,Ruiz-Hanson,Ryan-Dyer (Mali),€2.5M,€75K,70.7,74.0,48.6,71.1,73,CF,158cm,Left
+52094,S. Pierce,28,South Africa,Paris Saint Germain,Premier League (England),€2.7M,€78K,43.0,80.6,48.3,29.1,73,LW,191cm,Right
+723917,C. Monroe,23,Benin,"Obrien, Medina and Owens",Premier League (England),€2.5M,€75K,50.2,80.4,47.5,42.7,73,LWB,204cm,Left
+257047,B. Douglas,24,Croatia,Bender Inc,Rivas Inc (Botswana),€2.3M,€75K,39.5,75.8,66.3,46.1,73,CDM,194cm,Right
+101612,Tyler Jr.,26,Botswana,"Crosby, Jackson and Davis",Premier League (England),€2.4M,€75K,78.4,12.2,28.2,57.7,73,RM,205cm,Right
+3701,D. Garner,34,Sudan,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€2.7M,€75K,28.5,32.1,83.7,41.3,73,CB,205cm,Left
+254041,M. Cross,37,Tajikistan,FC Barcelona,Ryan-Dyer (Mali),€2.3M,€75K,74.2,67.2,39.3,58.8,72,CF,202cm,Right
+753764,Carrillo,34,Botswana,Ellis-Hill,Rivas Inc (Botswana),€2.2M,€74K,77.0,56.0,32.6,47.7,72,CB,187cm,Right
+245932,Thomas Jr.,50,Sudan,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€2.5M,€74K,23.1,50.5,79.6,38.0,72,CDM,188cm,Left
+557259,R. Wood,34,Tajikistan,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€2.2M,€74K,80.5,44.3,44.7,43.2,72,GK,169cm,Left
+901420,B. Huff,26,Benin,Whitney-Boyle,Ryan-Dyer (Mali),€2.2M,€75K,71.9,68.6,50.8,70.4,72,CF,172cm,Left
+827693,Daniel Wells,23,Tajikistan,"Banks, Olsen and Cook",Cooper Group (Botswana),€1.9M,€74K,28.1,48.7,75.7,61.9,72,CDM,166cm,Right
+958806,D. Reid,24,Botswana,Martin Inc,Rivas Inc (Botswana),€2M,€74K,19.4,67.6,74.0,40.0,72,CDM,183cm,Left
+443253,D. Lee,23,Benin,Manchester United,"Jones, Acevedo and Scott (Croatia)",€1.9M,€75K,38.3,72.6,36.7,70.6,72,RB,198cm,Left
+263111,M. Barnes,24,Botswana,Ellis-Hill,Rivas Inc (Botswana),€1.8M,€74K,63.4,20.0,71.1,72.9,72,ST,159cm,Right
+255408,R. Reeves,20,Armenia,"Solis, Estrada and Bell",Premier League (England),€1.7M,€73K,78.0,54.5,39.9,36.7,72,LB,177cm,Right
+443834,Perkins,22,Botswana,Cox Group,Premier League (England),€1.7M,€73K,71.9,36.9,41.0,71.8,72,CF,166cm,Left
+796348,Sean Jr.,21,El Salvador,Woods-Perry,Premier League (England),€2.1M,€73K,37.2,75.8,33.3,59.3,72,ST,172cm,Left
+640825,D. Adams,23,Antigua and Barbuda,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€1.7M,€74K,70.1,16.0,41.7,72.7,72,RM,187cm,Right
+207023,B. Jackson,32,Mali,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€1.6M,€74K,59.5,51.2,39.5,75.7,72,GK,187cm,Right
+18765,J. Ibarra,30,Tajikistan,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€1.7M,€73K,73.9,64.4,17.1,15.2,72,LWB,161cm,Left
+444974,D. Ross,23,Mali,Russell LLC,Ryan-Dyer (Mali),€1.6M,€73K,65.3,71.3,25.7,72.1,72,CF,162cm,Left
+690757,M. Hernandez,33,Chile,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€1.6M,€73K,29.1,77.8,24.2,52.8,72,RB,152cm,Left
+985817,C. Gill,28,Tajikistan,Carroll LLC,Rivas Inc (Botswana),€1.5M,€73K,71.6,72.6,42.8,63.7,72,CF,185cm,Right
+649982,E. Chandler,29,Tajikistan,"Marsh, Fields and Edwards",Premier League (England),€1.5M,€72K,67.9,73.2,18.2,17.4,72,LWB,208cm,Left
+363298,S. Campbell,22,South Africa,Williams-Schmidt,Stewart Group (Chile),€1.6M,€72K,48.8,40.3,79.3,30.0,72,CAM,151cm,Left
+207695,W. Dominguez,34,Botswana,Jones Group,Premier League (England),€1.5M,€72K,40.0,76.3,59.6,29.9,72,ST,204cm,Left
+314238,E. Morris,20,Botswana,"Marsh, Fields and Edwards",Premier League (England),€1.2M,€73K,46.4,74.3,65.2,55.0,72,CDM,199cm,Left
+994200,J. Anderson,31,Benin,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€1.2M,€72K,39.4,75.3,62.4,43.1,72,CDM,151cm,Right
+896079,F. Lopez,25,Chile,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€1.3M,€72K,73.1,70.0,38.1,42.5,72,GK,176cm,Left
+44130,M. Sullivan,25,Antigua and Barbuda,Ruiz-Hanson,Ryan-Dyer (Mali),€1.4M,€72K,50.9,78.6,30.7,33.8,72,LWB,174cm,Left
+208148,Garcia,28,Mali,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€1.3M,€71K,74.9,65.3,48.3,37.7,72,CAM,192cm,Right
+609560,N. Chavez,29,Croatia,Hamilton-West,Premier League (England),€1.1M,€71K,77.8,45.1,53.2,39.9,72,CAM,153cm,Right
+208254,J. Pope,35,Tajikistan,Carroll LLC,Rivas Inc (Botswana),€1.1M,€71K,76.6,21.9,59.0,46.6,72,CAM,166cm,Left
+265628,J. Mejia,50,Armenia,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€1.1M,€71K,14.4,59.9,74.4,65.5,72,CDM,169cm,Right
+527921,Blake,46,Benin,Williams-Schmidt,Stewart Group (Chile),€990K,€71K,12.8,73.7,25.6,67.7,72,RB,159cm,Left
+306937,D. Walsh,35,Antigua and Barbuda,Reynolds-Buckley,Premier League (England),€993K,€71K,28.0,76.0,20.7,60.9,72,ST,208cm,Left
+487209,J. Wilkinson,34,El Salvador,Jones Group,Premier League (England),€1.2M,€71K,76.2,61.3,27.1,38.2,72,LWB,209cm,Left
+192456,C. Butler,24,South Africa,Cox Group,Premier League (England),€994K,€71K,48.3,47.3,80.2,33.0,72,CB,156cm,Left
+860356,S. Brown,31,El Salvador,FC Bayern München,Premier League (England),€986K,€70K,24.4,64.3,20.1,73.0,71,CM,152cm,Right
+614614,A. Lopez,37,Armenia,Reynolds-Buckley,Premier League (England),€1000K,€70K,55.2,71.7,70.3,23.1,71,LW,187cm,Right
+82139,G. Williams,35,Croatia,Harrison Inc,Jimenez Ltd (Tajikistan),€985K,€71K,73.4,61.9,34.2,28.8,71,GK,163cm,Left
+41414,B. Cox,18,Benin,"Huber, Price and Carroll",Ryan-Dyer (Mali),€987K,€71K,78.7,36.9,36.0,48.4,71,CF,173cm,Left
+475597,Joshua Jr.,31,Sudan,Becker-Koch,Ryan-Dyer (Mali),€987K,€70K,39.2,74.1,61.0,37.7,71,CDM,178cm,Left
+680439,C. Barrett,31,Botswana,Cox Group,Premier League (England),€978K,€70K,60.9,70.3,63.2,70.7,71,LB,192cm,Left
+82541,K. Owens,25,Antigua and Barbuda,"Obrien, Medina and Owens",Premier League (England),€983K,€70K,66.3,45.2,57.1,73.1,71,RM,166cm,Right
+770744,D. Torres,33,El Salvador,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€979K,€70K,51.7,77.9,10.1,29.3,71,CB,160cm,Right
+221922,Zachary Hernandez,23,Chile,Martin Inc,Rivas Inc (Botswana),€974K,€69K,52.3,30.3,75.9,56.9,71,CAM,179cm,Left
+492536,N. Ingram,41,Benin,Martin Inc,Rivas Inc (Botswana),€973K,€70K,74.2,41.8,61.5,50.1,71,RM,174cm,Left
+599103,G. Hill,42,Benin,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€973K,€69K,35.4,75.5,58.1,54.8,71,LB,154cm,Left
+394307,A. Adams,21,Chile,Day-Chambers,Cooper Group (Botswana),€973K,€69K,42.5,74.0,49.7,63.8,71,CDM,207cm,Left
+648358,O. Martinez,20,Mali,"Solis, Estrada and Bell",Premier League (England),€972K,€69K,55.2,76.0,32.4,40.2,71,CF,207cm,Right
+246965,Andrew Jr.,28,Tajikistan,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€973K,€69K,42.1,72.8,25.3,66.7,71,CM,207cm,Right
+394941,M. Douglas,26,Botswana,"Simon, Robinson and Jones",Premier League (England),€973K,€69K,56.7,61.9,27.2,73.4,71,CF,198cm,Left
+182060,M. Harris,24,South Africa,"Crosby, Jackson and Davis",Premier League (England),€970K,€69K,35.8,59.2,74.8,24.6,71,RW,165cm,Right
+108487,A. Jackson,27,Sudan,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€961K,€68K,65.2,28.2,72.9,20.9,71,RM,153cm,Left
+804827,B. Moreno,31,Sudan,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€970K,€68K,48.6,77.7,50.1,39.0,71,LB,168cm,Right
+444449,J. Mccarthy,23,Tajikistan,"Solis, Estrada and Bell",Premier League (England),€965K,€68K,58.5,35.5,75.1,35.8,71,LM,210cm,Left
+477224,B. Larson,35,Benin,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€967K,€69K,78.7,48.2,20.7,29.6,71,GK,181cm,Left
+412193,P. Mason,30,Botswana,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€955K,€69K,73.1,64.5,39.6,38.0,71,LB,198cm,Right
+191020,R. Reyes,35,Chile,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€962K,€68K,62.0,56.1,73.4,49.5,71,RM,197cm,Left
+207604,A. Smith,47,Sudan,"Huber, Price and Carroll",Ryan-Dyer (Mali),€960K,€68K,49.9,39.8,58.4,75.1,71,ST,152cm,Right
+879354,David Jr.,15,Sudan,Woods-Perry,Premier League (England),€961K,€67K,57.6,59.2,34.4,74.7,71,GK,162cm,Right
+551748,S. Smith,30,El Salvador,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€951K,€67K,68.6,71.3,56.2,30.3,71,LB,208cm,Right
+626131,C. Simpson,21,Mali,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€949K,€67K,70.0,62.6,71.5,50.5,71,LB,199cm,Left
+691868,Nicholas Morton,17,Croatia,Thomas-Weiss,Ryan-Dyer (Mali),€950K,€67K,57.9,75.9,38.2,45.9,71,LB,181cm,Left
+28592,Michael Jr.,35,Mali,Martin Inc,Rivas Inc (Botswana),€960K,€68K,68.5,39.3,67.8,72.1,71,ST,190cm,Right
+172070,Timothy Jr.,33,Chile,Ellis-Hill,Rivas Inc (Botswana),€950K,€67K,78.2,45.6,34.6,19.1,70,CAM,208cm,Right
+639519,N. Pena,35,Croatia,Woods-Perry,Premier League (England),€934K,€67K,41.0,32.3,80.3,21.4,70,CAM,181cm,Left
+82467,Jonathon Jr.,30,Croatia,Williams-Schmidt,Stewart Group (Chile),€933K,€67K,72.1,56.0,64.1,51.0,70,GK,168cm,Right
+942656,J. Woodward,28,Antigua and Barbuda,Manchester United,"Jones, Acevedo and Scott (Croatia)",€938K,€67K,46.5,78.1,34.0,27.8,70,GK,208cm,Left
+680704,Andrew Tanner,26,El Salvador,Reynolds-Buckley,Premier League (England),€926K,€66K,71.7,63.2,33.6,59.9,70,GK,195cm,Left
+508691,B. Crawford,31,Mali,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€926K,€66K,48.9,15.0,26.0,76.4,70,RM,182cm,Right
+500743,C. Hoffman,26,Croatia,Thomas-Weiss,Ryan-Dyer (Mali),€936K,€66K,41.1,77.6,47.3,39.6,70,RB,174cm,Right
+877660,Charles Dean,31,El Salvador,"Obrien, Medina and Owens",Premier League (England),€932K,€66K,30.5,58.1,73.4,31.8,70,CDM,203cm,Left
+83073,J. Brown,26,Tajikistan,"Banks, Olsen and Cook",Cooper Group (Botswana),€930K,€65K,71.5,66.7,21.2,35.0,70,RB,175cm,Right
+214204,J. Ward,28,Antigua and Barbuda,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€925K,€67K,36.0,18.4,72.2,64.7,70,ST,201cm,Right
+902447,J. Clarke,31,Sudan,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€926K,€66K,34.1,27.0,80.2,39.0,70,CB,201cm,Left
+419185,T. Wagner,34,Mali,Reynolds-Buckley,Premier League (England),€925K,€65K,41.5,56.2,58.9,74.3,70,CDM,192cm,Right
+189857,S. Jones,23,Sudan,"Rose, Crawford and Giles",Cooper Group (Botswana),€922K,€65K,58.1,67.3,42.8,70.8,70,CF,176cm,Left
+230953,W. Daugherty,34,Armenia,Harrison Inc,Jimenez Ltd (Tajikistan),€915K,€65K,72.6,31.9,62.0,50.1,70,GK,209cm,Right
+985086,E. Graham,35,South Africa,Cardenas Inc,Premier League (England),€925K,€65K,52.6,74.7,33.8,57.8,70,GK,156cm,Left
+264289,K. Brennan,25,Antigua and Barbuda,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€923K,€65K,42.9,72.4,18.9,63.8,70,GK,198cm,Left
+542827,D. Keller,51,Armenia,Stewart-Nelson,Stewart Group (Chile),€914K,€64K,69.3,70.8,30.4,62.6,70,GK,197cm,Left
+518340,S. Carter,35,Antigua and Barbuda,Russell LLC,Ryan-Dyer (Mali),€913K,€64K,44.2,78.9,18.3,26.5,70,GK,184cm,Left
+633128,Samuel Walker,24,Sudan,Thomas-Weiss,Ryan-Dyer (Mali),€913K,€64K,58.0,59.6,74.1,44.8,70,LW,168cm,Right
+993609,R. Taylor,21,Antigua and Barbuda,FC Bayern München,Premier League (England),€924K,€64K,66.6,12.7,49.4,71.2,70,RM,209cm,Right
+575920,R. Cox,22,Croatia,Paris Saint Germain,Premier League (England),€905K,€63K,75.3,54.3,43.8,37.6,70,RM,177cm,Left
+363060,J. Gray,23,Croatia,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€909K,€63K,40.6,39.1,76.2,52.7,70,CB,203cm,Left
+272976,Meyer,30,Armenia,Harrison Inc,Jimenez Ltd (Tajikistan),€904K,€64K,72.2,37.3,34.0,63.0,70,CF,168cm,Left
+633568,Arthur Garza,32,Botswana,Whitney-Boyle,Ryan-Dyer (Mali),€904K,€65K,42.0,46.8,77.5,23.4,70,CAM,164cm,Left
+183046,C. Herrera,15,Sudan,"Huber, Price and Carroll",Ryan-Dyer (Mali),€900K,€62K,45.8,50.8,76.9,39.6,70,CAM,176cm,Left
+510925,Cook,23,South Africa,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€913K,€63K,22.0,73.5,59.8,31.7,70,CDM,192cm,Left
+969896,B. Cochran,32,Benin,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€896K,€63K,15.3,76.3,30.8,49.4,70,RB,198cm,Left
+191797,J. Burns,23,Botswana,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€898K,€63K,33.5,46.1,72.7,60.9,70,CDM,160cm,Left
+961988,D. Huber,22,Armenia,Thomas-Weiss,Ryan-Dyer (Mali),€894K,€62K,37.0,46.7,77.6,37.1,70,CDM,196cm,Right
+593405,A. Stevens,42,South Africa,"Crosby, Jackson and Davis",Premier League (England),€891K,€62K,62.9,72.3,41.3,60.8,70,CF,188cm,Right
+339643,J. Rodriguez,24,South Africa,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€898K,€63K,72.2,65.0,48.6,26.4,70,LB,210cm,Right
+429770,J. Foster,27,Mali,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€891K,€62K,66.7,21.4,70.8,50.1,70,CAM,187cm,Left
+323302,T. Morales,21,Mali,"Obrien, Medina and Owens",Premier League (England),€885K,€61K,75.4,44.7,55.0,43.6,70,GK,188cm,Left
+61222,J. Williams,16,Tajikistan,FC Bayern München,Premier League (England),€890K,€62K,64.7,40.3,20.3,71.1,70,CF,160cm,Left
+266041,J. Ward,31,South Africa,Harrison Inc,Jimenez Ltd (Tajikistan),€887K,€61K,56.2,61.2,72.3,21.4,70,RW,173cm,Right
+413513,E. Brown,24,Antigua and Barbuda,Martin Inc,Rivas Inc (Botswana),€890K,€62K,38.4,70.8,67.2,67.0,70,LB,203cm,Left
+532840,T. Romero,20,Sudan,"Perkins, Salas and Weeks",Premier League (England),€877K,€61K,69.7,18.1,68.3,32.4,69,CAM,209cm,Left
+270737,C. Murray,26,El Salvador,Carroll LLC,Rivas Inc (Botswana),€882K,€62K,55.1,73.4,49.4,35.9,69,RB,174cm,Right
+942705,N. Rhodes,29,South Africa,Harvey LLC,Premier League (England),€885K,€60K,37.7,72.0,59.8,41.5,69,RW,189cm,Right
+295607,Robert Anderson,23,Tajikistan,Thomas-Weiss,Ryan-Dyer (Mali),€885K,€61K,33.0,81.2,30.1,32.8,69,ST,204cm,Left
+312212,Winters,28,Armenia,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€874K,€60K,64.2,70.8,21.7,25.3,69,LWB,165cm,Left
+697442,Mathew Wilcox,31,Croatia,"Marsh, Fields and Edwards",Premier League (England),€875K,€60K,64.1,70.6,35.3,30.5,69,LWB,188cm,Left
+689375,J. Estrada,15,Benin,Reyes Ltd,Premier League (England),€872K,€60K,33.8,61.6,37.3,71.7,69,CM,169cm,Right
+886038,S. Alexander,24,Chile,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€872K,€61K,73.4,57.0,45.2,43.8,69,CF,165cm,Left
+361833,Russell,33,Benin,"Crosby, Jackson and Davis",Premier League (England),€865K,€60K,59.8,43.5,29.6,71.8,69,CF,202cm,Left
+263946,T. Woods,30,Chile,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€861K,€60K,49.1,16.2,75.6,15.7,69,CB,181cm,Left
+681872,B. Raymond,22,Chile,Harvey LLC,Premier League (England),€865K,€60K,51.5,32.1,75.3,30.6,69,CAM,178cm,Left
+75797,William Jr.,37,Benin,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€861K,€60K,69.5,67.8,19.3,61.5,69,GK,182cm,Left
+198790,Riggs,31,Tajikistan,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€856K,€60K,73.2,55.3,21.4,51.4,69,RB,172cm,Right
+190781,P. Morales,46,Mali,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€883K,€60K,66.4,49.1,35.6,69.6,69,RB,210cm,Right
+928374,French,30,El Salvador,"Simon, Robinson and Jones",Premier League (England),€854K,€60K,70.9,52.5,26.2,64.8,69,GK,171cm,Right
+453238,D. Lopez,21,El Salvador,Becker-Koch,Ryan-Dyer (Mali),€855K,€60K,40.4,69.1,54.4,69.1,69,RB,169cm,Right
+27619,J. Sweeney,37,Croatia,Liverpool,Jimenez Ltd (Tajikistan),€854K,€59K,74.4,43.3,30.4,52.0,69,GK,204cm,Left
+519266,Brian Hines,22,Croatia,Williams-Schmidt,Stewart Group (Chile),€853K,€59K,73.6,56.3,23.9,43.6,69,LB,150cm,Right
+298294,J. Mayer,24,Chile,Whitney-Boyle,Ryan-Dyer (Mali),€852K,€59K,70.9,37.5,61.5,32.9,69,RM,184cm,Left
+945484,Park,48,South Africa,Woods-Perry,Premier League (England),€853K,€60K,25.6,54.0,74.6,32.6,69,CDM,160cm,Left
+126322,T. Rodriguez,34,South Africa,Hamilton-West,Premier League (England),€844K,€59K,64.6,70.0,11.4,47.0,69,CB,156cm,Right
+77192,S. Baker,26,Sudan,Ruiz-Hanson,Ryan-Dyer (Mali),€850K,€59K,40.7,71.5,17.8,62.3,69,RB,151cm,Right
+945607,M. Brown,28,Benin,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€842K,€58K,42.3,55.4,66.9,70.0,69,LB,189cm,Left
+699983,Frederick Jr.,27,South Africa,Paris Saint Germain,Premier League (England),€849K,€58K,35.3,33.3,79.9,27.2,69,CB,151cm,Left
+609914,Johnathan Jr.,34,Antigua and Barbuda,Stewart-Nelson,Stewart Group (Chile),€835K,€59K,43.4,73.8,21.4,54.3,69,RB,207cm,Right
+315202,L. Bird,39,Botswana,Bender Inc,Rivas Inc (Botswana),€837K,€58K,44.3,8.4,72.2,57.9,69,ST,174cm,Right
+708449,W. Ramirez,26,El Salvador,Reynolds-Buckley,Premier League (England),€837K,€58K,67.8,69.7,24.5,55.6,69,RB,156cm,Right
+757721,Gray,36,Antigua and Barbuda,FC Barcelona,Ryan-Dyer (Mali),€843K,€58K,71.3,63.1,34.6,28.6,69,CB,207cm,Right
+315359,C. Green,32,Tajikistan,"Banks, Olsen and Cook",Cooper Group (Botswana),€832K,€58K,55.9,73.4,28.1,55.3,69,CF,194cm,Right
+655537,Charles Rodriguez,34,Chile,Martin Inc,Rivas Inc (Botswana),€832K,€58K,59.6,40.7,70.6,32.1,68,LM,178cm,Left
+139677,S. Kelly,18,El Salvador,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€829K,€58K,24.2,52.3,73.2,43.1,68,CB,207cm,Left
+90700,Kenneth Jr.,36,Benin,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€834K,€58K,67.3,67.9,13.5,65.9,68,CF,202cm,Left
+189053,J. Nguyen,32,Armenia,Bender Inc,Rivas Inc (Botswana),€827K,€57K,30.2,71.2,58.4,50.7,68,ST,154cm,Left
+459443,W. Howard,23,South Africa,Carroll LLC,Rivas Inc (Botswana),€825K,€58K,73.8,49.9,35.3,52.0,68,CF,156cm,Left
+992018,Collins,30,Armenia,"Banks, Olsen and Cook",Cooper Group (Botswana),€823K,€57K,56.3,69.7,62.5,41.6,68,LB,197cm,Right
+770918,J. Chambers,32,Benin,"Obrien, Medina and Owens",Premier League (England),€822K,€57K,55.8,42.8,52.8,72.3,68,GK,203cm,Right
+443282,C. Shaw,32,Tajikistan,Whitney-Boyle,Ryan-Dyer (Mali),€820K,€57K,41.0,11.7,75.8,43.4,68,LM,169cm,Left
+730256,D. Bailey,50,Antigua and Barbuda,"Simon, Robinson and Jones",Premier League (England),€821K,€57K,51.4,73.6,23.6,31.0,68,LWB,203cm,Left
+886356,Contreras,37,Mali,"Crosby, Jackson and Davis",Premier League (England),€834K,€56K,53.4,73.4,44.8,24.9,68,LW,161cm,Right
+59426,C. Hogan,30,Antigua and Barbuda,Day-Chambers,Cooper Group (Botswana),€815K,€56K,35.7,71.5,55.8,34.6,68,CDM,202cm,Left
+337988,Jones,29,El Salvador,"Huber, Price and Carroll",Ryan-Dyer (Mali),€817K,€56K,28.8,75.0,45.2,36.8,68,ST,183cm,Left
+518291,Timothy Fisher,29,Armenia,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€815K,€57K,73.1,52.0,41.5,28.3,68,CAM,175cm,Right
+248108,J. Shields,29,Croatia,"Perkins, Salas and Weeks",Premier League (England),€810K,€56K,47.3,69.5,44.3,63.8,68,CDM,208cm,Right
+248175,J. Harris,35,Armenia,Harvey LLC,Premier League (England),€809K,€56K,42.4,74.6,45.4,46.6,68,LB,163cm,Left
+633484,J. Fuller,24,Tajikistan,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€800K,€56K,70.7,24.4,61.5,49.1,68,RM,158cm,Right
+838496,P. Mcpherson,48,Mali,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€805K,€56K,41.7,76.2,44.7,41.5,68,LW,180cm,Right
+682864,T. Mcbride,23,Antigua and Barbuda,Whitney-Boyle,Ryan-Dyer (Mali),€811K,€55K,39.9,49.3,69.5,64.3,68,CDM,191cm,Right
+84924,B. Smith,33,Tajikistan,Hamilton-West,Premier League (England),€808K,€55K,62.7,36.5,45.1,69.1,68,ST,208cm,Right
+912385,J. Malone,21,Botswana,Martin Inc,Rivas Inc (Botswana),€799K,€55K,53.0,20.5,52.3,72.8,68,RM,151cm,Right
+986208,J. Davis,40,Mali,Cardenas Inc,Premier League (England),€800K,€56K,64.2,69.7,38.4,27.8,68,CB,154cm,Right
+117917,K. Bryant,48,Antigua and Barbuda,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€798K,€55K,40.7,74.6,42.8,48.2,68,RW,168cm,Right
+281925,Cody Obrien,24,Armenia,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€798K,€55K,60.0,70.3,26.1,45.5,68,CF,206cm,Right
+839029,N. Harris,31,Armenia,Harrison Inc,Jimenez Ltd (Tajikistan),€797K,€55K,46.4,66.1,51.0,69.3,68,CM,178cm,Right
+331138,G. Frey,36,South Africa,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€787K,€55K,69.1,63.2,43.6,41.3,68,CAM,174cm,Right
+216600,B. Woodard,30,Armenia,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€795K,€54K,50.1,61.1,38.3,69.9,68,CF,178cm,Left
+274001,Benjamin Jr.,28,Armenia,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€787K,€55K,56.5,41.3,61.6,69.8,68,ST,182cm,Right
+158023,D. Smith,26,Antigua and Barbuda,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€786K,€55K,42.8,74.4,47.5,47.6,68,GK,174cm,Left
+20333,Wyatt Jr.,25,Benin,Paris Saint Germain,Premier League (England),€783K,€54K,74.3,30.1,48.6,24.2,68,RM,156cm,Left
+503721,S. Reyes,25,Tajikistan,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€783K,€54K,52.8,50.6,72.5,22.1,68,CAM,186cm,Left
+479186,Joe Jr.,21,Tajikistan,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€787K,€54K,33.8,39.6,78.0,21.0,68,CB,185cm,Left
+549118,M. Barnett,26,Sudan,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€779K,€54K,55.4,71.1,52.0,43.3,67,LM,207cm,Right
+287060,A. Harris,32,Sudan,Hamilton-West,Premier League (England),€787K,€53K,42.6,72.4,49.4,52.3,67,RB,172cm,Left
+402143,Javier Charles,15,El Salvador,Russell LLC,Ryan-Dyer (Mali),€774K,€54K,69.7,48.6,58.5,55.0,67,CAM,177cm,Left
+17451,J. Coleman,50,Tajikistan,Becker-Koch,Ryan-Dyer (Mali),€773K,€54K,66.6,35.7,67.3,18.3,67,RM,206cm,Left
+25649,Munoz,21,El Salvador,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€772K,€53K,32.2,52.6,72.3,48.2,67,CDM,208cm,Right
+853241,D. Wilson,21,Benin,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€771K,€53K,16.7,48.0,72.8,35.2,67,CDM,181cm,Right
+812450,J. Vazquez,26,South Africa,Manchester United,"Jones, Acevedo and Scott (Croatia)",€770K,€53K,47.0,29.7,36.3,73.3,67,GK,195cm,Right
+976365,B. Holland,27,Armenia,Becker-Koch,Ryan-Dyer (Mali),€766K,€54K,62.4,69.0,56.7,62.1,67,ST,167cm,Left
+329701,A. Turner,35,Croatia,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€757K,€53K,65.9,38.9,67.3,38.5,67,CAM,202cm,Left
+92227,R. Garcia,22,South Africa,Carroll LLC,Rivas Inc (Botswana),€756K,€52K,33.6,59.5,33.9,69.2,67,RB,153cm,Left
+534766,M. Mitchell,29,Benin,Carroll LLC,Rivas Inc (Botswana),€763K,€52K,67.8,64.6,42.5,28.1,67,CB,174cm,Right
+51594,M. Cooper,29,Benin,Cardenas Inc,Premier League (England),€758K,€53K,52.7,43.9,53.6,71.0,67,ST,182cm,Right
+879000,P. White,49,Armenia,Harvey LLC,Premier League (England),€751K,€52K,24.5,67.2,23.3,65.6,67,RB,172cm,Left
+625339,A. Little,27,Chile,Becker-Koch,Ryan-Dyer (Mali),€753K,€51K,65.1,66.7,67.4,25.5,67,LW,180cm,Right
+879319,M. Ellis,27,Tajikistan,Bender Inc,Rivas Inc (Botswana),€776K,€52K,56.7,26.4,70.2,32.1,67,CAM,182cm,Left
+748356,N. Delgado,29,Mali,"Huber, Price and Carroll",Ryan-Dyer (Mali),€748K,€52K,69.1,13.5,42.4,59.9,67,RM,205cm,Right
+609351,Foster,35,South Africa,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€746K,€51K,70.0,56.8,57.7,29.5,67,RW,160cm,Right
+642183,C. Lang,24,Benin,Paris Saint Germain,Premier League (England),€753K,€51K,73.5,48.8,20.0,34.6,67,RB,157cm,Right
+232589,Beasley,21,Chile,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€747K,€51K,60.5,44.2,68.7,50.6,67,ST,163cm,Right
+216273,G. White,25,Mali,Woods-Perry,Premier League (England),€746K,€53K,68.1,61.8,52.1,49.0,67,GK,171cm,Left
+650655,R. Phillips,23,Benin,Hamilton-West,Premier League (England),€744K,€51K,65.1,29.6,44.3,67.7,67,RM,167cm,Right
+683492,S. Garcia,30,Armenia,Paris Saint Germain,Premier League (England),€743K,€51K,30.6,76.4,38.4,30.0,67,RW,152cm,Right
+454186,Jones,23,Antigua and Barbuda,Manchester United,"Jones, Acevedo and Scott (Croatia)",€741K,€51K,58.2,70.0,37.3,34.2,67,LB,193cm,Right
+69170,J. Burton,32,Armenia,Woods-Perry,Premier League (England),€744K,€51K,16.7,51.8,71.5,27.8,67,CB,166cm,Left
+765719,C. Walker,34,Mali,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€740K,€51K,65.1,49.8,40.9,67.9,67,CF,186cm,Left
+184173,David Jr.,22,Armenia,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€735K,€51K,64.5,40.2,51.2,67.7,67,RB,203cm,Right
+721000,M. Mendez,25,Armenia,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€741K,€51K,71.6,47.7,40.8,34.6,66,CAM,195cm,Right
+704961,Paul Jr.,45,Croatia,Jones Group,Premier League (England),€731K,€51K,71.8,50.0,48.9,25.3,66,LB,199cm,Right
+49878,J. Tyler,16,Chile,Cox Group,Premier League (England),€726K,€50K,41.1,8.0,39.3,74.9,66,ST,206cm,Right
+205567,B. Gutierrez,32,South Africa,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€728K,€50K,69.7,52.9,43.4,49.1,66,GK,160cm,Left
+811816,C. Moran,31,Tajikistan,Cox Group,Premier League (England),€742K,€50K,66.7,55.9,33.7,63.7,66,CF,173cm,Left
+721859,J. Martin,33,Botswana,Cardenas Inc,Premier League (England),€725K,€51K,13.8,71.4,42.7,49.3,66,RB,167cm,Left
+213975,J. Glover,23,El Salvador,Harvey LLC,Premier League (England),€722K,€50K,8.6,69.9,21.3,53.9,66,CM,204cm,Right
+599135,J. Browning,22,Croatia,Martin Inc,Rivas Inc (Botswana),€723K,€50K,56.1,68.1,31.9,60.4,66,RB,206cm,Right
+902313,Scott Stewart,31,Chile,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€723K,€50K,25.2,71.9,50.1,37.8,66,CDM,187cm,Left
+705826,J. Fisher,25,Botswana,Cox Group,Premier League (England),€726K,€49K,63.5,33.3,33.0,67.4,66,GK,191cm,Right
+42910,T. Mccall,40,El Salvador,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€719K,€49K,66.5,60.6,63.6,37.0,66,LB,161cm,Left
+469007,Jeffrey Jr.,27,Benin,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€719K,€49K,58.6,68.6,50.9,23.2,66,LWB,156cm,Left
+51291,Brad Jr.,28,Benin,Reyes Ltd,Premier League (England),€724K,€49K,69.6,57.2,21.9,47.7,66,CB,159cm,Right
+215239,Richard Gilmore,31,Chile,Becker-Koch,Ryan-Dyer (Mali),€716K,€49K,67.7,34.1,61.4,49.9,66,RM,204cm,Right
+567577,B. Hall,26,Mali,Paris Saint Germain,Premier League (England),€716K,€49K,13.1,66.8,64.0,62.0,66,CDM,181cm,Left
+198973,Gary Jr.,26,Armenia,Russell LLC,Ryan-Dyer (Mali),€713K,€49K,73.4,27.5,43.7,34.6,66,CAM,157cm,Right
+264520,Gutierrez,28,Croatia,Reyes Ltd,Premier League (England),€711K,€49K,49.3,11.0,72.2,29.2,66,LM,190cm,Left
+510347,Larry Jr.,27,South Africa,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€715K,€49K,71.0,51.4,28.0,24.9,66,CAM,192cm,Right
+608682,K. James,28,Antigua and Barbuda,"Marsh, Fields and Edwards",Premier League (England),€703K,€48K,60.6,67.6,42.9,43.1,66,RW,198cm,Right
+215699,R. Christian,32,Armenia,"Solis, Estrada and Bell",Premier League (England),€703K,€48K,70.0,53.4,43.1,36.1,66,RB,191cm,Right
+477862,R. Wright,44,Mali,FC Barcelona,Ryan-Dyer (Mali),€707K,€48K,69.9,53.9,37.2,34.8,66,LB,196cm,Right
+117422,P. Davis,32,Benin,"Huber, Price and Carroll",Ryan-Dyer (Mali),€706K,€48K,65.3,8.7,65.6,43.8,66,ST,198cm,Right
+608949,B. Mills,22,El Salvador,Becker-Koch,Ryan-Dyer (Mali),€708K,€48K,42.5,71.6,31.5,47.8,66,LM,168cm,Right
+535338,J. Webb,33,Armenia,"Perkins, Salas and Weeks",Premier League (England),€703K,€47K,39.6,31.4,74.9,25.5,66,CB,173cm,Left
+175316,N. Velazquez,22,Tajikistan,Cox Group,Premier League (England),€702K,€48K,65.4,36.5,52.3,66.7,66,RM,188cm,Right
+462400,G. Osborne,31,Mali,Martin Inc,Rivas Inc (Botswana),€696K,€48K,62.3,67.9,41.8,49.6,66,CF,168cm,Left
+970318,J. Peters,47,Croatia,Harrison Inc,Jimenez Ltd (Tajikistan),€690K,€47K,44.3,34.9,71.4,51.2,66,ST,202cm,Right
+503559,Hodge,25,Botswana,Liverpool,Jimenez Ltd (Tajikistan),€698K,€50K,34.0,16.4,76.3,31.3,66,LM,195cm,Left
+503659,A. Flynn,24,Sudan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€692K,€47K,68.0,58.9,51.9,58.4,66,RB,157cm,Right
+155870,D. Prince,32,Sudan,Whitney-Boyle,Ryan-Dyer (Mali),€686K,€47K,50.7,69.2,44.0,36.0,65,LWB,187cm,Left
+41540,A. Moore,23,Croatia,"Solis, Estrada and Bell",Premier League (England),€688K,€46K,59.6,67.1,47.5,51.8,65,CF,175cm,Left
+99014,Murray,29,Antigua and Barbuda,Day-Chambers,Cooper Group (Botswana),€685K,€47K,36.8,57.5,41.4,67.7,65,GK,156cm,Right
+910371,R. Smith,28,Mali,Hamilton-West,Premier League (England),€678K,€47K,41.2,72.8,33.0,32.3,65,LM,194cm,Right
+820317,Reed,28,Chile,Cox Group,Premier League (England),€678K,€46K,50.7,38.5,33.3,70.1,65,CF,198cm,Left
+869781,Ryan Alexander,24,Antigua and Barbuda,Manchester United,"Jones, Acevedo and Scott (Croatia)",€684K,€46K,47.5,56.3,57.1,68.0,65,CDM,190cm,Right
+148971,J. Powers,34,Botswana,Bender Inc,Rivas Inc (Botswana),€675K,€46K,67.4,59.2,34.9,38.9,65,CF,203cm,Right
+124499,C. Smith,26,Sudan,Whitney-Boyle,Ryan-Dyer (Mali),€676K,€46K,67.5,16.1,55.6,20.9,65,CAM,208cm,Left
+820950,C. Horn,21,Benin,Harrison Inc,Jimenez Ltd (Tajikistan),€677K,€46K,37.6,69.2,53.8,38.8,65,LB,155cm,Left
+18239,C. Garner,32,Mali,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€674K,€45K,41.8,68.2,54.5,41.7,65,CDM,166cm,Left
+149315,D. Lowe,15,Croatia,FC Bayern München,Premier League (England),€673K,€45K,66.9,58.1,8.4,49.0,65,CB,181cm,Right
+354169,J. Holloway,28,Botswana,Williams-Schmidt,Stewart Group (Chile),€674K,€45K,60.9,26.8,66.3,56.5,65,ST,192cm,Right
+534558,M. Smith,28,Chile,Bender Inc,Rivas Inc (Botswana),€674K,€46K,61.0,66.9,14.5,30.0,65,LWB,206cm,Left
+625090,M. Johnson,22,Armenia,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€662K,€47K,56.0,66.6,60.4,14.2,65,LM,185cm,Right
+453121,Omar Jr.,26,Botswana,"Obrien, Medina and Owens",Premier League (England),€661K,€45K,48.7,19.6,70.0,51.0,65,CAM,177cm,Left
+199410,D. Blair,28,Tajikistan,Cardenas Inc,Premier League (England),€669K,€45K,65.9,63.8,35.3,56.6,65,GK,180cm,Left
+502842,A. Humphrey,42,Antigua and Barbuda,FC Barcelona,Ryan-Dyer (Mali),€673K,€45K,68.6,56.0,21.6,41.4,65,RB,199cm,Right
+912491,J. Gilbert,29,Chile,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€659K,€43K,67.5,56.5,20.8,27.6,65,CB,203cm,Right
+846965,Ryan Perez,31,Botswana,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€657K,€44K,60.1,63.5,42.7,64.9,65,RB,177cm,Right
+961676,J. Lewis,24,Croatia,Carter PLC,Premier League (England),€658K,€45K,39.9,44.3,47.1,70.6,65,ST,184cm,Right
+879808,G. Crosby,27,Tajikistan,Ellis-Hill,Rivas Inc (Botswana),€657K,€43K,42.8,66.3,48.0,62.0,65,CDM,169cm,Right
+700164,B. Klein,34,Tajikistan,"Banks, Olsen and Cook",Cooper Group (Botswana),€653K,€44K,64.2,52.7,36.2,65.0,65,GK,170cm,Right
+254054,A. Johnson,37,Sudan,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€650K,€43K,24.0,66.7,57.2,57.1,64,CDM,190cm,Left
+459060,W. Dominguez,29,Antigua and Barbuda,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€675K,€43K,52.6,67.3,15.3,28.4,64,CB,157cm,Right
+614767,Christopher Simpson,35,South Africa,"Banks, Olsen and Cook",Cooper Group (Botswana),€652K,€43K,27.6,55.1,46.4,67.4,64,CDM,184cm,Right
+98723,K. Wise,45,Sudan,Ellis-Hill,Rivas Inc (Botswana),€650K,€42K,46.6,30.1,69.9,28.2,64,CB,154cm,Left
+443021,B. Marshall,28,South Africa,Jones Group,Premier League (England),€648K,€42K,43.6,28.9,70.7,44.7,64,CB,176cm,Left
+66367,A. Nichols,45,South Africa,Reynolds-Buckley,Premier League (England),€647K,€43K,65.0,59.9,51.1,27.4,64,CAM,168cm,Right
+303945,Randy Jr.,20,South Africa,"Simon, Robinson and Jones",Premier League (England),€650K,€43K,64.5,44.6,62.2,35.7,64,CAM,196cm,Left
+738131,J. Smith,28,Armenia,Carter PLC,Premier League (England),€643K,€42K,17.4,65.6,59.7,57.5,64,CDM,192cm,Right
+771080,Jeremy Jr.,30,Benin,Thomas-Weiss,Ryan-Dyer (Mali),€643K,€43K,53.2,67.5,43.5,32.3,64,LB,154cm,Left
+902154,R. Mullins,30,Tajikistan,Ruiz-Hanson,Ryan-Dyer (Mali),€643K,€42K,54.8,50.8,67.5,26.7,64,CAM,202cm,Left
+386103,L. Guzman,21,Botswana,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€653K,€42K,51.4,16.1,68.2,34.1,64,CB,178cm,Left
+959676,Juan Ponce,35,Botswana,Harrison Inc,Jimenez Ltd (Tajikistan),€635K,€41K,65.7,11.3,57.6,48.1,64,ST,159cm,Right
+337091,A. Tucker,20,Sudan,Day-Chambers,Cooper Group (Botswana),€638K,€41K,60.3,59.5,56.3,65.8,64,LB,161cm,Left
+320839,Steven Jr.,29,Chile,Whitney-Boyle,Ryan-Dyer (Mali),€633K,€41K,46.0,70.2,44.9,42.6,64,CDM,172cm,Right
+722427,Wesley Fowler,44,Antigua and Barbuda,Carter PLC,Premier League (England),€645K,€41K,18.2,53.4,67.1,39.5,64,CDM,181cm,Right
+321074,Ronald Jr.,33,El Salvador,Ruiz-Hanson,Ryan-Dyer (Mali),€638K,€40K,62.4,60.9,64.9,41.4,64,RW,164cm,Right
+984698,G. Black,26,Sudan,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€628K,€41K,45.2,47.2,66.2,58.7,64,CDM,198cm,Right
+624314,Ryan Wood,21,Benin,Russell LLC,Ryan-Dyer (Mali),€630K,€40K,60.8,64.9,61.9,49.7,64,LB,159cm,Left
+501438,E. Duncan,31,Botswana,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€628K,€42K,58.7,66.1,37.5,47.3,64,RB,171cm,Right
+42985,D. Martinez,28,Benin,"Solis, Estrada and Bell",Premier League (England),€620K,€40K,52.5,68.4,50.8,35.3,64,LW,173cm,Right
+780457,Robinson,24,Antigua and Barbuda,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€625K,€41K,55.5,43.7,20.1,67.3,64,RB,152cm,Right
+772532,M. Figueroa,24,El Salvador,Whitney-Boyle,Ryan-Dyer (Mali),€630K,€40K,64.7,22.0,60.0,28.7,64,CAM,191cm,Left
+207468,A. Murray,27,Antigua and Barbuda,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€626K,€40K,68.2,52.6,48.3,40.3,64,LB,201cm,Right
+691051,D. Larson,22,South Africa,"Marsh, Fields and Edwards",Premier League (England),€623K,€40K,70.2,12.3,42.9,45.9,64,ST,202cm,Right
+76902,T. Cole,30,Antigua and Barbuda,Russell LLC,Ryan-Dyer (Mali),€619K,€40K,42.6,65.6,58.8,60.1,64,ST,160cm,Left
+871883,J. Lutz,17,Benin,"Banks, Olsen and Cook",Cooper Group (Botswana),€616K,€40K,25.9,29.8,68.6,51.0,64,CB,199cm,Left
+519785,Juan Jr.,22,Sudan,Becker-Koch,Ryan-Dyer (Mali),€615K,€40K,66.0,45.4,42.3,59.4,64,GK,151cm,Left
+77512,B. Burton,38,Chile,Harrison Inc,Jimenez Ltd (Tajikistan),€610K,€40K,36.8,35.2,65.5,59.9,64,ST,168cm,Right
+626542,J. James,34,Mali,"Obrien, Medina and Owens",Premier League (England),€611K,€40K,50.8,68.1,43.6,24.6,64,CB,209cm,Right
+327686,C. Hall,22,Chile,Jones Group,Premier League (England),€613K,€40K,36.8,46.6,62.3,63.0,63,CDM,170cm,Left
+467136,T. Johnson,33,Botswana,Bender Inc,Rivas Inc (Botswana),€616K,€40K,41.4,64.4,22.2,57.0,63,RB,181cm,Left
+622791,R. Bailey,25,Sudan,"Huber, Price and Carroll",Ryan-Dyer (Mali),€608K,€40K,47.9,68.3,45.8,18.2,63,RW,190cm,Right
+729312,Paul Jr.,24,Benin,Reynolds-Buckley,Premier League (England),€614K,€40K,52.8,66.3,35.2,49.1,63,CF,181cm,Left
+164100,J. Greene,23,Botswana,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€602K,€39K,42.2,67.8,48.4,18.1,63,RW,193cm,Right
+688518,Angel Parker,33,South Africa,Carroll LLC,Rivas Inc (Botswana),€601K,€39K,46.3,59.0,37.8,63.8,63,GK,200cm,Right
+598450,S. Underwood,28,Croatia,Becker-Koch,Ryan-Dyer (Mali),€601K,€39K,34.2,65.8,53.2,37.8,63,CDM,189cm,Left
+950738,D. Campbell,25,Antigua and Barbuda,"Rose, Crawford and Giles",Cooper Group (Botswana),€600K,€39K,47.4,68.5,28.5,33.6,63,ST,197cm,Left
+385593,R. Hess,22,El Salvador,Carter PLC,Premier League (England),€593K,€39K,66.2,14.0,52.0,54.4,63,ST,171cm,Right
+828108,J. Byrd,36,Chile,Woods-Perry,Premier League (England),€603K,€38K,47.7,67.6,41.9,35.9,63,LB,206cm,Right
+295913,C. Wolf,20,Armenia,Day-Chambers,Cooper Group (Botswana),€592K,€38K,49.9,65.3,50.1,57.7,63,CDM,189cm,Left
+312420,R. Williams,34,South Africa,"Rose, Crawford and Giles",Cooper Group (Botswana),€588K,€38K,58.3,64.6,42.3,47.4,63,CF,157cm,Right
+91840,J. Lee,49,Croatia,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€591K,€39K,60.4,61.0,63.9,42.2,63,RM,205cm,Left
+321331,Davis,24,Armenia,"Marsh, Fields and Edwards",Premier League (England),€597K,€38K,34.9,42.0,45.6,69.0,63,GK,179cm,Right
+632778,David Pearson,26,Tajikistan,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€590K,€38K,56.1,40.2,65.2,41.5,63,CAM,152cm,Left
+624612,R. Lutz,30,Tajikistan,Stewart-Nelson,Stewart Group (Chile),€588K,€38K,26.3,26.2,71.2,38.4,63,LM,164cm,Left
+837694,M. Newton,35,Botswana,Paris Saint Germain,Premier League (England),€588K,€37K,60.9,63.9,23.3,40.8,63,LWB,187cm,Left
+174187,W. Ayers,33,Benin,Reynolds-Buckley,Premier League (England),€584K,€37K,49.7,64.7,42.4,57.6,63,CB,152cm,Right
+739509,Vincent Pineda,23,Croatia,Williams-Schmidt,Stewart Group (Chile),€579K,€37K,35.5,68.5,46.9,47.6,63,LM,164cm,Right
+256403,B. Gordon,31,South Africa,Harrison Inc,Jimenez Ltd (Tajikistan),€583K,€37K,41.1,15.6,43.2,70.2,63,ST,160cm,Right
+240382,K. Sloan,35,Chile,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€582K,€37K,65.5,54.5,48.2,26.4,63,GK,177cm,Left
+985896,Vasquez,20,Armenia,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€581K,€37K,57.7,64.6,37.3,34.7,63,GK,187cm,Left
+756527,B. Garcia,17,South Africa,"Marsh, Fields and Edwards",Premier League (England),€576K,€37K,31.3,66.2,54.1,39.9,63,RW,173cm,Right
+76727,D. Lee,30,Armenia,"Solis, Estrada and Bell",Premier League (England),€579K,€37K,40.5,14.4,70.4,36.9,63,CAM,204cm,Left
+3199,J. Smith,27,Sudan,Day-Chambers,Cooper Group (Botswana),€576K,€36K,50.3,45.6,66.0,55.1,63,LW,160cm,Right
+36013,Jermaine Harding,22,Croatia,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€578K,€36K,50.7,65.4,55.6,19.8,63,RW,156cm,Right
+740800,P. Simmons,29,Benin,"Solis, Estrada and Bell",Premier League (England),€584K,€34K,58.7,22.0,64.4,34.1,63,CAM,194cm,Left
+749150,J. Rodriguez,31,Armenia,Cox Group,Premier League (England),€574K,€34K,49.9,42.0,67.2,15.0,63,CB,200cm,Left
+151152,Brandon Jr.,34,Benin,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€568K,€36K,50.9,46.4,66.8,23.5,63,CB,184cm,Left
+954331,T. Adkins,22,Chile,Cox Group,Premier League (England),€571K,€34K,28.0,74.1,26.2,30.9,63,ST,204cm,Left
+794624,S. Cox,28,Armenia,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€567K,€35K,55.9,63.4,30.9,50.0,62,GK,162cm,Left
+663985,J. Stephens,23,Antigua and Barbuda,Russell LLC,Ryan-Dyer (Mali),€565K,€34K,54.0,64.2,39.5,41.5,62,LB,159cm,Right
+942525,R. White,32,Mali,Becker-Koch,Ryan-Dyer (Mali),€557K,€34K,64.6,29.0,52.3,36.3,62,RM,160cm,Left
+721487,Lyons,50,Croatia,Day-Chambers,Cooper Group (Botswana),€570K,€34K,33.6,52.9,62.7,58.5,62,CDM,161cm,Left
+279850,James Jr.,34,South Africa,Becker-Koch,Ryan-Dyer (Mali),€554K,€33K,30.1,56.7,44.7,63.3,62,ST,198cm,Left
+599843,A. Graves,33,Antigua and Barbuda,FC Barcelona,Ryan-Dyer (Mali),€551K,€33K,51.7,64.8,27.0,44.4,62,LB,208cm,Right
+460860,T. Bauer,23,Mali,Williams-Schmidt,Stewart Group (Chile),€552K,€33K,19.3,52.1,30.0,64.7,62,RB,181cm,Left
+862370,K. Ramirez,16,Botswana,"Simon, Robinson and Jones",Premier League (England),€560K,€34K,66.3,49.9,36.5,46.2,62,GK,162cm,Left
+469406,R. Martin,25,South Africa,Hamilton-West,Premier League (England),€548K,€33K,63.1,55.0,59.5,26.0,62,LW,191cm,Right
+739795,Jesse Jr.,32,Croatia,Thomas-Weiss,Ryan-Dyer (Mali),€550K,€33K,57.3,63.9,41.8,17.6,62,CAM,178cm,Right
+469756,J. Long,34,Mali,Jones Group,Premier League (England),€555K,€33K,67.2,46.5,39.6,37.8,62,GK,158cm,Left
+27491,S. Moore,22,Benin,Ruiz-Hanson,Ryan-Dyer (Mali),€550K,€33K,46.5,23.8,66.0,50.3,62,GK,175cm,Right
+740655,M. Lopez,29,Mali,Paris Saint Germain,Premier League (England),€542K,€32K,60.1,38.6,58.7,63.3,62,GK,167cm,Right
+347627,B. Martin,29,Botswana,"Banks, Olsen and Cook",Cooper Group (Botswana),€548K,€33K,27.0,49.5,65.6,19.0,62,CB,181cm,Left
+970231,N. Terry,25,Mali,Manchester United,"Jones, Acevedo and Scott (Croatia)",€547K,€32K,56.7,19.3,64.1,38.2,62,ST,186cm,Right
+568968,A. Johnson,31,Benin,"Obrien, Medina and Owens",Premier League (England),€547K,€33K,58.0,59.1,63.1,46.3,62,LM,207cm,Right
+904877,Stephens,22,South Africa,Harvey LLC,Premier League (England),€539K,€31K,48.2,56.9,29.2,63.9,62,GK,204cm,Left
+438081,J. Richardson,20,Benin,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€541K,€31K,35.6,67.4,46.7,41.1,62,LM,194cm,Right
+966733,B. Perez,26,South Africa,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€538K,€32K,62.3,27.5,51.5,56.1,61,LM,150cm,Left
+565838,B. Fletcher,34,El Salvador,Stewart-Nelson,Stewart Group (Chile),€544K,€32K,64.2,42.0,36.0,52.4,61,ST,194cm,Right
+484206,P. Williams,34,El Salvador,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€536K,€31K,59.6,56.8,61.3,37.1,61,LB,155cm,Right
+107448,J. Hanson,29,El Salvador,FC Barcelona,Ryan-Dyer (Mali),€537K,€31K,63.3,20.1,53.5,46.0,61,ST,170cm,Right
+197793,W. Schmidt,26,Antigua and Barbuda,"Crosby, Jackson and Davis",Premier League (England),€536K,€31K,54.1,63.5,31.7,44.8,61,CF,173cm,Right
+853321,D. Hart,21,Chile,Reyes Ltd,Premier League (England),€536K,€31K,59.7,61.5,48.3,22.2,61,CAM,197cm,Right
+763531,Aaron Miller,27,Mali,Paris Saint Germain,Premier League (England),€534K,€30K,49.8,52.7,46.3,63.7,61,GK,191cm,Right
+632866,Steele,30,Sudan,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€528K,€31K,66.8,42.9,24.4,35.7,61,CAM,210cm,Right
+305194,C. Salazar,25,Benin,Ellis-Hill,Rivas Inc (Botswana),€529K,€30K,38.3,61.8,59.8,42.3,61,ST,152cm,Left
+600123,Blake Jr.,25,Botswana,Carter PLC,Premier League (England),€528K,€31K,65.3,34.3,45.2,48.0,61,RM,200cm,Right
+780384,S. Cruz,44,Chile,"Rose, Crawford and Giles",Cooper Group (Botswana),€521K,€30K,63.4,6.8,50.0,55.1,61,LM,164cm,Left
+567415,J. Riggs,31,Sudan,Day-Chambers,Cooper Group (Botswana),€524K,€30K,37.5,58.6,19.7,62.0,61,CM,154cm,Right
+248451,R. Green,20,Botswana,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€523K,€30K,44.5,66.5,25.3,18.9,61,LB,163cm,Right
+150662,V. Conway,41,Sudan,"Rose, Crawford and Giles",Cooper Group (Botswana),€533K,€30K,26.3,62.6,37.9,54.8,61,RB,172cm,Left
+773513,Scott Jr.,20,South Africa,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€519K,€30K,34.8,50.7,64.7,29.4,61,CDM,193cm,Left
+986685,D. Robinson,22,Mali,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€523K,€31K,62.5,52.0,58.1,43.2,61,LB,209cm,Right
+634456,Brown,29,Mali,"Rose, Crawford and Giles",Cooper Group (Botswana),€515K,€30K,33.3,56.9,41.3,62.9,61,CM,210cm,Right
+880330,Gordon,27,Croatia,Harvey LLC,Premier League (England),€518K,€30K,63.7,25.1,54.0,44.6,61,ST,160cm,Right
+913160,C. Foster,28,Benin,Becker-Koch,Ryan-Dyer (Mali),€520K,€30K,65.5,43.9,46.2,41.1,61,RM,157cm,Right
+16418,B. Hicks,34,El Salvador,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€512K,€30K,52.3,34.8,47.9,62.0,60,ST,205cm,Right
+704590,Wilcox,52,Croatia,Carroll LLC,Rivas Inc (Botswana),€511K,€30K,59.8,44.1,50.1,58.7,60,GK,177cm,Left
+983336,Nathaniel Beard,29,Croatia,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€508K,€30K,45.8,55.8,62.0,36.0,60,LW,207cm,Right
+451429,V. Edwards,25,Tajikistan,Ellis-Hill,Rivas Inc (Botswana),€504K,€29K,43.0,29.8,65.9,27.5,60,LM,183cm,Left
+467820,Scott Jr.,29,Antigua and Barbuda,Harvey LLC,Premier League (England),€509K,€29K,56.3,35.6,60.6,30.2,60,LM,159cm,Left
+107375,Richard Byrd,55,Botswana,Thomas-Weiss,Ryan-Dyer (Mali),€504K,€30K,54.5,62.0,53.5,54.2,60,LB,184cm,Left
+779144,B. Morrison,27,Chile,Carroll LLC,Rivas Inc (Botswana),€505K,€30K,48.5,59.5,59.9,44.7,60,RW,163cm,Right
+975753,Zachary Jr.,35,Sudan,"Perkins, Salas and Weeks",Premier League (England),€504K,€29K,57.7,38.3,61.4,16.1,60,LM,197cm,Right
+779406,D. Higgins,23,Tajikistan,Bender Inc,Rivas Inc (Botswana),€505K,€28K,64.3,32.6,26.3,48.1,60,CAM,179cm,Right
+648625,H. Little,29,Antigua and Barbuda,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€501K,€29K,63.7,48.9,38.5,43.3,60,RM,186cm,Right
+853483,M. Jones,21,Sudan,FC Bayern München,Premier League (England),€501K,€29K,54.6,62.3,37.5,16.5,60,LWB,207cm,Left
+239102,Herman,33,Benin,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€499K,€28K,40.4,63.1,51.0,17.2,60,LM,157cm,Right
+83566,Jack Jones,35,Antigua and Barbuda,"Obrien, Medina and Owens",Premier League (England),€499K,€28K,40.2,54.2,62.2,42.8,60,CDM,202cm,Left
+895126,A. Maxwell,21,El Salvador,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€496K,€28K,57.4,57.4,29.7,61.1,60,GK,207cm,Right
+878779,Marvin Ross,22,Chile,Williams-Schmidt,Stewart Group (Chile),€503K,€29K,49.0,28.8,52.0,62.6,60,GK,195cm,Right
+813447,R. Johnson,35,Chile,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€494K,€28K,62.3,51.4,41.3,42.2,60,LWB,153cm,Left
+403959,J. Guzman,27,Mali,"Solis, Estrada and Bell",Premier League (England),€494K,€27K,47.3,21.1,50.3,63.4,60,LWB,169cm,Right
+461683,Watson,35,Benin,Woods-Perry,Premier League (England),€494K,€28K,45.9,65.3,40.0,34.0,60,LB,173cm,Right
+855247,M. Conrad,31,Mali,"Perkins, Salas and Weeks",Premier League (England),€498K,€27K,23.1,58.0,44.0,60.1,60,CM,183cm,Right
+691415,Thomas Blackburn,50,Antigua and Barbuda,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€490K,€27K,61.5,36.0,54.6,57.1,60,LM,160cm,Left
+77191,Benjamin Tanner,27,Antigua and Barbuda,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€492K,€27K,63.9,30.7,46.3,17.3,60,RM,183cm,Left
+839353,J. Johnson,32,Tajikistan,Carter PLC,Premier League (England),€491K,€27K,42.1,43.7,58.4,60.6,60,LWB,160cm,Right
+249626,J. Ross,22,Benin,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€489K,€27K,62.1,46.9,20.6,54.6,60,RB,207cm,Right
+507971,T. Thompson,25,El Salvador,FC Bayern München,Premier League (England),€488K,€26K,60.1,12.4,43.9,56.1,59,ST,165cm,Right
+245885,J. Stanley,29,Mali,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€485K,€26K,63.1,45.4,23.4,32.4,59,RWB,177cm,Left
+622923,Raymond Jr.,20,Benin,Thomas-Weiss,Ryan-Dyer (Mali),€490K,€26K,48.8,59.6,56.0,33.9,59,LW,193cm,Right
+565598,Kyle Bowman,23,Sudan,Ellis-Hill,Rivas Inc (Botswana),€486K,€27K,51.5,55.3,31.4,60.6,59,ST,175cm,Left
+254474,T. Reyes,23,Chile,Jones Group,Premier League (England),€475K,€25K,32.9,54.4,42.0,59.9,59,CM,174cm,Right
+942653,M. Floyd,29,El Salvador,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€475K,€26K,38.8,55.3,60.7,14.1,59,CB,175cm,Left
+66262,Jeffrey Jr.,16,Tajikistan,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€482K,€25K,53.8,48.7,13.3,60.2,59,CF,153cm,Left
+795390,J. Taylor,33,South Africa,Whitney-Boyle,Ryan-Dyer (Mali),€484K,€25K,56.1,60.1,12.6,41.5,59,CB,175cm,Right
+426821,B. Clark,35,Armenia,"Obrien, Medina and Owens",Premier League (England),€472K,€25K,58.6,27.2,40.0,59.5,59,ST,207cm,Right
+304035,R. Jones,34,Benin,FC Bayern München,Premier League (England),€460K,€25K,16.8,59.6,54.5,55.5,59,RB,199cm,Left
+697881,K. Anderson,31,Croatia,FC Bayern München,Premier League (England),€470K,€25K,51.5,61.9,40.0,51.3,59,LWB,187cm,Left
+829113,Graham,35,Tajikistan,"Obrien, Medina and Owens",Premier League (England),€478K,€25K,48.6,62.7,43.7,23.5,59,LW,186cm,Right
+247720,Stephen Garcia,20,Croatia,FC Bayern München,Premier League (England),€455K,€24K,59.7,55.6,7.1,28.7,59,CB,203cm,Right
+821327,Andrew Flowers,30,Mali,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€473K,€24K,32.3,57.6,59.4,50.1,59,CDM,175cm,Left
+166159,Edward Jr.,55,Tajikistan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€454K,€24K,32.3,13.4,61.5,52.1,59,ST,201cm,Right
+395562,D. Johnson,31,Benin,"Banks, Olsen and Cook",Cooper Group (Botswana),€458K,€24K,49.8,62.5,45.8,36.3,59,LB,176cm,Left
+690671,Caldwell,26,Armenia,Becker-Koch,Ryan-Dyer (Mali),€450K,€24K,63.6,44.2,22.8,33.6,59,GK,193cm,Left
+633363,J. Houston,21,Sudan,Harvey LLC,Premier League (England),€456K,€25K,52.9,28.5,35.2,61.6,59,ST,158cm,Right
+330381,Jonathan Jr.,32,Croatia,Williams-Schmidt,Stewart Group (Chile),€451K,€24K,63.4,17.7,36.2,46.1,59,RM,182cm,Right
+707253,Jones,20,Botswana,FC Barcelona,Ryan-Dyer (Mali),€444K,€24K,62.3,36.8,48.9,12.5,59,RWB,196cm,Left
+805621,R. Glenn,30,El Salvador,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€430K,€23K,29.5,55.0,59.6,56.0,59,ST,193cm,Left
+224259,C. Oneill,26,South Africa,Martin Inc,Rivas Inc (Botswana),€434K,€23K,50.7,12.7,34.6,62.2,59,ST,201cm,Right
+887934,C. Bruce,25,Botswana,"Crosby, Jackson and Davis",Premier League (England),€454K,€24K,60.7,53.7,25.9,25.5,59,CB,201cm,Right
+76973,Jonathan Jr.,28,Armenia,FC Barcelona,Ryan-Dyer (Mali),€439K,€24K,57.5,47.8,58.9,17.8,59,LB,210cm,Right
+822941,Ryan Jr.,22,Botswana,Manchester United,"Jones, Acevedo and Scott (Croatia)",€416K,€23K,58.9,58.6,52.2,16.6,59,CAM,157cm,Right
+626462,A. Gallagher,28,Botswana,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€418K,€22K,17.4,17.3,72.3,17.4,59,CB,210cm,Left
+372647,M. Campbell,39,Croatia,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€413K,€23K,63.5,33.6,41.8,45.3,59,ST,152cm,Right
+974904,S. Jacobs,26,Croatia,"Simon, Robinson and Jones",Premier League (England),€413K,€22K,16.0,23.6,43.0,62.6,58,LWB,202cm,Right
+630948,J. Mcmahon,52,Croatia,Ruiz-Hanson,Ryan-Dyer (Mali),€407K,€22K,23.9,49.8,59.8,54.2,58,RWB,200cm,Right
+655682,E. Schmidt,30,South Africa,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€436K,€22K,39.9,62.4,43.0,16.9,58,LM,166cm,Right
+614915,J. Thomas,33,Chile,Day-Chambers,Cooper Group (Botswana),€412K,€22K,58.2,11.4,57.6,49.0,58,ST,190cm,Right
+786966,J. Hopkins,26,Antigua and Barbuda,FC Bayern München,Premier League (England),€413K,€22K,59.4,48.3,54.9,54.7,58,CAM,183cm,Left
+565827,R. Cox,24,Armenia,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€410K,€22K,49.3,61.0,24.1,15.3,58,LB,159cm,Right
+812093,N. Carson,25,El Salvador,Day-Chambers,Cooper Group (Botswana),€406K,€22K,36.3,20.2,64.8,23.0,58,CB,161cm,Left
+992418,R. Webb,33,Mali,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€406K,€23K,48.6,23.8,28.4,60.5,58,RWB,193cm,Right
+190101,Smith,29,Antigua and Barbuda,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€404K,€21K,55.8,59.1,42.1,21.3,58,LM,185cm,Right
+886483,M. Weber,31,Sudan,Paris Saint Germain,Premier League (England),€396K,€21K,37.9,59.7,46.2,51.9,58,LB,188cm,Left
+304885,Lynch,22,Chile,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€401K,€21K,24.0,48.7,60.8,41.0,58,CDM,199cm,Right
+84016,Patton,34,South Africa,Reynolds-Buckley,Premier League (England),€399K,€21K,58.7,54.8,51.4,46.7,58,LW,157cm,Right
+174412,Boone,23,Armenia,"Huber, Price and Carroll",Ryan-Dyer (Mali),€402K,€22K,29.2,51.4,45.5,59.7,58,CM,177cm,Right
+977292,C. Diaz,29,El Salvador,Paris Saint Germain,Premier League (England),€395K,€21K,62.8,32.7,45.4,23.2,58,RWB,201cm,Left
+616932,K. Castillo,45,Botswana,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€396K,€20K,58.0,58.0,31.5,44.5,58,RB,170cm,Right
+682613,Kyle Jr.,20,Armenia,"Solis, Estrada and Bell",Premier League (England),€405K,€20K,37.8,53.6,22.1,58.9,58,RB,157cm,Left
+453272,A. Williams,33,El Salvador,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€389K,€20K,55.1,59.0,49.4,46.3,58,ST,190cm,Left
+486071,J. Weeks,34,Antigua and Barbuda,FC Barcelona,Ryan-Dyer (Mali),€387K,€20K,47.3,54.3,58.6,17.6,58,LM,162cm,Right
+764631,C. Wall,22,Mali,"Simon, Robinson and Jones",Premier League (England),€386K,€20K,53.0,60.0,48.6,23.5,58,LB,203cm,Right
+608986,A. Evans,31,Antigua and Barbuda,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€395K,€20K,41.9,47.6,28.6,61.3,58,CM,203cm,Right
+297694,J. Logan,47,Chile,"Perkins, Salas and Weeks",Premier League (England),€385K,€20K,32.8,43.4,58.2,55.4,58,LWB,179cm,Right
+650109,J. Tyler,29,El Salvador,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€386K,€19K,58.8,22.4,26.8,53.9,58,CM,185cm,Left
+543787,L. Anderson,25,Botswana,"Simon, Robinson and Jones",Premier League (England),€385K,€20K,59.2,19.3,34.0,54.7,58,RM,185cm,Right
+445564,J. Walker,25,El Salvador,"Perkins, Salas and Weeks",Premier League (England),€383K,€19K,39.7,34.8,64.3,34.6,58,LM,205cm,Left
+838817,J. Moreno,52,Sudan,Martin Inc,Rivas Inc (Botswana),€382K,€19K,62.0,32.3,40.9,45.4,58,CM,180cm,Left
+617768,C. Norris,25,Armenia,Jones Group,Premier League (England),€374K,€19K,48.1,29.7,60.3,52.2,58,ST,190cm,Right
+478773,C. Rios,25,Armenia,Reyes Ltd,Premier League (England),€380K,€19K,54.4,58.4,48.7,56.0,58,RB,199cm,Right
+429651,Jonathan Morales,25,Chile,"Simon, Robinson and Jones",Premier League (England),€382K,€19K,28.0,47.4,34.0,61.9,58,RB,190cm,Left
+495425,M. Snyder,27,Sudan,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€379K,€19K,41.8,46.3,56.0,58.2,58,RB,199cm,Right
+257925,Cross,20,Croatia,Reynolds-Buckley,Premier League (England),€369K,€19K,55.0,59.5,46.7,32.5,58,LWB,169cm,Left
+237784,D. Johnson,35,Antigua and Barbuda,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€373K,€17K,46.7,51.8,44.0,58.6,57,RB,189cm,Right
+549359,Ian Olson,25,Mali,"Banks, Olsen and Cook",Cooper Group (Botswana),€376K,€18K,58.4,51.9,37.3,49.4,57,GK,176cm,Left
+180905,M. Stafford,25,Sudan,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€372K,€18K,58.9,23.8,50.2,46.6,57,RM,150cm,Right
+287411,Dennis Jr.,32,El Salvador,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€359K,€17K,59.2,51.9,44.6,50.9,57,RB,150cm,Right
+656367,J. Rodriguez,24,Armenia,Bender Inc,Rivas Inc (Botswana),€359K,€18K,59.3,48.5,34.3,46.4,57,LB,179cm,Right
+672945,J. Ramos,28,Botswana,"Crosby, Jackson and Davis",Premier League (England),€373K,€16K,52.2,58.9,38.6,36.9,57,RW,209cm,Right
+189688,Darren Jr.,28,Chile,Cardenas Inc,Premier League (England),€362K,€17K,32.6,62.2,41.6,31.1,57,ST,206cm,Left
+870513,John Jr.,30,Tajikistan,Ellis-Hill,Rivas Inc (Botswana),€356K,€16K,25.4,57.2,54.9,55.6,57,ST,181cm,Left
+510076,Jose Jr.,23,Botswana,Carter PLC,Premier League (England),€368K,€16K,61.9,33.0,43.9,31.2,57,RM,195cm,Left
+469392,Jones,20,Armenia,Reyes Ltd,Premier League (England),€349K,€17K,47.5,60.6,39.0,34.0,57,LB,160cm,Left
+567983,Peter York,33,Chile,FC Bayern München,Premier League (England),€353K,€16K,17.6,30.9,66.2,21.7,57,CB,201cm,Left
+674506,C. Collins,15,Botswana,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€349K,€16K,13.6,48.0,46.7,59.8,57,CDM,175cm,Right
+363785,E. Miller,23,Chile,Jones Group,Premier League (England),€343K,€16K,48.9,48.2,58.8,51.0,57,CB,167cm,Left
+511300,D. Anderson,34,Armenia,"Rose, Crawford and Giles",Cooper Group (Botswana),€345K,€16K,39.9,23.6,58.8,52.2,57,RWB,190cm,Right
+814441,E. Franklin,35,Antigua and Barbuda,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€348K,€16K,60.4,38.6,45.2,43.8,57,ST,182cm,Right
+814454,M. Soto,24,Botswana,Whitney-Boyle,Ryan-Dyer (Mali),€342K,€16K,33.5,24.5,63.1,39.0,57,CB,174cm,Left
+393389,W. Jones,32,Tajikistan,Cardenas Inc,Premier League (England),€354K,€15K,28.9,45.3,60.1,42.6,56,CB,157cm,Left
+999827,E. Clayton,22,Antigua and Barbuda,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€327K,€15K,12.0,58.9,49.2,44.5,56,CDM,200cm,Right
+639513,David Jr.,52,Benin,"Huber, Price and Carroll",Ryan-Dyer (Mali),€333K,€15K,26.7,40.3,61.5,34.2,56,CB,170cm,Left
+787315,Billy Jr.,33,Tajikistan,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€313K,€15K,28.2,59.3,44.5,24.1,56,LM,156cm,Right
+951197,T. Hill,31,El Salvador,Ruiz-Hanson,Ryan-Dyer (Mali),€316K,€15K,10.4,46.4,59.5,45.4,56,RWB,180cm,Right
+672684,Thomas Dunn,30,Chile,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€311K,€15K,43.1,43.4,60.1,33.5,56,CAM,207cm,Left
+591028,A. Page,28,El Salvador,Russell LLC,Ryan-Dyer (Mali),€315K,€14K,46.2,56.0,55.5,43.6,56,ST,156cm,Left
+902503,C. York,44,El Salvador,FC Barcelona,Ryan-Dyer (Mali),€307K,€14K,57.7,43.1,40.2,49.1,56,RM,186cm,Right
+157572,Albert Jr.,35,Antigua and Barbuda,Manchester United,"Jones, Acevedo and Scott (Croatia)",€299K,€14K,60.1,31.8,42.8,13.4,56,RWB,161cm,Left
+68058,Martin,20,Croatia,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€311K,€14K,51.2,32.8,57.2,49.5,56,LWB,179cm,Right
+674303,Hubbard,51,Armenia,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€307K,€15K,18.2,34.8,56.4,52.8,56,RWB,161cm,Right
+183466,L. Terry,46,Armenia,Harvey LLC,Premier League (England),€294K,€14K,26.4,65.0,30.0,28.9,56,LM,191cm,Right
+658625,J. Haynes,20,Benin,"Rose, Crawford and Giles",Cooper Group (Botswana),€294K,€14K,53.9,13.0,48.1,56.3,56,RM,154cm,Right
+249223,M. Downs,42,Tajikistan,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€318K,€14K,48.5,36.0,58.3,31.0,56,CB,174cm,Left
+60867,J. Maldonado,29,Antigua and Barbuda,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€295K,€14K,48.5,32.8,53.2,56.5,56,LM,173cm,Left
+102088,F. Durham,23,Botswana,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€289K,€13K,56.4,48.8,51.5,53.7,56,RB,158cm,Right
+356093,Luis Jr.,29,Antigua and Barbuda,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€291K,€13K,54.0,57.2,16.2,42.5,56,CF,155cm,Right
+651136,C. Barker,27,El Salvador,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€296K,€14K,56.7,34.9,55.6,33.8,56,RM,194cm,Left
+671895,D. Fitzgerald,25,Croatia,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€292K,€13K,49.6,20.7,36.2,56.5,55,LW,196cm,Left
+491736,Anthony Garcia,21,Botswana,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€284K,€13K,58.6,29.3,43.2,27.8,55,RM,180cm,Left
+114973,Jordan Ramsey,32,Chile,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€280K,€13K,60.4,15.7,27.4,39.9,55,RWB,160cm,Left
+164871,C. Ray,27,Mali,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€283K,€12K,37.4,36.0,58.1,47.5,55,LM,175cm,Left
+58631,O. Morris,20,Benin,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€288K,€13K,44.9,36.3,25.0,58.0,55,RM,194cm,Right
+959948,R. Stephens,44,South Africa,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€279K,€11K,35.2,61.4,27.9,26.6,55,ST,172cm,Left
+960015,John Gonzalez,50,Mali,Russell LLC,Ryan-Dyer (Mali),€277K,€12K,54.7,50.5,55.0,14.0,55,LM,200cm,Right
+788413,J. Smith,30,South Africa,Carroll LLC,Rivas Inc (Botswana),€279K,€12K,12.0,45.9,22.4,58.0,55,RW,162cm,Left
+878762,K. Henry,28,El Salvador,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€279K,€12K,63.7,13.3,25.5,27.7,55,CM,169cm,Left
+35270,Donald Garcia,30,Mali,Cox Group,Premier League (England),€275K,€11K,57.5,35.9,46.0,44.8,55,LM,162cm,Left
+641606,M. Woodard,25,Croatia,"Obrien, Medina and Owens",Premier League (England),€277K,€11K,52.8,54.2,32.1,55.3,55,GK,157cm,Left
+821844,D. Roberts,25,South Africa,Cardenas Inc,Premier League (England),€277K,€11K,56.3,27.0,51.1,50.0,55,RM,152cm,Left
+691024,Randall Jr.,23,Sudan,"Obrien, Medina and Owens",Premier League (England),€282K,€11K,52.7,55.6,43.0,14.6,55,LWB,197cm,Left
+658545,J. Hoover,21,Armenia,Reyes Ltd,Premier League (England),€277K,€11K,19.2,60.9,36.4,13.4,55,LM,204cm,Right
+937100,C. Davis,22,Antigua and Barbuda,Russell LLC,Ryan-Dyer (Mali),€272K,€11K,18.1,43.8,59.0,44.3,55,LWB,201cm,Right
+740493,L. Jones,21,Tajikistan,Manchester United,"Jones, Acevedo and Scott (Croatia)",€272K,€11K,55.6,38.7,22.8,51.3,55,LW,176cm,Left
+756949,E. Evans,35,Sudan,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€272K,€11K,50.7,22.2,32.4,55.9,55,GK,191cm,Right
+3589,M. Cooper,25,Tajikistan,FC Barcelona,Ryan-Dyer (Mali),€269K,€14K,25.0,21.8,33.4,62.0,55,LWB,166cm,Right
+200464,T. Parsons,53,Tajikistan,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€274K,€10K,49.8,57.0,31.3,23.5,55,LM,176cm,Right
+585529,Dale Jr.,22,Armenia,Carter PLC,Premier League (England),€271K,€10K,56.5,50.1,29.0,43.9,55,GK,168cm,Left
+307108,Jonathan Jr.,35,Chile,Stewart-Nelson,Stewart Group (Chile),€270K,€10K,32.8,12.7,55.9,51.0,55,ST,175cm,Right
+106738,P. Lawrence,29,Mali,Paris Saint Germain,Premier League (England),€259K,€10K,34.6,54.7,50.6,53.6,54,ST,207cm,Left
+975110,John Zuniga,25,Croatia,"Marsh, Fields and Edwards",Premier League (England),€258K,€10K,27.1,25.3,57.3,45.6,54,LM,160cm,Left
+712994,J. Jones,34,Croatia,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€269K,€10K,60.3,21.7,22.1,34.4,54,RWB,198cm,Left
+975143,T. Morris,18,Chile,"Solis, Estrada and Bell",Premier League (England),€263K,€10K,57.0,45.1,32.0,42.5,54,RM,182cm,Right
+729424,Bentley,21,Antigua and Barbuda,Liverpool,Jimenez Ltd (Tajikistan),€256K,€9K,15.8,43.5,53.6,54.4,54,CDM,203cm,Left
+770436,N. Green,49,Botswana,Carter PLC,Premier League (England),€256K,€9K,56.3,31.5,45.6,31.0,54,RM,159cm,Left
+745966,Charles Morris,34,Tajikistan,FC Barcelona,Ryan-Dyer (Mali),€265K,€9K,58.5,40.4,38.4,15.6,54,RWB,164cm,Left
+287286,J. Andersen,24,Sudan,"Simon, Robinson and Jones",Premier League (England),€256K,€9K,44.6,36.4,57.6,41.3,54,CB,159cm,Left
+33457,K. Banks,24,El Salvador,Ruiz-Hanson,Ryan-Dyer (Mali),€254K,€8K,57.0,35.1,44.2,46.1,54,CM,155cm,Left
+852662,J. Richmond,26,Sudan,Hamilton-West,Premier League (England),€253K,€8K,51.3,55.4,36.2,32.6,54,CB,171cm,Right
+508771,Hines,32,Mali,"Huber, Price and Carroll",Ryan-Dyer (Mali),€258K,€9K,61.6,27.2,12.1,29.9,54,RWB,161cm,Left
+673044,Z. Bird,30,Mali,Thomas-Weiss,Ryan-Dyer (Mali),€254K,€8K,54.5,25.1,29.6,50.6,54,GK,152cm,Right
+345672,Michael Duke,28,El Salvador,"Solis, Estrada and Bell",Premier League (England),€251K,€8K,53.4,54.4,49.7,41.1,54,RM,203cm,Left
+132724,D. Baker,31,Antigua and Barbuda,Carter PLC,Premier League (England),€249K,€8K,36.2,20.3,56.4,47.7,54,LWB,159cm,Right
+910989,Thomas Young,24,Tajikistan,Williams-Schmidt,Stewart Group (Chile),€249K,€8K,47.3,23.7,36.9,56.4,54,RWB,162cm,Right
+411561,Levi Jr.,24,El Salvador,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€255K,€8K,33.1,25.3,36.9,59.4,54,RWB,174cm,Right
+452576,Christopher Carson,15,Chile,Paris Saint Germain,Premier League (England),€245K,€8K,54.8,45.2,33.9,53.5,54,GK,206cm,Left
+550899,Kevin Jr.,31,El Salvador,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€244K,€7K,51.9,54.9,45.1,42.7,54,LWB,179cm,Right
+706598,A. Lopez,33,Benin,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€244K,€7K,24.5,41.8,39.4,57.9,54,LWB,158cm,Right
+804963,S. Mcgee,21,Croatia,"Perkins, Salas and Weeks",Premier League (England),€250K,€7K,47.6,25.9,31.0,56.5,54,LW,182cm,Left
+2154,J. Dixon,46,Croatia,FC Bayern München,Premier League (England),€243K,€6K,55.3,46.7,33.8,51.5,54,RB,176cm,Right
+944420,W. Jones,31,South Africa,Russell LLC,Ryan-Dyer (Mali),€243K,€7K,44.5,57.5,44.2,42.4,54,ST,187cm,Left
+412039,P. Stone,39,Mali,Reyes Ltd,Premier League (England),€242K,€6K,43.2,47.9,55.9,37.3,54,RWB,183cm,Right
+952736,Brian Jones,24,Antigua and Barbuda,"Perkins, Salas and Weeks",Premier League (England),€247K,€6K,18.7,41.7,58.7,26.2,54,CB,201cm,Left
+698888,R. Bell,31,Tajikistan,Reynolds-Buckley,Premier League (England),€235K,€6K,42.1,54.9,51.1,21.4,54,LB,153cm,Right
+928770,Rios,52,Croatia,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€235K,€6K,29.3,55.3,39.4,50.1,54,RB,168cm,Left
+404525,M. Frye,37,Botswana,Paris Saint Germain,Premier League (England),€241K,€6K,46.2,56.7,47.6,43.1,54,RW,186cm,Right
+233282,C. Phillips,26,Armenia,Stewart-Nelson,Stewart Group (Chile),€241K,€6K,50.6,55.8,47.9,20.3,54,LB,173cm,Right
+913330,I. Walker,24,Botswana,Jones Group,Premier League (England),€234K,€5K,42.0,25.2,41.0,58.5,54,RW,182cm,Left
+65769,Matthew Jr.,29,Armenia,Manchester United,"Jones, Acevedo and Scott (Croatia)",€229K,€5K,43.1,54.2,51.2,48.2,53,LB,163cm,Left
+344730,R. Sandoval,28,Chile,Hamilton-West,Premier League (England),€235K,€6K,55.0,45.9,39.9,17.0,53,LM,152cm,Right
+352990,J. Hobbs,32,Tajikistan,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€239K,€6K,15.0,21.1,63.4,21.9,53,CB,153cm,Left
+304065,J. Mays,47,South Africa,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€227K,€5K,58.0,26.8,25.5,38.2,53,RWB,189cm,Left
+837062,A. Lucas,29,Sudan,Carroll LLC,Rivas Inc (Botswana),€228K,€5K,57.7,11.2,32.1,38.7,53,RWB,198cm,Left
+296668,R. Carter,28,Benin,Liverpool,Jimenez Ltd (Tajikistan),€223K,€5K,48.9,13.9,33.0,54.0,53,RM,210cm,Right
+993046,Ryan Jr.,20,Chile,FC Bayern München,Premier League (England),€225K,€5K,42.6,54.9,47.6,16.9,53,LB,176cm,Right
+952305,J. Blair,26,Botswana,Cox Group,Premier League (England),€210K,€4K,56.6,20.9,41.5,44.0,53,RM,184cm,Right
+477350,T. Barnes,25,Armenia,Carroll LLC,Rivas Inc (Botswana),€210K,€5K,45.7,26.9,55.8,26.5,53,CB,167cm,Left
+747758,J. Morgan,33,Croatia,FC Bayern München,Premier League (England),€214K,€4K,56.8,36.8,17.2,40.1,53,CM,163cm,Left
+895660,R. Myers,30,Mali,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€211K,€5K,36.2,47.3,52.5,53.7,53,GK,192cm,Right
+723682,A. Obrien,24,South Africa,FC Bayern München,Premier League (England),€202K,€3K,13.8,39.1,56.3,43.6,53,RWB,168cm,Right
+584539,J. Stevens,30,Antigua and Barbuda,Ruiz-Hanson,Ryan-Dyer (Mali),€215K,€3K,47.4,40.0,54.2,28.7,53,CB,201cm,Left
+93483,Stanley Jr.,26,Armenia,Jones Group,Premier League (England),€204K,€4K,49.9,47.9,54.2,42.0,53,RWB,177cm,Right
+257341,Callahan,28,Sudan,Bender Inc,Rivas Inc (Botswana),€204K,€3K,53.3,50.5,42.4,50.8,53,RM,166cm,Left
+404994,E. Smith,25,Mali,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€195K,€2K,46.0,42.3,37.1,55.8,53,LWB,200cm,Right
+388674,Gibbs,35,Chile,"Simon, Robinson and Jones",Premier League (England),€203K,€3K,17.6,47.2,34.2,54.8,53,LWB,155cm,Right
+790244,Robert Swanson,23,Croatia,Manchester United,"Jones, Acevedo and Scott (Croatia)",€194K,€2K,17.1,27.1,25.2,61.5,53,LWB,169cm,Right
+401517,N. Anderson,24,South Africa,"Rose, Crawford and Giles",Cooper Group (Botswana),€197K,€2K,18.8,53.8,46.0,29.2,52,LM,167cm,Right
+615434,R. Ortiz,35,Sudan,Ruiz-Hanson,Ryan-Dyer (Mali),€193K,€2K,46.7,45.9,54.1,42.9,52,RWB,165cm,Right
+230963,P. Thomas,27,South Africa,Whitney-Boyle,Ryan-Dyer (Mali),€190K,€2K,17.8,25.2,39.9,56.5,52,LWB,176cm,Right
+370237,Roberts,30,Antigua and Barbuda,Liverpool,Jimenez Ltd (Tajikistan),€190K,€2K,54.4,28.2,36.7,44.8,52,CAM,208cm,Right
+181903,J. Walker,22,Benin,Carter PLC,Premier League (England),€193K,€2K,45.1,53.7,36.6,12.7,52,LB,184cm,Right
+927442,P. Pitts,32,Benin,Manchester United,"Jones, Acevedo and Scott (Croatia)",€201K,€2K,55.8,26.7,15.3,40.0,52,LW,152cm,Left
+501572,J. Green,32,Armenia,Reyes Ltd,Premier League (England),€188K,€1K,55.2,22.4,22.7,42.5,52,RM,203cm,Right
+419836,A. Richardson,24,El Salvador,Manchester United,"Jones, Acevedo and Scott (Croatia)",€186K,€2K,45.4,26.2,53.0,50.1,52,RWB,197cm,Right
+329822,Francisco Lyons,34,South Africa,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€187K,€1K,54.7,12.1,20.2,42.3,52,CM,157cm,Left
+207018,C. Berg,29,Sudan,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€183K,€1K,60.9,9.3,25.6,15.0,52,CM,203cm,Left
+723215,D. Hernandez,26,Tajikistan,"Obrien, Medina and Owens",Premier League (England),€182K,€0,33.4,31.8,52.1,50.3,52,GK,174cm,Right
+821741,B. Sellers,23,Antigua and Barbuda,"Obrien, Medina and Owens",Premier League (England),€173K,€0,54.6,40.2,42.2,35.5,52,CAM,157cm,Right
+248308,M. Stevenson,33,Botswana,Reynolds-Buckley,Premier League (England),€179K,€0,41.4,21.5,39.0,56.1,52,LWB,156cm,Right
+35489,D. Oneill,35,Croatia,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€169K,€0,26.7,46.5,18.4,54.5,52,LW,210cm,Left
+330434,A. Santiago,27,Mali,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€172K,€0,52.8,26.6,50.5,43.7,52,RM,150cm,Right
+633632,J. Moore,35,Mali,Russell LLC,Ryan-Dyer (Mali),€173K,€0,56.6,30.3,35.9,37.1,52,CM,156cm,Left
+994083,P. Miller,34,Tajikistan,"Perkins, Salas and Weeks",Premier League (England),€167K,€0,34.1,26.0,37.8,56.4,52,ST,172cm,Right
+920461,Kevin Parker,35,Mali,Martin Inc,Rivas Inc (Botswana),€164K,€0,14.4,29.2,31.4,58.7,52,RWB,175cm,Right
+707535,G. Adams,33,Chile,Woods-Perry,Premier League (England),€188K,€0,31.2,35.7,58.1,14.4,52,CB,210cm,Left
+937017,R. Sanford,31,Botswana,"Rose, Crawford and Giles",Cooper Group (Botswana),€166K,€0,44.1,54.3,25.4,30.8,52,LB,168cm,Right
+773999,S. Armstrong,28,Tajikistan,Cardenas Inc,Premier League (England),€164K,€0,29.2,39.1,55.7,22.3,52,LM,175cm,Right
+778543,Randall Jr.,33,Mali,Williams-Schmidt,Stewart Group (Chile),€162K,€0,24.9,31.9,57.9,20.6,51,CB,187cm,Left
+33150,C. Pierce,24,Benin,Harvey LLC,Premier League (England),€160K,€0,45.2,44.0,44.1,53.5,51,ST,166cm,Right
+25061,M. Richardson,23,El Salvador,Ellis-Hill,Rivas Inc (Botswana),€160K,€0,43.3,41.6,36.0,53.1,51,GK,182cm,Right
+33726,B. Rich,30,Sudan,"Perkins, Salas and Weeks",Premier League (England),€162K,€0,51.6,35.0,47.6,35.6,51,RM,195cm,Left
+353466,G. Williams,26,El Salvador,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€163K,€0,39.5,31.9,54.7,26.4,51,RWB,153cm,Right
+919061,Darren Wright,37,Chile,Russell LLC,Ryan-Dyer (Mali),€147K,€0,42.5,53.5,17.0,40.4,51,GK,158cm,Left
+140912,K. Mitchell,22,Croatia,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€155K,€0,26.4,28.0,12.9,58.3,51,RW,181cm,Left
+575251,F. Medina,28,Botswana,Manchester United,"Jones, Acevedo and Scott (Croatia)",€151K,€0,46.1,52.0,38.7,29.5,51,LW,152cm,Left
+420370,M. Hodges,23,Sudan,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€146K,€0,37.1,47.4,52.6,31.8,51,CDM,173cm,Left
+690793,J. Miller,42,Armenia,Hamilton-West,Premier League (England),€144K,€0,26.6,37.5,54.9,35.9,51,LWB,171cm,Right
+43895,J. Adkins,21,South Africa,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€144K,€0,53.0,35.7,44.7,46.3,51,LW,167cm,Left
+289719,A. Gardner,31,Sudan,Russell LLC,Ryan-Dyer (Mali),€143K,€0,44.1,18.7,46.7,52.1,51,CM,180cm,Left
+846816,R. Smith,36,Mali,Thomas-Weiss,Ryan-Dyer (Mali),€143K,€0,19.4,33.9,50.9,51.0,51,LWB,188cm,Right
+699434,A. Pace,25,Benin,"Huber, Price and Carroll",Ryan-Dyer (Mali),€140K,€0,32.4,24.6,39.9,55.3,51,LW,186cm,Left
+536390,M. Green,31,Armenia,Manchester United,"Jones, Acevedo and Scott (Croatia)",€138K,€0,28.1,34.2,57.0,19.8,51,CB,195cm,Left
+110560,Perry,25,El Salvador,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€141K,€0,42.4,52.0,17.9,48.1,51,RB,168cm,Right
+458752,Michael Jr.,36,South Africa,"Huber, Price and Carroll",Ryan-Dyer (Mali),€135K,€0,57.7,26.0,21.5,15.9,50,RWB,168cm,Left
+409661,D. Rasmussen,23,Sudan,Cox Group,Premier League (England),€141K,€0,51.2,44.5,34.5,22.7,50,RWB,209cm,Left
+655954,M. Fernandez,26,Antigua and Barbuda,Manchester United,"Jones, Acevedo and Scott (Croatia)",€136K,€0,14.2,42.7,42.1,52.6,50,RW,152cm,Left
+344719,Richard Rowland,30,Botswana,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€137K,€0,51.9,43.4,21.8,32.3,50,LW,210cm,Left
+189202,Pierce,28,Tajikistan,FC Barcelona,Ryan-Dyer (Mali),€132K,€0,43.3,49.1,50.6,20.4,50,LB,209cm,Right
+730009,M. Tran,25,Benin,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€134K,€0,38.2,41.6,51.9,44.9,50,CM,169cm,Left
+869633,J. Carter,17,Antigua and Barbuda,Woods-Perry,Premier League (England),€134K,€0,24.0,23.4,33.9,55.4,50,RW,203cm,Left
+542058,Mccall,21,South Africa,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€132K,€0,37.1,27.3,24.4,54.3,50,LWB,171cm,Right
+394771,Dominguez,21,Botswana,"Banks, Olsen and Cook",Cooper Group (Botswana),€123K,€0,50.7,44.2,48.9,37.3,50,RWB,164cm,Left
+722631,M. Johnson,25,Antigua and Barbuda,Harvey LLC,Premier League (England),€136K,€0,35.0,36.0,36.8,54.7,50,LW,209cm,Left
+370494,Jackson,25,Armenia,Russell LLC,Ryan-Dyer (Mali),€127K,€0,50.8,30.0,48.4,10.6,50,RWB,176cm,Left
+247707,J. Williams,33,Mali,Russell LLC,Ryan-Dyer (Mali),€127K,€0,30.6,38.2,54.3,38.5,50,RWB,196cm,Right
+567401,Mcgrath,49,Chile,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€121K,€0,39.2,52.1,45.0,34.7,50,LWB,199cm,Right
+723625,W. Johnson,37,Tajikistan,"Crosby, Jackson and Davis",Premier League (England),€119K,€0,48.9,44.6,50.3,41.7,50,RM,202cm,Right
+896244,Michael Russell,24,Chile,Liverpool,Jimenez Ltd (Tajikistan),€117K,€0,53.1,22.6,39.0,42.2,50,LW,196cm,Left
+691628,Adam Jr.,25,Antigua and Barbuda,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€131K,€0,17.3,32.2,36.0,55.3,50,RWB,200cm,Right
+446202,Charles Jr.,31,Benin,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€109K,€0,42.8,43.4,52.1,38.2,50,CM,154cm,Left
+69442,A. Kelly,31,Antigua and Barbuda,Reyes Ltd,Premier League (England),€117K,€0,28.0,31.6,25.3,55.8,50,RWB,166cm,Right
+798566,Christopher Jr.,22,Sudan,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€108K,€0,53.6,31.7,38.7,20.8,50,LW,177cm,Left
+237628,T. Ayala,21,Croatia,Whitney-Boyle,Ryan-Dyer (Mali),€116K,€0,46.1,21.5,8.6,50.6,49,RW,210cm,Left
+49259,Park,29,South Africa,FC Barcelona,Ryan-Dyer (Mali),€101K,€0,49.1,48.7,30.3,41.0,49,LM,208cm,Right
+327805,M. Sparks,28,Sudan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€102K,€0,40.0,20.2,45.2,50.3,49,LW,186cm,Left
+132109,G. Anderson,25,Antigua and Barbuda,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€103K,€0,47.8,23.7,49.5,46.5,49,ST,179cm,Right
+296193,W. Conrad,23,Mali,Bender Inc,Rivas Inc (Botswana),€104K,€0,48.8,24.2,48.7,47.7,49,RWB,174cm,Right
+75136,T. Matthews,43,Sudan,Bender Inc,Rivas Inc (Botswana),€97K,€0,23.7,46.8,25.9,49.5,49,RW,202cm,Left
+616095,Miller,25,Tajikistan,Cardenas Inc,Premier League (England),€120K,€0,34.8,20.1,23.7,53.3,49,LWB,156cm,Right
+805018,K. Heath,24,Armenia,"Simon, Robinson and Jones",Premier League (England),€97K,€0,40.6,51.6,21.6,20.6,49,LW,177cm,Left
+608514,D. Becker,34,Chile,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€101K,€0,48.2,22.1,48.8,32.6,49,RWB,156cm,Right
+600458,Jorge Jr.,35,Chile,FC Barcelona,Ryan-Dyer (Mali),€89K,€0,34.3,20.0,32.2,53.3,49,LWB,208cm,Right
+592675,B. Baker,34,Tajikistan,Hamilton-West,Premier League (England),€101K,€0,25.4,28.2,29.2,55.1,49,LWB,170cm,Right
+396070,Chase Matthews,30,Mali,Whitney-Boyle,Ryan-Dyer (Mali),€94K,€0,49.7,45.8,48.3,7.8,49,RWB,182cm,Left
+805765,M. Williams,32,Antigua and Barbuda,"Banks, Olsen and Cook",Cooper Group (Botswana),€89K,€0,11.9,44.4,41.3,50.6,49,RWB,191cm,Right
+764888,J. Kelly,30,Mali,Jones Group,Premier League (England),€79K,€0,20.0,49.9,46.3,26.0,49,RWB,186cm,Right
+76801,C. Gordon,35,Croatia,Becker-Koch,Ryan-Dyer (Mali),€89K,€0,43.0,16.6,48.6,48.9,49,LM,187cm,Left
+355765,A. Wright,29,Benin,Russell LLC,Ryan-Dyer (Mali),€84K,€0,15.2,34.7,12.3,54.0,49,RW,151cm,Left
+314806,L. Brown,34,Tajikistan,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€80K,€0,52.7,38.7,29.7,22.1,49,CM,163cm,Left
+495159,M. Moore,31,El Salvador,Manchester United,"Jones, Acevedo and Scott (Croatia)",€77K,€0,54.2,32.7,31.3,27.7,49,CM,195cm,Left
+839451,Justin Burke,35,South Africa,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€79K,€0,53.9,21.8,35.7,26.3,49,CM,168cm,Left
+73901,D. Gallagher,22,Botswana,"Simon, Robinson and Jones",Premier League (England),€74K,€0,24.7,32.6,24.2,53.7,48,LW,173cm,Left
+33025,Jerry Armstrong,23,Antigua and Barbuda,Paris Saint Germain,Premier League (England),€81K,€0,48.2,25.0,42.2,48.4,48,LWB,197cm,Right
+279110,J. Lambert,22,Benin,Jones Group,Premier League (England),€73K,€0,48.8,15.4,29.6,47.5,48,RW,178cm,Left
+623915,Robert Jr.,21,Benin,Ellis-Hill,Rivas Inc (Botswana),€68K,€0,50.6,29.5,40.3,16.2,48,RWB,184cm,Left
+607792,W. Hall,28,El Salvador,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€68K,€0,26.8,49.9,40.0,41.7,48,LWB,168cm,Right
+952184,Andrew Jr.,35,Antigua and Barbuda,"Huber, Price and Carroll",Ryan-Dyer (Mali),€70K,€0,46.9,18.1,34.5,48.9,48,RM,198cm,Right
+739661,J. Payne,30,South Africa,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€64K,€0,35.3,49.2,45.5,26.3,48,LW,170cm,Left
+182826,Wayne Jr.,30,Mali,"Marsh, Fields and Edwards",Premier League (England),€64K,€0,49.9,43.6,13.1,39.7,48,RWB,164cm,Left
+502439,Henry Bauer,26,Chile,"Huber, Price and Carroll",Ryan-Dyer (Mali),€63K,€0,44.0,48.8,43.7,40.2,48,LW,166cm,Right
+76535,T. Madden,24,Mali,"Obrien, Medina and Owens",Premier League (England),€65K,€0,33.9,44.3,46.4,49.0,48,ST,193cm,Right
+920540,J. Morgan,23,El Salvador,"Banks, Olsen and Cook",Cooper Group (Botswana),€57K,€0,17.0,48.1,46.6,36.3,48,CDM,182cm,Right
+789545,M. Perez,21,Chile,Hamilton-West,Premier League (England),€62K,€0,22.3,49.6,31.5,45.0,48,LW,158cm,Left
+199748,W. Hurst,32,Croatia,Reyes Ltd,Premier League (England),€63K,€0,48.4,13.7,16.1,48.0,48,CM,193cm,Left
+494813,Brian Jackson,21,Croatia,"Marsh, Fields and Edwards",Premier League (England),€58K,€0,25.9,24.8,42.8,49.3,48,RWB,152cm,Right
+487270,Paul Elliott,43,South Africa,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€78K,€0,49.4,43.6,17.8,35.4,48,LW,170cm,Left
+516177,Jordan,25,Tajikistan,Ruiz-Hanson,Ryan-Dyer (Mali),€45K,€0,46.1,47.2,25.0,47.2,47,LW,170cm,Left
+369319,M. Suarez,26,Armenia,FC Bayern München,Premier League (England),€54K,€0,41.1,25.7,35.4,49.3,47,GK,151cm,Right
+778995,J. Todd,20,Armenia,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€48K,€0,42.6,26.7,48.9,22.7,47,RWB,193cm,Left
+500524,C. Mitchell,22,El Salvador,FC Barcelona,Ryan-Dyer (Mali),€34K,€0,47.5,22.6,35.3,46.9,47,CM,207cm,Left
+533388,J. Lopez,29,Sudan,Harvey LLC,Premier League (England),€42K,€0,48.0,45.4,35.0,34.2,47,RW,162cm,Left
+501692,R. Graves,28,Croatia,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€35K,€0,11.1,50.4,29.4,38.7,47,RWB,162cm,Right
+18507,Paul Jr.,33,South Africa,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€35K,€0,22.5,43.2,45.3,47.0,47,LW,209cm,Left
+133314,Carl Beck,26,South Africa,Carroll LLC,Rivas Inc (Botswana),€28K,€0,51.1,27.1,36.2,33.8,47,LWB,169cm,Right
+43835,S. Morris,28,Croatia,Martin Inc,Rivas Inc (Botswana),€29K,€0,17.5,50.2,37.4,34.3,47,RWB,180cm,Right
+536148,M. Brown,20,South Africa,Manchester United,"Jones, Acevedo and Scott (Croatia)",€30K,€0,32.0,49.3,40.4,13.5,47,LM,193cm,Right
+435331,T. Adams,20,Chile,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€35K,€0,44.6,30.3,46.4,31.9,46,LWB,169cm,Right
+967811,J. Bennett,29,Chile,"Banks, Olsen and Cook",Cooper Group (Botswana),€24K,€0,25.2,30.9,49.3,36.0,46,LM,195cm,Left
+943416,W. Walker,25,Sudan,"Perkins, Salas and Weeks",Premier League (England),€17K,€0,38.6,48.3,18.1,33.9,46,LW,186cm,Left
+452152,Brooks,28,Chile,Becker-Koch,Ryan-Dyer (Mali),€20K,€0,47.7,9.2,40.2,40.6,46,CM,171cm,Left
+575309,Joshua Jr.,31,Croatia,Woods-Perry,Premier League (England),€22K,€0,49.2,32.7,37.1,37.2,46,CM,197cm,Left
+698409,James Green,29,Armenia,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€10K,€0,38.5,28.0,12.1,48.8,46,RW,193cm,Left
+788805,R. Monroe,48,Antigua and Barbuda,"Banks, Olsen and Cook",Cooper Group (Botswana),€17K,€0,45.6,29.7,46.3,46.4,46,RM,161cm,Right
+969476,D. Nelson,29,Sudan,Carter PLC,Premier League (England),€10K,€0,23.0,43.4,34.9,46.8,46,RWB,198cm,Right
+346891,R. Lee,29,Antigua and Barbuda,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€11K,€0,52.5,25.0,12.4,22.5,46,RWB,207cm,Left
+52441,D. Edwards,31,South Africa,FC Barcelona,Ryan-Dyer (Mali),€7K,€0,46.0,16.4,16.8,45.6,46,RW,194cm,Left
+445713,B. Richardson,20,South Africa,Harrison Inc,Jimenez Ltd (Tajikistan),€6K,€0,26.1,32.1,50.5,23.3,46,RWB,176cm,Left
+77078,J. Freeman,20,Croatia,Williams-Schmidt,Stewart Group (Chile),€15K,€0,49.4,13.0,15.2,36.0,46,RWB,165cm,Left
+945604,C. Hall,29,Mali,Becker-Koch,Ryan-Dyer (Mali),€8K,€0,28.4,27.5,51.9,25.1,46,RWB,173cm,Right
+372348,Michael Jr.,35,Botswana,Manchester United,"Jones, Acevedo and Scott (Croatia)",€750,€0,18.4,31.1,50.4,31.8,46,RWB,209cm,Right
+298660,Paul Jr.,15,Botswana,Jones Group,Premier League (England),€750,€0,47.3,41.8,37.6,9.9,46,RWB,176cm,Left
+368814,B. Elliott,26,Tajikistan,FC Barcelona,Ryan-Dyer (Mali),€3K,€0,47.9,36.4,15.9,21.0,45,LW,160cm,Left
+492316,D. Nguyen,46,Botswana,Herrera PLC,"Jones, Acevedo and Scott (Croatia)",€1K,€0,45.3,43.0,12.8,21.0,45,RWB,210cm,Left
+83639,J. Walker,30,Tajikistan,Ruiz-Hanson,Ryan-Dyer (Mali),€750,€0,48.5,9.8,18.7,32.7,45,RWB,155cm,Left
+878339,C. Molina,27,Chile,Harvey LLC,Premier League (England),€750,€0,24.9,16.7,46.8,39.1,45,LW,164cm,Left
+969237,Bradley Jr.,23,Sudan,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€750,€0,39.6,23.2,41.2,45.8,45,RWB,206cm,Left
+879127,J. Mcgrath,30,Sudan,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€750,€0,51.9,25.9,23.2,17.9,45,LW,156cm,Left
+780892,R. Chaney,33,Antigua and Barbuda,Reynolds-Buckley,Premier League (England),€750,€0,44.1,20.1,40.0,44.7,45,RWB,189cm,Right
+879353,Aaron Jr.,22,Armenia,Reynolds-Buckley,Premier League (England),€750,€0,37.2,22.2,11.8,48.0,45,RW,177cm,Left
+76580,B. Meyer,22,Armenia,Ruiz-Hanson,Ryan-Dyer (Mali),€750,€0,41.8,46.0,29.6,35.1,45,RWB,180cm,Right
+968818,John Jr.,32,El Salvador,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€750,€0,48.2,21.9,22.5,31.0,44,RW,171cm,Left
+411865,J. Nelson,19,Benin,Ellis-Hill,Rivas Inc (Botswana),€750,€0,45.2,24.1,37.5,39.6,44,CM,192cm,Left
+903908,Martin,22,Mali,Bender Inc,Rivas Inc (Botswana),€750,€0,41.8,6.8,44.3,10.9,44,RWB,176cm,Left
+577482,T. Mclean,31,Benin,Martin Inc,Rivas Inc (Botswana),€750,€0,35.9,21.0,41.6,45.4,44,LWB,161cm,Right
+503769,J. Adams,33,Chile,Manchester United,"Jones, Acevedo and Scott (Croatia)",€750,€0,37.5,46.6,11.5,34.9,44,LW,166cm,Left
+704699,Jerry Rodriguez,20,Botswana,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€750,€0,41.9,16.5,43.4,34.3,43,RWB,150cm,Left
+639696,S. Russell,35,Botswana,Carroll LLC,Rivas Inc (Botswana),€750,€0,45.8,20.5,23.5,33.4,43,LW,188cm,Left
+729823,J. Medina,31,Antigua and Barbuda,Cardenas Inc,Premier League (England),€750,€0,44.3,23.2,29.3,41.0,43,LW,203cm,Left
+689164,J. Wilson,29,Botswana,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€750,€0,42.7,25.5,39.7,43.2,43,RWB,155cm,Left
+255698,Andrew Jr.,21,Chile,Harrison Inc,Jimenez Ltd (Tajikistan),€750,€0,44.2,41.1,11.8,29.9,43,LW,163cm,Left
+346048,Massey,31,Sudan,Day-Chambers,Cooper Group (Botswana),€750,€0,45.7,34.3,27.2,28.5,43,RWB,209cm,Right
+567339,Parsons,34,Chile,Woods-Perry,Premier League (England),€750,€0,40.4,36.8,25.3,44.4,43,LW,191cm,Left
+289024,I. Kaiser,35,Mali,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€750,€0,27.5,32.3,43.2,43.5,43,RWB,210cm,Left
+600510,Warner,26,Antigua and Barbuda,Reyes Ltd,Premier League (England),€750,€0,38.1,17.7,43.8,40.9,43,CM,192cm,Left
+576330,A. Cruz,21,Sudan,Ruiz-Hanson,Ryan-Dyer (Mali),€750,€0,45.3,35.8,33.2,20.9,43,LW,183cm,Left
+76950,K. Martinez,32,Armenia,"Crosby, Jackson and Davis",Premier League (England),€750,€0,24.1,44.4,25.2,38.6,43,RWB,189cm,Right
+470241,Davis,22,Mali,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€750,€0,42.4,19.5,38.1,42.8,43,RWB,174cm,Right
+527734,J. Whitaker,34,Botswana,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€500,€0,49.3,22.7,23.6,8.1,43,RWB,194cm,Left
+208304,W. Rodriguez,51,Botswana,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€750,€0,45.7,22.5,35.8,36.5,43,RWB,156cm,Right
+533746,D. Velez,25,Armenia,Woods-Perry,Premier League (England),€750,€0,32.9,21.7,41.3,42.7,42,LWB,209cm,Right
+683044,M. Henry,29,Armenia,Ellis-Hill,Rivas Inc (Botswana),€500,€0,26.9,27.0,23.5,47.0,42,RWB,195cm,Right
+765058,W. Chan,42,Benin,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€500,€0,42.3,42.3,39.8,23.3,42,CM,200cm,Left
+552153,Diaz,22,South Africa,Williams-Schmidt,Stewart Group (Chile),€500,€0,21.8,12.5,37.2,43.5,42,RW,186cm,Left
+77705,D. Martin,17,Tajikistan,Bender Inc,Rivas Inc (Botswana),€500,€0,48.1,12.9,25.3,18.0,42,CM,194cm,Left
+831370,M. Harris,31,Antigua and Barbuda,"Perkins, Salas and Weeks",Premier League (England),€750,€0,28.9,26.9,23.9,45.8,42,RWB,153cm,Left
+680554,M. Martinez,28,Sudan,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€500,€0,42.6,36.3,10.3,30.7,41,LW,198cm,Left
+722366,G. Benitez,23,Tajikistan,Davis-Wallace,"Jones, Jones and Villegas (Mali)",€500,€0,46.5,24.9,25.7,26.2,41,RW,195cm,Left
+394858,Jeremy Jr.,21,Mali,Carroll LLC,Rivas Inc (Botswana),€500,€0,23.1,27.8,43.3,33.7,41,RW,177cm,Left
+534394,N. Ryan,51,Benin,Bender Inc,Rivas Inc (Botswana),€500,€0,37.7,34.0,30.3,41.8,41,RWB,172cm,Right
+362432,A. Coleman,28,South Africa,FC Barcelona,Ryan-Dyer (Mali),€500,€0,31.1,42.3,19.5,35.9,41,RW,165cm,Left
+509974,R. Keller,51,Botswana,Whitney-Boyle,Ryan-Dyer (Mali),€500,€0,35.2,42.8,36.7,25.0,41,LM,183cm,Right
+191161,Bailey,26,South Africa,Graham-Kaiser,"Jones, Acevedo and Scott (Croatia)",€500,€0,29.1,19.0,27.1,45.0,41,RWB,195cm,Right
+797391,R. Russell,34,South Africa,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€500,€0,10.9,38.0,21.2,42.0,41,RWB,181cm,Right
+912378,T. Gonzalez,26,Tajikistan,Woods-Perry,Premier League (England),€500,€0,43.3,28.0,14.3,33.2,41,CM,162cm,Left
+420892,Carlos Jr.,20,Armenia,Cardenas Inc,Premier League (England),€500,€0,19.2,26.1,26.1,46.4,41,LW,165cm,Left
+994477,Brock,52,Tajikistan,Harrison Inc,Jimenez Ltd (Tajikistan),€500,€0,46.9,10.5,22.1,18.3,41,CM,169cm,Left
+446327,R. Maldonado,27,Armenia,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€500,€0,18.6,38.0,32.0,42.6,41,LM,197cm,Right
+344409,R. Hughes,30,El Salvador,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€500,€0,42.1,29.0,34.0,23.7,40,CM,208cm,Left
+124370,J. Harris,28,Croatia,"Kirk, Moore and Perez","Marshall, Stephens and Gray (South Africa)",€500,€0,18.2,23.6,29.8,43.4,40,RW,195cm,Left
+26134,Morales,33,Botswana,FC Barcelona,Ryan-Dyer (Mali),€500,€0,28.5,16.1,42.8,32.1,40,RW,176cm,Left
+362876,M. Weber,20,Antigua and Barbuda,FC Barcelona,Ryan-Dyer (Mali),€250,€0,40.0,39.2,35.7,34.5,40,RW,208cm,Left
+657964,Massey,21,Botswana,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€250,€0,38.0,12.8,17.2,41.3,40,RW,162cm,Left
+3580,Brett Thompson,33,Sudan,"Rose, Crawford and Giles",Cooper Group (Botswana),€500,€0,13.9,41.0,21.7,36.0,40,RW,192cm,Left
+175634,Chad Jr.,29,South Africa,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€250,€0,32.0,11.6,21.1,42.5,40,RWB,182cm,Right
+921308,Macias,29,Botswana,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€250,€0,40.4,34.7,34.3,40.1,40,LWB,154cm,Right
+344498,N. Romero,55,El Salvador,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€250,€0,27.7,38.8,39.2,30.5,39,LWB,194cm,Right
+106994,C. West,17,Mali,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€250,€0,41.4,27.3,25.8,29.9,39,CM,194cm,Left
+746313,D. Miller,28,Armenia,"Roberts, Garcia and Drake","Jones, Acevedo and Scott (Croatia)",€250,€0,32.7,41.1,26.0,23.4,39,LW,163cm,Left
+312410,Darren Jr.,26,Chile,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€250,€0,32.4,28.2,39.0,38.8,39,ST,151cm,Right
+714607,T. Long,34,Sudan,"Ramos, Allen and Gardner",Rivas Inc (Botswana),€250,€0,41.0,34.8,20.9,27.4,39,RW,185cm,Left
+675053,J. Rodriguez,34,Chile,Becker-Koch,Ryan-Dyer (Mali),€250,€0,36.3,21.7,39.7,33.5,39,CM,177cm,Left
+666943,V. Rogers,28,Antigua and Barbuda,Woods-Perry,Premier League (England),€250,€0,22.0,34.6,35.5,39.6,39,RW,204cm,Left
+892930,J. Mcclain,33,Armenia,"Evans, Sawyer and Brooks","Jones, Acevedo and Scott (Croatia)",€250,€0,16.1,41.6,29.2,26.5,38,RW,187cm,Left
+778293,Hawkins,32,Croatia,Cardenas Inc,Premier League (England),€250,€0,26.0,17.7,26.1,41.3,38,LWB,181cm,Right
+451259,C. Campbell,34,Antigua and Barbuda,Evans-Thomas,"Marshall, Stephens and Gray (South Africa)",€250,€0,23.4,33.5,18.9,39.6,38,RW,191cm,Left
+247280,D. Rodriguez,26,Chile,Ruiz-Hanson,Ryan-Dyer (Mali),€250,€0,25.7,13.0,37.9,37.0,38,RW,158cm,Left
+494925,T. Norton,35,Croatia,Hamilton-West,Premier League (England),€250,€0,23.3,38.4,32.1,37.3,38,LM,204cm,Right
+492081,Donald Jr.,33,Chile,Cardenas Inc,Premier League (England),€250,€0,41.3,12.2,9.3,25.3,37,RW,181cm,Left
+626336,Hernandez,27,Armenia,Becker-Koch,Ryan-Dyer (Mali),€250,€0,40.7,11.0,25.1,14.9,37,RWB,167cm,Left
+508040,Bill Jr.,33,South Africa,Carroll LLC,Rivas Inc (Botswana),€250,€0,35.1,26.6,24.1,36.7,36,LW,150cm,Left
+435965,E. Fowler,27,Mali,Bender Inc,Rivas Inc (Botswana),€250,€0,11.2,28.3,15.4,38.8,36,RW,204cm,Left
+344394,Vincent Frazier,31,Antigua and Barbuda,Ellis-Hill,Rivas Inc (Botswana),€250,€0,29.2,36.9,20.5,21.5,35,RWB,154cm,Left
+263115,Kurt Jr.,51,Sudan,"Obrien, Medina and Owens",Premier League (England),€250,€0,17.4,37.5,6.3,29.3,35,RW,155cm,Left
+336957,L. Lyons,32,Croatia,Jones Group,Premier League (England),€250,€0,11.2,35.2,13.8,34.1,35,RW,187cm,Left
+502611,J. Bailey,26,El Salvador,Patterson Ltd,"Jones, Acevedo and Scott (Croatia)",€250,€0,29.6,37.3,21.9,24.8,35,LW,188cm,Left
+257259,C. Randall,24,El Salvador,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€250,€0,17.8,31.1,35.1,33.8,35,RW,167cm,Left
+983523,J. Rivers,28,Tajikistan,"Simon, Robinson and Jones",Premier League (England),€250,€0,23.0,35.6,22.3,27.8,34,RW,152cm,Left
+870576,M. Mcguire,21,Sudan,Garrett LLC,"Marshall, Stephens and Gray (South Africa)",€250,€0,34.7,14.6,30.1,15.2,34,RWB,209cm,Left
+198949,K. Parker,35,El Salvador,Russell LLC,Ryan-Dyer (Mali),€250,€0,30.5,16.4,19.1,35.1,34,LW,162cm,Left
+903486,J. Hines,25,Benin,Harvey LLC,Premier League (England),€0,€0,28.3,9.1,23.4,35.5,34,CM,169cm,Left
+133456,C. Rodgers,20,Botswana,Reyes Ltd,Premier League (England),€0,€0,29.5,32.9,22.8,34.6,34,LW,207cm,Left
+174924,A. Garcia,22,El Salvador,"Dorsey, Singh and Cooper","Jones, Jones and Villegas (Mali)",€250,€0,36.3,8.5,23.8,25.9,34,RW,166cm,Left
+189458,P. Smith,16,Tajikistan,Russell LLC,Ryan-Dyer (Mali),€0,€0,36.5,24.4,17.0,18.9,33,CM,187cm,Left
+788479,S. Williams,27,Mali,"Rose, Crawford and Giles",Cooper Group (Botswana),€0,€0,30.6,33.4,5.8,30.7,33,RW,181cm,Left
+142993,T. Miller,22,Botswana,"Jackson, Roberts and Campbell",Reed Ltd (Mali),€0,€0,32.8,32.1,25.7,18.9,33,CM,168cm,Left
+773412,T. Richards,27,Chile,Liverpool,Jimenez Ltd (Tajikistan),€0,€0,22.7,30.6,18.1,31.6,31,LW,208cm,Left
+574458,Julian Smith,39,South Africa,"Marsh, Fields and Edwards",Premier League (England),€0,€0,31.7,11.7,22.3,25.8,30,RWB,181cm,Right
+148559,Martin Rios,31,Mali,Bender Inc,Rivas Inc (Botswana),€0,€0,30.2,28.3,19.6,19.8,30,RW,176cm,Left
+878901,G. Salas,32,South Africa,Boyd LLC,"Jones, Acevedo and Scott (Croatia)",€0,€0,29.8,11.7,17.9,28.6,30,RW,188cm,Left
+82707,Kenneth Jr.,30,Chile,Ellis-Hill,Rivas Inc (Botswana),€0,€0,24.2,19.9,29.7,12.6,28,RWB,205cm,Left
+173844,K. Bryant,24,South Africa,Carroll LLC,Rivas Inc (Botswana),€0,€0,27.5,19.0,28.3,8.2,28,RWB,152cm,Left
+567267,J. Anderson,21,El Salvador,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€0,€0,19.6,24.5,28.7,17.2,28,LW,197cm,Left
+280914,D. James,32,Benin,"Banks, Olsen and Cook",Cooper Group (Botswana),€0,€0,30.8,8.2,19.5,21.1,28,CM,151cm,Left
+483700,B. Hudson,31,South Africa,Phelps-Dawson,Jones and Sons (Antigua and Barbuda),€0,€0,22.2,28.3,14.6,21.4,27,RW,210cm,Left
+615015,D. Clark,15,Benin,Reyes Ltd,Premier League (England),€0,€0,28.0,16.1,24.2,9.4,27,RWB,194cm,Left
+977039,E. Hubbard,32,Mali,FC Barcelona,Ryan-Dyer (Mali),€0,€0,22.4,21.2,23.1,25.0,25,RWB,165cm,Right
+322335,B. Perez,33,South Africa,Whitney-Boyle,Ryan-Dyer (Mali),€0,€0,25.6,19.4,22.8,21.6,25,RW,178cm,Left
+461777,R. Aguilar,30,Botswana,Thomas-Weiss,Ryan-Dyer (Mali),€0,€0,19.1,9.1,11.9,24.9,23,RW,210cm,Left
+771771,W. Hayes,53,Benin,"Cole, Ramos and Wells",Jimenez Ltd (Tajikistan),€0,€0,17.4,11.9,19.7,23.1,22,RW,162cm,Left

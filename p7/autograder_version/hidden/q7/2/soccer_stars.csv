@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+789250,A. Banks,35,Pitcairn Islands,Donovan-Cochran,Gray Group (Tonga),€188.5M,€483K,85.5,21.6,47.1,93.8,92,CM,153cm,Foot A
+241183,S. Harvey,37,Christmas Island,Ochoa Group,Martin Ltd (Equatorial Guinea),€193M,€481K,87.6,37.3,57.2,94.0,92,CM,187cm,Foot C
+525579,Guy Coleman,25,Bosnia and Herzegovina,Bryant Ltd,Premier League (England),€196.7M,€478K,87.8,51.4,36.6,86.7,88,CM,181cm,Foot B
+501195,R. Duran,28,Northern Mariana Islands,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€249.4M,€550K,77.1,91.1,40.9,69.3,88,RM,194cm,Foot B
+124653,K. Wolfe,20,Gabon,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€186.2M,€464K,85.9,88.7,50.0,67.2,88,RM,174cm,Foot A
+42825,William Williams,30,Pitcairn Islands,Martin PLC,Bernard PLC (Cyprus),€182.6M,€465K,87.4,88.4,33.0,73.9,88,RM,197cm,Foot A
+886986,Perez,51,Cambodia,Davis LLC,Martin Ltd (Equatorial Guinea),€196.4M,€468K,90.6,48.2,25.1,81.4,88,CM,170cm,Foot A
+501567,D. Gross,36,Christmas Island,Martinez Inc,Martin Ltd (Equatorial Guinea),€182.8M,€491K,84.9,71.4,36.8,87.7,87,RM,183cm,Foot B
+576077,J. Werner,30,Pitcairn Islands,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€180.3M,€471K,75.4,39.6,68.1,90.3,87,CAM,178cm,Foot C
+508284,J. Silva,25,Bosnia and Herzegovina,Davis LLC,Martin Ltd (Equatorial Guinea),€179.2M,€461K,69.1,91.6,20.0,7.1,86,RW,190cm,Foot B
+926393,C. Peterson,24,Mauritania,"Keller, Dean and King",Premier League (England),€179.9M,€450K,68.5,49.4,37.0,92.3,86,CM,205cm,Foot C
+264160,Martin,33,Cyprus,Maldonado-Miller,Premier League (England),€178.9M,€449K,82.7,22.2,38.2,87.3,86,LWB,184cm,Foot B
+524530,Spencer,22,Cyprus,Obrien PLC,Premier League (England),€182M,€436K,29.8,90.7,54.6,66.9,85,RB,161cm,Foot A
+811348,J. Thomas,31,Equatorial Guinea,Davis LLC,Martin Ltd (Equatorial Guinea),€177.4M,€448K,88.6,53.0,54.8,75.6,85,RM,167cm,Foot B
+737671,J. Brown,24,Christmas Island,King-Parks,Premier League (England),€171.4M,€439K,66.7,53.0,36.1,91.7,85,RM,171cm,Foot A
+443894,Turner,38,Mauritania,King-Parks,Premier League (England),€170.2M,€452K,86.3,28.7,32.3,80.2,85,CM,200cm,Foot B
+828952,Mason,25,Pitcairn Islands,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€158M,€412K,58.8,79.7,34.7,86.2,85,RM,168cm,Foot B
+706465,R. Leonard,23,Cambodia,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€177.5M,€412K,59.4,37.3,46.8,93.9,85,CM,180cm,Foot A
+198770,Tristan Gillespie,35,Cyprus,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€162.9M,€416K,81.0,77.3,54.9,85.8,85,RM,161cm,Foot B
+912095,P. Taylor,20,Northern Mariana Islands,Ochoa Group,Martin Ltd (Equatorial Guinea),€169.1M,€430K,71.1,89.4,49.2,71.7,85,RM,210cm,Foot C
+756317,R. Williams,26,Cyprus,Manchester United,Premier League (England),€154.9M,€443K,82.9,41.1,35.1,84.9,85,CDM,173cm,Foot B
+163889,Joseph Jr.,22,Equatorial Guinea,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€157.6M,€396K,63.5,91.4,38.0,61.3,84,RM,175cm,Foot B
+368979,Brett Martinez,27,Cambodia,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€145.4M,€392K,76.1,86.9,47.7,31.3,84,CF,153cm,Foot A
+844945,M. Sims,33,Northern Mariana Islands,Mills-Higgins,Martin Ltd (Equatorial Guinea),€145.3M,€393K,74.1,87.7,35.5,44.3,84,CM,186cm,Foot B
+181572,B. Adams,21,Cyprus,Paris Saint Germain,Premier League (England),€141.7M,€387K,62.8,70.0,58.0,88.7,84,RM,186cm,Foot A
+771440,W. Ward,25,Northern Mariana Islands,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€141.1M,€381K,77.3,75.4,86.2,69.4,84,CB,192cm,Foot C
+280970,J. Lee,27,Christmas Island,Martinez Inc,Martin Ltd (Equatorial Guinea),€145.1M,€373K,71.0,27.0,27.8,88.5,84,CM,169cm,Foot B
+264625,Brian Hamilton,37,Christmas Island,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€169M,€383K,24.2,39.0,81.6,84.6,84,LW,204cm,Foot C
+814773,R. Hickman,21,Equatorial Guinea,Huynh-Wilson,Wiggins Inc (Bolivia),€133M,€372K,68.5,49.6,20.3,89.6,84,CM,161cm,Foot C
+143166,Richard Smith,24,Mauritania,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€139.1M,€370K,68.0,36.6,41.7,89.1,84,CAM,167cm,Foot C
+647568,A. Cook,23,Gabon,Manchester United,Premier League (England),€130.5M,€368K,71.2,34.8,17.9,86.5,83,RWB,174cm,Foot A
+181370,T. Torres,32,Gabon,Brown LLC,Premier League (England),€129.5M,€365K,58.9,91.3,13.7,9.9,83,RW,150cm,Foot A
+730767,J. Brown,49,Cyprus,Wilson PLC,Premier League (England),€138.2M,€407K,12.3,52.8,77.4,84.4,83,LW,176cm,Foot B
+215075,M. Mason,22,Christmas Island,"Wu, Chang and Christensen",Premier League (England),€126.8M,€354K,61.9,90.5,40.6,61.7,83,RB,158cm,Foot A
+182366,Charles Fleming,29,Cyprus,Bryant Ltd,Premier League (England),€127M,€351K,57.3,78.4,22.3,84.8,83,RM,153cm,Foot A
+527002,E. Anthony,21,Pitcairn Islands,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€127.8M,€333K,83.0,82.6,37.9,31.5,83,CF,156cm,Foot B
+216423,R. Moss,25,Cambodia,Bryant Ltd,Premier League (England),€117.7M,€325K,79.4,84.2,12.4,36.3,83,RW,198cm,Foot A
+394417,E. Watson,21,Mauritania,Liverpool,Bernard PLC (Cyprus),€124.2M,€337K,89.8,57.4,30.8,22.5,83,RW,196cm,Foot B
+532495,Lee,20,Cambodia,Paris Saint Germain,Premier League (England),€125.9M,€327K,77.4,60.2,50.1,83.8,82,ST,167cm,Foot A
+90421,F. Sanders,25,Northern Mariana Islands,"Miller, Hopkins and Thornton",Premier League (England),€116.4M,€325K,13.5,42.9,93.5,48.7,82,LB,172cm,Foot A
+762591,J. Sutton,34,Christmas Island,Mills-Higgins,Martin Ltd (Equatorial Guinea),€119.5M,€277K,69.7,86.1,24.4,56.5,82,RM,182cm,Foot C
+385813,K. Boyd,27,Equatorial Guinea,Donovan-Cochran,Gray Group (Tonga),€113.3M,€295K,67.7,52.7,21.0,87.2,82,LWB,166cm,Foot B
+738592,K. Carney,27,Pitcairn Islands,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€109.8M,€301K,83.2,37.0,42.2,79.9,82,CM,184cm,Foot A
+804251,E. Brown,34,Northern Mariana Islands,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€110.5M,€321K,83.2,80.2,33.5,54.7,82,CF,152cm,Foot C
+698025,R. Lee,27,Tonga,Maldonado-Miller,Premier League (England),€107.1M,€269K,19.7,49.4,80.5,83.1,82,LW,204cm,Foot B
+993057,M. Mejia,19,Bosnia and Herzegovina,"Perry, Hardy and Reynolds",Gray Group (Tonga),€109.1M,€270K,88.0,60.5,47.8,65.9,82,RM,185cm,Foot C
+34943,D. Dodson,48,Pitcairn Islands,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€116M,€280K,84.2,38.4,34.1,76.8,82,GK,191cm,Foot B
+290055,J. Bates,25,Tonga,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€106.6M,€271K,73.0,85.1,41.4,60.9,82,CF,174cm,Foot A
+748873,D. Simpson,31,Cambodia,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€102.1M,€249K,83.3,42.4,29.7,79.9,82,GK,192cm,Foot C
+732495,J. Conley,22,Northern Mariana Islands,Donovan-Cochran,Gray Group (Tonga),€106.4M,€260K,60.8,88.6,14.4,26.7,82,RW,209cm,Foot C
+576973,C. Mercer,21,Equatorial Guinea,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€101.3M,€261K,51.7,87.9,63.0,57.8,82,RWB,203cm,Foot A
+28426,R. Downs,21,Bosnia and Herzegovina,FC Bayern München,Premier League (England),€106.2M,€261K,56.8,90.2,38.0,54.4,82,CM,181cm,Foot B
+335910,R. Martin,28,Gabon,Murphy-Henderson,Premier League (England),€103.9M,€249K,87.4,60.8,33.8,42.3,81,RW,190cm,Foot A
+106737,I. Miller,23,Pitcairn Islands,"Miller, Hopkins and Thornton",Premier League (England),€97M,€242K,53.8,86.1,56.0,64.5,81,CM,172cm,Foot B
+704890,Samuel Johnson,20,Pitcairn Islands,Mills-Higgins,Martin Ltd (Equatorial Guinea),€75.8M,€246K,79.0,55.5,15.4,82.0,81,RWB,208cm,Foot A
+811559,D. Jefferson,30,Northern Mariana Islands,Williams Ltd,Martin Ltd (Equatorial Guinea),€80.3M,€243K,63.2,83.4,26.5,74.2,81,RM,176cm,Foot B
+49728,P. Evans,22,Mauritania,Williams Ltd,Martin Ltd (Equatorial Guinea),€65.8M,€242K,75.5,35.2,31.4,82.5,81,LWB,153cm,Foot A
+287432,S. Bailey,48,Cyprus,Maldonado-Miller,Premier League (England),€70.2M,€238K,62.7,71.7,84.3,45.8,81,CB,160cm,Foot B
+459508,D. Martinez,29,Northern Mariana Islands,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€69.8M,€250K,75.8,51.5,39.9,82.2,81,CAM,204cm,Foot B
+590652,Berg,35,Bolivia,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€74.8M,€236K,33.6,60.8,68.3,85.5,81,LW,202cm,Foot A
+361710,C. Fowler,20,Bosnia and Herzegovina,"Wu, Chang and Christensen",Premier League (England),€65.4M,€193K,90.1,31.9,49.3,54.1,81,CM,153cm,Foot C
+214442,T. Garcia,24,Cambodia,Liverpool,Bernard PLC (Cyprus),€70.7M,€242K,57.9,88.7,34.2,33.5,81,RWB,165cm,Foot A
+157203,A. Dixon,32,Equatorial Guinea,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€62.9M,€225K,30.4,46.1,67.6,85.3,81,CAM,170cm,Foot B
+100502,William Jr.,26,Pitcairn Islands,Maldonado-Miller,Premier League (England),€63.6M,€189K,50.2,44.5,45.8,91.9,81,CAM,205cm,Foot C
+297185,E. Palmer,32,Equatorial Guinea,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€61.5M,€179K,63.5,55.0,56.7,86.4,81,RM,205cm,Foot C
+109037,D. Wheeler,35,Gabon,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€49.3M,€186K,43.9,46.1,73.0,83.4,81,LW,205cm,Foot B
+985598,M. Robinson,23,Christmas Island,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€52.9M,€198K,60.3,87.8,51.9,61.5,81,RWB,175cm,Foot B
+527171,Peter Jr.,53,Bolivia,Obrien PLC,Premier League (England),€62.2M,€184K,64.6,24.8,19.7,86.1,81,CM,200cm,Foot A
+576931,B. Dyer,30,Bosnia and Herzegovina,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€46M,€163K,48.9,90.1,52.8,35.1,81,RB,180cm,Foot B
+888633,Jeffrey Jr.,26,Cambodia,Brown LLC,Premier League (England),€42.8M,€187K,46.6,38.8,91.4,48.9,81,LB,170cm,Foot C
+245761,T. Lee,25,Tonga,Richard-Thomas,Wiggins Inc (Bolivia),€55.6M,€169K,76.6,56.5,35.3,80.7,80,LWB,191cm,Foot B
+483540,Contreras,33,Gabon,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€43.7M,€176K,77.8,51.8,81.3,37.2,80,CB,201cm,Foot A
+967146,Bobby Watkins,32,Christmas Island,FC Bayern München,Premier League (England),€48.5M,€156K,81.3,77.2,58.3,43.7,80,CF,195cm,Foot C
+868921,K. Garcia,33,Tonga,Liverpool,Bernard PLC (Cyprus),€33.8M,€159K,11.1,33.2,89.7,51.2,80,LB,151cm,Foot C
+238607,O. Vargas,36,Gabon,Schwartz Ltd,Premier League (England),€31.7M,€162K,28.0,71.4,45.6,82.8,80,LM,207cm,Foot A
+590951,A. Donovan,21,Christmas Island,Schwartz Ltd,Premier League (England),€35.6M,€175K,17.8,41.6,75.9,81.0,80,LW,180cm,Foot C
+976162,Shane Jr.,35,Cambodia,FC Bayern München,Premier League (England),€28.2M,€125K,82.8,44.1,43.7,71.8,80,LWB,166cm,Foot A
+230705,S. Jones,27,Cambodia,Wilson PLC,Premier League (England),€31.5M,€137K,60.6,86.7,55.6,51.1,80,CF,189cm,Foot C
+550204,A. Scott,29,Bolivia,Murphy-Henderson,Premier League (England),€31.7M,€148K,68.8,22.3,83.3,31.7,80,GK,199cm,Foot B
+902602,J. Flynn,21,Northern Mariana Islands,Paris Saint Germain,Premier League (England),€28.6M,€127K,29.1,63.3,78.9,79.7,80,CAM,205cm,Foot C
+157246,Dennis Powell,30,Cyprus,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€30.5M,€156K,81.3,34.0,29.4,75.6,80,GK,198cm,Foot C
+739417,B. Davis,25,Bosnia and Herzegovina,Obrien PLC,Premier League (England),€25.8M,€123K,55.3,88.7,31.6,39.2,80,RWB,192cm,Foot C
+34908,J. Parsons,33,Tonga,Davis LLC,Martin Ltd (Equatorial Guinea),€24.8M,€119K,53.5,51.8,82.9,72.4,80,CAM,183cm,Foot C
+551120,Douglas Jr.,16,Gabon,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€26.4M,€125K,68.8,45.2,57.8,83.2,80,CM,191cm,Foot B
+108968,R. Wilson,25,Cyprus,Martin PLC,Bernard PLC (Cyprus),€23.3M,€106K,58.6,85.8,42.1,62.8,80,CF,193cm,Foot A
+625365,Jason Velasquez,30,Cyprus,King-Parks,Premier League (England),€17.3M,€113K,24.8,45.1,89.4,51.6,80,LB,185cm,Foot B
+617495,A. Reilly,24,Cyprus,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€22.6M,€123K,83.4,68.9,17.5,28.9,80,RW,197cm,Foot B
+675265,Edwin Horne,45,Bolivia,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€17.3M,€107K,76.6,58.4,15.8,81.5,80,LWB,157cm,Foot C
+151085,R. Davis,27,Northern Mariana Islands,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€10M,€100K,63.7,58.8,41.6,85.5,80,CAM,206cm,Foot C
+298627,J. Moore,32,Bolivia,Bryant Ltd,Premier League (England),€19.3M,€111K,53.1,83.6,31.8,70.3,80,RWB,153cm,Foot B
+221385,J. Guerra,21,Christmas Island,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€11M,€104K,12.7,68.1,46.6,82.1,79,LW,182cm,Foot C
+696609,A. Hopkins,20,Bosnia and Herzegovina,Maldonado-Miller,Premier League (England),€15.1M,€100K,87.4,38.0,40.8,54.4,79,CAM,164cm,Foot C
+246449,R. Jordan,20,Cyprus,Mills-Higgins,Martin Ltd (Equatorial Guinea),€10M,€101K,80.2,40.5,46.8,75.5,79,CM,206cm,Foot A
+943084,P. Mendez,44,Pitcairn Islands,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€9.8M,€99K,49.1,87.9,46.2,51.8,79,RB,210cm,Foot A
+164918,J. Hughes,33,Bolivia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€12.8M,€99K,34.4,37.1,78.1,78.9,79,CAM,178cm,Foot B
+517309,T. Perez,29,Cyprus,Brown LLC,Premier League (England),€9.7M,€100K,61.6,19.3,84.4,62.9,79,GK,169cm,Foot C
+9447,D. Wright,24,Northern Mariana Islands,Manchester United,Premier League (England),€9.6M,€98K,88.6,52.1,21.4,31.7,79,RW,208cm,Foot A
+853295,Anthony Lawrence,25,Cambodia,Huynh-Wilson,Wiggins Inc (Bolivia),€9.7M,€99K,47.2,67.9,30.8,82.8,79,LM,175cm,Foot B
+419182,B. Smith,27,Mauritania,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€9.7M,€99K,46.2,71.0,11.5,81.4,79,LM,159cm,Foot A
+706039,Eric Jr.,27,Mauritania,Martinez Inc,Martin Ltd (Equatorial Guinea),€9.7M,€99K,40.8,87.4,54.1,47.0,79,RB,197cm,Foot A
+132619,D. Young,45,Equatorial Guinea,Lopez and Sons,Premier League (England),€9.5M,€98K,48.1,76.5,22.1,80.4,79,LM,152cm,Foot B
+18024,Jason Jr.,32,Mauritania,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€9.6M,€98K,80.4,42.2,76.0,67.0,79,CAM,151cm,Foot A
+935586,C. Camacho,31,Pitcairn Islands,King-Parks,Premier League (England),€9.7M,€98K,73.1,80.8,30.9,47.5,79,CF,185cm,Foot B
+936039,Randall Jr.,24,Tonga,Ochoa Group,Martin Ltd (Equatorial Guinea),€9.6M,€99K,64.4,28.9,29.5,84.1,79,CM,154cm,Foot B
+461006,Lopez,21,Gabon,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€9.5M,€98K,37.9,86.0,56.2,29.8,79,CDM,204cm,Foot B
+600914,A. Graves,31,Cyprus,"Perry, Hardy and Reynolds",Gray Group (Tonga),€9.5M,€98K,61.5,41.1,74.7,81.0,79,CAM,184cm,Foot B
+921324,B. Stephens,32,Bolivia,Wilson PLC,Premier League (England),€9.5M,€98K,48.1,89.0,28.6,36.6,79,RB,189cm,Foot C
+466986,P. Harper,31,Northern Mariana Islands,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€9.4M,€98K,22.3,34.9,80.0,70.6,78,CAM,202cm,Foot A
+589952,W. Lopez,34,Pitcairn Islands,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€9.4M,€97K,64.3,83.1,46.7,22.9,78,RW,199cm,Foot A
+786719,M. Lopez,34,Cyprus,Richard-Thomas,Wiggins Inc (Bolivia),€9.4M,€98K,72.9,17.0,46.5,79.1,78,CM,202cm,Foot A
+409898,Robert Gonzalez,25,Mauritania,Huynh-Wilson,Wiggins Inc (Bolivia),€9.4M,€98K,71.9,45.0,12.1,79.4,78,LW,200cm,Foot C
+844196,D. Price,30,Christmas Island,"Keller, Dean and King",Premier League (England),€9.3M,€98K,81.0,27.8,36.3,70.9,78,GK,196cm,Foot A
+573938,J. Williams,25,Equatorial Guinea,"Novak, Gordon and Stevenson",Premier League (England),€9.4M,€97K,85.8,12.4,56.2,55.6,78,CM,181cm,Foot B
+442902,R. Colon,34,Christmas Island,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€9.1M,€98K,81.3,24.9,30.0,68.1,78,GK,160cm,Foot C
+721863,J. Cobb,28,Gabon,Bryant Ltd,Premier League (England),€9.1M,€97K,62.0,44.7,33.8,83.0,78,LM,177cm,Foot B
+140237,Ryan Jr.,33,Christmas Island,Martinez Inc,Martin Ltd (Equatorial Guinea),€9.3M,€97K,46.5,33.0,79.7,74.3,78,CAM,176cm,Foot C
+181219,C. Tucker,16,Gabon,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€9.3M,€96K,36.9,33.8,88.8,46.8,78,LB,151cm,Foot A
+549946,Cervantes,49,Cambodia,Davis LLC,Martin Ltd (Equatorial Guinea),€9M,€96K,25.4,64.8,51.9,82.8,78,LW,202cm,Foot B
+803970,R. Hammond,17,Tonga,"Miller, Hopkins and Thornton",Premier League (England),€9M,€96K,83.9,37.9,58.7,23.0,78,LB,159cm,Foot A
+459912,J. Johnson,30,Bolivia,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€9.1M,€96K,56.9,63.4,41.1,83.0,78,RM,206cm,Foot A
+214202,K. Harris,35,Pitcairn Islands,Bryant Ltd,Premier League (England),€8.9M,€96K,68.0,81.0,32.4,61.5,78,CDM,207cm,Foot B
+796399,John Jr.,21,Christmas Island,Bryant Ltd,Premier League (England),€8.7M,€96K,40.5,83.8,62.3,38.1,78,RWB,196cm,Foot B
+1788,C. Wallace,25,Cambodia,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€8.6M,€96K,78.2,73.2,25.4,75.5,78,RM,193cm,Foot A
+182140,J. Gordon,28,Tonga,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€8.7M,€97K,82.5,30.2,30.8,64.9,78,LWB,150cm,Foot A
+452607,J. Anderson,24,Northern Mariana Islands,Obrien PLC,Premier League (England),€8.4M,€95K,76.1,53.4,37.7,79.1,78,LWB,159cm,Foot A
+223283,R. Carroll,26,Bosnia and Herzegovina,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€8.9M,€95K,45.4,88.7,31.4,34.5,78,RWB,206cm,Foot A
+690256,B. Turner,23,Pitcairn Islands,Paris Saint Germain,Premier League (England),€8.4M,€96K,73.8,79.1,36.3,12.0,78,RW,156cm,Foot B
+485467,D. Richard,31,Gabon,Martinez Inc,Martin Ltd (Equatorial Guinea),€8.4M,€95K,46.4,61.8,46.0,83.7,78,LW,176cm,Foot A
+886920,David Larsen,34,Cambodia,King-Parks,Premier League (England),€8.3M,€95K,75.4,78.6,36.5,39.9,78,CM,188cm,Foot B
+371040,P. Reed,43,Cyprus,Manchester United,Premier League (England),€8.3M,€95K,75.2,50.8,55.5,78.4,78,LWB,156cm,Foot A
+76161,T. Hernandez,26,Mauritania,Schwartz Ltd,Premier League (England),€8.3M,€94K,74.5,72.6,53.5,78.7,78,RM,163cm,Foot A
+559506,M. Wells,25,Bosnia and Herzegovina,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€8.3M,€95K,30.7,62.9,22.2,83.1,78,LM,156cm,Foot C
+232443,J. Houston,23,Equatorial Guinea,Williams Ltd,Martin Ltd (Equatorial Guinea),€8.4M,€94K,74.4,79.6,66.6,51.0,78,CF,160cm,Foot B
+707880,A. Perez,27,Cambodia,Maldonado-Miller,Premier League (England),€8M,€94K,45.6,71.0,67.9,80.7,78,ST,185cm,Foot C
+872079,Cooley,35,Cyprus,Davis-Wyatt,Gray Group (Tonga),€8.1M,€94K,41.5,84.6,28.7,56.2,78,RWB,204cm,Foot B
+360472,T. Harris,29,Cyprus,Martin PLC,Bernard PLC (Cyprus),€8.2M,€94K,74.0,43.5,77.9,49.8,77,ST,168cm,Foot A
+319528,Ellis,33,Cambodia,Obrien PLC,Premier League (England),€7.9M,€93K,47.9,53.4,35.0,84.3,77,LWB,182cm,Foot C
+368910,Aaron Lambert,28,Cyprus,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€7.9M,€94K,56.7,61.5,61.1,82.8,77,CAM,182cm,Foot C
+606514,D. Melendez,28,Northern Mariana Islands,"Miller, Hopkins and Thornton",Premier League (England),€7.9M,€94K,59.2,53.9,69.7,79.5,77,CAM,205cm,Foot C
+795323,Joshua Jr.,34,Gabon,Manchester United,Premier League (England),€8.1M,€93K,67.6,51.8,27.4,80.6,77,LWB,199cm,Foot A
+582403,A. Graves,30,Mauritania,Lopez and Sons,Premier League (England),€7.9M,€93K,70.1,67.1,79.2,50.6,77,ST,167cm,Foot A
+82911,E. Avila,35,Tonga,"Novak, Gordon and Stevenson",Premier League (England),€7.8M,€92K,48.6,54.5,30.1,84.9,77,RWB,152cm,Foot C
+910320,Marquez,36,Cyprus,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€7.8M,€93K,35.5,86.6,48.5,45.8,77,CDM,200cm,Foot A
+337365,D. Raymond,29,Christmas Island,Davis-Wyatt,Gray Group (Tonga),€7.7M,€93K,52.8,43.7,50.9,85.0,77,CAM,150cm,Foot A
+681804,J. Kim,24,Christmas Island,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€7.6M,€92K,51.9,33.0,82.4,60.0,77,GK,204cm,Foot B
+919444,C. Lloyd,24,Equatorial Guinea,Phillips-Stone,Premier League (England),€7.7M,€92K,53.0,28.8,49.7,84.9,77,LW,180cm,Foot C
+575387,James,20,Northern Mariana Islands,Richard-Thomas,Wiggins Inc (Bolivia),€7.7M,€92K,68.9,79.7,63.6,48.3,77,CF,155cm,Foot A
+313340,M. Webb,28,Tonga,Manchester United,Premier League (England),€7.6M,€92K,52.7,62.6,49.7,81.9,77,CAM,191cm,Foot C
+763946,Zachary Chapman,26,Gabon,"Perry, Hardy and Reynolds",Gray Group (Tonga),€7.3M,€92K,59.6,74.6,41.2,78.4,77,RM,180cm,Foot A
+338052,D. White,25,Bolivia,Martin PLC,Bernard PLC (Cyprus),€7.3M,€92K,65.3,38.7,80.4,65.0,77,ST,185cm,Foot B
+182421,Jason Anderson,43,Christmas Island,"Perry, Hardy and Reynolds",Gray Group (Tonga),€7.5M,€92K,48.0,29.4,18.8,86.4,77,LW,201cm,Foot C
+592070,A. Johnson,25,Cambodia,Castro Ltd,Premier League (England),€7.6M,€92K,55.2,78.5,29.6,71.3,77,RM,168cm,Foot A
+682221,J. Jenkins,27,Equatorial Guinea,Manchester United,Premier League (England),€7.1M,€91K,54.5,82.6,21.1,58.6,77,RM,157cm,Foot C
+370963,Joshua Jr.,23,Bolivia,Brown LLC,Premier League (England),€7.2M,€91K,78.0,43.2,31.9,74.3,77,RWB,185cm,Foot A
+936467,E. Copeland,24,Bosnia and Herzegovina,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€7.3M,€92K,83.5,56.9,24.7,41.4,77,RW,164cm,Foot C
+395891,J. Stanley,30,Pitcairn Islands,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€7.8M,€92K,51.5,36.3,9.1,85.3,77,LWB,174cm,Foot A
+68255,M. Kirk,34,Gabon,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€7M,€91K,78.9,69.5,65.4,37.0,77,CM,206cm,Foot B
+568013,Z. Lynch,27,Bosnia and Herzegovina,Reynolds Ltd,Wiggins Inc (Bolivia),€6.9M,€91K,81.0,63.8,20.4,44.1,77,RW,177cm,Foot C
+543682,Hess,30,Bolivia,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€6.9M,€90K,75.2,77.1,45.4,59.8,77,RM,184cm,Foot C
+723958,Joseph Jr.,22,Gabon,"Miller, Hopkins and Thornton",Premier League (England),€6.9M,€91K,51.5,45.5,32.9,84.9,77,LM,193cm,Foot B
+158023,A. Johnson,31,Cyprus,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€6.8M,€90K,17.3,24.8,89.6,37.6,77,LB,206cm,Foot B
+470652,B. Moreno,26,Gabon,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€6.8M,€91K,81.2,21.1,19.4,64.0,77,LWB,186cm,Foot C
+847763,Philip Jr.,21,Northern Mariana Islands,"Keller, Dean and King",Premier League (England),€6.9M,€90K,62.4,61.9,58.9,81.5,77,CAM,201cm,Foot C
+696664,S. Davis,20,Cambodia,King-Parks,Premier League (England),€6.9M,€90K,59.7,53.2,58.0,80.9,76,CAM,152cm,Foot C
+33429,Devin Vincent,34,Pitcairn Islands,Martin PLC,Bernard PLC (Cyprus),€6.8M,€89K,45.6,83.4,52.0,28.6,76,CM,160cm,Foot B
+615331,T. Richard,54,Equatorial Guinea,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€6.9M,€89K,73.3,46.0,38.6,76.6,76,CAM,177cm,Foot A
+58287,D. Martinez,28,Gabon,Martin PLC,Bernard PLC (Cyprus),€6.8M,€90K,58.6,81.6,50.0,50.1,76,CM,208cm,Foot B
+337112,Adam Jr.,20,Cyprus,King-Parks,Premier League (England),€6.8M,€89K,60.8,80.8,49.9,52.3,76,RB,185cm,Foot B
+222514,P. Hurley,30,Bolivia,Davis LLC,Martin Ltd (Equatorial Guinea),€6.6M,€90K,71.3,44.5,44.2,78.1,76,CM,187cm,Foot A
+75087,G. Porter,53,Bosnia and Herzegovina,"Keller, Dean and King",Premier League (England),€6.6M,€89K,78.0,57.6,25.2,71.8,76,GK,166cm,Foot B
+410988,Keith Mccoy,31,Pitcairn Islands,Huynh-Wilson,Wiggins Inc (Bolivia),€6.7M,€89K,80.6,59.5,32.0,61.7,76,GK,182cm,Foot A
+411007,N. White,20,Bosnia and Herzegovina,"Wu, Chang and Christensen",Premier League (England),€6.7M,€89K,55.0,80.7,57.2,61.9,76,RM,154cm,Foot A
+632650,C. Jensen,30,Northern Mariana Islands,Brown LLC,Premier League (England),€6.5M,€89K,43.0,27.4,66.3,79.4,76,CAM,186cm,Foot A
+952246,Kevin Sullivan,28,Equatorial Guinea,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€6.5M,€89K,29.4,27.5,68.5,78.6,76,CAM,181cm,Foot C
+714698,David Jr.,23,Mauritania,Bryant Ltd,Premier League (England),€6.7M,€89K,49.9,62.2,19.8,80.9,76,LM,171cm,Foot B
+395304,Zachary Jr.,47,Pitcairn Islands,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€6.5M,€89K,60.8,35.8,80.9,54.7,76,GK,192cm,Foot B
+305204,B. Hall,27,Northern Mariana Islands,Liverpool,Bernard PLC (Cyprus),€6.2M,€88K,58.4,66.8,49.8,79.5,76,LW,205cm,Foot A
+567402,J. Reid,46,Gabon,Richard-Thomas,Wiggins Inc (Bolivia),€6.3M,€88K,82.6,31.1,18.5,56.6,76,GK,192cm,Foot A
+428183,J. Holden,35,Mauritania,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€6.1M,€89K,53.1,41.7,30.7,83.5,76,LM,204cm,Foot C
+698541,J. Patel,35,Bosnia and Herzegovina,Brown LLC,Premier League (England),€6.5M,€88K,81.3,50.6,16.4,60.7,76,LWB,171cm,Foot A
+608529,M. Rivera,32,Equatorial Guinea,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€6.2M,€88K,83.9,33.1,52.5,31.4,76,LB,187cm,Foot A
+526614,S. Stevenson,31,Gabon,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€6M,€88K,45.3,81.8,27.0,58.2,76,RB,193cm,Foot C
+26920,E. Sharp,27,Bolivia,"Perry, Hardy and Reynolds",Gray Group (Tonga),€6M,€87K,75.6,76.1,41.8,50.0,76,CF,174cm,Foot A
+199063,Shane Howard,29,Tonga,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€6M,€88K,82.5,55.5,39.6,42.2,76,RW,187cm,Foot C
+575974,Neil Lang,30,Pitcairn Islands,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€5.8M,€87K,39.5,52.3,40.4,83.6,76,RWB,154cm,Foot B
+731633,D. Bender,22,Bosnia and Herzegovina,Maldonado-Miller,Premier League (England),€5.8M,€87K,26.3,36.0,72.8,76.8,76,CAM,186cm,Foot A
+35425,White,32,Cyprus,Donovan-Cochran,Gray Group (Tonga),€6M,€87K,73.7,38.8,76.2,39.4,76,GK,154cm,Foot C
+174808,R. Kline,31,Bosnia and Herzegovina,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€5.9M,€87K,53.1,84.3,38.0,35.7,76,RWB,208cm,Foot C
+535548,Kelly,23,Cambodia,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€5.7M,€87K,43.1,42.0,46.5,86.1,76,LW,154cm,Foot A
+453631,K. Meadows,25,Mauritania,Liverpool,Bernard PLC (Cyprus),€5.6M,€87K,77.5,48.8,28.0,70.8,76,GK,150cm,Foot A
+945156,C. Walker,45,Christmas Island,Mills-Higgins,Martin Ltd (Equatorial Guinea),€6M,€87K,73.0,77.0,73.0,28.2,76,CM,191cm,Foot B
+928860,K. Villegas,25,Gabon,"Miller, Hopkins and Thornton",Premier League (England),€5.7M,€87K,77.5,63.6,30.8,73.4,76,RWB,199cm,Foot C
+576649,Kirk Wilson,33,Cyprus,Phillips-Stone,Premier League (England),€5.6M,€87K,77.1,53.5,62.9,70.7,76,CB,153cm,Foot C
+118291,D. Williams,20,Bosnia and Herzegovina,FC Bayern München,Premier League (England),€5.7M,€87K,74.1,46.8,28.3,76.0,76,LWB,182cm,Foot A
+860168,Ian Jr.,20,Gabon,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€5.6M,€87K,64.2,34.0,78.7,60.3,75,ST,198cm,Foot B
+172170,Scott Becker,29,Christmas Island,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€5.6M,€87K,27.5,61.7,79.7,59.1,75,LW,163cm,Foot C
+843941,B. Davidson,46,Bosnia and Herzegovina,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€5.5M,€87K,79.2,48.7,63.6,59.4,75,CAM,204cm,Foot A
+442560,N. Greene,33,Bolivia,Manchester United,Premier League (England),€5.6M,€86K,48.5,84.0,49.5,31.8,75,RB,169cm,Foot B
+278802,Wheeler,27,Christmas Island,Reynolds Ltd,Wiggins Inc (Bolivia),€5.5M,€86K,71.4,22.1,30.4,76.4,75,LWB,181cm,Foot B
+729556,A. Kidd,23,Mauritania,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€5.5M,€86K,32.9,75.9,12.7,71.5,75,LM,190cm,Foot B
+565987,Smith,22,Tonga,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€5.4M,€86K,75.5,37.5,50.3,74.8,75,CAM,194cm,Foot A
+516970,S. Carlson,43,Gabon,Davis LLC,Martin Ltd (Equatorial Guinea),€5.3M,€87K,64.5,19.4,43.3,79.0,75,CM,161cm,Foot B
+566361,M. Farrell,22,Gabon,King-Parks,Premier League (England),€5.4M,€86K,66.9,77.7,12.6,6.2,75,RW,183cm,Foot A
+115870,J. Mcneil,27,Cambodia,Lopez and Sons,Premier League (England),€5.4M,€86K,39.6,47.0,77.6,68.2,75,ST,183cm,Foot A
+189790,Luis Jr.,28,Gabon,Davis-Wyatt,Gray Group (Tonga),€5.2M,€85K,63.3,78.5,60.9,31.2,75,CDM,208cm,Foot C
+509420,J. Williams,27,Northern Mariana Islands,"Wu, Chang and Christensen",Premier League (England),€5.1M,€85K,66.2,47.7,41.3,77.6,75,CAM,173cm,Foot C
+837116,Lee,38,Mauritania,Wilson PLC,Premier League (England),€5M,€86K,79.0,39.1,21.5,61.4,75,CM,198cm,Foot C
+853506,Macdonald,18,Northern Mariana Islands,King-Parks,Premier League (England),€5.3M,€85K,68.1,57.3,77.6,50.3,75,ST,166cm,Foot C
+591392,Burns,32,Cambodia,Ochoa Group,Martin Ltd (Equatorial Guinea),€5.2M,€85K,81.6,35.4,49.3,54.5,75,CM,170cm,Foot A
+100016,E. Sanchez,51,Bosnia and Herzegovina,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€5M,€85K,14.8,30.2,82.0,55.7,75,LW,163cm,Foot A
+493709,J. Harvey,31,Mauritania,Donovan-Cochran,Gray Group (Tonga),€5M,€85K,55.8,27.1,66.5,77.4,75,LWB,187cm,Foot B
+936678,D. Green,46,Cambodia,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€4.8M,€85K,60.9,38.5,25.1,80.3,75,CM,171cm,Foot C
+428791,B. Sellers,32,Pitcairn Islands,Murphy-Henderson,Premier League (England),€4.7M,€84K,62.7,79.5,55.3,42.8,75,RB,176cm,Foot C
+805953,Michael Carter,20,Cambodia,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€4.7M,€84K,75.4,72.3,35.3,16.6,75,RW,198cm,Foot C
+593029,B. Stafford,34,Bosnia and Herzegovina,FC Bayern München,Premier League (England),€4.7M,€85K,76.7,71.8,70.0,58.3,75,CB,207cm,Foot C
+617643,E. Barnes,20,Bolivia,Phillips-Stone,Premier League (England),€4.8M,€85K,52.9,42.7,14.7,81.9,75,LW,201cm,Foot A
+863416,A. Robinson,31,Cyprus,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€4.6M,€84K,66.6,59.8,63.7,77.5,75,LWB,182cm,Foot A
+716116,E. Christian,19,Bolivia,"Perry, Hardy and Reynolds",Gray Group (Tonga),€4.7M,€84K,84.3,47.1,41.7,41.0,75,GK,191cm,Foot C
+77409,V. Goodman,32,Cambodia,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€4.7M,€84K,73.9,59.7,75.1,58.7,75,CAM,193cm,Foot C
+765587,C. Walls,33,Cyprus,Castro Ltd,Premier League (England),€4.6M,€84K,67.5,77.4,13.5,27.0,75,RW,164cm,Foot C
+26,S. Bautista,35,Bolivia,Richard-Thomas,Wiggins Inc (Bolivia),€4.5M,€84K,63.8,39.8,34.9,77.1,74,CM,179cm,Foot C
+475189,James Payne,28,Christmas Island,Brown LLC,Premier League (England),€4.6M,€84K,47.2,33.4,47.0,82.3,74,LWB,161cm,Foot B
+581952,J. Jones,35,Equatorial Guinea,"Keller, Dean and King",Premier League (England),€4.5M,€83K,76.5,67.6,54.5,67.5,74,ST,190cm,Foot B
+344494,M. Maxwell,38,Tonga,Obrien PLC,Premier League (England),€4.5M,€84K,56.6,79.4,36.6,47.3,74,CDM,153cm,Foot B
+737923,Robertson,22,Bolivia,Schwartz Ltd,Premier League (England),€4.3M,€83K,52.4,80.7,50.9,40.0,74,RB,167cm,Foot B
+131775,Ortega,27,Cambodia,Liverpool,Bernard PLC (Cyprus),€4.5M,€83K,19.4,67.9,75.5,64.7,74,LW,184cm,Foot B
+721609,J. Estrada,21,Cyprus,Phillips-Stone,Premier League (England),€4.4M,€83K,52.7,34.7,48.2,81.3,74,RWB,168cm,Foot B
+434916,A. Preston,20,Pitcairn Islands,"Novak, Gordon and Stevenson",Premier League (England),€4.3M,€84K,65.9,77.1,27.9,26.1,74,CDM,189cm,Foot B
+705283,D. Webb,34,Cyprus,Richard-Thomas,Wiggins Inc (Bolivia),€4.1M,€83K,42.1,23.2,84.7,31.0,74,GK,203cm,Foot C
+803627,James Baker,24,Cyprus,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€4.1M,€83K,56.0,59.6,79.0,34.4,74,CB,172cm,Foot C
+66388,Michael Jr.,17,Christmas Island,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€4.2M,€83K,43.0,38.3,62.2,77.8,74,LWB,209cm,Foot A
+902169,R. Clark,24,Equatorial Guinea,Davis LLC,Martin Ltd (Equatorial Guinea),€4.1M,€83K,57.7,55.5,25.9,79.4,74,RM,186cm,Foot B
+33910,W. Smith,41,Bolivia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€4M,€82K,38.8,38.7,81.7,52.6,74,CAM,200cm,Foot A
+738539,K. Robinson,35,Equatorial Guinea,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€4.4M,€82K,74.4,72.7,60.1,38.1,74,CF,162cm,Foot A
+99583,Alexander Jr.,24,Northern Mariana Islands,Manchester United,Premier League (England),€4.1M,€83K,75.2,72.1,54.9,57.3,74,CB,186cm,Foot C
+976300,B. Wilson,51,Tonga,Bryant Ltd,Premier League (England),€4M,€82K,39.2,53.9,80.6,30.5,74,CDM,169cm,Foot C
+198061,J. Mitchell,30,Northern Mariana Islands,Obrien PLC,Premier League (England),€4M,€82K,54.9,80.6,51.4,32.5,74,RB,159cm,Foot B
+42609,D. Boyd,30,Cyprus,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€4M,€82K,64.0,37.8,77.0,58.1,74,GK,175cm,Foot A
+534186,S. Garcia,23,Gabon,FC Bayern München,Premier League (England),€4M,€82K,56.3,56.7,34.8,79.7,74,LM,197cm,Foot A
+624760,D. Rodriguez,22,Bolivia,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€3.9M,€82K,39.1,52.0,81.3,36.2,74,CDM,203cm,Foot C
+149686,Justin Miller,33,Bolivia,Bryant Ltd,Premier League (England),€4M,€81K,55.8,79.8,42.3,33.9,74,RB,191cm,Foot A
+796971,Cody Jr.,33,Mauritania,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€3.7M,€82K,13.5,32.2,88.3,23.6,74,LB,159cm,Foot B
+772554,M. Davis,31,Bosnia and Herzegovina,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€3.7M,€81K,20.0,39.6,84.2,44.7,74,LB,153cm,Foot A
+346783,Mark Ho,25,Cyprus,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€3.7M,€82K,49.4,53.2,39.3,81.2,74,LM,167cm,Foot C
+469838,Joseph Jr.,26,Christmas Island,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€3.5M,€80K,78.6,57.2,59.6,59.5,74,RM,190cm,Foot C
+486300,J. Marshall,31,Gabon,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€3.5M,€80K,75.4,70.4,45.4,61.8,74,CM,194cm,Foot C
+60364,R. Reynolds,24,Tonga,Huynh-Wilson,Wiggins Inc (Bolivia),€3.6M,€81K,66.5,77.0,43.5,63.4,74,CDM,186cm,Foot C
+789640,G. Erickson,28,Tonga,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€3.9M,€80K,33.6,77.2,63.2,54.5,74,RB,170cm,Foot B
+199854,D. Fisher,27,Gabon,Obrien PLC,Premier League (England),€3.5M,€80K,38.9,63.2,17.0,77.4,74,LM,184cm,Foot A
+699960,C. Watts,26,Equatorial Guinea,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€3.5M,€80K,51.0,58.8,79.4,18.8,74,CB,169cm,Foot A
+732735,D. Garrison,34,Mauritania,Richard-Thomas,Wiggins Inc (Bolivia),€3.4M,€80K,79.8,55.4,36.1,29.0,74,RW,189cm,Foot C
+945766,O. Lawrence,34,Cambodia,Paris Saint Germain,Premier League (England),€3.4M,€79K,74.8,70.3,57.4,38.1,74,CB,191cm,Foot B
+937778,Eric Miller,35,Tonga,Schwartz Ltd,Premier League (England),€3.5M,€79K,81.7,32.3,47.5,52.1,74,CAM,182cm,Foot C
+245760,D. Cruz,21,Equatorial Guinea,Maldonado-Miller,Premier League (England),€3.2M,€79K,48.4,59.1,58.0,77.4,73,LWB,208cm,Foot A
+131128,Paul Jr.,33,Bosnia and Herzegovina,Liverpool,Bernard PLC (Cyprus),€3.1M,€79K,77.5,47.1,52.8,61.1,73,CB,195cm,Foot A
+598163,Pennington,20,Gabon,"Wu, Chang and Christensen",Premier League (England),€3.1M,€79K,75.7,45.4,63.1,56.1,73,CAM,199cm,Foot C
+909539,R. Ferguson,20,Gabon,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€3.3M,€78K,78.3,34.7,37.1,55.2,73,CM,181cm,Foot C
+172335,S. Pena,31,Gabon,Martinez Inc,Martin Ltd (Equatorial Guinea),€3M,€78K,78.6,52.3,23.2,55.9,73,GK,194cm,Foot C
+229993,Strong,22,Tonga,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€3.1M,€79K,80.8,21.8,51.4,31.4,73,LM,158cm,Foot B
+377507,Gray,35,Gabon,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€3.1M,€79K,52.5,65.9,17.3,75.9,73,LM,150cm,Foot A
+770850,G. Carter,34,Mauritania,Manchester United,Premier League (England),€2.9M,€78K,63.8,34.9,44.6,75.8,73,LWB,195cm,Foot B
+844642,T. Davis,31,Bolivia,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€3M,€78K,17.5,41.4,78.8,54.6,73,LW,191cm,Foot A
+689142,W. Cook,39,Northern Mariana Islands,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€3M,€78K,65.8,26.4,53.7,76.0,73,CM,163cm,Foot A
+517180,D. Villa,35,Bosnia and Herzegovina,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€2.7M,€78K,53.9,43.3,44.9,79.6,73,LWB,160cm,Foot C
+1124,M. Davis,33,Gabon,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€2.5M,€78K,58.8,47.5,16.8,77.3,73,LW,159cm,Foot A
+607375,G. Lowery,22,Bolivia,King-Parks,Premier League (England),€2.6M,€78K,80.1,53.6,44.0,30.6,73,CF,172cm,Foot A
+844979,S. Lamb,34,Cyprus,Martin PLC,Bernard PLC (Cyprus),€3M,€78K,72.9,63.4,72.7,27.2,73,CM,156cm,Foot C
+320848,T. Romero,29,Mauritania,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€2.6M,€78K,55.5,41.7,79.2,28.8,73,GK,188cm,Foot A
+100353,T. Yoder,32,Bosnia and Herzegovina,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€2.2M,€77K,70.8,37.7,46.0,73.6,73,CAM,204cm,Foot B
+682148,K. Walls,32,Equatorial Guinea,"Keller, Dean and King",Premier League (England),€2.3M,€77K,48.5,78.7,40.7,57.3,73,CDM,181cm,Foot B
+707075,Matthew Jr.,24,Gabon,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€2.2M,€77K,65.2,74.0,69.5,50.7,73,CB,161cm,Foot C
+428670,William Jr.,28,Equatorial Guinea,Schwartz Ltd,Premier League (England),€2.2M,€78K,36.5,35.3,78.9,53.7,73,CDM,189cm,Foot B
+699118,P. Valentine,15,Equatorial Guinea,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€2.1M,€77K,74.9,51.2,39.5,68.4,73,CAM,158cm,Foot B
+158588,Cross,24,Northern Mariana Islands,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€2M,€77K,77.4,61.4,55.0,46.3,73,LWB,209cm,Foot B
+494554,Esparza,35,Bosnia and Herzegovina,Liverpool,Bernard PLC (Cyprus),€2M,€77K,42.9,83.5,34.1,31.3,73,RWB,151cm,Foot C
+715913,M. Smith,23,Bosnia and Herzegovina,Wilson PLC,Premier League (England),€2.1M,€77K,62.0,14.9,76.3,56.1,73,GK,155cm,Foot A
+822450,R. Wilson,28,Tonga,"Perry, Hardy and Reynolds",Gray Group (Tonga),€2M,€77K,42.0,21.6,78.3,55.6,73,LB,176cm,Foot A
+642551,C. Miller,28,Christmas Island,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€1.9M,€76K,60.3,77.2,13.2,60.8,73,LM,151cm,Foot B
+151124,D. Lewis,23,Pitcairn Islands,Liverpool,Bernard PLC (Cyprus),€2.2M,€77K,75.4,60.6,65.4,67.6,73,CAM,204cm,Foot B
+528049,B. Thomas,35,Bosnia and Herzegovina,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€2M,€76K,40.4,40.7,19.2,83.9,73,LW,204cm,Foot A
+241447,Roberts,29,Tonga,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€1.7M,€75K,42.1,38.1,48.8,81.0,73,LWB,191cm,Foot B
+184138,Z. Stone,31,Mauritania,Liverpool,Bernard PLC (Cyprus),€2M,€76K,65.3,59.7,19.7,75.0,73,RWB,173cm,Foot A
+671795,B. Cooper,21,Equatorial Guinea,Lopez and Sons,Premier League (England),€1.8M,€76K,32.0,73.5,40.4,67.0,72,RB,159cm,Foot C
+434288,W. Rodriguez,38,Gabon,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€1.6M,€77K,21.6,32.1,71.7,72.1,72,CAM,157cm,Foot C
+155780,Jacob Jr.,30,Cyprus,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€1.6M,€75K,75.3,26.4,62.7,35.8,72,GK,172cm,Foot A
+655676,Guerra,37,Tonga,"Wu, Chang and Christensen",Premier League (England),€1.6M,€75K,41.7,79.9,34.8,47.5,72,RWB,156cm,Foot C
+287127,M. Baker,28,Gabon,Davis-Wyatt,Gray Group (Tonga),€1.4M,€75K,56.5,44.2,19.9,77.7,72,GK,180cm,Foot C
+574030,Sanders,35,Equatorial Guinea,Martin PLC,Bernard PLC (Cyprus),€1.5M,€75K,71.2,44.8,37.1,72.8,72,LW,178cm,Foot B
+803544,S. Vazquez,15,Northern Mariana Islands,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€1.3M,€75K,54.5,39.8,16.4,77.6,72,LW,161cm,Foot C
+484058,I. Graham,21,Bolivia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€1.8M,€75K,74.0,66.9,32.3,60.9,72,CF,199cm,Foot C
+279270,S. Walker,20,Bolivia,Obrien PLC,Premier League (England),€1.2M,€75K,80.6,21.7,44.8,44.3,72,LM,191cm,Foot B
+926490,R. Dunn,20,Bolivia,Reynolds Ltd,Wiggins Inc (Bolivia),€1.2M,€74K,41.7,77.9,36.8,55.8,72,RWB,167cm,Foot B
+918298,E. Poole,33,Cambodia,"Novak, Gordon and Stevenson",Premier League (England),€1.2M,€74K,69.6,54.5,68.7,72.9,72,ST,169cm,Foot C
+803834,J. Walton,52,Mauritania,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€1M,€74K,59.5,71.9,33.4,71.8,72,LM,201cm,Foot C
+394355,S. Perez,44,Bosnia and Herzegovina,Martinez Inc,Martin Ltd (Equatorial Guinea),€1.1M,€76K,47.5,27.5,74.2,63.4,72,GK,187cm,Foot C
+738626,Michael Chandler,24,Equatorial Guinea,Reynolds Ltd,Wiggins Inc (Bolivia),€1.1M,€74K,74.9,30.1,21.6,65.3,72,RWB,156cm,Foot C
+189771,Evan Coffey,29,Northern Mariana Islands,Wilson PLC,Premier League (England),€999K,€74K,75.7,50.2,61.2,43.1,72,CB,194cm,Foot A
+435624,Matthew Martin,24,Gabon,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€1.2M,€74K,35.9,36.1,54.3,77.5,72,LW,199cm,Foot B
+67035,R. Ward,21,Christmas Island,FC Bayern München,Premier League (England),€999K,€73K,50.9,28.7,47.8,79.4,72,GK,187cm,Foot B
+444123,A. Morris,34,Christmas Island,Schwartz Ltd,Premier League (England),€999K,€74K,33.1,82.2,42.4,27.1,72,RB,161cm,Foot B
+436169,J. Parker,21,Bosnia and Herzegovina,"Wu, Chang and Christensen",Premier League (England),€997K,€73K,13.7,61.9,75.2,48.1,72,LW,181cm,Foot A
+378874,D. Jenkins,23,Mauritania,Davis-Wyatt,Gray Group (Tonga),€996K,€73K,55.4,40.6,38.6,78.1,72,CM,157cm,Foot B
+321811,K. Aguilar,25,Equatorial Guinea,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€995K,€74K,77.3,21.9,52.1,56.3,72,CM,206cm,Foot C
+756068,S. Chavez,28,Bolivia,King-Parks,Premier League (England),€996K,€73K,56.3,56.6,47.4,77.7,72,LWB,152cm,Foot A
+936354,A. Woods,35,Pitcairn Islands,Brown LLC,Premier League (England),€996K,€72K,78.5,40.7,50.6,54.3,72,CM,150cm,Foot A
+961172,M. Clark,28,Mauritania,Richard-Thomas,Wiggins Inc (Bolivia),€982K,€72K,77.5,50.8,22.6,55.9,72,CM,191cm,Foot C
+813793,C. Meyer,23,Cambodia,Donovan-Cochran,Gray Group (Tonga),€991K,€73K,73.0,64.2,67.3,68.3,72,ST,172cm,Foot C
+428845,D. Lynch,25,Pitcairn Islands,Lopez and Sons,Premier League (England),€989K,€72K,74.1,65.2,40.9,30.7,72,CM,161cm,Foot A
+715574,K. Bennett,24,Christmas Island,Castro Ltd,Premier League (England),€978K,€72K,34.6,77.9,53.3,41.3,72,RB,156cm,Foot C
+68602,Kyle Jr.,23,Mauritania,Phillips-Stone,Premier League (England),€973K,€71K,56.0,77.4,47.3,47.6,72,RB,179cm,Foot A
+789846,R. Rose,27,Gabon,"Novak, Gordon and Stevenson",Premier League (England),€985K,€71K,74.1,66.9,63.0,49.6,72,CF,191cm,Foot B
+519615,S. Keith,24,Tonga,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€975K,€71K,49.0,57.1,65.0,74.1,72,ST,194cm,Foot A
+404960,Tom Jr.,34,Gabon,Brown LLC,Premier League (England),€970K,€71K,40.2,53.0,78.6,38.9,72,CB,190cm,Foot B
+85572,D. Hunt,20,Cambodia,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€969K,€70K,47.8,59.0,20.4,76.9,72,LW,163cm,Foot C
+847461,C. Carpenter,21,Pitcairn Islands,Castro Ltd,Premier League (England),€970K,€71K,16.7,55.9,76.6,57.1,72,LW,187cm,Foot B
+462601,F. King,36,Pitcairn Islands,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€973K,€71K,68.6,73.3,30.7,61.9,72,RM,170cm,Foot B
+221663,C. Russell,20,Northern Mariana Islands,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€970K,€72K,61.4,37.6,73.8,39.2,71,CB,189cm,Foot B
+951007,S. Reese,21,Christmas Island,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€968K,€69K,74.9,7.7,58.2,19.3,71,LB,197cm,Foot B
+246549,D. Smith,48,Bosnia and Herzegovina,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€969K,€70K,75.8,19.2,55.7,54.8,71,LB,168cm,Foot B
+779037,David Jr.,30,Bolivia,King-Parks,Premier League (England),€965K,€70K,42.0,72.0,67.0,32.2,71,RB,210cm,Foot B
+525103,P. Mercado,26,Equatorial Guinea,Reynolds Ltd,Wiggins Inc (Bolivia),€967K,€70K,36.2,46.7,62.2,73.7,71,LW,162cm,Foot B
+197590,D. Rose,24,Cyprus,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€965K,€69K,56.4,34.4,76.5,49.3,71,ST,208cm,Foot C
+25579,Holden,39,Mauritania,Phillips-Stone,Premier League (England),€964K,€69K,75.3,59.4,33.8,49.7,71,GK,168cm,Foot B
+902441,Tyler Jr.,34,Christmas Island,Obrien PLC,Premier League (England),€964K,€69K,34.9,77.2,53.4,47.7,71,RB,195cm,Foot C
+83325,M. Hill,25,Pitcairn Islands,Davis-Wyatt,Gray Group (Tonga),€964K,€69K,45.1,77.8,40.6,50.3,71,CM,178cm,Foot A
+378261,J. Holmes,21,Mauritania,Ochoa Group,Martin Ltd (Equatorial Guinea),€965K,€69K,80.3,19.1,43.7,37.9,71,LM,166cm,Foot B
+386494,A. Clarke,27,Tonga,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€961K,€69K,9.9,60.3,71.2,71.4,71,LW,179cm,Foot A
+116162,Hernandez,26,Equatorial Guinea,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€963K,€69K,52.9,55.4,14.3,76.6,71,GK,204cm,Foot C
+755323,Aaron Ramirez,33,Tonga,Donovan-Cochran,Gray Group (Tonga),€961K,€68K,71.5,71.4,65.4,63.0,71,CB,207cm,Foot C
+665212,Steve Miller,23,Bolivia,Maldonado-Miller,Premier League (England),€958K,€68K,54.4,39.4,42.3,76.3,71,LWB,206cm,Foot B
+411361,K. Bolton,29,Cyprus,Lopez and Sons,Premier League (England),€960K,€69K,77.0,53.8,35.6,50.0,71,RWB,201cm,Foot C
+116552,R. Bartlett,30,Cambodia,Wilson PLC,Premier League (England),€960K,€69K,71.5,49.4,69.7,45.8,71,ST,182cm,Foot A
+460701,Matthew Gomez,24,Northern Mariana Islands,Maldonado-Miller,Premier League (England),€953K,€68K,77.6,47.2,15.7,52.4,71,RWB,163cm,Foot B
+821272,A. Hodges,33,Christmas Island,Paris Saint Germain,Premier League (England),€956K,€68K,74.0,61.1,46.3,49.6,71,CM,152cm,Foot B
+813084,R. Fisher,47,Pitcairn Islands,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€963K,€69K,48.8,77.9,37.8,26.9,71,CM,166cm,Foot B
+116798,M. Sullivan,34,Bosnia and Herzegovina,Paris Saint Germain,Premier League (England),€953K,€68K,36.6,76.7,55.7,42.2,71,RB,184cm,Foot A
+616727,W. Tucker,36,Mauritania,King-Parks,Premier League (England),€957K,€67K,73.3,16.5,62.7,24.3,71,LM,160cm,Foot B
+485713,R. Gardner,30,Bolivia,"Miller, Hopkins and Thornton",Premier League (England),€944K,€67K,40.8,37.0,47.8,78.8,71,LW,172cm,Foot A
+436578,S. Welch,21,Bosnia and Herzegovina,Ochoa Group,Martin Ltd (Equatorial Guinea),€950K,€67K,48.5,35.5,61.0,73.8,71,RW,207cm,Foot B
+616980,C. Sandoval,34,Gabon,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€947K,€68K,40.7,21.4,80.5,22.4,71,LB,208cm,Foot B
+600636,Corey Jr.,29,Bolivia,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€946K,€66K,68.9,41.2,17.6,72.3,71,LW,168cm,Foot B
+838217,J. Collins,29,Northern Mariana Islands,Huynh-Wilson,Wiggins Inc (Bolivia),€944K,€66K,50.4,78.1,40.9,34.5,71,CM,156cm,Foot B
+510541,Mills,35,Christmas Island,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€944K,€66K,24.4,75.2,39.9,58.8,71,RWB,183cm,Foot C
+404135,B. Myers,35,Bosnia and Herzegovina,Williams Ltd,Martin Ltd (Equatorial Guinea),€939K,€66K,77.1,32.2,40.0,54.1,71,GK,204cm,Foot A
+232145,B. Mcdonald,33,Bosnia and Herzegovina,Martinez Inc,Martin Ltd (Equatorial Guinea),€933K,€65K,53.7,30.2,77.4,31.3,71,GK,170cm,Foot A
+256855,M. Nichols,34,Mauritania,"Keller, Dean and King",Premier League (England),€941K,€68K,73.0,35.4,38.9,64.7,71,LWB,199cm,Foot A
+576549,W. Huang,26,Bosnia and Herzegovina,"Miller, Hopkins and Thornton",Premier League (England),€935K,€66K,25.2,45.1,11.2,79.9,71,LM,168cm,Foot B
+945293,P. Martin,21,Bosnia and Herzegovina,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€932K,€65K,35.2,78.1,51.2,41.0,71,RWB,208cm,Foot B
+494769,Freeman,27,Cyprus,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€938K,€65K,61.0,73.9,51.7,33.2,71,RB,159cm,Foot C
+593083,Acosta,28,Equatorial Guinea,Reynolds Ltd,Wiggins Inc (Bolivia),€928K,€65K,70.0,70.8,43.4,46.5,71,CF,155cm,Foot B
+994556,C. Watts,23,Bosnia and Herzegovina,Manchester United,Premier League (England),€928K,€65K,77.3,32.2,49.8,52.0,71,GK,191cm,Foot A
+470342,H. Edwards,27,Cyprus,Williams Ltd,Martin Ltd (Equatorial Guinea),€930K,€66K,31.9,31.6,69.1,71.2,71,LW,192cm,Foot C
+314841,David Gonzalez,41,Mauritania,Manchester United,Premier League (England),€929K,€64K,60.8,24.3,20.7,74.0,71,RWB,180cm,Foot A
+757229,B. Soto,17,Mauritania,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€918K,€65K,70.8,40.8,51.5,69.7,71,ST,172cm,Foot B
+757248,T. Clark,26,Bolivia,Williams Ltd,Martin Ltd (Equatorial Guinea),€927K,€64K,30.9,31.9,57.8,75.9,71,CAM,164cm,Foot A
+118307,B. Holmes,30,Gabon,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€918K,€65K,78.7,21.8,39.6,49.1,71,LB,194cm,Foot B
+691761,C. Meyer,21,Gabon,Mills-Higgins,Martin Ltd (Equatorial Guinea),€926K,€64K,72.3,60.1,45.2,65.9,71,RWB,198cm,Foot C
+700168,B. Moreno,34,Cyprus,Wilson PLC,Premier League (England),€917K,€64K,73.4,46.2,24.2,62.7,71,LW,207cm,Foot B
+40977,S. Simmons,25,Northern Mariana Islands,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€911K,€64K,76.8,27.2,45.6,48.8,70,LWB,167cm,Foot C
+335895,Joseph Jefferson,26,Northern Mariana Islands,Martin PLC,Bernard PLC (Cyprus),€913K,€64K,38.7,68.6,63.6,69.9,70,RW,175cm,Foot A
+286806,Justin Jr.,31,Bolivia,"Miller, Hopkins and Thornton",Premier League (England),€911K,€64K,63.6,58.8,71.9,52.4,70,CB,153cm,Foot A
+319603,E. Murphy,25,Pitcairn Islands,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€909K,€64K,76.4,50.2,33.9,48.2,70,CF,191cm,Foot C
+827618,Alexander Warner,22,Mauritania,Wilson PLC,Premier League (England),€911K,€64K,47.0,45.8,49.8,76.4,70,CAM,186cm,Foot C
+434424,F. Mccoy,28,Christmas Island,Mills-Higgins,Martin Ltd (Equatorial Guinea),€915K,€64K,46.5,62.2,22.3,73.0,70,LM,184cm,Foot C
+647424,J. Marks,27,Gabon,Liverpool,Bernard PLC (Cyprus),€908K,€63K,28.7,72.1,61.8,39.7,70,RWB,184cm,Foot B
+827718,S. Lowery,30,Mauritania,Ochoa Group,Martin Ltd (Equatorial Guinea),€909K,€63K,44.0,39.0,77.6,45.2,70,LB,176cm,Foot A
+246129,K. Perez,22,Cambodia,Martinez Inc,Martin Ltd (Equatorial Guinea),€908K,€64K,37.9,68.3,29.7,70.1,70,LM,208cm,Foot B
+876956,Stanton,17,Tonga,Lopez and Sons,Premier League (England),€908K,€62K,51.7,72.3,43.0,63.8,70,CF,187cm,Foot A
+139691,Brown,49,Mauritania,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€903K,€61K,45.8,29.7,46.6,77.4,70,LWB,194cm,Foot C
+377384,Davis,35,Bolivia,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€903K,€61K,32.5,31.5,49.7,76.5,70,LW,189cm,Foot C
+901842,M. Cruz,27,Pitcairn Islands,Martinez Inc,Martin Ltd (Equatorial Guinea),€902K,€62K,58.8,74.0,25.6,6.2,70,RW,163cm,Foot A
+836331,Bailey,20,Cambodia,Castro Ltd,Premier League (England),€896K,€61K,52.0,38.4,22.5,75.5,70,LW,206cm,Foot C
+541482,D. Pierce,34,Pitcairn Islands,Brown LLC,Premier League (England),€897K,€61K,69.9,28.7,70.7,46.5,70,GK,161cm,Foot A
+353127,Schaefer,33,Christmas Island,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€886K,€61K,39.6,80.0,29.1,28.3,70,RB,164cm,Foot C
+131961,M. Harrison,24,Northern Mariana Islands,Ochoa Group,Martin Ltd (Equatorial Guinea),€884K,€61K,59.9,63.8,40.5,72.1,70,RWB,156cm,Foot A
+844876,R. Long,31,Equatorial Guinea,Bryant Ltd,Premier League (England),€890K,€61K,62.0,40.7,21.3,72.6,70,LW,168cm,Foot A
+42415,M. Gutierrez,29,Gabon,Obrien PLC,Premier League (England),€884K,€60K,51.0,47.4,56.5,74.2,70,CM,178cm,Foot A
+943534,J. Gates,44,Gabon,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€884K,€60K,55.0,66.8,57.8,70.6,70,RW,196cm,Foot B
+50626,C. Casey,54,Tonga,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€882K,€61K,32.0,76.8,46.6,48.0,70,RB,159cm,Foot B
+927197,J. Sparks,22,Tonga,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€883K,€61K,40.8,48.3,47.3,76.8,70,LW,205cm,Foot C
+337861,S. Li,20,Cambodia,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€877K,€59K,72.9,37.8,44.3,59.5,70,LW,200cm,Foot B
+149634,Juan Smith,29,Cyprus,Richard-Thomas,Wiggins Inc (Bolivia),€877K,€61K,74.8,6.9,45.5,54.0,70,LM,173cm,Foot B
+829685,J. Tyler,29,Christmas Island,Martinez Inc,Martin Ltd (Equatorial Guinea),€880K,€60K,56.8,73.9,33.9,43.6,70,RWB,203cm,Foot B
+829710,J. Edwards,20,Northern Mariana Islands,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€887K,€59K,78.9,41.8,29.6,44.1,70,LWB,164cm,Foot A
+51573,A. Hunt,37,Gabon,Davis-Wyatt,Gray Group (Tonga),€875K,€59K,60.0,48.8,22.6,73.3,70,LWB,162cm,Foot B
+535074,John Jr.,44,Equatorial Guinea,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€877K,€59K,64.0,46.1,44.1,71.7,70,LW,204cm,Foot B
+117393,J. Alvarez,29,Cambodia,Reynolds Ltd,Wiggins Inc (Bolivia),€873K,€59K,66.5,38.5,70.8,20.9,70,LB,152cm,Foot C
+240449,Carlos Cox,20,Cambodia,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€880K,€59K,71.9,65.4,41.3,62.1,70,CDM,176cm,Foot C
+518988,Jonathan Perez,26,Mauritania,Castro Ltd,Premier League (England),€864K,€58K,64.9,32.8,38.1,71.1,70,LW,209cm,Foot A
+101234,R. Peterson,24,Cambodia,Brown LLC,Premier League (England),€866K,€58K,28.9,75.3,39.9,55.2,70,LM,204cm,Foot C
+134018,N. Cruz,23,Pitcairn Islands,Liverpool,Bernard PLC (Cyprus),€870K,€59K,56.0,45.7,40.9,74.4,70,RW,159cm,Foot A
+150503,Jeffrey Sanchez,26,Pitcairn Islands,Lopez and Sons,Premier League (England),€875K,€59K,54.5,27.1,17.8,74.5,70,LWB,195cm,Foot C
+347145,J. Hamilton,22,Equatorial Guinea,Davis LLC,Martin Ltd (Equatorial Guinea),€860K,€58K,72.0,55.0,65.7,28.2,70,CF,156cm,Foot C
+978148,M. Garza,20,Northern Mariana Islands,Martinez Inc,Martin Ltd (Equatorial Guinea),€857K,€57K,38.7,62.0,68.3,70.4,70,LW,179cm,Foot C
+404847,P. Richardson,22,Tonga,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€864K,€58K,23.4,58.2,73.9,59.7,70,CAM,200cm,Foot A
+380395,Adam Jr.,35,Northern Mariana Islands,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€861K,€57K,74.3,41.0,56.6,42.5,70,CB,181cm,Foot A
+159279,T. Wilson,22,Cyprus,Maldonado-Miller,Premier League (England),€861K,€57K,30.4,56.9,74.6,31.9,70,CB,186cm,Foot C
+904842,J. Morales,29,Cambodia,Phillips-Stone,Premier League (England),€853K,€57K,32.5,45.6,74.8,54.9,70,LW,183cm,Foot B
+175765,S. Roman,28,Christmas Island,"Novak, Gordon and Stevenson",Premier League (England),€853K,€57K,70.9,67.8,33.4,63.8,70,LW,182cm,Foot A
+806758,R. Peters,36,Bolivia,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€853K,€57K,41.7,67.0,54.7,71.1,70,LW,198cm,Foot B
+221341,Bob Jackson,32,Mauritania,"Perry, Hardy and Reynolds",Gray Group (Tonga),€851K,€57K,49.5,70.9,39.6,62.3,69,RB,192cm,Foot C
+164108,Taylor,25,Cyprus,Davis-Wyatt,Gray Group (Tonga),€844K,€57K,42.4,77.9,27.4,27.3,69,RB,166cm,Foot A
+287020,D. Hughes,23,Gabon,FC Bayern München,Premier League (England),€856K,€58K,23.8,24.3,81.3,30.6,69,LB,191cm,Foot A
+950732,Mark Miles,21,Mauritania,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€846K,€56K,63.3,16.8,71.2,36.4,69,GK,207cm,Foot A
+492005,C. Murphy,28,Bolivia,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€845K,€56K,58.2,73.0,31.4,29.0,69,RW,193cm,Foot C
+221777,T. Bowen,35,Cyprus,Davis-Wyatt,Gray Group (Tonga),€842K,€56K,59.2,71.2,31.3,61.5,69,LM,151cm,Foot A
+402094,Clark,32,Cambodia,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€831K,€56K,33.4,69.5,24.3,68.9,69,LM,163cm,Foot B
+172952,M. Simon,25,Gabon,"Wu, Chang and Christensen",Premier League (England),€836K,€56K,73.2,56.5,46.6,53.4,69,CM,186cm,Foot A
+353259,D. Greene,20,Gabon,Phillips-Stone,Premier League (England),€829K,€55K,45.4,63.5,60.8,71.0,69,CAM,187cm,Foot A
+189549,J. Guerrero,42,Cambodia,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€827K,€55K,68.3,28.9,69.0,33.5,69,GK,169cm,Foot A
+599287,E. Wang,49,Mauritania,"Keller, Dean and King",Premier League (England),€828K,€55K,45.2,33.4,76.4,24.4,69,CB,160cm,Foot A
+255333,Harold Jr.,28,Gabon,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€843K,€57K,63.7,70.3,47.9,56.1,69,CF,187cm,Foot C
+99699,T. Fisher,28,Bosnia and Herzegovina,Liverpool,Bernard PLC (Cyprus),€831K,€55K,66.2,70.3,30.6,24.8,69,RW,154cm,Foot A
+894509,C. Le,23,Pitcairn Islands,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€819K,€55K,54.0,74.5,24.5,34.5,69,RW,195cm,Foot B
+632636,James Jr.,27,Equatorial Guinea,Davis LLC,Martin Ltd (Equatorial Guinea),€823K,€54K,64.4,70.4,42.0,65.4,69,RM,183cm,Foot A
+34660,N. Miller,18,Christmas Island,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€821K,€54K,74.5,53.1,51.0,44.6,69,CF,167cm,Foot C
+321450,M. Walker,35,Mauritania,FC Bayern München,Premier League (England),€813K,€54K,43.0,69.1,62.6,69.6,69,RWB,155cm,Foot C
+346120,D. Carrillo,29,Mauritania,Castro Ltd,Premier League (England),€827K,€54K,60.8,37.3,27.3,72.3,69,LWB,207cm,Foot A
+182362,Jesse Clark,35,Christmas Island,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€815K,€54K,48.9,67.6,49.5,69.4,69,RWB,194cm,Foot C
+92275,Matthew Jr.,29,Pitcairn Islands,King-Parks,Premier League (England),€818K,€54K,25.1,42.8,38.9,77.9,69,LM,178cm,Foot A
+936080,J. Carr,30,Gabon,Castro Ltd,Premier League (England),€817K,€54K,62.6,71.0,31.2,26.6,69,RW,167cm,Foot A
+706910,C. Douglas,27,Bosnia and Herzegovina,Lopez and Sons,Premier League (England),€810K,€53K,69.8,52.3,60.1,66.0,69,ST,199cm,Foot B
+887164,K. Davis,47,Tonga,Huynh-Wilson,Wiggins Inc (Bolivia),€810K,€54K,73.1,57.2,42.6,55.0,69,GK,163cm,Foot C
+641416,J. Robbins,20,Cambodia,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€813K,€53K,73.8,54.1,47.8,54.9,69,LWB,180cm,Foot C
+526771,Richard Jr.,29,Cambodia,Schwartz Ltd,Premier League (England),€808K,€53K,41.3,54.4,54.0,73.9,69,CB,206cm,Foot C
+797180,Kyle Jr.,30,Mauritania,Mills-Higgins,Martin Ltd (Equatorial Guinea),€803K,€53K,56.3,39.4,73.4,17.2,69,CB,193cm,Foot A
+854657,T. Gibson,27,Gabon,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€802K,€53K,68.5,69.3,21.4,36.8,69,RW,178cm,Foot C
+838397,S. Shaw,33,Bolivia,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€806K,€53K,26.7,35.7,73.8,53.4,69,CAM,187cm,Foot B
+183108,M. Thomas,16,Equatorial Guinea,Castro Ltd,Premier League (England),€800K,€53K,56.7,69.7,53.3,68.3,69,RM,158cm,Foot A
+936964,N. Adkins,30,Cambodia,"Wu, Chang and Christensen",Premier League (England),€805K,€52K,32.1,30.4,61.2,71.7,69,LW,165cm,Foot A
+175227,S. Martinez,27,Christmas Island,FC Bayern München,Premier League (England),€793K,€52K,65.1,34.0,25.3,70.3,69,LW,170cm,Foot A
+617763,Brewer,29,Tonga,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€800K,€53K,43.7,67.1,49.3,69.8,69,RW,194cm,Foot C
+68899,J. Parsons,34,Bosnia and Herzegovina,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€786K,€52K,59.2,20.1,72.2,35.3,69,GK,154cm,Foot B
+576833,E. Wiggins,32,Bolivia,"Miller, Hopkins and Thornton",Premier League (England),€779K,€53K,39.2,47.3,33.8,76.1,69,RWB,169cm,Foot A
+60746,Daniel Hancock,22,Cambodia,Paris Saint Germain,Premier League (England),€800K,€52K,54.3,56.0,71.8,62.4,69,CB,153cm,Foot A
+462161,R. Ramirez,23,Tonga,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€786K,€52K,46.7,67.9,58.3,70.0,69,ST,200cm,Foot C
+626037,Christopher Jr.,31,Equatorial Guinea,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€778K,€52K,62.7,70.8,43.5,52.8,69,ST,161cm,Foot C
+724464,S. Holmes,32,Bosnia and Herzegovina,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€777K,€52K,49.4,67.6,40.8,69.0,69,LW,163cm,Foot A
+585238,D. Rodriguez,19,Bosnia and Herzegovina,Murphy-Henderson,Premier League (England),€774K,€52K,11.0,69.0,51.3,67.5,69,LW,207cm,Foot C
+765664,Clark,26,Gabon,Phillips-Stone,Premier League (England),€774K,€52K,50.3,39.1,33.5,75.0,69,GK,197cm,Foot C
+53104,J. Young,25,Gabon,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€765K,€51K,64.1,70.6,55.8,63.3,69,RB,201cm,Foot A
+909624,J. Lester,26,Cambodia,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€762K,€52K,48.4,74.6,32.4,35.8,68,RB,205cm,Foot A
+647563,J. Brooks,33,Gabon,Ochoa Group,Martin Ltd (Equatorial Guinea),€765K,€52K,52.2,26.8,73.3,36.0,68,CB,159cm,Foot C
+483760,C. Figueroa,34,Bolivia,"Miller, Hopkins and Thornton",Premier League (England),€789K,€51K,37.8,72.0,57.5,26.8,68,RB,189cm,Foot A
+680370,B. Snow,31,Tonga,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€757K,€51K,41.5,73.5,52.4,49.8,68,RB,171cm,Foot C
+606717,J. Rios,31,Gabon,Ochoa Group,Martin Ltd (Equatorial Guinea),€766K,€51K,51.9,58.8,70.5,43.8,68,CM,196cm,Foot A
+533170,J. Carpenter,20,Bosnia and Herzegovina,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€757K,€52K,58.8,42.6,18.4,71.3,68,RWB,190cm,Foot C
+729825,Henry,30,Equatorial Guinea,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€760K,€51K,38.6,45.2,23.0,76.0,68,LW,180cm,Foot C
+705395,Christopher Hicks,36,Bolivia,Richard-Thomas,Wiggins Inc (Bolivia),€753K,€50K,69.4,45.2,64.6,62.7,68,ST,199cm,Foot B
+443322,Christopher Jr.,32,Northern Mariana Islands,Richard-Thomas,Wiggins Inc (Bolivia),€750K,€50K,72.1,23.9,41.2,54.5,68,LWB,181cm,Foot A
+615805,T. Matthews,23,Cyprus,Manchester United,Premier League (England),€748K,€51K,67.2,68.6,56.2,63.3,68,CM,198cm,Foot A
+452091,C. Boone,22,Christmas Island,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€752K,€51K,46.2,60.4,69.9,31.7,68,CM,177cm,Foot A
+591476,D. Schultz,23,Equatorial Guinea,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€743K,€50K,52.3,70.6,60.3,37.6,68,CB,208cm,Foot A
+853622,R. Andrews,32,Equatorial Guinea,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€747K,€50K,41.5,74.2,50.3,42.9,68,RB,170cm,Foot A
+304776,T. Dixon,29,Mauritania,"Wu, Chang and Christensen",Premier League (England),€744K,€51K,36.9,68.8,38.7,67.2,68,LM,204cm,Foot C
+812902,S. Caldwell,27,Mauritania,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€748K,€50K,74.7,44.4,35.2,49.6,68,LWB,204cm,Foot C
+550911,D. Knight,21,Tonga,Richard-Thomas,Wiggins Inc (Bolivia),€739K,€49K,49.6,16.9,69.5,62.7,68,GK,169cm,Foot C
+796684,Webster,52,Mauritania,Liverpool,Bernard PLC (Cyprus),€742K,€49K,63.6,48.7,69.3,35.8,68,CF,153cm,Foot A
+92354,G. Sullivan,27,Bosnia and Herzegovina,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€742K,€49K,56.9,72.3,46.9,52.4,68,CM,154cm,Foot A
+428303,K. Logan,31,Cyprus,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€738K,€50K,36.6,77.6,23.4,40.7,68,CDM,190cm,Foot C
+370996,C. Smith,27,Bosnia and Herzegovina,Richard-Thomas,Wiggins Inc (Bolivia),€728K,€49K,68.8,35.6,42.0,63.9,68,LWB,158cm,Foot B
+149912,R. Caldwell,32,Bolivia,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€729K,€49K,45.4,24.0,74.9,40.3,68,LB,158cm,Foot C
+281274,D. Knox,23,Northern Mariana Islands,Liverpool,Bernard PLC (Cyprus),€729K,€49K,57.8,71.9,43.8,53.5,68,CF,171cm,Foot C
+404241,W. Robinson,27,Northern Mariana Islands,Phillips-Stone,Premier League (England),€730K,€49K,69.4,48.1,26.3,65.6,68,LW,199cm,Foot A
+789427,T. Horton,20,Equatorial Guinea,Castro Ltd,Premier League (England),€727K,€49K,28.5,75.5,34.8,45.0,68,RWB,160cm,Foot B
+429153,D. Meadows,43,Tonga,"Perry, Hardy and Reynolds",Gray Group (Tonga),€748K,€49K,35.6,70.3,61.5,29.6,68,RB,179cm,Foot C
+158949,Robert Jr.,21,Mauritania,Murphy-Henderson,Premier League (England),€722K,€49K,70.7,61.8,18.1,61.8,68,RWB,186cm,Foot B
+11536,Joseph Jr.,27,Gabon,"Keller, Dean and King",Premier League (England),€725K,€49K,53.7,39.4,39.3,73.4,68,LWB,209cm,Foot B
+609566,R. Harper,23,Gabon,"Miller, Hopkins and Thornton",Premier League (England),€712K,€48K,52.5,55.9,32.4,71.9,68,LWB,160cm,Foot A
+667039,D. Barton,35,Bolivia,"Perry, Hardy and Reynolds",Gray Group (Tonga),€718K,€49K,55.6,70.1,62.9,46.2,68,RWB,163cm,Foot B
+683480,Dylan Jr.,25,Bolivia,Martin PLC,Bernard PLC (Cyprus),€709K,€48K,66.9,67.7,57.6,57.4,68,CF,172cm,Foot B
+552445,M. Bender,27,Christmas Island,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€707K,€49K,39.1,54.3,23.1,71.9,68,RWB,166cm,Foot C
+740927,M. Moore,31,Cambodia,Richard-Thomas,Wiggins Inc (Bolivia),€695K,€48K,56.2,24.4,40.4,71.7,68,RWB,169cm,Foot C
+782062,B. Travis,32,Equatorial Guinea,Martin PLC,Bernard PLC (Cyprus),€701K,€47K,44.6,27.4,73.2,51.9,68,LB,150cm,Foot C
+560911,A. Williams,25,Pitcairn Islands,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€704K,€47K,70.0,46.2,48.9,63.9,68,CAM,197cm,Foot C
+3935,T. Francis,41,Equatorial Guinea,Paris Saint Germain,Premier League (England),€696K,€47K,71.5,54.8,54.4,56.9,68,RM,205cm,Foot B
+909454,A. Carlson,32,Bosnia and Herzegovina,Maldonado-Miller,Premier League (England),€699K,€48K,64.1,19.9,40.3,67.9,67,CM,167cm,Foot B
+221354,David Becker,21,Christmas Island,Davis LLC,Martin Ltd (Equatorial Guinea),€687K,€47K,46.3,55.0,52.5,70.5,67,GK,160cm,Foot A
+786928,R. Edwards,20,Bosnia and Herzegovina,Castro Ltd,Premier League (England),€692K,€47K,46.5,40.6,69.3,60.6,67,CB,189cm,Foot C
+393800,Baker,35,Gabon,Mills-Higgins,Martin Ltd (Equatorial Guinea),€684K,€47K,59.6,55.0,69.1,58.4,67,CM,178cm,Foot A
+590,Daniel Jr.,24,Pitcairn Islands,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€679K,€46K,60.9,29.1,69.1,26.3,67,CDM,157cm,Foot B
+631810,J. Lowery,42,Mauritania,"Novak, Gordon and Stevenson",Premier League (England),€679K,€46K,56.7,70.3,48.8,35.4,67,CF,153cm,Foot B
+934953,T. Martinez,33,Equatorial Guinea,Martinez Inc,Martin Ltd (Equatorial Guinea),€681K,€46K,68.6,45.2,63.3,57.2,67,ST,210cm,Foot A
+754762,M. Dennis,18,Mauritania,Lopez and Sons,Premier League (England),€684K,€46K,71.5,23.0,32.7,53.1,67,LM,155cm,Foot B
+910496,M. Young,24,Pitcairn Islands,Huynh-Wilson,Wiggins Inc (Bolivia),€677K,€46K,28.3,54.9,7.8,70.9,67,LM,154cm,Foot C
+869778,T. Santiago,27,Bosnia and Herzegovina,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€673K,€46K,50.8,69.7,57.0,54.0,67,RB,194cm,Foot A
+34246,G. Brown,34,Christmas Island,Ochoa Group,Martin Ltd (Equatorial Guinea),€674K,€46K,39.1,31.9,40.8,75.2,67,RWB,154cm,Foot C
+615953,Mike Oconnell,30,Equatorial Guinea,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€689K,€45K,48.7,52.3,24.0,71.6,67,LWB,202cm,Foot C
+378485,Bowen,26,Cambodia,"Keller, Dean and King",Premier League (England),€672K,€46K,48.6,26.4,44.6,72.8,67,LWB,174cm,Foot A
+657089,Hoffman,34,Cambodia,Schwartz Ltd,Premier League (England),€675K,€45K,45.4,74.4,40.8,23.0,67,RB,195cm,Foot B
+34566,Jeremy Jr.,30,Northern Mariana Islands,Richard-Thomas,Wiggins Inc (Bolivia),€672K,€45K,44.1,74.2,44.4,28.1,67,RB,166cm,Foot C
+313124,E. Page,23,Northern Mariana Islands,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€670K,€45K,49.4,55.0,70.9,46.3,67,CF,185cm,Foot B
+132941,Rodriguez,29,Pitcairn Islands,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€668K,€44K,32.7,45.0,68.5,62.1,67,CAM,162cm,Foot B
+34677,N. Henry,24,Bosnia and Herzegovina,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€667K,€44K,61.0,31.0,19.1,69.6,67,LW,150cm,Foot A
+968567,R. Powell,30,Christmas Island,Manchester United,Premier League (England),€669K,€45K,75.3,27.0,18.1,42.4,67,GK,199cm,Foot A
+321446,W. Garcia,34,Cyprus,Brown LLC,Premier League (England),€671K,€45K,42.9,67.8,65.8,54.9,67,CB,158cm,Foot A
+346362,N. Hahn,25,Cambodia,"Miller, Hopkins and Thornton",Premier League (England),€668K,€43K,42.4,68.6,60.8,61.0,67,RWB,204cm,Foot A
+534836,M. Hooper,27,Equatorial Guinea,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€665K,€44K,68.2,63.9,59.6,50.6,67,CDM,178cm,Foot B
+84431,W. Pham,21,Pitcairn Islands,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€664K,€45K,69.4,9.6,28.3,60.1,67,LM,189cm,Foot B
+59936,T. Smith,51,Christmas Island,King-Parks,Premier League (England),€662K,€44K,49.9,36.2,55.4,70.8,67,LWB,173cm,Foot B
+879327,J. Murray,21,Pitcairn Islands,Paris Saint Germain,Premier League (England),€660K,€43K,25.6,67.5,64.3,45.6,67,RW,179cm,Foot B
+666343,J. Torres,24,Christmas Island,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€663K,€43K,54.0,66.7,52.5,67.2,67,RM,197cm,Foot C
+355049,B. Riddle,26,Equatorial Guinea,Manchester United,Premier League (England),€662K,€43K,9.7,52.6,43.1,71.7,67,LW,154cm,Foot A
+379647,Timothy Jr.,23,Cambodia,Brown LLC,Premier League (England),€661K,€43K,57.1,59.0,40.2,69.1,67,RW,187cm,Foot A
+691073,C. Miller,20,Cambodia,"Miller, Hopkins and Thornton",Premier League (England),€659K,€43K,38.5,52.4,40.8,71.9,67,RW,174cm,Foot A
+85032,B. Blanchard,24,Christmas Island,Richard-Thomas,Wiggins Inc (Bolivia),€653K,€44K,74.4,25.5,43.9,33.6,67,LB,164cm,Foot B
+765367,R. Robertson,28,Northern Mariana Islands,Ochoa Group,Martin Ltd (Equatorial Guinea),€652K,€42K,57.4,58.4,30.2,70.1,67,LM,155cm,Foot C
+863737,Joe Jr.,24,Gabon,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€645K,€43K,27.5,46.1,73.6,43.2,67,LB,207cm,Foot A
+142853,S. Green,25,Cyprus,Reynolds Ltd,Wiggins Inc (Bolivia),€653K,€43K,72.2,23.3,47.8,50.9,67,GK,167cm,Foot A
+20075,C. Johns,28,Gabon,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€639K,€41K,39.2,68.3,40.1,63.1,67,RWB,203cm,Foot B
+831182,M. Peterson,27,Pitcairn Islands,FC Bayern München,Premier League (England),€645K,€42K,72.3,34.8,49.9,44.8,67,GK,210cm,Foot C
+921328,P. Blackburn,21,Northern Mariana Islands,Martinez Inc,Martin Ltd (Equatorial Guinea),€639K,€42K,68.6,30.5,49.4,60.5,67,LWB,204cm,Foot C
+221193,James Jr.,31,Pitcairn Islands,Murphy-Henderson,Premier League (England),€631K,€42K,65.7,66.7,36.0,62.1,66,RM,206cm,Foot A
+106683,C. Valentine,34,Bolivia,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€635K,€41K,63.6,55.4,66.9,28.2,66,CF,177cm,Foot B
+377051,D. Williams,21,Cyprus,Schwartz Ltd,Premier League (England),€637K,€41K,66.8,48.3,21.7,63.1,66,CDM,182cm,Foot B
+148223,Brown,22,Northern Mariana Islands,"Keller, Dean and King",Premier League (England),€633K,€41K,55.6,69.1,50.0,45.5,66,RB,209cm,Foot C
+582476,Marquez,21,Tonga,Manchester United,Premier League (England),€632K,€41K,45.0,69.6,43.9,55.4,66,CDM,193cm,Foot B
+959420,L. Allen,31,Northern Mariana Islands,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€628K,€40K,55.6,52.8,41.7,70.0,66,RWB,178cm,Foot C
+107516,M. Rush,32,Pitcairn Islands,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€630K,€41K,46.1,66.8,61.6,42.0,66,RB,170cm,Foot A
+411028,A. Herrera,27,Northern Mariana Islands,Schwartz Ltd,Premier League (England),€623K,€41K,50.5,71.4,42.3,50.1,66,ST,187cm,Foot B
+640616,R. Shelton,29,Pitcairn Islands,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€619K,€40K,69.1,41.4,39.6,56.0,66,RWB,152cm,Foot C
+796546,T. Waller,28,Equatorial Guinea,Lopez and Sons,Premier League (England),€621K,€40K,60.8,62.1,67.3,34.6,66,RB,197cm,Foot C
+444553,C. Reyes,31,Bosnia and Herzegovina,Phillips-Stone,Premier League (England),€619K,€40K,24.6,71.6,13.1,51.1,66,LM,181cm,Foot B
+207143,G. Ford,32,Christmas Island,Davis LLC,Martin Ltd (Equatorial Guinea),€619K,€40K,68.6,57.6,24.2,57.0,66,RWB,187cm,Foot A
+526694,G. Clark,21,Gabon,Mills-Higgins,Martin Ltd (Equatorial Guinea),€625K,€40K,57.6,67.9,41.3,61.1,66,RB,198cm,Foot A
+117152,J. Figueroa,32,Equatorial Guinea,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€614K,€40K,48.1,41.7,58.3,68.4,66,LWB,186cm,Foot B
+158291,Herrera,20,Cyprus,Reynolds Ltd,Wiggins Inc (Bolivia),€616K,€39K,70.2,54.8,19.6,42.1,66,RW,202cm,Foot A
+649891,C. Petty,27,Tonga,Brown LLC,Premier League (England),€616K,€39K,53.4,67.8,59.3,58.6,66,CF,197cm,Foot A
+789165,Tony Jr.,26,Gabon,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€608K,€39K,63.5,67.3,40.8,50.2,66,RB,186cm,Foot A
+699156,C. Potts,27,Bolivia,Donovan-Cochran,Gray Group (Tonga),€608K,€39K,54.2,69.8,56.6,33.3,66,CDM,153cm,Foot B
+281423,M. Thompson,34,Tonga,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€615K,€39K,72.6,36.7,47.2,45.9,66,GK,207cm,Foot B
+76645,J. Smith,24,Bolivia,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€610K,€39K,68.1,59.6,11.9,49.6,66,RWB,184cm,Foot A
+35705,Dustin Rush,20,Bosnia and Herzegovina,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€608K,€38K,67.9,32.2,46.3,58.9,66,LB,155cm,Foot B
+60310,Benjamin Jr.,23,Mauritania,Martin PLC,Bernard PLC (Cyprus),€607K,€39K,62.6,24.9,66.9,43.7,66,CF,154cm,Foot B
+650275,R. Jones,28,Bolivia,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€599K,€39K,61.8,30.4,28.6,66.8,66,RWB,210cm,Foot A
+158982,R. Stewart,34,Pitcairn Islands,Schwartz Ltd,Premier League (England),€601K,€38K,53.7,25.1,26.8,69.7,66,RWB,151cm,Foot B
+85301,Carson,29,Cyprus,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€597K,€38K,48.9,50.7,18.7,71.7,66,LW,205cm,Foot C
+896310,A. Parsons,33,Tonga,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€603K,€38K,71.4,47.0,42.1,50.3,66,LW,173cm,Foot A
+904578,J. Davis,23,Pitcairn Islands,FC Bayern München,Premier League (England),€597K,€38K,48.8,57.1,49.0,68.5,66,GK,158cm,Foot C
+650912,B. Harvey,51,Tonga,Castro Ltd,Premier League (England),€598K,€38K,50.6,68.3,59.5,52.0,66,RB,201cm,Foot C
+110493,R. Evans,21,Bolivia,Huynh-Wilson,Wiggins Inc (Bolivia),€596K,€38K,51.8,71.0,40.9,32.2,66,CF,187cm,Foot C
+344115,John Ellis,45,Cambodia,Davis-Wyatt,Gray Group (Tonga),€596K,€38K,65.2,50.1,62.6,19.2,65,CF,183cm,Foot B
+983516,C. Davis,20,Cyprus,Wilson PLC,Premier League (England),€596K,€37K,46.4,40.4,68.0,56.2,65,LB,192cm,Foot C
+475770,B. Davis,22,Northern Mariana Islands,Wilson PLC,Premier League (England),€594K,€37K,51.7,33.4,69.8,25.6,65,CDM,190cm,Foot C
+713504,A. Ayala,24,Equatorial Guinea,Lopez and Sons,Premier League (England),€590K,€37K,65.0,64.8,59.1,52.9,65,CM,191cm,Foot B
+680912,J. Dawson,23,Bolivia,Lopez and Sons,Premier League (England),€590K,€37K,69.4,49.9,33.5,43.9,65,LWB,193cm,Foot C
+959788,J. Chavez,35,Cambodia,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€587K,€37K,61.4,56.5,52.6,65.8,65,CB,208cm,Foot A
+247212,Michael Nguyen,23,Christmas Island,Donovan-Cochran,Gray Group (Tonga),€585K,€37K,64.5,33.4,33.3,65.7,65,LWB,162cm,Foot C
+353752,E. Hahn,28,Cyprus,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€584K,€36K,62.7,65.3,64.7,43.2,65,CM,202cm,Foot A
+640538,Nolan,30,Gabon,Ochoa Group,Martin Ltd (Equatorial Guinea),€582K,€38K,61.7,39.1,39.7,65.8,65,LW,177cm,Foot A
+108760,J. Velasquez,33,Equatorial Guinea,Lopez and Sons,Premier League (England),€599K,€37K,67.8,55.1,32.5,28.4,65,RB,182cm,Foot B
+452857,T. Edwards,35,Gabon,Reynolds Ltd,Wiggins Inc (Bolivia),€583K,€37K,29.1,51.1,43.9,70.1,65,RWB,167cm,Foot A
+526643,K. Hammond,38,Bosnia and Herzegovina,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€580K,€36K,44.6,66.8,58.2,58.9,65,ST,169cm,Foot B
+403811,B. Stein,44,Cambodia,"Perry, Hardy and Reynolds",Gray Group (Tonga),€575K,€36K,74.2,8.1,31.0,35.5,65,LM,203cm,Foot A
+477577,A. Lopez,27,Equatorial Guinea,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€581K,€36K,36.8,46.8,31.1,70.5,65,RW,184cm,Foot C
+371203,A. Schroeder,21,Pitcairn Islands,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€580K,€36K,29.4,55.5,67.2,59.3,65,LW,182cm,Foot A
+494103,J. Maxwell,22,Mauritania,"Wu, Chang and Christensen",Premier League (England),€571K,€35K,39.9,63.0,40.4,66.0,65,RWB,154cm,Foot B
+526889,D. Wallace,20,Mauritania,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€569K,€36K,22.1,57.1,67.8,53.5,65,CAM,182cm,Foot A
+895531,S. Evans,34,Tonga,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€563K,€35K,25.7,64.5,36.9,65.3,65,LM,207cm,Foot B
+526891,A. Harrison,20,Christmas Island,Lopez and Sons,Premier League (England),€569K,€35K,41.9,67.3,39.1,57.8,65,RB,156cm,Foot A
+576308,A. Randolph,34,Cambodia,"Miller, Hopkins and Thornton",Premier League (England),€561K,€35K,66.2,33.9,48.1,60.9,65,ST,184cm,Foot C
+863277,M. Garcia,35,Pitcairn Islands,Huynh-Wilson,Wiggins Inc (Bolivia),€561K,€35K,55.1,51.9,57.0,67.9,65,RWB,204cm,Foot C
+740404,Valenzuela,34,Tonga,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€559K,€35K,72.8,41.4,34.9,41.2,65,LB,178cm,Foot C
+609434,R. Hall,29,Cambodia,Schwartz Ltd,Premier League (England),€571K,€35K,37.7,68.0,54.8,43.0,65,RW,178cm,Foot C
+412870,Daniel Jr.,25,Bolivia,Martinez Inc,Martin Ltd (Equatorial Guinea),€556K,€34K,69.7,36.9,51.7,27.9,65,GK,153cm,Foot B
+462116,Bowman,17,Tonga,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€557K,€35K,61.7,38.3,62.5,66.0,65,GK,191cm,Foot B
+445933,B. Davis,35,Cambodia,King-Parks,Premier League (England),€560K,€34K,64.7,52.8,65.1,59.3,65,RB,204cm,Foot A
+347667,Bowen,31,Bosnia and Herzegovina,Brown LLC,Premier League (England),€558K,€34K,59.8,22.7,66.9,43.1,65,CB,207cm,Foot A
+380503,T. Russell,35,Bosnia and Herzegovina,Brown LLC,Premier League (England),€555K,€33K,63.7,65.5,34.4,64.1,65,CDM,178cm,Foot C
+175810,J. Davis,43,Cyprus,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€550K,€34K,34.7,50.5,49.4,70.3,65,LW,194cm,Foot B
+814907,C. Walton,20,Northern Mariana Islands,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€553K,€33K,66.8,59.8,47.5,53.5,65,RWB,150cm,Foot C
+413497,B. Carter,25,Mauritania,Reynolds Ltd,Wiggins Inc (Bolivia),€550K,€32K,63.6,31.1,16.4,65.2,65,RWB,206cm,Foot A
+348020,M. Garza,30,Tonga,Martinez Inc,Martin Ltd (Equatorial Guinea),€550K,€32K,48.0,43.7,54.1,68.8,65,RW,166cm,Foot C
+713020,Joseph Burke,53,Mauritania,Lopez and Sons,Premier League (England),€547K,€32K,66.6,56.1,17.9,55.8,64,LWB,194cm,Foot A
+516582,Bass,28,Tonga,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€545K,€32K,49.1,68.1,51.2,29.8,64,RB,155cm,Foot C
+672331,Smith,24,Equatorial Guinea,"Keller, Dean and King",Premier League (England),€547K,€34K,56.1,66.6,19.2,33.0,64,RW,169cm,Foot B
+934478,P. Bell,25,Gabon,Mills-Higgins,Martin Ltd (Equatorial Guinea),€539K,€32K,53.3,46.3,67.3,50.8,64,LB,154cm,Foot C
+238196,Dougherty,33,Bosnia and Herzegovina,Martinez Inc,Martin Ltd (Equatorial Guinea),€545K,€32K,22.2,23.1,77.5,19.1,64,LB,164cm,Foot A
+443011,R. Osborne,17,Bolivia,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€554K,€32K,60.1,65.8,45.7,54.9,64,ST,182cm,Foot B
+615071,Joseph Bradley,33,Gabon,Davis LLC,Martin Ltd (Equatorial Guinea),€543K,€32K,51.3,55.9,64.4,61.6,64,ST,172cm,Foot C
+467669,Timothy Cook,20,Pitcairn Islands,Reynolds Ltd,Wiggins Inc (Bolivia),€543K,€31K,63.8,24.9,63.5,64.0,64,GK,172cm,Foot C
+795361,Joseph Jr.,25,Bosnia and Herzegovina,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€528K,€32K,31.1,33.2,56.7,67.1,64,CAM,163cm,Foot C
+844657,W. Lee,22,Gabon,Phillips-Stone,Premier League (England),€533K,€31K,15.2,43.2,70.5,37.4,64,LB,153cm,Foot A
+50106,K. Carroll,33,Gabon,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€531K,€31K,60.6,37.5,47.2,64.9,64,CAM,202cm,Foot A
+746520,J. Williams,26,Northern Mariana Islands,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€525K,€31K,69.9,20.8,45.5,29.9,64,CF,207cm,Foot B
+959579,Michael Andrews,33,Tonga,Davis LLC,Martin Ltd (Equatorial Guinea),€526K,€31K,29.0,65.6,43.0,60.6,64,RB,198cm,Foot B
+304246,Z. Armstrong,27,Bosnia and Herzegovina,Reynolds Ltd,Wiggins Inc (Bolivia),€529K,€31K,55.9,66.4,39.9,47.3,64,LW,204cm,Foot C
+9337,C. Mccall,48,Tonga,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€527K,€31K,58.3,66.5,57.5,52.9,64,RWB,154cm,Foot B
+656625,Chad Jr.,42,Mauritania,Martinez Inc,Martin Ltd (Equatorial Guinea),€527K,€30K,49.8,68.6,37.2,32.0,64,CM,151cm,Foot C
+361821,G. Vega,23,Mauritania,Donovan-Cochran,Gray Group (Tonga),€524K,€31K,53.9,43.2,47.6,67.7,64,LWB,175cm,Foot C
+828800,J. Freeman,18,Cyprus,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€522K,€31K,42.1,60.0,48.7,64.7,64,LW,203cm,Foot C
+566704,M. Johnson,21,Equatorial Guinea,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€521K,€31K,68.0,25.5,35.9,54.0,64,RWB,160cm,Foot C
+951966,D. Faulkner,33,Pitcairn Islands,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€517K,€30K,36.7,43.2,70.3,46.9,64,CF,185cm,Foot A
+214840,I. Murphy,35,Cyprus,Manchester United,Premier League (England),€512K,€30K,56.5,64.3,44.7,61.6,64,RB,166cm,Foot C
+427926,Jason Jr.,24,Mauritania,Martinez Inc,Martin Ltd (Equatorial Guinea),€509K,€30K,73.3,32.2,36.3,22.6,64,LB,172cm,Foot A
+575690,P. Harris,49,Tonga,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€513K,€30K,63.3,64.0,52.5,59.9,64,CM,165cm,Foot A
+477452,C. Salas,22,Cyprus,FC Bayern München,Premier League (England),€509K,€30K,35.7,50.4,48.9,68.3,64,RWB,162cm,Foot A
+190775,Chase,24,Gabon,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€506K,€30K,33.8,55.3,62.9,64.4,64,CAM,180cm,Foot C
+739655,J. Eaton,25,Cyprus,Brown LLC,Premier League (England),€506K,€31K,66.5,42.0,57.6,54.1,64,LB,196cm,Foot A
+789107,J. Richards,27,Northern Mariana Islands,Bryant Ltd,Premier League (England),€507K,€30K,50.6,65.6,56.3,57.7,64,RW,156cm,Foot B
+772872,T. Smith,21,Christmas Island,Castro Ltd,Premier League (England),€497K,€29K,45.9,60.7,57.1,65.3,64,CAM,205cm,Foot A
+789362,C. Fields,35,Bolivia,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€504K,€29K,55.5,67.2,47.5,46.0,64,RW,195cm,Foot B
+289814,John Jr.,51,Equatorial Guinea,"Perry, Hardy and Reynolds",Gray Group (Tonga),€504K,€29K,67.7,50.0,22.2,52.6,64,RWB,164cm,Foot A
+585002,Michael Jr.,33,Bosnia and Herzegovina,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€509K,€30K,64.8,43.1,59.7,49.4,64,GK,170cm,Foot C
+527856,D. Chandler,21,Equatorial Guinea,Liverpool,Bernard PLC (Cyprus),€489K,€29K,64.9,31.3,62.9,50.9,64,GK,163cm,Foot A
+962048,G. Flowers,35,Bolivia,Wilson PLC,Premier League (England),€493K,€29K,59.8,65.7,51.7,57.8,64,CDM,196cm,Foot A
+716330,H. Lam,27,Cyprus,"Wu, Chang and Christensen",Premier League (England),€494K,€29K,67.4,48.6,53.3,29.6,64,CDM,154cm,Foot C
+233085,A. Greer,31,Cambodia,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€490K,€29K,54.9,32.7,27.7,67.6,64,LW,191cm,Foot A
+814826,R. Simmons,22,Christmas Island,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€481K,€29K,60.0,65.3,60.0,57.9,64,CF,204cm,Foot C
+470795,H. Martin,43,Cambodia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€481K,€29K,34.5,65.0,63.0,34.7,64,RB,156cm,Foot C
+786474,B. Gardner,36,Bolivia,Ochoa Group,Martin Ltd (Equatorial Guinea),€487K,€29K,42.2,37.2,63.0,62.4,63,CAM,166cm,Foot A
+295082,J. Shaffer,32,Cambodia,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€481K,€29K,53.2,64.2,58.5,59.1,63,RM,192cm,Foot C
+524697,Earl Jr.,22,Northern Mariana Islands,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€477K,€29K,50.8,31.3,53.5,65.8,63,GK,150cm,Foot C
+450993,C. Mendez,24,Cyprus,Huynh-Wilson,Wiggins Inc (Bolivia),€484K,€28K,41.1,43.6,66.4,53.0,63,CB,172cm,Foot C
+188917,R. Powell,32,Gabon,Martinez Inc,Martin Ltd (Equatorial Guinea),€479K,€29K,69.8,44.1,31.4,37.2,63,CF,185cm,Foot C
+57861,A. Green,43,Mauritania,Williams Ltd,Martin Ltd (Equatorial Guinea),€475K,€29K,48.7,61.2,44.7,63.3,63,RWB,165cm,Foot A
+426599,D. Hinton,20,Mauritania,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€471K,€28K,42.1,67.0,37.9,49.6,63,RWB,160cm,Foot C
+664354,Brian Jr.,40,Equatorial Guinea,Paris Saint Germain,Premier League (England),€473K,€28K,70.1,41.3,40.7,26.7,63,CF,171cm,Foot A
+705323,D. Gutierrez,25,Pitcairn Islands,Martin PLC,Bernard PLC (Cyprus),€471K,€28K,55.4,60.1,64.5,56.0,63,CM,200cm,Foot A
+697420,Peter Miller,34,Gabon,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€470K,€29K,37.5,19.0,62.3,62.8,63,GK,174cm,Foot C
+828577,D. King,34,Cyprus,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€466K,€28K,27.7,55.1,57.2,65.1,63,RW,210cm,Foot B
+967911,N. Dominguez,29,Mauritania,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€479K,€28K,44.1,53.1,66.4,34.7,63,CDM,193cm,Foot A
+525556,Paul Jr.,54,Bosnia and Herzegovina,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€469K,€28K,59.1,64.5,54.9,46.6,63,RW,161cm,Foot B
+148811,Justin Jimenez,21,Cambodia,Williams Ltd,Martin Ltd (Equatorial Guinea),€467K,€27K,64.0,53.8,23.5,59.0,63,LW,200cm,Foot A
+960058,Phillips,46,Bolivia,"Keller, Dean and King",Premier League (England),€460K,€27K,65.5,55.1,39.8,51.1,63,CM,198cm,Foot B
+427607,R. Allen,20,Cyprus,Phillips-Stone,Premier League (England),€469K,€27K,64.9,32.2,47.8,57.6,63,CAM,183cm,Foot C
+534167,Alan Jr.,22,Cambodia,Richard-Thomas,Wiggins Inc (Bolivia),€462K,€27K,18.6,55.3,44.4,65.6,63,CAM,199cm,Foot C
+460652,J. Gibson,26,Christmas Island,Ochoa Group,Martin Ltd (Equatorial Guinea),€463K,€27K,52.9,66.0,55.3,53.3,63,CDM,151cm,Foot B
+878684,P. Olson,35,Gabon,Ochoa Group,Martin Ltd (Equatorial Guinea),€459K,€26K,62.8,62.1,34.4,44.9,63,CDM,182cm,Foot B
+157999,M. Mcdaniel,26,Bolivia,Donovan-Cochran,Gray Group (Tonga),€460K,€27K,55.8,64.9,33.5,31.9,63,RB,183cm,Foot C
+150392,J. Perez,16,Tonga,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€458K,€27K,33.6,68.3,40.2,49.1,63,RB,190cm,Foot B
+789526,N. Washington,33,Northern Mariana Islands,Donovan-Cochran,Gray Group (Tonga),€459K,€27K,8.9,41.0,44.0,69.0,63,LW,175cm,Foot C
+314455,T. Roy,21,Bosnia and Herzegovina,Wilson PLC,Premier League (England),€450K,€26K,67.7,38.4,48.2,49.2,63,GK,177cm,Foot B
+117863,D. Patel,25,Cyprus,Davis-Wyatt,Gray Group (Tonga),€453K,€27K,26.4,63.8,61.2,37.7,63,RB,154cm,Foot C
+35946,White,24,Christmas Island,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€457K,€26K,29.1,66.6,52.5,32.9,63,RB,190cm,Foot B
+666749,A. Manning,20,Tonga,Donovan-Cochran,Gray Group (Tonga),€461K,€26K,30.6,37.7,65.9,54.1,63,LB,151cm,Foot A
+896262,K. Miller,35,Bosnia and Herzegovina,Donovan-Cochran,Gray Group (Tonga),€451K,€26K,42.4,63.0,61.1,51.8,63,RB,170cm,Foot B
+830746,J. Deleon,33,Tonga,"Perry, Hardy and Reynolds",Gray Group (Tonga),€448K,€26K,61.8,63.2,43.7,25.9,63,CF,204cm,Foot B
+667010,J. Robbins,21,Bolivia,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€443K,€25K,62.4,63.2,33.4,32.2,63,RB,170cm,Foot A
+675468,Wilson,55,Bosnia and Herzegovina,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€445K,€26K,45.5,49.0,66.2,52.6,63,CB,175cm,Foot A
+106511,B. Murillo,30,Mauritania,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€446K,€25K,58.7,37.0,62.7,50.5,62,LB,175cm,Foot C
+786605,Michael Jones,28,Cyprus,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€441K,€24K,48.6,32.6,35.6,66.5,62,LWB,172cm,Foot C
+942257,Haynes,39,Christmas Island,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€436K,€25K,42.8,52.2,41.1,64.9,62,LW,207cm,Foot C
+581924,Macdonald,38,Bolivia,Obrien PLC,Premier League (England),€439K,€24K,40.1,58.0,38.6,63.1,62,RB,181cm,Foot C
+860525,W. Hamilton,26,Pitcairn Islands,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€435K,€23K,33.5,70.1,39.0,32.6,62,RWB,177cm,Foot A
+369160,J. Dean,25,Tonga,Ochoa Group,Martin Ltd (Equatorial Guinea),€433K,€23K,56.1,63.8,27.8,55.2,62,LW,161cm,Foot B
+90678,Harrison,33,Equatorial Guinea,"Miller, Hopkins and Thornton",Premier League (England),€433K,€24K,44.1,30.9,68.2,31.4,62,CB,166cm,Foot B
+287373,J. Carroll,29,Cambodia,FC Bayern München,Premier League (England),€431K,€24K,30.8,56.1,63.3,57.3,62,CDM,206cm,Foot A
+279333,M. Small,24,Cambodia,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€423K,€25K,24.4,63.2,15.4,57.5,62,LM,209cm,Foot C
+246691,N. Keith,30,Pitcairn Islands,Brown LLC,Premier League (England),€424K,€23K,57.3,18.4,63.4,23.5,62,LB,150cm,Foot A
+672675,L. Chen,32,Bosnia and Herzegovina,Maldonado-Miller,Premier League (England),€427K,€23K,28.4,38.4,66.9,48.4,62,CB,154cm,Foot B
+386077,M. Luna,33,Bosnia and Herzegovina,Lopez and Sons,Premier League (England),€422K,€23K,64.9,52.6,31.3,53.4,62,RB,193cm,Foot A
+664611,R. Smith,31,Bolivia,Schwartz Ltd,Premier League (England),€409K,€22K,61.9,22.2,33.0,60.7,62,LM,152cm,Foot B
+50222,Torres,20,Bosnia and Herzegovina,Murphy-Henderson,Premier League (England),€409K,€23K,32.3,60.8,22.0,62.0,62,LM,183cm,Foot B
+656618,J. Lewis,31,Cambodia,Castro Ltd,Premier League (England),€410K,€23K,40.5,64.8,52.1,53.3,62,LW,189cm,Foot A
+861700,J. Reed,22,Northern Mariana Islands,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€413K,€22K,54.5,63.9,19.5,50.1,62,LM,185cm,Foot A
+656903,J. Vasquez,21,Bosnia and Herzegovina,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€407K,€22K,38.2,19.2,64.8,53.9,62,CF,157cm,Foot A
+779804,Alexander Jr.,26,Pitcairn Islands,Phillips-Stone,Premier League (England),€408K,€22K,35.9,70.8,37.0,36.8,62,RWB,193cm,Foot B
+763539,A. Love,27,Bosnia and Herzegovina,Richard-Thomas,Wiggins Inc (Bolivia),€438K,€23K,31.7,34.1,65.9,49.7,62,LB,163cm,Foot B
+911004,P. Owens,21,Cambodia,Martin PLC,Bernard PLC (Cyprus),€407K,€22K,40.1,55.4,63.9,40.8,62,RB,157cm,Foot C
+288568,A. Cooper,29,Tonga,"Perry, Hardy and Reynolds",Gray Group (Tonga),€399K,€22K,49.3,28.5,65.7,50.8,62,CB,161cm,Foot C
+837485,J. Davis,35,Pitcairn Islands,"Keller, Dean and King",Premier League (England),€404K,€22K,27.8,54.7,46.2,65.1,62,LM,201cm,Foot C
+608116,R. Watson,34,Bolivia,Murphy-Henderson,Premier League (England),€399K,€21K,37.6,32.1,66.6,49.5,62,GK,159cm,Foot A
+927684,D. James,28,Northern Mariana Islands,"Novak, Gordon and Stevenson",Premier League (England),€399K,€21K,49.1,55.5,46.6,64.3,62,CDM,195cm,Foot C
+427981,M. Henderson,25,Gabon,Bryant Ltd,Premier League (England),€397K,€21K,63.3,34.1,48.8,58.7,62,CAM,163cm,Foot C
+911512,B. Everett,32,Equatorial Guinea,"Keller, Dean and King",Premier League (England),€398K,€21K,45.8,50.0,65.2,51.2,62,ST,160cm,Foot C
+51940,M. Mcintyre,47,Bosnia and Herzegovina,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€396K,€21K,35.5,23.0,69.6,41.2,62,CDM,167cm,Foot A
+985933,X. Livingston,33,Bolivia,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€396K,€21K,62.5,38.6,40.5,59.7,62,LWB,175cm,Foot A
+289658,A. Aguilar,32,Christmas Island,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€395K,€21K,62.9,50.2,60.5,50.9,62,ST,156cm,Foot A
+847046,T. Vargas,29,Christmas Island,Phillips-Stone,Premier League (England),€391K,€20K,63.2,48.6,53.2,59.2,62,CDM,153cm,Foot B
+495035,Rodriguez,33,Cambodia,Castro Ltd,Premier League (England),€392K,€20K,64.4,6.5,53.5,46.9,62,LM,204cm,Foot A
+77380,C. Stone,28,Cyprus,Murphy-Henderson,Premier League (England),€407K,€21K,47.6,66.3,43.0,49.9,62,CDM,195cm,Foot B
+224947,Rodriguez,29,Cyprus,Obrien PLC,Premier League (England),€387K,€20K,27.7,30.0,63.4,58.1,62,LW,162cm,Foot A
+134963,A. Harris,22,Cambodia,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€382K,€20K,56.0,42.7,40.5,64.2,62,CAM,172cm,Foot B
+155665,David Flores,27,Bosnia and Herzegovina,Martinez Inc,Martin Ltd (Equatorial Guinea),€386K,€20K,49.3,57.3,44.5,61.6,61,CM,164cm,Foot C
+753813,J. Wilson,29,Bosnia and Herzegovina,Manchester United,Premier League (England),€376K,€20K,57.1,61.7,37.3,25.4,61,RW,191cm,Foot A
+106744,V. Kelly,35,Cambodia,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€366K,€20K,37.7,51.1,60.6,61.0,61,RB,200cm,Foot A
+729378,J. Torres,27,Gabon,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€375K,€19K,57.8,29.6,52.6,62.7,61,CAM,185cm,Foot B
+131380,J. Ford,35,Equatorial Guinea,FC Bayern München,Premier League (England),€368K,€20K,59.3,44.4,61.3,39.1,61,GK,160cm,Foot C
+754086,G. Hernandez,32,Equatorial Guinea,Reynolds Ltd,Wiggins Inc (Bolivia),€389K,€20K,57.9,50.5,61.6,50.1,61,CF,205cm,Foot C
+156179,Frank Gross,21,Bolivia,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€354K,€19K,63.1,46.8,56.1,17.8,61,CF,203cm,Foot A
+573975,B. Andrews,25,Pitcairn Islands,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€354K,€20K,50.8,55.6,36.7,62.8,61,RW,195cm,Foot B
+910003,M. Roy,23,Northern Mariana Islands,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€355K,€19K,62.1,57.1,47.9,45.6,61,CDM,206cm,Foot A
+574177,T. Krause,20,Gabon,Bryant Ltd,Premier League (England),€352K,€19K,54.1,63.9,44.4,45.6,61,ST,176cm,Foot C
+975613,W. Stewart,21,Equatorial Guinea,Richard-Thomas,Wiggins Inc (Bolivia),€357K,€18K,58.4,59.9,61.6,48.6,61,CDM,210cm,Foot B
+795398,Mcdonald,25,Pitcairn Islands,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€349K,€18K,63.8,37.5,48.7,53.8,61,LB,188cm,Foot B
+525070,Blackwell,27,Cyprus,Mills-Higgins,Martin Ltd (Equatorial Guinea),€346K,€19K,53.7,27.2,60.7,60.7,61,GK,188cm,Foot A
+558119,J. Anderson,26,Pitcairn Islands,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€350K,€18K,26.1,65.1,46.7,47.1,61,RWB,163cm,Foot B
+820431,E. Harris,49,Cyprus,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€338K,€18K,55.8,62.7,24.3,56.7,61,LW,198cm,Foot C
+869606,John Jr.,30,Gabon,Phillips-Stone,Premier League (England),€351K,€17K,57.8,54.6,20.1,62.4,61,LW,187cm,Foot A
+66888,L. Briggs,30,Tonga,"Perry, Hardy and Reynolds",Gray Group (Tonga),€339K,€18K,53.2,64.0,40.7,50.7,61,RB,178cm,Foot C
+99665,G. Owens,26,Tonga,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€345K,€17K,52.0,62.8,51.2,57.4,61,RB,167cm,Foot A
+820612,Jeffrey Hanson,39,Northern Mariana Islands,"Novak, Gordon and Stevenson",Premier League (England),€329K,€17K,30.8,60.9,61.2,61.3,61,CAM,178cm,Foot B
+722545,Wilson,23,Bosnia and Herzegovina,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€324K,€17K,50.5,53.2,45.8,63.3,61,LW,180cm,Foot B
+779999,L. Ruiz,35,Mauritania,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€337K,€17K,62.7,40.7,56.5,41.7,61,CB,156cm,Foot C
+10212,N. Ruiz,33,Equatorial Guinea,Schwartz Ltd,Premier League (England),€340K,€17K,64.6,42.1,45.1,49.3,61,LWB,176cm,Foot B
+845916,J. Bailey,34,Bolivia,Reynolds Ltd,Wiggins Inc (Bolivia),€320K,€16K,65.3,42.2,40.2,48.4,61,LWB,201cm,Foot B
+10466,Wood,21,Gabon,Mills-Higgins,Martin Ltd (Equatorial Guinea),€320K,€17K,61.4,57.1,59.9,29.9,61,CF,150cm,Foot A
+371122,D. Chang,24,Equatorial Guinea,Richard-Thomas,Wiggins Inc (Bolivia),€322K,€17K,37.4,64.1,42.7,50.2,61,LW,169cm,Foot B
+600828,M. Shelton,35,Bosnia and Herzegovina,Donovan-Cochran,Gray Group (Tonga),€326K,€17K,60.9,42.2,21.7,61.3,61,GK,191cm,Foot C
+674573,M. Rogers,23,Christmas Island,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€316K,€16K,65.2,31.7,47.8,46.6,61,LM,173cm,Foot A
+35812,J. Howard,29,Cyprus,"Novak, Gordon and Stevenson",Premier League (England),€318K,€16K,69.3,26.0,35.9,20.9,61,CF,204cm,Foot B
+102119,James Collier,23,Christmas Island,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€319K,€16K,63.3,23.7,35.2,52.9,61,CF,200cm,Foot A
+610093,E. Lozano,23,Northern Mariana Islands,Donovan-Cochran,Gray Group (Tonga),€322K,€16K,59.0,18.7,25.5,62.0,61,CM,183cm,Foot C
+344167,M. Terry,30,Bolivia,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€311K,€16K,38.4,60.5,57.4,39.9,60,CDM,202cm,Foot A
+164147,B. Johnson,27,Mauritania,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€314K,€16K,47.9,44.5,63.4,40.9,60,CB,176cm,Foot C
+762365,Ronnie Jr.,25,Bosnia and Herzegovina,Phillips-Stone,Premier League (England),€316K,€15K,60.8,45.1,57.3,16.0,60,CB,190cm,Foot C
+672290,M. Shaw,35,Tonga,Davis LLC,Martin Ltd (Equatorial Guinea),€314K,€16K,59.8,59.9,53.5,55.9,60,RM,167cm,Foot B
+115483,J. Webb,34,Mauritania,Huynh-Wilson,Wiggins Inc (Bolivia),€305K,€15K,58.8,59.9,20.4,46.4,60,ST,174cm,Foot C
+402505,Joshua Jr.,20,Pitcairn Islands,Murphy-Henderson,Premier League (England),€304K,€15K,57.4,52.6,38.8,61.5,60,LWB,202cm,Foot A
+910443,C. Hernandez,34,Gabon,Lopez and Sons,Premier League (England),€304K,€15K,61.5,55.8,24.0,37.8,60,CDM,180cm,Foot C
+779724,F. Fuentes,22,Pitcairn Islands,"Miller, Hopkins and Thornton",Premier League (England),€308K,€15K,51.0,38.4,62.8,30.2,60,LB,194cm,Foot C
+747268,Matthew Walker,34,Bosnia and Herzegovina,"Novak, Gordon and Stevenson",Premier League (England),€302K,€15K,55.9,61.0,39.1,44.5,60,RW,166cm,Foot A
+288586,C. Andersen,20,Christmas Island,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€299K,€15K,57.6,44.9,48.2,61.1,60,LW,199cm,Foot A
+329559,W. Gallegos,43,Pitcairn Islands,"Perry, Hardy and Reynolds",Gray Group (Tonga),€302K,€15K,56.1,61.2,43.8,53.8,60,RM,179cm,Foot A
+67553,S. Herrera,24,Cyprus,Maldonado-Miller,Premier League (England),€301K,€15K,65.0,46.8,33.6,18.7,60,CF,189cm,Foot C
+26862,Thomas Jr.,33,Cambodia,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€289K,€14K,41.0,32.7,62.0,52.5,60,CDM,192cm,Foot C
+396462,Mark Jr.,46,Bosnia and Herzegovina,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€291K,€15K,48.7,63.2,31.2,49.9,60,RB,188cm,Foot C
+470236,R. Marshall,34,Bolivia,Davis LLC,Martin Ltd (Equatorial Guinea),€290K,€14K,13.9,42.7,60.5,58.4,60,LW,203cm,Foot C
+249305,C. Carter,27,Cyprus,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€314K,€14K,43.4,50.3,63.1,38.9,60,RW,158cm,Foot B
+847685,J. Francis,41,Equatorial Guinea,Obrien PLC,Premier League (England),€288K,€14K,54.7,54.8,35.2,61.7,60,RB,150cm,Foot B
+852090,Isaac Guzman,26,Bolivia,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€285K,€13K,44.4,24.9,37.1,64.4,59,LWB,200cm,Foot C
+196920,J. Stokes,21,Cambodia,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€285K,€14K,31.9,42.1,59.7,56.9,59,CAM,175cm,Foot C
+500158,S. Alvarez,48,Bosnia and Herzegovina,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€285K,€13K,23.2,29.3,54.8,60.3,59,RM,165cm,Foot C
+402074,J. James,54,Gabon,Huynh-Wilson,Wiggins Inc (Bolivia),€297K,€14K,53.8,48.5,61.0,44.5,59,LWB,178cm,Foot A
+819975,S. Johnson,23,Cyprus,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€284K,€13K,59.7,58.0,12.5,26.6,59,RW,188cm,Foot B
+509222,D. Martin,33,Northern Mariana Islands,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€285K,€13K,59.1,54.7,58.9,50.0,59,RB,197cm,Foot A
+755126,M. Allen,34,Pitcairn Islands,"Novak, Gordon and Stevenson",Premier League (England),€283K,€13K,30.6,17.7,66.6,35.9,59,LB,156cm,Foot C
+223177,T. Taylor,22,Bolivia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€281K,€12K,47.2,48.4,61.9,16.4,59,LB,166cm,Foot B
+526289,Cook,24,Cyprus,Manchester United,Premier League (England),€285K,€12K,46.8,39.1,19.8,62.7,59,RM,150cm,Foot B
+927738,M. Herring,26,Cambodia,Reynolds Ltd,Wiggins Inc (Bolivia),€283K,€13K,59.8,14.3,57.1,28.2,59,GK,206cm,Foot C
+149514,S. Nichols,31,Pitcairn Islands,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€280K,€13K,31.6,62.0,46.2,48.5,59,LW,161cm,Foot B
+174321,F. Neal,26,Mauritania,Liverpool,Bernard PLC (Cyprus),€276K,€12K,58.8,34.5,57.8,55.4,59,LM,174cm,Foot A
+59686,R. Collins,27,Pitcairn Islands,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€275K,€13K,29.4,38.1,46.6,63.0,59,LW,190cm,Foot A
+264837,Leon,28,Tonga,"Wu, Chang and Christensen",Premier League (England),€277K,€12K,59.1,35.3,41.8,58.8,59,ST,173cm,Foot A
+92983,Z. Koch,29,Pitcairn Islands,Ochoa Group,Martin Ltd (Equatorial Guinea),€279K,€12K,53.4,30.8,28.1,61.2,59,RW,209cm,Foot A
+60402,T. Morris,33,Mauritania,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€274K,€11K,42.3,38.4,10.8,64.2,59,RWB,172cm,Foot C
+552221,F. Carter,20,Cyprus,Murphy-Henderson,Premier League (England),€279K,€11K,53.8,42.3,61.0,50.9,59,GK,197cm,Foot B
+167352,Nathan Jr.,32,Mauritania,Maldonado-Miller,Premier League (England),€269K,€11K,52.2,60.9,46.3,31.7,59,RB,178cm,Foot B
+134631,E. Martinez,23,Bosnia and Herzegovina,Bryant Ltd,Premier League (England),€263K,€12K,47.1,32.5,54.9,60.5,59,CAM,199cm,Foot B
+822969,J. Smith,26,Bolivia,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€274K,€11K,22.1,30.4,34.5,67.3,59,RW,194cm,Foot C
+581680,B. Gay,21,Bosnia and Herzegovina,Martin PLC,Bernard PLC (Cyprus),€256K,€11K,58.6,8.5,28.6,56.8,58,LM,196cm,Foot C
+950430,A. Mercer,23,Gabon,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€260K,€11K,51.9,42.0,60.0,43.1,58,LM,201cm,Foot B
+999651,S. Clark,31,Cyprus,Manchester United,Premier League (England),€257K,€11K,62.1,38.8,41.1,44.5,58,LWB,208cm,Foot B
+614651,Whitaker,23,Christmas Island,Williams Ltd,Martin Ltd (Equatorial Guinea),€257K,€10K,25.6,58.8,49.7,54.6,58,RB,168cm,Foot A
+311671,B. Clark,22,Mauritania,Ochoa Group,Martin Ltd (Equatorial Guinea),€240K,€11K,47.8,45.0,60.9,49.3,58,CB,163cm,Foot A
+647806,M. Miller,52,Tonga,Paris Saint Germain,Premier League (England),€239K,€11K,58.5,41.0,53.6,55.2,58,LB,172cm,Foot C
+410477,A. Bell,31,Bolivia,Murphy-Henderson,Premier League (England),€242K,€11K,48.2,58.8,51.3,55.1,58,CDM,174cm,Foot C
+697238,Brown,24,Cambodia,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€231K,€10K,60.2,29.8,48.2,51.3,58,GK,187cm,Foot C
+967598,E. Gomez,29,Tonga,"Wu, Chang and Christensen",Premier League (England),€231K,€10K,35.3,22.4,60.2,52.2,58,CDM,169cm,Foot B
+803857,J. Frey,43,Bolivia,"Novak, Gordon and Stevenson",Premier League (England),€251K,€10K,47.4,55.3,14.6,59.2,58,LWB,198cm,Foot A
+165058,G. Shaw,40,Mauritania,Mills-Higgins,Martin Ltd (Equatorial Guinea),€228K,€10K,39.8,59.2,28.9,56.2,58,RWB,159cm,Foot C
+918778,A. Savage,31,Pitcairn Islands,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€226K,€10K,42.1,52.9,47.4,60.0,58,RB,152cm,Foot B
+239273,C. Gross,25,Gabon,"Miller, Hopkins and Thornton",Premier League (England),€226K,€9K,59.4,49.7,38.4,54.2,58,LWB,185cm,Foot B
+222924,J. Sanders,23,Bosnia and Herzegovina,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€228K,€10K,61.5,49.0,33.4,37.5,58,CDM,199cm,Foot A
+985104,W. Rush,30,Gabon,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€234K,€10K,56.5,57.9,26.2,53.9,58,RWB,192cm,Foot A
+854231,Buchanan,22,Christmas Island,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€224K,€9K,59.8,52.3,33.1,51.7,58,LWB,172cm,Foot A
+215319,W. Carr,28,Bosnia and Herzegovina,Donovan-Cochran,Gray Group (Tonga),€220K,€9K,58.4,57.2,38.4,37.7,58,RW,203cm,Foot C
+510333,I. Andrews,22,Bosnia and Herzegovina,Richard-Thomas,Wiggins Inc (Bolivia),€220K,€9K,59.8,38.3,52.1,46.4,58,LWB,150cm,Foot A
+543211,D. Gonzales,26,Northern Mariana Islands,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€225K,€9K,63.2,26.5,21.3,43.1,58,GK,188cm,Foot B
+59986,J. Ramirez,24,Equatorial Guinea,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€219K,€10K,54.5,35.6,58.9,38.9,58,CB,207cm,Foot A
+265033,J. Hamilton,19,Cyprus,Martin PLC,Bernard PLC (Cyprus),€215K,€9K,20.5,9.1,67.5,28.1,58,LB,190cm,Foot C
+134126,J. Patton,17,Pitcairn Islands,Phillips-Stone,Premier League (England),€215K,€9K,52.6,36.9,59.8,17.7,58,CF,194cm,Foot A
+76817,Robert Jr.,28,Cambodia,Williams Ltd,Martin Ltd (Equatorial Guinea),€222K,€8K,68.1,11.8,26.5,24.7,58,LM,166cm,Foot B
+773402,D. Shannon,24,Gabon,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€207K,€7K,46.9,59.9,53.5,35.6,58,CF,207cm,Foot A
+462163,T. Clark,37,Cyprus,"Miller, Hopkins and Thornton",Premier League (England),€215K,€8K,54.6,48.0,58.5,54.3,58,CDM,204cm,Foot A
+847412,Derrick Jr.,31,Pitcairn Islands,Martin PLC,Bernard PLC (Cyprus),€210K,€8K,50.9,52.3,31.8,59.6,58,LWB,181cm,Foot C
+724536,W. Brown,34,Mauritania,Manchester United,Premier League (England),€207K,€8K,59.0,54.2,45.5,38.5,58,CDM,169cm,Foot B
+732738,S. Beck,35,Equatorial Guinea,Martinez Inc,Martin Ltd (Equatorial Guinea),€199K,€7K,33.1,59.9,44.2,52.0,58,CB,199cm,Foot A
+831127,M. Black,28,Christmas Island,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€201K,€7K,27.1,60.1,51.1,40.9,58,RWB,182cm,Foot C
+356105,J. Williamson,48,Northern Mariana Islands,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€202K,€7K,51.3,59.7,31.8,31.4,58,CF,172cm,Foot B
+773907,Allen Villegas,29,Bosnia and Herzegovina,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€205K,€7K,29.6,52.9,52.5,60.1,58,RW,197cm,Foot A
+610092,Ellis,25,Mauritania,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€197K,€8K,41.4,16.7,58.3,56.8,58,LM,171cm,Foot A
+213032,J. Sanchez,28,Tonga,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€199K,€6K,56.6,25.5,56.4,49.4,57,GK,167cm,Foot A
+147742,K. Russell,28,Gabon,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€199K,€6K,46.5,60.8,32.2,39.0,57,RW,154cm,Foot A
+442735,G. Miranda,29,Cambodia,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€200K,€6K,59.6,49.1,34.5,35.0,57,ST,192cm,Foot A
+147914,B. Jones,28,Bolivia,Bryant Ltd,Premier League (England),€196K,€5K,35.4,38.9,42.9,62.0,57,LM,206cm,Foot B
+541601,W. Grant,34,Bosnia and Herzegovina,Donovan-Cochran,Gray Group (Tonga),€195K,€5K,54.1,34.1,30.8,57.7,57,LM,172cm,Foot C
+582712,G. Craig,33,Cambodia,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€196K,€5K,21.0,46.2,60.2,27.2,57,LB,168cm,Foot B
+787771,R. Adams,22,Equatorial Guinea,Murphy-Henderson,Premier League (England),€197K,€5K,58.8,52.1,39.0,48.4,57,RWB,177cm,Foot B
+329055,M. Ewing,32,Christmas Island,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€194K,€4K,58.2,54.3,29.5,18.3,57,RW,191cm,Foot B
+992660,Daniel Jr.,15,Pitcairn Islands,Reynolds Ltd,Wiggins Inc (Bolivia),€190K,€5K,57.0,43.7,18.7,55.6,57,LM,190cm,Foot C
+83944,M. Smith,25,Pitcairn Islands,Obrien PLC,Premier League (England),€183K,€4K,59.2,46.5,30.4,51.2,57,LW,158cm,Foot B
+100920,D. Golden,23,Cambodia,Martin PLC,Bernard PLC (Cyprus),€188K,€4K,57.4,29.7,39.7,57.5,57,GK,182cm,Foot B
+600775,A. Walker,33,Northern Mariana Islands,Paris Saint Germain,Premier League (England),€187K,€4K,47.3,59.8,42.7,27.3,57,ST,176cm,Foot C
+969512,B. Raymond,26,Northern Mariana Islands,Schwartz Ltd,Premier League (England),€178K,€4K,34.8,50.9,55.5,57.9,57,RW,170cm,Foot C
+314240,L. Dickerson,22,Christmas Island,"Miller, Hopkins and Thornton",Premier League (England),€181K,€4K,36.4,43.2,61.6,24.9,57,LB,190cm,Foot A
+347126,Yoder,51,Tonga,Richard-Thomas,Wiggins Inc (Bolivia),€183K,€4K,57.5,56.4,45.2,49.4,57,CDM,173cm,Foot A
+248860,Krause,32,Tonga,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€171K,€3K,40.6,22.2,59.6,47.8,57,LWB,164cm,Foot C
+502898,P. Wright,21,Pitcairn Islands,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€172K,€3K,53.8,49.7,58.1,44.6,57,CDM,206cm,Foot C
+77049,D. Brown,29,Pitcairn Islands,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€172K,€4K,49.0,51.3,58.6,39.0,57,CF,182cm,Foot A
+503076,S. Garza,28,Equatorial Guinea,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€176K,€4K,55.4,47.5,57.1,35.3,57,RW,206cm,Foot C
+445826,M. Snyder,24,Equatorial Guinea,Martin PLC,Bernard PLC (Cyprus),€166K,€3K,57.3,54.6,55.3,40.2,57,CF,155cm,Foot B
+757324,Anthony Fischer,50,Equatorial Guinea,Ochoa Group,Martin Ltd (Equatorial Guinea),€169K,€3K,54.0,53.8,31.6,58.0,57,RWB,192cm,Foot B
+69387,S. Jenkins,20,Mauritania,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€169K,€2K,51.3,58.9,35.7,40.8,57,RW,178cm,Foot B
+978789,P. Wood,23,Cambodia,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€169K,€3K,52.0,34.2,44.7,58.3,57,RW,189cm,Foot A
+278596,B. Holland,15,Cambodia,Maldonado-Miller,Premier League (England),€153K,€2K,36.1,60.6,43.2,34.5,56,RB,204cm,Foot A
+721240,C. Mendoza,24,Cambodia,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€173K,€2K,50.4,6.0,41.3,58.4,56,LM,201cm,Foot A
+295410,J. Smith,20,Pitcairn Islands,King-Parks,Premier League (England),€154K,€3K,31.4,50.3,39.6,57.4,56,RM,150cm,Foot C
+484031,Fritz,26,Northern Mariana Islands,"Wu, Chang and Christensen",Premier League (England),€164K,€2K,36.3,27.6,59.2,46.7,56,CB,170cm,Foot A
+434938,D. Reyes,29,Bolivia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€141K,€1K,46.1,58.6,13.7,48.8,56,LM,181cm,Foot B
+705396,J. Shaw,30,Pitcairn Islands,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€148K,€1K,56.4,53.6,42.3,38.8,56,RM,179cm,Foot C
+681351,Stewart,33,Mauritania,"Perry, Hardy and Reynolds",Gray Group (Tonga),€148K,€2K,57.4,31.7,16.0,51.0,56,LW,185cm,Foot C
+215045,C. Garcia,28,Bosnia and Herzegovina,King-Parks,Premier League (England),€152K,€1K,42.4,11.5,37.3,60.3,56,LM,207cm,Foot B
+747559,P. Johnson,29,Tonga,Davis-Wyatt,Gray Group (Tonga),€137K,€1K,41.2,57.5,51.5,53.3,56,RWB,181cm,Foot C
+330043,N. Hill,25,Bolivia,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€166K,€1K,32.1,37.3,57.6,50.8,56,CF,209cm,Foot A
+969128,Xavier Jr.,22,Pitcairn Islands,Donovan-Cochran,Gray Group (Tonga),€137K,€0,48.8,34.2,42.4,57.8,56,RW,186cm,Foot A
+420495,F. Moore,31,Pitcairn Islands,Liverpool,Bernard PLC (Cyprus),€136K,€0,59.9,22.6,45.4,38.6,56,CDM,170cm,Foot A
+264896,Gabriel Jr.,27,Northern Mariana Islands,"Perry, Hardy and Reynolds",Gray Group (Tonga),€120K,€1K,60.2,40.5,43.9,31.5,56,CF,184cm,Foot C
+68399,J. Edwards,35,Equatorial Guinea,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€128K,€0,29.8,23.4,61.9,39.1,56,LB,197cm,Foot C
+486332,Robert Bowman,28,Cyprus,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€119K,€0,53.5,43.6,57.5,52.6,56,CDM,210cm,Foot B
+35914,S. Harrington,22,Mauritania,Castro Ltd,Premier League (England),€137K,€0,56.5,55.0,43.2,52.3,56,CAM,159cm,Foot B
+158911,John Stanton,35,Bolivia,Richard-Thomas,Wiggins Inc (Bolivia),€113K,€0,44.7,21.5,19.0,60.0,56,LWB,170cm,Foot B
+159133,P. Mendoza,32,Tonga,Maldonado-Miller,Premier League (England),€128K,€0,58.0,48.8,35.6,51.7,56,GK,168cm,Foot A
+765463,B. Roach,52,Christmas Island,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€116K,€0,43.1,43.4,38.9,60.3,56,RB,152cm,Foot A
+28210,Samuel Jr.,23,Pitcairn Islands,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€113K,€0,39.2,51.8,47.0,57.4,56,ST,154cm,Foot A
+672054,P. Campbell,24,Northern Mariana Islands,Huynh-Wilson,Wiggins Inc (Bolivia),€106K,€0,44.8,56.0,53.8,48.9,55,RB,155cm,Foot B
+540995,Smith,27,Christmas Island,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€118K,€0,33.4,21.4,62.4,23.9,55,CB,201cm,Foot A
+917869,T. Johnson,25,Christmas Island,Ochoa Group,Martin Ltd (Equatorial Guinea),€111K,€0,50.5,57.0,33.9,33.9,55,RB,186cm,Foot A
+967118,Michael Jr.,29,Christmas Island,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€112K,€0,51.1,39.6,27.3,55.8,55,ST,203cm,Foot B
+631364,W. Fuller,49,Northern Mariana Islands,Paris Saint Germain,Premier League (England),€113K,€0,24.9,49.1,41.8,56.9,55,ST,194cm,Foot B
+99099,D. Mahoney,24,Tonga,Ochoa Group,Martin Ltd (Equatorial Guinea),€106K,€0,52.0,52.2,56.4,24.7,55,CF,167cm,Foot C
+615257,Griffith,29,Northern Mariana Islands,Phillips-Stone,Premier League (England),€104K,€0,23.4,42.3,54.9,54.7,55,RM,169cm,Foot A
+795607,G. Williams,20,Cambodia,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€103K,€0,41.3,31.7,57.5,48.0,55,CF,164cm,Foot C
+287723,B. Wise,28,Northern Mariana Islands,Paris Saint Germain,Premier League (England),€100K,€0,57.0,29.0,28.8,48.7,55,LW,201cm,Foot C
+230884,C. Collins,34,Cambodia,Williams Ltd,Martin Ltd (Equatorial Guinea),€99K,€0,58.0,46.2,12.7,23.5,55,ST,157cm,Foot C
+329345,K. Webb,20,Gabon,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€99K,€0,45.6,30.0,43.6,57.5,55,CDM,191cm,Foot B
+501458,Brandon Shaw,52,Equatorial Guinea,"Keller, Dean and King",Premier League (England),€100K,€0,57.5,46.3,37.6,24.5,55,RB,200cm,Foot C
+174149,T. Miller,29,Christmas Island,Wilson PLC,Premier League (England),€90K,€0,56.6,46.3,19.2,48.4,55,RWB,206cm,Foot B
+288896,Ellison,33,Gabon,Martinez Inc,Martin Ltd (Equatorial Guinea),€95K,€0,57.9,31.7,48.2,30.4,55,CF,151cm,Foot B
+838402,King,24,Cyprus,Ochoa Group,Martin Ltd (Equatorial Guinea),€95K,€0,45.4,55.8,51.5,48.2,55,CF,207cm,Foot B
+797585,Robert Jr.,33,Tonga,Phillips-Stone,Premier League (England),€96K,€0,55.6,27.7,20.3,51.5,55,RM,183cm,Foot A
+863199,C. Watson,22,Pitcairn Islands,"Miller, Hopkins and Thornton",Premier League (England),€87K,€0,42.0,27.9,29.1,59.8,55,RWB,210cm,Foot C
+896099,Taylor,30,Bosnia and Herzegovina,Reynolds Ltd,Wiggins Inc (Bolivia),€84K,€0,34.7,57.5,46.1,28.6,55,RB,161cm,Foot C
+527560,S. Gonzales,32,Christmas Island,"Miller, Hopkins and Thornton",Premier League (England),€84K,€0,56.4,29.7,51.7,27.7,55,LM,151cm,Foot A
+716064,A. Black,34,Cambodia,Lopez and Sons,Premier League (England),€83K,€0,56.3,53.1,47.3,15.6,55,RW,161cm,Foot C
+699682,R. White,37,Gabon,Davis-Wyatt,Gray Group (Tonga),€78K,€0,31.5,55.3,54.4,28.6,55,CDM,177cm,Foot A
+822950,J. Hill,32,Tonga,Davis-Wyatt,Gray Group (Tonga),€77K,€0,19.0,39.1,59.8,41.2,55,LB,185cm,Foot A
+532673,T. Garcia,30,Pitcairn Islands,Ochoa Group,Martin Ltd (Equatorial Guinea),€81K,€0,41.3,48.7,55.1,34.0,54,RB,207cm,Foot A
+74076,Jordan Frazier,24,Bosnia and Herzegovina,Reynolds Ltd,Wiggins Inc (Bolivia),€80K,€0,35.6,35.1,49.4,55.6,54,CDM,157cm,Foot B
+861252,Troy Jr.,26,Mauritania,"Perry, Hardy and Reynolds",Gray Group (Tonga),€66K,€0,25.7,54.7,53.0,51.8,54,CAM,170cm,Foot C
+435273,J. Farmer,21,Christmas Island,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€74K,€0,59.3,22.4,39.7,38.2,54,LM,168cm,Foot B
+124029,S. Smith,33,Mauritania,King-Parks,Premier League (England),€104K,€0,57.2,33.4,44.2,26.6,54,CB,151cm,Foot A
+246966,Angel Jr.,23,Tonga,"Novak, Gordon and Stevenson",Premier League (England),€69K,€0,50.9,42.9,28.8,55.4,54,GK,181cm,Foot B
+34018,M. Pratt,28,Equatorial Guinea,Mills-Higgins,Martin Ltd (Equatorial Guinea),€75K,€0,55.8,39.1,50.3,44.6,54,RW,170cm,Foot B
+582896,Kurt Jr.,27,Cyprus,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€63K,€0,54.9,37.6,40.7,49.6,54,LWB,156cm,Foot C
+959804,J. Willis,33,Bolivia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€65K,€0,57.6,29.8,36.1,45.1,54,LB,159cm,Foot A
+214697,E. Gonzalez,41,Mauritania,Mills-Higgins,Martin Ltd (Equatorial Guinea),€58K,€0,57.7,37.6,41.5,23.6,54,CF,152cm,Foot C
+190273,J. Flores,19,Tonga,"Keller, Dean and King",Premier League (England),€59K,€0,38.7,50.2,21.6,55.2,54,LW,182cm,Foot C
+706542,John Jr.,24,Mauritania,Donovan-Cochran,Gray Group (Tonga),€56K,€0,50.2,33.3,37.4,54.8,54,LW,164cm,Foot A
+477489,A. Rogers,28,Mauritania,Schwartz Ltd,Premier League (England),€54K,€0,34.8,49.2,48.4,55.9,54,CAM,198cm,Foot A
+584045,Gene Jr.,31,Cyprus,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€54K,€0,51.3,31.5,55.5,33.6,54,CDM,154cm,Foot C
+420326,J. Mcdonald,45,Tonga,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€48K,€0,48.6,29.5,43.0,56.4,54,LM,186cm,Foot A
+19017,S. George,22,Equatorial Guinea,Schwartz Ltd,Premier League (England),€49K,€0,48.8,56.1,41.4,32.7,54,ST,180cm,Foot C
+2934,James Griffin,23,Bosnia and Herzegovina,"Wu, Chang and Christensen",Premier League (England),€48K,€0,25.5,12.7,57.2,46.3,54,LB,172cm,Foot A
+478140,C. Smith,24,Pitcairn Islands,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€56K,€0,58.8,36.9,40.0,36.3,54,RW,209cm,Foot A
+683113,J. Baker,33,Gabon,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€49K,€0,47.6,32.3,53.0,54.3,54,RM,196cm,Foot C
+85125,B. Vargas,28,Cyprus,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€44K,€0,55.4,47.4,50.1,36.1,54,RW,164cm,Foot B
+453889,J. Stephens,32,Tonga,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€47K,€0,43.1,33.7,56.0,48.5,54,LB,200cm,Foot B
+118170,S. Henderson,36,Northern Mariana Islands,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€45K,€0,54.8,52.2,31.0,34.9,54,ST,181cm,Foot A
+11709,D. Mcpherson,32,Cyprus,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€39K,€0,57.5,21.5,43.6,36.6,54,LB,210cm,Foot A
+937467,N. Davis,26,Christmas Island,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€40K,€0,56.9,46.5,21.6,39.0,54,RM,195cm,Foot C
+569051,S. Rowe,26,Bosnia and Herzegovina,Obrien PLC,Premier League (England),€40K,€0,56.1,30.4,46.9,40.7,54,CB,154cm,Foot C
+380648,Thompson,28,Bosnia and Herzegovina,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€46K,€0,41.0,24.0,54.0,52.5,54,GK,190cm,Foot A
+155921,R. Henson,29,Bosnia and Herzegovina,"Wu, Chang and Christensen",Premier League (England),€36K,€0,53.4,42.9,47.9,51.8,53,RB,193cm,Foot C
+360911,J. Scott,31,Bolivia,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€34K,€0,27.7,22.2,54.3,48.0,53,CB,202cm,Foot C
+336462,David Jr.,21,Tonga,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€37K,€0,49.5,52.1,31.4,52.8,53,RW,193cm,Foot C
+410268,D. Sanchez,35,Tonga,Brown LLC,Premier League (England),€34K,€0,28.9,43.8,35.9,55.9,53,ST,152cm,Foot C
+271138,K. Bradford,24,Cyprus,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€26K,€0,46.3,52.1,17.8,53.1,53,ST,188cm,Foot B
+557971,R. Collins,26,Northern Mariana Islands,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€26K,€0,36.1,50.0,23.1,54.4,53,RM,197cm,Foot A
+599073,D. Meadows,30,Equatorial Guinea,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€28K,€0,47.4,54.4,42.5,43.9,53,CM,155cm,Foot B
+533551,Aaron Jr.,22,Gabon,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€27K,€0,49.9,31.8,53.7,27.6,53,GK,175cm,Foot C
+66767,M. Sanchez,19,Mauritania,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€20K,€0,40.7,53.8,49.7,43.6,53,RWB,176cm,Foot C
+910628,J. Johnson,47,Christmas Island,Martin PLC,Bernard PLC (Cyprus),€25K,€0,8.5,21.3,54.5,48.6,53,LB,190cm,Foot B
+779623,M. Mann,22,Cyprus,"Perry, Hardy and Reynolds",Gray Group (Tonga),€20K,€0,49.7,53.1,32.1,53.6,53,CDM,160cm,Foot C
+935455,M. Brown,33,Tonga,Davis LLC,Martin Ltd (Equatorial Guinea),€30K,€0,54.0,29.7,40.5,51.2,53,RM,208cm,Foot B
+697931,T. Cox,21,Bosnia and Herzegovina,Johnson-Doyle,"Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€20K,€0,55.7,45.0,31.7,37.2,53,RW,189cm,Foot B
+329395,J. Erickson,24,Equatorial Guinea,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€19K,€0,46.5,55.0,24.5,32.3,53,CDM,151cm,Foot C
+804867,L. James,35,Northern Mariana Islands,"Fischer, Nicholson and Berg","Valenzuela, Wright and Mccoy (Mauritania)",€19K,€0,41.2,42.2,37.9,56.4,53,LW,190cm,Foot A
+329728,Joseph Jr.,27,Cyprus,Davis-Wyatt,Gray Group (Tonga),€20K,€0,50.4,54.4,50.2,40.3,53,RB,184cm,Foot C
+739340,T. Pope,33,Northern Mariana Islands,Huynh-Wilson,Wiggins Inc (Bolivia),€15K,€0,53.9,41.4,52.2,48.7,53,ST,176cm,Foot C
+829461,C. Lopez,19,Gabon,Paris Saint Germain,Premier League (England),€24K,€0,44.6,39.0,55.5,24.6,53,LM,204cm,Foot A
+371056,G. Harvey,29,Bolivia,Obrien PLC,Premier League (England),€14K,€0,46.3,55.5,26.2,26.7,53,RM,156cm,Foot B
+543589,Justin Santiago,22,Equatorial Guinea,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€15K,€0,52.2,47.0,37.9,53.1,53,CF,167cm,Foot B
+879493,A. Arellano,28,Christmas Island,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€16K,€0,52.5,13.8,52.7,23.4,53,LM,164cm,Foot C
+191370,J. Smith,28,Pitcairn Islands,Ochoa Group,Martin Ltd (Equatorial Guinea),€5K,€0,53.3,30.6,51.4,41.3,53,GK,197cm,Foot A
+576887,J. Williams,25,Tonga,Brown LLC,Premier League (England),€13K,€0,49.0,53.3,47.2,52.2,53,RW,178cm,Foot C
+995014,K. Lee,23,Cambodia,Bryant Ltd,Premier League (England),€7K,€0,30.1,48.0,53.9,48.9,53,CDM,170cm,Foot A
+663709,C. Williams,25,Tonga,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€750,€0,38.9,55.9,24.4,39.3,52,CDM,169cm,Foot A
+409881,W. Harris,31,Bosnia and Herzegovina,Huynh-Wilson,Wiggins Inc (Bolivia),€750,€0,56.1,41.3,19.4,27.7,52,ST,166cm,Foot B
+172352,A. Baldwin,24,Pitcairn Islands,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€750,€0,41.1,38.2,30.7,55.4,52,LM,205cm,Foot B
+655782,W. Hudson,28,Northern Mariana Islands,Paris Saint Germain,Premier League (England),€4K,€0,38.0,30.5,56.8,17.4,52,LB,192cm,Foot C
+41440,B. Choi,34,Cambodia,"Lang, Thompson and Barnes","Valenzuela, Wright and Mccoy (Mauritania)",€750,€0,41.8,54.6,45.4,40.4,52,ST,179cm,Foot B
+524769,T. Sanchez,28,Bosnia and Herzegovina,FC Bayern München,Premier League (England),€750,€0,35.2,51.8,51.0,46.7,52,CDM,161cm,Foot A
+688734,D. Ali,23,Equatorial Guinea,Yoder LLC,Rodriguez-Ortiz (Northern Mariana Islands),€750,€0,37.4,30.8,56.6,30.6,52,CDM,200cm,Foot A
+98911,P. Baldwin,20,Pitcairn Islands,Schwartz Ltd,Premier League (England),€750,€0,52.2,50.7,38.0,47.0,52,RM,210cm,Foot C
+975819,J. Gardner,22,Equatorial Guinea,Paris Saint Germain,Premier League (England),€7K,€0,27.2,29.2,59.2,19.2,52,LB,206cm,Foot C
+402583,Kevin Jr.,20,Bolivia,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€750,€0,20.2,24.6,61.3,24.9,52,LB,174cm,Foot B
+558356,Randall Jr.,34,Gabon,Schwartz Ltd,Premier League (England),€750,€0,42.6,38.5,46.6,53.4,52,CAM,174cm,Foot C
+345376,R. Brown,28,Gabon,Liverpool,Bernard PLC (Cyprus),€750,€0,51.7,50.3,17.7,52.6,52,RWB,161cm,Foot C
+255817,J. Kane,34,Bolivia,Castro Ltd,Premier League (England),€750,€0,39.3,41.6,52.8,50.0,52,ST,175cm,Foot C
+436063,T. Shields,31,Bolivia,Manchester United,Premier League (England),€750,€0,24.6,58.0,32.9,30.4,52,ST,185cm,Foot C
+330361,B. Nguyen,33,Cambodia,"Novak, Gordon and Stevenson",Premier League (England),€750,€0,41.7,30.2,29.1,55.6,52,ST,205cm,Foot A
+379906,C. Foster,55,Christmas Island,Martinez Inc,Martin Ltd (Equatorial Guinea),€750,€0,51.2,51.6,44.3,50.5,52,CAM,179cm,Foot B
+240766,Zachary Murray,26,Tonga,"Wu, Chang and Christensen",Premier League (England),€750,€0,31.6,37.5,53.4,46.0,52,CB,175cm,Foot B
+708215,B. Chambers,19,Tonga,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€750,€0,55.2,41.5,28.0,36.3,52,RM,189cm,Foot C
+249496,C. Berg,25,Bolivia,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€750,€0,40.8,20.2,55.8,28.2,52,CF,189cm,Foot C
+36711,Buck,28,Equatorial Guinea,Liverpool,Bernard PLC (Cyprus),€750,€0,55.5,42.6,38.6,42.2,52,LWB,153cm,Foot B
+393543,D. Camacho,32,Equatorial Guinea,Williams Ltd,Martin Ltd (Equatorial Guinea),€750,€0,32.3,24.3,52.4,45.9,51,RM,209cm,Foot A
+655841,Charles Jr.,24,Pitcairn Islands,Manchester United,Premier League (England),€750,€0,44.1,25.5,53.2,23.6,51,LM,191cm,Foot A
+721386,A. Jackson,23,Northern Mariana Islands,Davis-Wyatt,Gray Group (Tonga),€750,€0,48.4,52.3,49.1,48.4,51,CAM,155cm,Foot C
+909906,J. Thompson,29,Equatorial Guinea,"Craig, Sawyer and Young",Bernard PLC (Cyprus),€750,€0,22.9,41.4,19.2,54.0,51,RM,165cm,Foot C
+230051,Dustin Harrison,24,Pitcairn Islands,Reynolds Ltd,Wiggins Inc (Bolivia),€750,€0,50.3,50.9,45.0,45.8,51,LWB,198cm,Foot C
+992350,S. Miller,33,Cambodia,Brown LLC,Premier League (England),€750,€0,55.0,16.0,37.1,21.5,51,LB,178cm,Foot A
+533637,M. Jackson,18,Bolivia,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€750,€0,39.2,34.3,53.1,44.2,51,RM,190cm,Foot A
+140618,T. Baker,38,Cyprus,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€750,€0,52.1,47.6,43.3,35.5,51,CDM,179cm,Foot C
+361983,F. Gonzales,24,Cambodia,Paris Saint Germain,Premier League (England),€500,€0,54.1,34.9,41.9,35.5,51,LM,206cm,Foot C
+812742,Scott Jr.,47,Pitcairn Islands,Richard-Thomas,Wiggins Inc (Bolivia),€500,€0,51.5,50.4,45.5,47.2,51,RW,179cm,Foot B
+714917,Brian Bradshaw,44,Northern Mariana Islands,FC Bayern München,Premier League (England),€750,€0,47.3,29.9,18.2,52.4,51,LWB,190cm,Foot C
+616742,C. Roy,35,Tonga,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€750,€0,49.3,12.9,49.2,51.1,51,LB,168cm,Foot B
+682422,T. Johns,23,Christmas Island,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€500,€0,38.6,35.3,10.6,55.4,51,ST,161cm,Foot B
+634359,J. Bishop,52,Mauritania,Wilson PLC,Premier League (England),€500,€0,39.0,27.4,38.7,54.7,51,ST,165cm,Foot A
+921136,C. Brown,28,Cambodia,Reynolds Ltd,Wiggins Inc (Bolivia),€750,€0,57.2,23.7,20.6,33.4,51,RM,150cm,Foot C
+446113,J. Bush,20,Mauritania,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€500,€0,55.8,16.4,37.3,23.3,51,LM,193cm,Foot B
+339752,J. Patel,20,Pitcairn Islands,Maldonado-Miller,Premier League (England),€500,€0,49.8,45.2,52.0,23.1,51,CF,202cm,Foot A
+208737,J. Harris,28,Gabon,Cross-Norris,Murphy-Malone (Northern Mariana Islands),€500,€0,55.4,6.4,39.7,33.3,51,LM,166cm,Foot A
+327695,T. Davis,27,Tonga,Ochoa Group,Martin Ltd (Equatorial Guinea),€500,€0,43.5,52.3,20.5,39.3,50,RM,166cm,Foot C
+180615,Evans,27,Mauritania,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€500,€0,49.0,28.6,33.1,50.1,50,RWB,200cm,Foot A
+287541,J. Pace,21,Mauritania,Johnson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€500,€0,38.2,18.9,23.7,54.3,50,RM,186cm,Foot C
+255221,David Johnson,21,Pitcairn Islands,"Miller, Hopkins and Thornton",Premier League (England),€500,€0,42.7,13.4,46.7,51.3,50,LM,173cm,Foot A
+919084,W. Singleton,33,Tonga,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€500,€0,32.5,52.5,44.2,42.5,50,RW,193cm,Foot B
+182274,J. Walker,28,Gabon,Paris Saint Germain,Premier League (England),€500,€0,53.1,33.5,39.7,27.2,50,LB,208cm,Foot C
+420088,M. Fox,35,Bosnia and Herzegovina,King-Parks,Premier League (England),€500,€0,31.1,37.4,49.5,49.9,50,CB,204cm,Foot A
+264607,Henry,22,Pitcairn Islands,Ochoa Group,Martin Ltd (Equatorial Guinea),€500,€0,53.4,39.8,25.8,33.9,50,LM,163cm,Foot C
+453940,S. Ruiz,24,Christmas Island,"Campbell, Turner and Flores",Martin Ltd (Equatorial Guinea),€500,€0,47.9,25.7,50.5,35.8,50,LM,206cm,Foot C
+650673,M. Davis,20,Cambodia,Mills-Higgins,Martin Ltd (Equatorial Guinea),€500,€0,23.3,35.8,19.1,54.1,50,RM,185cm,Foot C
+945710,John Jr.,25,Equatorial Guinea,Richard-Thomas,Wiggins Inc (Bolivia),€500,€0,37.9,50.8,43.1,48.6,50,CDM,171cm,Foot A
+20321,K. Brown,32,Mauritania,Donovan-Cochran,Gray Group (Tonga),€500,€0,50.7,23.5,21.5,46.9,50,GK,161cm,Foot B
+336200,Tony Sawyer,27,Tonga,Castro Ltd,Premier League (England),€500,€0,51.0,42.0,44.6,43.4,49,ST,163cm,Foot B
+271864,R. Kim,32,Equatorial Guinea,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€500,€0,40.4,51.1,42.9,42.5,49,RB,205cm,Foot C
+673392,Dylan Jr.,31,Bosnia and Herzegovina,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€500,€0,50.9,21.5,44.4,41.6,49,ST,167cm,Foot C
+837252,Hughes,24,Bosnia and Herzegovina,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€500,€0,32.1,27.3,53.4,35.8,49,RM,197cm,Foot A
+362122,J. Hurley,26,Cambodia,Huynh-Wilson,Wiggins Inc (Bolivia),€500,€0,50.5,26.7,15.9,44.5,49,GK,189cm,Foot A
+575746,D. Macias,35,Cyprus,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€500,€0,42.9,36.2,50.8,32.2,49,RM,188cm,Foot A
+338195,Anthony Jr.,34,Mauritania,FC Bayern München,Premier League (England),€500,€0,40.0,46.8,50.3,34.0,49,CDM,174cm,Foot B
+543976,J. Rodriguez,33,Equatorial Guinea,King-Parks,Premier League (England),€500,€0,50.2,30.4,34.8,46.8,49,LB,202cm,Foot C
+265531,J. Austin,24,Northern Mariana Islands,Martin PLC,Bernard PLC (Cyprus),€500,€0,44.9,15.9,50.4,31.1,49,LM,152cm,Foot C
+396889,Brandon Jr.,50,Gabon,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€500,€0,43.8,30.3,50.2,28.5,49,LM,206cm,Foot C
+978619,C. Smith,40,Gabon,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€250,€0,51.7,24.0,42.5,25.7,49,LM,184cm,Foot B
+426235,Richard Clark,39,Bolivia,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€250,€0,53.4,33.8,26.1,31.8,48,LM,161cm,Foot A
+615366,D. Rodriguez,34,Tonga,Reynolds Ltd,Wiggins Inc (Bolivia),€250,€0,51.3,37.5,9.0,35.4,48,ST,174cm,Foot B
+312423,S. Harris,22,Cyprus,Richard-Thomas,Wiggins Inc (Bolivia),€250,€0,45.1,45.4,41.1,49.5,48,ST,179cm,Foot C
+591460,M. Kim,25,Bolivia,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€250,€0,48.0,31.6,41.9,46.7,48,RW,155cm,Foot B
+730988,W. Edwards,24,Equatorial Guinea,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€250,€0,39.3,39.5,47.2,48.6,48,CB,172cm,Foot A
+714798,R. Reid,28,Cyprus,Phillips-Stone,Premier League (England),€500,€0,47.7,29.1,47.6,37.9,48,RW,179cm,Foot B
+830341,T. Taylor,54,Mauritania,Brown LLC,Premier League (England),€250,€0,47.0,48.3,23.7,23.1,48,ST,158cm,Foot A
+117705,J. Warner,35,Pitcairn Islands,Maldonado-Miller,Premier League (England),€250,€0,47.7,46.1,36.8,48.1,48,RWB,173cm,Foot B
+35863,David Martinez,24,Cyprus,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€250,€0,34.4,25.9,52.8,30.7,48,CB,203cm,Foot B
+459178,J. Calderon,32,Northern Mariana Islands,FC Bayern München,Premier League (England),€250,€0,27.4,47.7,43.5,45.4,47,CDM,174cm,Foot B
+50496,W. Robertson,23,Northern Mariana Islands,Wilson PLC,Premier League (England),€250,€0,39.8,48.9,42.2,39.4,47,RM,194cm,Foot A
+714078,A. Nelson,40,Christmas Island,Davis-Wyatt,Gray Group (Tonga),€250,€0,47.3,40.6,39.9,47.1,47,CF,175cm,Foot C
+248626,S. Alexander,23,Pitcairn Islands,Bryant Ltd,Premier League (England),€250,€0,29.3,53.5,19.3,26.3,47,RM,180cm,Foot A
+68528,Kevin Kelley,30,Cambodia,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€250,€0,30.4,48.0,20.4,43.8,47,RM,183cm,Foot C
+625610,Michael Brown,24,Christmas Island,Phillips-Stone,Premier League (England),€250,€0,31.7,25.7,38.9,49.3,47,RM,179cm,Foot B
+631248,J. Navarro,33,Cambodia,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€250,€0,42.3,21.6,47.1,33.3,46,LM,205cm,Foot B
+205550,S. Fisher,31,Pitcairn Islands,Brown LLC,Premier League (England),€250,€0,29.4,52.1,28.8,27.7,46,RB,161cm,Foot C
+902833,R. Davis,25,Gabon,Lopez and Sons,Premier League (England),€250,€0,50.0,5.5,35.4,35.5,46,LM,175cm,Foot C
+427839,G. Jones,51,Mauritania,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€250,€0,45.4,45.4,46.2,38.9,46,RB,197cm,Foot A
+321575,M. Gallegos,21,Cambodia,FC Bayern München,Premier League (England),€250,€0,46.4,23.5,45.7,31.9,46,CF,208cm,Foot C
+706681,T. Newton,29,Cyprus,Davis-Wyatt,Gray Group (Tonga),€250,€0,46.5,16.2,43.1,22.3,46,LM,168cm,Foot C
+289139,S. Gonzales,32,Equatorial Guinea,"Blair, Allen and Burton",Evans-Schneider (Bolivia),€250,€0,49.5,30.3,31.0,35.5,46,RM,179cm,Foot A
+502665,S. Wolfe,33,Bosnia and Herzegovina,"Keller, Dean and King",Premier League (England),€250,€0,39.5,18.1,48.1,21.2,46,CF,174cm,Foot C
+232989,K. Hicks,27,Mauritania,Lopez and Sons,Premier League (England),€250,€0,31.9,41.1,31.8,47.2,46,ST,176cm,Foot A
+495164,P. Sullivan,23,Mauritania,"Miller, Hopkins and Thornton",Premier League (England),€250,€0,35.8,25.7,47.8,42.6,46,RM,166cm,Foot A
+254482,J. Rogers,21,Northern Mariana Islands,Richard-Thomas,Wiggins Inc (Bolivia),€250,€0,50.6,18.6,24.4,29.7,45,RM,193cm,Foot C
+445591,B. Cunningham,22,Gabon,Murphy-Henderson,Premier League (England),€250,€0,49.1,23.3,33.0,30.3,45,RM,166cm,Foot A
+93191,R. Williams,30,Bolivia,Maldonado-Miller,Premier League (England),€250,€0,25.2,50.1,19.1,27.5,44,ST,186cm,Foot C
+782093,A. Jones,24,Christmas Island,"Walker, Swanson and Cisneros",Morgan and Sons (Pitcairn Islands),€250,€0,44.2,24.5,36.2,43.4,44,ST,183cm,Foot A
+999795,R. Jones,35,Cambodia,"Bridges, Davis and Cunningham","Pierce, Callahan and Wilson (Bosnia and Herzegovina)",€250,€0,31.6,25.7,43.5,41.9,43,ST,157cm,Foot A
+854380,C. Spence,23,Bolivia,FC Barcelona,Murphy-Malone (Northern Mariana Islands),€250,€0,43.2,22.3,43.3,23.1,43,CB,154cm,Foot A
+749329,Tyler Jr.,28,Cambodia,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€0,€0,43.1,16.6,33.1,42.0,43,LM,196cm,Foot C
+730577,B. Gross,27,Mauritania,Murphy-Henderson,Premier League (England),€0,€0,26.3,45.7,16.8,30.1,42,ST,195cm,Foot B
+67498,F. Hernandez,15,Bolivia,"Campbell, Robinson and Henderson",Murphy-Malone (Northern Mariana Islands),€0,€0,20.6,22.1,38.8,43.6,42,RM,177cm,Foot C
+109211,Burns,36,Mauritania,FC Bayern München,Premier League (England),€0,€0,46.8,28.5,29.1,27.1,42,LM,186cm,Foot B
+986510,B. Rivera,28,Cambodia,Bryant Ltd,Premier League (England),€0,€0,45.7,18.8,25.1,31.1,42,RM,200cm,Foot B
+864057,K. Aguilar,28,Cyprus,Davis LLC,Martin Ltd (Equatorial Guinea),€0,€0,25.8,41.2,42.9,41.2,42,RW,180cm,Foot B
+77645,J. Johnson,23,Tonga,Schwartz Ltd,Premier League (England),€0,€0,29.2,43.4,27.0,37.4,42,RW,198cm,Foot B
+936600,Jose Jr.,20,Bolivia,Sweeney PLC,Morgan and Sons (Pitcairn Islands),€0,€0,30.4,33.5,39.0,41.2,41,RM,206cm,Foot B
+559814,Andrew Sellers,51,Bolivia,Schwartz Ltd,Premier League (England),€0,€0,42.1,25.0,35.8,37.1,41,LM,158cm,Foot B
+854990,S. Johnson,32,Tonga,"Patel, Olson and Perez",Murphy-Malone (Northern Mariana Islands),€0,€0,28.5,27.0,34.6,42.8,41,RM,209cm,Foot B
+330128,A. Rodriguez,23,Tonga,Coleman-Powell,Murphy-Malone (Northern Mariana Islands),€0,€0,24.1,42.0,19.0,32.4,40,ST,177cm,Foot A
+44071,Richard Jr.,23,Cyprus,Murphy-Henderson,Premier League (England),€0,€0,22.4,40.8,18.3,38.3,40,ST,198cm,Foot B
+428339,J. Dean,29,Bolivia,"Hale, Shaw and Ramirez",Rodriguez-Ortiz (Northern Mariana Islands),€0,€0,21.0,38.8,36.2,38.2,39,RW,192cm,Foot C
+592690,J. Cain,20,Mauritania,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€0,€0,42.4,17.2,26.1,24.5,38,LM,199cm,Foot C
+843864,B. Frederick,31,Mauritania,Nelson PLC,Rodriguez-Ortiz (Northern Mariana Islands),€0,€0,37.9,21.6,18.0,24.7,35,RM,190cm,Foot B
+499794,R. Moore,26,Tonga,"Perez, Simmons and Pacheco",Evans-Schneider (Bolivia),€0,€0,34.0,18.4,33.9,16.8,34,CF,159cm,Foot B
+871810,R. Brady,21,Cambodia,"Miller, Hopkins and Thornton",Premier League (England),€0,€0,31.3,30.9,23.3,35.5,34,RM,169cm,Foot B
+262334,M. Ward,22,Bolivia,Phillips-Stone,Premier League (England),€0,€0,26.0,31.6,28.6,29.2,31,ST,183cm,Foot A
+929543,J. Hernandez,34,Equatorial Guinea,Martinez Inc,Martin Ltd (Equatorial Guinea),€0,€0,29.5,28.0,17.8,31.5,31,ST,194cm,Foot C
+452699,D. Sullivan,19,Gabon,Sanchez LLC,Murphy-Malone (Northern Mariana Islands),€0,€0,29.4,24.3,20.7,21.2,28,ST,170cm,Foot C

@@ -1,0 +1,1145 @@
+#!/usr/bin/python
+# +
+import os, json, math, copy
+from collections import namedtuple
+import pandas as pd
+import bs4
+from numpy import nan
+
+HIDDEN_FILE = os.path.join("hidden", "hidden_tests.py")
+if os.path.exists(HIDDEN_FILE):
+    import hidden.hidden_tests as hidn
+# -
+
+REL_TOL = 6e-04  # relative tolerance for floats
+TOTAL_SCORE = 100 # total score for the project
+
+DF_FILE = 'expected_dfs.html'
+PLOT_FILE = 'expected_plots.json'
+
+PASS = "All test cases passed!"
+
+TEXT_FORMAT = "TEXT_FORMAT"  # question type when expected answer is a type, str, int, float, or bool
+TEXT_FORMAT_UNORDERED_LIST = "TEXT_FORMAT_UNORDERED_LIST"  # question type when the expected answer is a list or a set where the order does *not* matter
+TEXT_FORMAT_ORDERED_LIST = "TEXT_FORMAT_ORDERED_LIST"  # question type when the expected answer is a list or tuple where the order does matter
+TEXT_FORMAT_DICT = "TEXT_FORMAT_DICT"  # question type when the expected answer is a dictionary
+TEXT_FORMAT_SPECIAL_ORDERED_LIST = "TEXT_FORMAT_SPECIAL_ORDERED_LIST"  # question type when the expected answer is a list where order does matter, but with possible ties. Elements are ordered according to values in special_ordered_json (with ties allowed)
+TEXT_FORMAT_NAMEDTUPLE = "TEXT_FORMAT_NAMEDTUPLE"  # question type when expected answer is a namedtuple
+PNG_FORMAT_SCATTER = "PNG_FORMAT_SCATTER" # question type when the expected answer is a scatter plot
+HTML_FORMAT_ORDERED = "HTML_FORMAT_ORDERED" # question type when the expected answer is a DataFrame and the order of the indices matter
+HTML_FORMAT_UNORDERED = "HTML_FORMAT_UNORDERED" # question type when the expected answer is a DataFrame and the order of the indices does not matter
+FILE_JSON_FORMAT = "FILE_JSON_FORMAT" # question type when the expected answer is a JSON file
+SLASHES = "SLASHES" # question SUFFIX when expected answer contains paths with slashes
+
+def get_expected_format():
+    """get_expected_format() returns a dict mapping each question to the format
+    of the expected answer."""
+    expected_format = {'q1': 'TEXT_FORMAT_DICT',
+                       'q2': 'TEXT_FORMAT_DICT',
+                       'q3': 'TEXT_FORMAT',
+                       'q4': 'TEXT_FORMAT',
+                       'q5': 'TEXT_FORMAT_UNORDERED_LIST',
+                       'q6': 'TEXT_FORMAT_DICT',
+                       'q7': 'TEXT_FORMAT_DICT',
+                       'q8': 'TEXT_FORMAT_DICT',
+                       'q9': 'TEXT_FORMAT_DICT',
+                       'q10': 'TEXT_FORMAT_DICT',
+                       'q11': 'TEXT_FORMAT_DICT',
+                       'q12': 'TEXT_FORMAT_DICT',
+                       'q13': 'TEXT_FORMAT',
+                       'q14': 'TEXT_FORMAT',
+                       'q15': 'TEXT_FORMAT_DICT',
+                       'q16': 'TEXT_FORMAT_DICT',
+                       'q17': 'TEXT_FORMAT_DICT',
+                       'q18': 'TEXT_FORMAT',
+                       'q19': 'TEXT_FORMAT_DICT',
+                       'q20': 'TEXT_FORMAT'}
+    return expected_format
+
+
+def get_expected_json():
+    """get_expected_json() returns a dict mapping each question to the expected
+    answer (if the format permits it)."""
+    expected_json = {'q1': {'ID': 158023,
+                            'Name': 'Michael Lawson',
+                            'Age': 35,
+                            'Nationality': 'Iran',
+                            'Team': 'Williams Group',
+                            'League': 'Premier League (England)',
+                            'Value': 806000,
+                            'Wage': 58000,
+                            'Attacking': 69.3,
+                            'Movement': 54.8,
+                            'Defending': 56.2,
+                            'Goalkeeping': 68.0,
+                            'Overall rating': 69,
+                            'Position': 'LWB',
+                            'Height': 210,
+                            'Preferred foot': 'Right'},
+                     'q2': {'ID': 363568,
+                            'Name': 'R. Greer',
+                            'Age': 25,
+                            'Nationality': 'Botswana',
+                            'Team': 'FC Bayern München',
+                            'League': 'Premier League (England)',
+                            'Value': 249900000,
+                            'Wage': 472000,
+                            'Attacking': 87.8,
+                            'Movement': 38.0,
+                            'Defending': 83.3,
+                            'Goalkeeping': 42.2,
+                            'Overall rating': 87,
+                            'Position': 'CF',
+                            'Height': 168,
+                            'Preferred foot': 'Left'},
+                     'q3': 'Holy See (Vatican City State)',
+                     'q4': 'LB',
+                     'q5': ['Underwood-Hall',
+                            'Edwards-Stanton',
+                            'Morgan-Meyer',
+                            'Johnson and Sons',
+                            'Smith-Wilson',
+                            'Perkins-Downs',
+                            'Dixon Ltd',
+                            'Martinez, Quinn and Neal',
+                            'Johnson PLC',
+                            'Hernandez Inc',
+                            'Johnson-Wade',
+                            'Mack, English and Woodward',
+                            'Liverpool',
+                            'FC Barcelona',
+                            'Reeves, Allen and Flowers',
+                            'Miles, Thomas and Coleman',
+                            'Hoover, Montgomery and Smith',
+                            'Pope-Bryant',
+                            'May-Elliott',
+                            'Thomas, Martin and Elliott',
+                            'Mann-Taylor',
+                            'Sutton-Brooks',
+                            'Jenkins, Porter and Campbell',
+                            'Fuller Ltd',
+                            'Hall, Kim and Williams',
+                            'Avery Inc',
+                            'Paris Saint Germain',
+                            'Walker Group',
+                            'Barton, Hanson and Phillips',
+                            'Richardson-Small',
+                            'Montes PLC',
+                            'Ramirez, Valdez and Harris',
+                            'FC Bayern München',
+                            'Montgomery, Freeman and Rose',
+                            'George, White and Yu',
+                            'Simmons-Marsh',
+                            'Williams Group',
+                            'Davis and Sons',
+                            'Yang Ltd',
+                            'Ramos-Thomas',
+                            'Watkins Ltd',
+                            'Campbell-Hernandez',
+                            'Perkins-Garcia',
+                            'Landry-Robinson',
+                            'Mills, Wiley and Hoffman',
+                            'Anderson-Elliott',
+                            'Mclaughlin Ltd',
+                            'Hayden-Harris',
+                            'Manchester United',
+                            'Valdez Ltd',
+                            'Bruce-Ford'],
+                     'q6': {'Right': 506, 'Left': 494},
+                     'q7': {'Right': 63.94664031620553, 'Left': 64.92307692307692},
+                     'q8': {'LB': 69,
+                            'CF': 76,
+                            'LW': 55,
+                            'ST': 66,
+                            'RB': 101,
+                            'GK': 69,
+                            'CDM': 67,
+                            'RM': 57,
+                            'CM': 65,
+                            'RWB': 62,
+                            'LM': 64,
+                            'LWB': 55,
+                            'RW': 68,
+                            'CB': 69,
+                            'CAM': 57},
+                     'q9': {'LB': 29.956521739130434,
+                            'CF': 29.907894736842106,
+                            'LW': 27.327272727272728,
+                            'ST': 30.21212121212121,
+                            'RB': 30.831683168316832,
+                            'GK': 27.91304347826087,
+                            'CDM': 28.791044776119403,
+                            'RM': 28.894736842105264,
+                            'CM': 29.861538461538462,
+                            'RWB': 31.241935483870968,
+                            'LM': 29.171875,
+                            'LWB': 30.072727272727274,
+                            'RW': 29.220588235294116,
+                            'CB': 28.82608695652174,
+                            'CAM': 28.280701754385966},
+                     'q10': {'LB': 180.97101449275362,
+                             'CF': 179.35526315789474,
+                             'LW': 179.5818181818182,
+                             'ST': 180.1818181818182,
+                             'RB': 180.40594059405942,
+                             'GK': 178.43478260869566,
+                             'CDM': 177.55223880597015,
+                             'RM': 176.66666666666666,
+                             'CM': 180.6769230769231,
+                             'RWB': 180.4516129032258,
+                             'LM': 175.75,
+                             'LWB': 179.98181818181817,
+                             'RW': 177.11764705882354,
+                             'CB': 184.8840579710145,
+                             'CAM': 181.01754385964912},
+                     'q11': {'LB': 39.685507246376815,
+                             'CF': 62.09605263157895,
+                             'LW': 38.93090909090908,
+                             'ST': 63.199999999999996,
+                             'RB': 36.00000000000001,
+                             'GK': 47.04202898550725,
+                             'CDM': 46.417910447761194,
+                             'RM': 37.65964912280701,
+                             'CM': 32.972307692307695,
+                             'RWB': 46.09032258064516,
+                             'LM': 43.69531249999998,
+                             'LWB': 50.165454545454544,
+                             'RW': 36.33823529411763,
+                             'CB': 54.350724637681154,
+                             'CAM': 29.97719298245615},
+                     'q12': {'LB': 53.64492753623189,
+                             'CF': 46.897368421052626,
+                             'LW': 45.58363636363637,
+                             'ST': 55.07121212121211,
+                             'RB': 49.94851485148519,
+                             'GK': 65.76521739130435,
+                             'CDM': 65.710447761194,
+                             'RM': 56.06491228070177,
+                             'CM': 55.60615384615386,
+                             'RWB': 51.50161290322582,
+                             'LM': 69.27187500000001,
+                             'LWB': 48.46545454545454,
+                             'RW': 35.288235294117655,
+                             'CB': 36.40289855072462,
+                             'CAM': 35.95614035087719},
+                     'q13': 'CF',
+                     'q14': 928105,
+                     'q15': {'ID': 1731,
+                             'Name': 'S. Carlson',
+                             'Age': 35,
+                             'Nationality': 'Vanuatu',
+                             'Team': 'Liverpool',
+                             'League': 'Premier League (England)',
+                             'Value': 58800000,
+                             'Wage': 268000,
+                             'Attacking': 48.4,
+                             'Movement': 19.8,
+                             'Defending': 85.3,
+                             'Goalkeeping': 67.0,
+                             'Overall rating': 82,
+                             'Position': 'RW',
+                             'Height': 206,
+                             'Preferred foot': 'Right'},
+                     'q16': {'LWB': 387186,
+                             'RB': 467917,
+                             'GK': 386396,
+                             'CAM': 601727,
+                             'RW': 508608,
+                             'ST': 747741,
+                             'CB': 524445,
+                             'CDM': 887535,
+                             'LB': 388418},
+                     'q17': {'LW': 'M. Shaffer',
+                             'CM': 'Nathan Cooper',
+                             'RB': 'Jason Jr.',
+                             'LM': 'Robert Jr.',
+                             'CAM': 'M. Hays',
+                             'RW': 'A. Collins',
+                             'ST': 'J. Stewart',
+                             'RWB': 'P. Kelley',
+                             'CB': 'Peterson',
+                             'CDM': 'Brett Blair',
+                             'CF': 'R. Greer',
+                             'LB': 'B. Owens'},
+                     'q18': 10973000,
+                     'q19': {'Underwood-Hall': 48.21666666666666,
+                             'Edwards-Stanton': 43.589999999999996,
+                             'Morgan-Meyer': 51.26363636363636,
+                             'Johnson and Sons': 48.65555555555555,
+                             'Smith-Wilson': 36.989999999999995,
+                             'Perkins-Downs': 58.339999999999996,
+                             'Dixon Ltd': 42.88181818181818,
+                             'Martinez, Quinn and Neal': 49.88000000000001,
+                             'Johnson PLC': 52.79999999999998,
+                             'Hernandez Inc': 48.94444444444445,
+                             'Johnson-Wade': 46.83,
+                             'Mack, English and Woodward': 45.445454545454545,
+                             'Liverpool': 44.381818181818176,
+                             'FC Barcelona': 44.28888888888889,
+                             'Reeves, Allen and Flowers': 41.98461538461538,
+                             'Miles, Thomas and Coleman': 48.7,
+                             'Hoover, Montgomery and Smith': 45.65833333333334,
+                             'Pope-Bryant': 48.714285714285715,
+                             'May-Elliott': 45.788888888888884,
+                             'Thomas, Martin and Elliott': 41.528571428571425,
+                             'Mann-Taylor': 56.154545454545456,
+                             'Sutton-Brooks': 46.33846153846153,
+                             'Jenkins, Porter and Campbell': 55.577777777777776,
+                             'Fuller Ltd': 42.65,
+                             'Hall, Kim and Williams': 47.19166666666667,
+                             'Avery Inc': 49.31428571428571,
+                             'Paris Saint Germain': 36.37777777777777,
+                             'Walker Group': 40.022222222222226,
+                             'Barton, Hanson and Phillips': 43.040000000000006,
+                             'Richardson-Small': 47.3909090909091,
+                             'Montes PLC': 47.47777777777778,
+                             'Ramirez, Valdez and Harris': 48.025,
+                             'FC Bayern München': 50.86666666666665,
+                             'Montgomery, Freeman and Rose': 48.66363636363637,
+                             'George, White and Yu': 38.77272727272727,
+                             'Simmons-Marsh': 47.440000000000005,
+                             'Williams Group': 45.61428571428571,
+                             'Davis and Sons': 42.94166666666666,
+                             'Yang Ltd': 41.9923076923077,
+                             'Ramos-Thomas': 40.03,
+                             'Watkins Ltd': 49.02727272727273,
+                             'Campbell-Hernandez': 43.60000000000001,
+                             'Perkins-Garcia': 46.27777777777778,
+                             'Landry-Robinson': 41.35,
+                             'Mills, Wiley and Hoffman': 45.284615384615385,
+                             'Anderson-Elliott': 49.79230769230769,
+                             'Mclaughlin Ltd': 48.04999999999999,
+                             'Hayden-Harris': 47.68461538461539,
+                             'Manchester United': 48.96428571428572,
+                             'Valdez Ltd': 49.599999999999994,
+                             'Bruce-Ford': 45.38}}
+    return expected_json
+
+
+def get_special_json():
+    """get_special_json() returns a dict mapping each question to the expected
+    answer stored in a special format as a list of tuples. Each tuple contains
+    the element expected in the list, and its corresponding value. Any two
+    elements with the same value can appear in any order in the actual list,
+    but if two elements have different values, then they must appear in the
+    same order as in the expected list of tuples."""
+    special_json = {}
+    return special_json
+
+
+def compare(expected, actual, q_format=TEXT_FORMAT):
+    """compare(expected, actual) is used to compare when the format of
+    the expected answer is known for certain."""
+    try:
+        if SLASHES in q_format:
+            q_format = q_format.replace(SLASHES, "").strip("_ ")
+            expected = clean_slashes(expected)
+            actual = clean_slashes(actual)
+            
+        if q_format == TEXT_FORMAT:
+            return simple_compare(expected, actual)
+        elif q_format == TEXT_FORMAT_UNORDERED_LIST:
+            return list_compare_unordered(expected, actual)
+        elif q_format == TEXT_FORMAT_ORDERED_LIST:
+            return list_compare_ordered(expected, actual)
+        elif q_format == TEXT_FORMAT_DICT:
+            return dict_compare(expected, actual)
+        elif q_format == TEXT_FORMAT_SPECIAL_ORDERED_LIST:
+            return list_compare_special(expected, actual)
+        elif q_format == TEXT_FORMAT_NAMEDTUPLE:
+            return namedtuple_compare(expected, actual)
+        elif q_format == PNG_FORMAT_SCATTER:
+            return compare_flip_dicts(expected, actual)
+        elif q_format == HTML_FORMAT_ORDERED:
+            return table_compare_ordered(expected, actual)
+        elif q_format == HTML_FORMAT_UNORDERED:
+            return table_compare_unordered(expected, actual)
+        elif q_format == FILE_JSON_FORMAT:
+            return compare_file_json(expected, actual)
+        else:
+            if expected != actual:
+                return "expected %s but found %s " % (repr(expected), repr(actual))
+    except:
+        if expected != actual:
+            return "expected %s but found %s " % (repr(expected), repr(actual))
+    return PASS
+
+
+def print_message(expected, actual, complete_msg=True):
+    """print_message(expected, actual) displays a simple error message."""
+    msg = "expected %s" % (repr(expected))
+    if complete_msg:
+        msg = msg + " but found %s" % (repr(actual))
+    return msg
+
+
+def simple_compare(expected, actual, complete_msg=True):
+    """simple_compare(expected, actual) is used to compare when the expected answer
+    is a type/Nones/str/int/float/bool. When the expected answer is a float,
+    the actual answer is allowed to be within the tolerance limit. Otherwise,
+    the values must match exactly, or a very simple error message is displayed."""
+    msg = PASS
+    if 'numpy' in repr(type((actual))):
+        actual = actual.item()
+    if isinstance(expected, type):
+        if expected != actual:
+            if isinstance(actual, type):
+                msg = "expected %s but found %s" % (expected.__name__, actual.__name__)
+            else:
+                msg = "expected %s but found %s" % (expected.__name__, repr(actual))
+            return msg
+    elif not isinstance(actual, type(expected)):
+        if not (isinstance(expected, (float, int)) and isinstance(actual, (float, int))) and not is_namedtuple(expected):
+            return "expected to find type %s but found type %s" % (type(expected).__name__, type(actual).__name__)
+    if isinstance(expected, float):
+        if not math.isclose(actual, expected, rel_tol=REL_TOL):
+            msg = print_message(expected, actual, complete_msg)
+    elif isinstance(expected, (list, tuple)) or is_namedtuple(expected):
+        new_msg = print_message(expected, actual, complete_msg)
+        if len(expected) != len(actual):
+            return new_msg
+        for i in range(len(expected)):
+            val = simple_compare(expected[i], actual[i])
+            if val != PASS:
+                return new_msg
+    elif isinstance(expected, dict):
+        new_msg = print_message(expected, actual, complete_msg)
+        if len(expected) != len(actual):
+            return new_msg
+        val = simple_compare(sorted(list(expected.keys())), sorted(list(actual.keys())))
+        if val != PASS:
+            return new_msg
+        for key in expected:
+            val = simple_compare(expected[key], actual[key])
+            if val != PASS:
+                return new_msg
+    else:
+        if expected != actual:
+            msg = print_message(expected, actual, complete_msg)
+    return msg
+
+
+def intelligent_compare(expected, actual, obj=None):
+    """intelligent_compare(expected, actual) is used to compare when the
+    data type of the expected answer is not known for certain, and default
+    assumptions  need to be made."""
+    if obj == None:
+        obj = type(expected).__name__
+    if is_namedtuple(expected):
+        msg = namedtuple_compare(expected, actual)
+    elif isinstance(expected, (list, tuple)):
+        msg = list_compare_ordered(expected, actual, obj)
+    elif isinstance(expected, set):
+        msg = list_compare_unordered(expected, actual, obj)
+    elif isinstance(expected, (dict)):
+        msg = dict_compare(expected, actual)
+    else:
+        msg = simple_compare(expected, actual)
+    msg = msg.replace("CompDict", "dict").replace("CompSet", "set").replace("NewNone", "None")
+    return msg
+
+
+def is_namedtuple(obj, init_check=True):
+    """is_namedtuple(obj) returns True if `obj` is a namedtuple object
+    defined in the test file."""
+    bases = type(obj).__bases__
+    if len(bases) != 1 or bases[0] != tuple:
+        return False
+    fields = getattr(type(obj), '_fields', None)
+    if not isinstance(fields, tuple):
+        return False
+    if init_check and not type(obj).__name__ in [nt.__name__ for nt in _expected_namedtuples]:
+        return False
+    return True
+
+
+def list_compare_ordered(expected, actual, obj=None):
+    """list_compare_ordered(expected, actual) is used to compare when the
+    expected answer is a list/tuple, where the order of the elements matters."""
+    msg = PASS
+    if not isinstance(actual, type(expected)):
+        msg = "expected to find type %s but found type %s" % (type(expected).__name__, type(actual).__name__)
+        return msg
+    if obj == None:
+        obj = type(expected).__name__
+    for i in range(len(expected)):
+        if i >= len(actual):
+            msg = "at index %d of the %s, expected missing %s" % (i, obj, repr(expected[i]))
+            break
+        val = intelligent_compare(expected[i], actual[i], "sub" + obj)
+        if val != PASS:
+            msg = "at index %d of the %s, " % (i, obj) + val
+            break
+    if len(actual) > len(expected) and msg == PASS:
+        msg = "at index %d of the %s, found unexpected %s" % (len(expected), obj, repr(actual[len(expected)]))
+    if len(expected) != len(actual):
+        msg = msg + " (found %d entries in %s, but expected %d)" % (len(actual), obj, len(expected))
+
+    if len(expected) > 0:
+        try:
+            if msg != PASS and list_compare_unordered(expected, actual, obj) == PASS:
+                msg = msg + " (%s may not be ordered as required)" % (obj)
+        except:
+            pass
+    return msg
+
+
+def list_compare_helper(larger, smaller):
+    """list_compare_helper(larger, smaller) is a helper function which takes in
+    two lists of possibly unequal sizes and finds the item that is not present
+    in the smaller list, if there is such an element."""
+    msg = PASS
+    j = 0
+    for i in range(len(larger)):
+        if i == len(smaller):
+            msg = "expected %s" % (repr(larger[i]))
+            break
+        found = False
+        while not found:
+            if j == len(smaller):
+                val = simple_compare(larger[i], smaller[j - 1], complete_msg=False)
+                break
+            val = simple_compare(larger[i], smaller[j], complete_msg=False)
+            j += 1
+            if val == PASS:
+                found = True
+                break
+        if not found:
+            msg = val
+            break
+    return msg
+
+class NewNone():
+    """alternate class in place of None, which allows for comparison with
+    all other data types."""
+    def __str__(self):
+        return 'None'
+    def __repr__(self):
+        return 'None'
+    def __lt__(self, other):
+        return True
+    def __le__(self, other):
+        return True
+    def __gt__(self, other):
+        return False
+    def __ge__(self, other):
+        return other == None
+    def __eq__(self, other):
+        return other == None
+    def __ne__(self, other):
+        return other != None
+
+class CompDict(dict):
+    """subclass of dict, which allows for comparison with other dicts."""
+    def __init__(self, vals):
+        super(self.__class__, self).__init__(vals)
+        if type(vals) == CompDict:
+            self.val = vals.val
+        elif isinstance(vals, dict):
+            self.val = self.get_equiv(vals)
+        else:
+            raise TypeError("'%s' object cannot be type casted to CompDict class" % type(vals).__name__)
+
+    def get_equiv(self, vals):
+        val = []
+        for key in sorted(list(vals.keys())):
+            val.append((key, vals[key]))
+        return val
+
+    def __str__(self):
+        return str(dict(self.val))
+    def __repr__(self):
+        return repr(dict(self.val))
+    def __lt__(self, other):
+        return self.val < CompDict(other).val
+    def __le__(self, other):
+        return self.val <= CompDict(other).val
+    def __gt__(self, other):
+        return self.val > CompDict(other).val
+    def __ge__(self, other):
+        return self.val >= CompDict(other).val
+    def __eq__(self, other):
+        return self.val == CompDict(other).val
+    def __ne__(self, other):
+        return self.val != CompDict(other).val
+
+class CompSet(set):
+    """subclass of set, which allows for comparison with other sets."""
+    def __init__(self, vals):
+        super(self.__class__, self).__init__(vals)
+        if type(vals) == CompSet:
+            self.val = vals.val
+        elif isinstance(vals, set):
+            self.val = self.get_equiv(vals)
+        else:
+            raise TypeError("'%s' object cannot be type casted to CompSet class" % type(vals).__name__)
+
+    def get_equiv(self, vals):
+        return sorted(list(vals))
+
+    def __str__(self):
+        return str(set(self.val))
+    def __repr__(self):
+        return repr(set(self.val))
+    def __getitem__(self, index):
+        return self.val[index]
+    def __lt__(self, other):
+        return self.val < CompSet(other).val
+    def __le__(self, other):
+        return self.val <= CompSet(other).val
+    def __gt__(self, other):
+        return self.val > CompSet(other).val
+    def __ge__(self, other):
+        return self.val >= CompSet(other).val
+    def __eq__(self, other):
+        return self.val == CompSet(other).val
+    def __ne__(self, other):
+        return self.val != CompSet(other).val
+
+def make_sortable(item):
+    """make_sortable(item) replaces all Nones in `item` with an alternate
+    class that allows for comparison with str/int/float/bool/list/set/tuple/dict.
+    It also replaces all dicts (and sets) with a subclass that allows for
+    comparison with other dicts (and sets)."""
+    if item == None:
+        return NewNone()
+    elif isinstance(item, (type, str, int, float, bool)):
+        return item
+    elif isinstance(item, (list, set, tuple)):
+        new_item = []
+        for subitem in item:
+            new_item.append(make_sortable(subitem))
+        if is_namedtuple(item):
+            return type(item)(*new_item)
+        elif isinstance(item, set):
+            return CompSet(new_item)
+        else:
+            return type(item)(new_item)
+    elif isinstance(item, dict):
+        new_item = {}
+        for key in item:
+            new_item[key] = make_sortable(item[key])
+        return CompDict(new_item)
+    return item
+
+def list_compare_unordered(expected, actual, obj=None):
+    """list_compare_unordered(expected, actual) is used to compare when the
+    expected answer is a list/set where the order of the elements does not matter."""
+    msg = PASS
+    if not isinstance(actual, type(expected)):
+        msg = "expected to find type %s but found type %s" % (type(expected).__name__, type(actual).__name__)
+        return msg
+    if obj == None:
+        obj = type(expected).__name__
+
+    try:
+        sort_expected = sorted(make_sortable(expected))
+        sort_actual = sorted(make_sortable(actual))
+    except:
+        return "unexpected datatype found in %s; expected entries of type %s" % (obj, obj, type(expected[0]).__name__)
+
+    if len(actual) == 0 and len(expected) > 0:
+        msg = "in the %s, missing " % (obj) + sort_expected[0]
+    elif len(actual) > 0 and len(expected) > 0:
+        val = intelligent_compare(sort_expected[0], sort_actual[0])
+        if val.startswith("expected to find type"):
+            msg = "in the %s, " % (obj) + simple_compare(sort_expected[0], sort_actual[0])
+        else:
+            if len(expected) > len(actual):
+                msg = "in the %s, missing " % (obj) + list_compare_helper(sort_expected, sort_actual)
+            elif len(expected) < len(actual):
+                msg = "in the %s, found un" % (obj) + list_compare_helper(sort_actual, sort_expected)
+            if len(expected) != len(actual):
+                msg = msg + " (found %d entries in %s, but expected %d)" % (len(actual), obj, len(expected))
+                return msg
+            else:
+                val = list_compare_helper(sort_expected, sort_actual)
+                if val != PASS:
+                    msg = "in the %s, missing " % (obj) + val + ", but found un" + list_compare_helper(sort_actual,
+                                                                                               sort_expected)
+    return msg
+
+
+def namedtuple_compare(expected, actual):
+    """namedtuple_compare(expected, actual) is used to compare when the
+    expected answer is a namedtuple defined in the test file."""
+    msg = PASS
+    if not is_namedtuple(actual, False):
+        return "expected to find type %s namedtuple but found type %s" % (type(expected).__name__, type(actual).__name__)
+    if type(expected).__name__ != type(actual).__name__:
+        return "expected to find type %s namedtuple but found type %s namedtuple" % (type(expected).__name__, type(actual).__name__)
+    expected_fields = expected._fields
+    actual_fields = actual._fields
+    msg = list_compare_ordered(list(expected_fields), list(actual_fields), "namedtuple attributes")
+    if msg != PASS:
+        return msg
+    for field in expected_fields:
+        val = intelligent_compare(getattr(expected, field), getattr(actual, field))
+        if val != PASS:
+            msg = "at attribute %s of namedtuple %s, " % (field, type(expected).__name__) + val
+            return msg
+    return msg
+
+
+def clean_slashes(item):
+    """clean_slashes()"""
+    if isinstance(item, str):
+        return type(item)(str(item).replace("\\", os.path.sep).replace("/", os.path.sep))
+    elif item == None or isinstance(item, (type, int, float, bool)):
+        return item
+    elif isinstance(item, (list, tuple, set)) or is_namedtuple(item):
+        new_item = []
+        for subitem in item:
+            new_item.append(clean_slashes(subitem))
+        if is_namedtuple(item):
+            return type(item)(*new_item)
+        else:
+            return type(item)(new_item)
+    elif isinstance(item, dict):
+        new_item = {}
+        for key in item:
+            new_item[clean_slashes(key)] = clean_slashes(item[key])
+        return item
+
+
+def list_compare_special_initialize(special_expected):
+    """list_compare_special_initialize(special_expected) takes in the special
+    ordering stored as a sorted list of items, and returns a list of lists
+    where the ordering among the inner lists does not matter."""
+    latest_val = None
+    clean_special = []
+    for row in special_expected:
+        if latest_val == None or row[1] != latest_val:
+            clean_special.append([])
+            latest_val = row[1]
+        clean_special[-1].append(row[0])
+    return clean_special
+
+
+def list_compare_special(special_expected, actual):
+    """list_compare_special(special_expected, actual) is used to compare when the
+    expected answer is a list with special ordering defined in `special_expected`."""
+    msg = PASS
+    expected_list = []
+    special_order = list_compare_special_initialize(special_expected)
+    for expected_item in special_order:
+        expected_list.extend(expected_item)
+    val = list_compare_unordered(expected_list, actual)
+    if val != PASS:
+        return val
+    i = 0
+    for expected_item in special_order:
+        j = len(expected_item)
+        actual_item = actual[i: i + j]
+        val = list_compare_unordered(expected_item, actual_item)
+        if val != PASS:
+            if j == 1:
+                msg = "at index %d " % (i) + val
+            else:
+                msg = "between indices %d and %d " % (i, i + j - 1) + val
+            msg = msg + " (list may not be ordered as required)"
+            break
+        i += j
+    return msg
+
+
+def dict_compare(expected, actual, obj=None):
+    """dict_compare(expected, actual) is used to compare when the expected answer
+    is a dict."""
+    msg = PASS
+    if not isinstance(actual, type(expected)):
+        msg = "expected to find type %s but found type %s" % (type(expected).__name__, type(actual).__name__)
+        return msg
+    if obj == None:
+        obj = type(expected).__name__
+
+    expected_keys = list(expected.keys())
+    actual_keys = list(actual.keys())
+    val = list_compare_unordered(expected_keys, actual_keys, obj)
+
+    if val != PASS:
+        msg = "bad keys in %s: " % (obj) + val
+    if msg == PASS:
+        for key in expected:
+            new_obj = None
+            if isinstance(expected[key], (list, tuple, set)):
+                new_obj = 'value'
+            elif isinstance(expected[key], dict):
+                new_obj = 'sub' + obj
+            val = intelligent_compare(expected[key], actual[key], new_obj)
+            if val != PASS:
+                msg = "incorrect value for key %s in %s: " % (repr(key), obj) + val
+    return msg
+
+
+def is_flippable(item):
+    """is_flippable(item) determines if the given dict of lists has lists of the
+    same length and is therefore flippable."""
+    item_lens = set(([str(len(item[key])) for key in item]))
+    if len(item_lens) == 1:
+        return PASS
+    else:
+        return "found lists of lengths %s" % (", ".join(list(item_lens)))
+
+def flip_dict_of_lists(item):
+    """flip_dict_of_lists(item) flips a dict of lists into a list of dicts if the
+    lists are of same length."""
+    new_item = []
+    length = len(list(item.values())[0])
+    for i in range(length):
+        new_dict = {}
+        for key in item:
+            new_dict[key] = item[key][i]
+        new_item.append(new_dict)
+    return new_item
+
+def compare_flip_dicts(expected, actual):
+    """compare_flip_dicts(expected, actual) flips a dict of lists (or dicts) into
+    a list of dicts (or dict of dicts) and then compares the list ignoring order."""
+    msg = PASS
+    example_item = list(expected.values())[0]
+    if isinstance(example_item, (list, tuple)):
+        val = is_flippable(actual)
+        if val != PASS:
+            msg = "expected to find lists of length %d, but " % (len(example_item)) + val
+            return msg
+        msg = list_compare_unordered(flip_dict_of_lists(expected), flip_dict_of_lists(actual), "lists")
+    elif isinstance(example_item, dict):
+        expected_keys = list(example_item.keys())
+        for key in actual:
+            val = list_compare_unordered(expected_keys, list(actual[key].keys()), "dictionary %s" % key)
+            if val != PASS:
+                return val
+        for cat_key in expected_keys:
+            expected_category = {}
+            actual_category = {}
+            for key in expected:
+                expected_category[key] = expected[key][cat_key]
+                actual_category[key] = actual[key][cat_key]
+            val = list_compare_unordered(flip_dict_of_lists(expected_category), flip_dict_of_lists(actual_category), "category " + repr(cat_key))
+            if val != PASS:
+                return val
+    return msg
+
+
+def get_expected_tables():
+    """get_expected_tables() reads the html file with the expected DataFrames
+    and returns a dict mapping each question to a html table."""
+    if not os.path.exists(DF_FILE):
+        return None
+
+    expected_tables = {}
+    f = open(DF_FILE, encoding='utf-8')
+    soup = bs4.BeautifulSoup(f.read(), 'html.parser')
+    f.close()
+
+    tables = soup.find_all('table')
+    for table in tables:
+        expected_tables[table.get("data-question")] = table
+
+    return expected_tables
+
+def parse_table(table):
+    """parse_table(table) takes in a table as a html string and returns
+    a dict mapping each row and column index to the value at that position."""
+    rows = []
+    for tr in table.find_all('tr'):
+        rows.append([])
+        for cell in tr.find_all(['td', 'th']):
+            rows[-1].append(cell.get_text().strip("\n "))
+
+    cells = {}
+    for r in range(1, len(rows)):
+        for c in range(1, len(rows[0])):
+            rname = rows[r][0]
+            cname = rows[0][c]
+            cells[(rname,cname)] = rows[r][c]
+    return cells
+
+
+def get_expected_namedtuples():
+    """get_expected_namedtuples() defines the required namedtuple objects
+    globally. It also returns a tuple of the classes."""
+    expected_namedtuples = []
+    
+    return tuple(expected_namedtuples)
+
+_expected_namedtuples = get_expected_namedtuples()
+
+
+def parse_df(item):
+    """parse_df(item) takes in a DataFrame input in any format (i.e, a DataFrame, or as html string)
+    and extracts the table in the DataFrame as a bs4.BeautifulSoup object"""
+    if isinstance(item, (pd.Series)):
+        item = pd.DataFrame(item)
+    if isinstance(item, (pd.DataFrame)):
+        item = item.to_html()
+    if isinstance(item, (str)):
+        item = bs4.BeautifulSoup(item, 'html.parser').find('table')
+    if isinstance(item, (bs4.element.Tag)):
+        return item
+    return "item could not be parsed"
+
+
+def parse_cells(cells):
+    """parse_cells(cells) takes in DataFrame cells as input and returns a DataFrame object"""
+    table = {}
+    for idx in cells:
+        if idx[1] not in table:
+            table[idx[1]] = {}
+        table[idx[1]][idx[0]] = cells[idx]
+    return pd.DataFrame(table)
+
+
+def compare_cell_html(expected_cells, actual_cells):
+    """compare_cell_html(expected_cells, actual_cells) is used to compare all the cells
+    of two DataFrames."""
+    expected_cols = list(set(["column %s" % (loc[1]) for loc in expected_cells]))
+    actual_cols = list(set(["column %s" % (loc[1]) for loc in actual_cells]))
+    msg = list_compare_unordered(expected_cols, actual_cols, "DataFrame")
+    if msg != PASS:
+        return msg
+
+    expected_rows = list(set(["row index %s" % (loc[0]) for loc in expected_cells]))
+    actual_rows = list(set(["row index %s" % (loc[0]) for loc in actual_cells]))
+    msg = list_compare_unordered(expected_rows, actual_rows, "DataFrame")
+    if msg != PASS:
+        return msg
+
+    for location, expected in expected_cells.items():
+        location_name = "column {} at index {}".format(location[1], location[0])
+        actual = actual_cells.get(location, None)
+        if actual == None:
+            return "in %s, expected to find %s" % (location_name, repr(expected))
+        try:
+            actual_ans = float(actual)
+            expected_ans = float(expected)
+            if math.isnan(actual_ans) and math.isnan(expected_ans):
+                continue
+        except Exception as e:
+            actual_ans, expected_ans = actual, expected
+        msg = simple_compare(expected_ans, actual_ans)
+        if msg != PASS:
+            return "in %s, " % location_name + msg
+    return PASS
+
+
+def table_compare_ordered(expected, actual):
+    """table_compare_ordered(expected, actual) is used to compare when the
+    expected answer is a DataFrame where the order of the indices matter."""
+    try:
+        expected_table = parse_df(expected)
+        actual_table = parse_df(actual)
+    except Exception as e:
+        return "expected to find type DataFrame but found type %s instead" % type(actual).__name__
+    
+    if not isinstance(expected_table, (bs4.element.Tag)) or not isinstance(actual_table, (bs4.element.Tag)):
+        return "expected to find type DataFrames but found types %s and %s instead" % (type(expected).__name__, type(actual).__name__)
+    expected_cells = parse_table(expected_table)
+    actual_cells = parse_table(actual_table)
+    return compare_cell_html(expected_cells, actual_cells)
+
+
+def table_compare_unordered(expected, actual):
+    """table_compare_unordered(expected, actual) is used to compare when the
+    expected answer is a DataFrame where the order of the indices do not matter."""
+    try:
+        expected_table = parse_df(expected)
+        actual_table = parse_df(actual)
+    except Exception as e:
+        return "expected to find type DataFrame but found type %s instead" % type(actual).__name__
+    
+    if not isinstance(expected_table, (bs4.element.Tag)) or not isinstance(actual_table, (bs4.element.Tag)):
+        return "expected to find type DataFrames but found types %s and %s instead" % (type(expected).__name__, type(actual).__name__)
+    expected_cells = parse_table(expected_table)
+    actual_cells = parse_table(actual_table)
+    
+    new_expected = parse_cells(expected_cells)
+    new_actual = parse_cells(actual_cells)
+    
+    new_expected = new_expected.sort_values(by=list(new_expected.columns)).reset_index(drop=True)
+    new_actual = new_actual.sort_values(by=list(new_expected.columns)).reset_index(drop=True)[list(new_expected.columns)]
+    
+    return table_compare_ordered(new_expected, new_actual)
+
+
+def get_expected_plots():
+    """get_expected_plots() reads the json file with the expected plot data
+    and returns a dict mapping each question to a dictionary with the plots data."""
+    if not os.path.exists(PLOT_FILE):
+        return None
+
+    f = open(PLOT_FILE, encoding='utf-8')
+    expected_plots = json.load(f)
+    f.close()
+    return expected_plots
+
+
+def compare_file_json(expected, actual):
+    """compare_file_json(expected, actual) is used to compare when the
+    expected answer is a JSON file."""
+    msg = PASS
+    if not os.path.isfile(expected):
+        return "file %s not found; make sure it is downloaded and stored in the correct directory" % (expected)
+    elif not os.path.isfile(actual):
+        return "file %s not found; make sure that you have created the file with the correct name" % (actual)
+    try:
+        e = open(expected, encoding='utf-8')
+        expected_data = json.load(e)
+        e.close()
+    except json.JSONDecodeError:
+        return "file %s is broken and cannot be parsed; please delete and redownload the file correctly" % (expected)
+    try:
+        a = open(actual, encoding='utf-8')
+        actual_data = json.load(a)
+        a.close()
+    except json.JSONDecodeError:
+        return "file %s is broken and cannot be parsed" % (actual)
+    if isinstance(expected_data, list):
+        msg = list_compare_ordered(expected_data, actual_data, 'file ' + actual)
+    elif isinstance(expected_data, dict):
+        msg = dict_compare(expected_data, actual_data)
+    return msg
+
+
+_expected_json = get_expected_json()
+_special_json = get_special_json()
+_expected_plots = get_expected_plots()
+_expected_tables = get_expected_tables()
+_expected_format = get_expected_format()
+
+def check(qnum, actual):
+    """check(qnum, actual) is used to check if the answer in the notebook is
+    the correct answer, and provide useful feedback if the answer is incorrect."""
+    msg = PASS
+    error_msg = "<b style='color: red;'>ERROR:</b> "
+    q_format = _expected_format[qnum]
+
+    if q_format == TEXT_FORMAT_SPECIAL_ORDERED_LIST:
+        expected = _special_json[qnum]
+    elif q_format == PNG_FORMAT_SCATTER:
+        if _expected_plots == None:
+            msg = error_msg + "file %s not parsed; make sure it is downloaded and stored in the correct directory" % (PLOT_FILE)
+        else:
+            expected = _expected_plots[qnum]
+    elif q_format in [HTML_FORMAT_ORDERED, HTML_FORMAT_UNORDERED]:
+        if _expected_tables == None:
+            msg = error_msg + "file %s not parsed; make sure it is downloaded and stored in the correct directory" % (DF_FILE)
+        else:
+            expected = _expected_tables[qnum]
+    else:
+        expected = _expected_json[qnum]
+
+    if msg != PASS:
+        print(msg)
+    else:
+        msg = compare(expected, actual, q_format)
+        if msg != PASS:
+            msg = error_msg + msg
+        print(msg)
+
+
+def reset_hidden_tests():
+    """reset_hidden_tests() resets all hidden tests on the Gradescope autograder where the hidden test file exists"""
+    if not os.path.exists(HIDDEN_FILE):
+        return
+    hidn.reset_hidden_tests()
+
+def rubric_check(rubric_point):
+    """rubric_check(rubric_point) uses the hidden test file on the Gradescope autograder to grade the `rubric_point`"""
+    if not os.path.exists(HIDDEN_FILE):
+        print(PASS)
+        return
+    error_msg_1 = "ERROR: "
+    error_msg_2 = "TEST DETAILS: "
+    try:
+        msg = hidn.rubric_check(rubric_point)
+    except:
+        msg = "hidden tests crashed before execution"
+    if msg != PASS:
+        hidn.make_deductions(rubric_point)
+        if msg == "hidden tests crashed before execution":
+            comment = "This is most likely due to a bug in the autograder, or due to code in your notebook"
+            comment += "\nthat does not meet our specifications. Please contact the TAs to get this resolved."
+            link = "INSTRUCTIONS FOR COURSE STAFF: to debug, execute the following code in the test environment"
+            link += "\nin a cell anywhere in this notebook:"
+            link += "\n`public_tests.hidn.rubric_check('%s')`" % (rubric_point)
+        else:
+            comment = hidn.get_comment(rubric_point)
+            link = "<a href=%s>TEST DIRECTORY LINK FOR COURSE STAFF</a>" % (hidn.get_directory_link(rubric_point))
+        msg = error_msg_1 + msg
+        if comment != "":
+            msg = msg + "\n" + error_msg_2 + comment
+        msg = msg + "\n" + link
+    print(msg)
+
+def get_summary():
+    """get_summary() returns the summary of the notebook using the hidden test file on the Gradescope autograder"""
+    try:
+        if not os.path.exists(HIDDEN_FILE):
+            print("Total Score: %d/%d" % (TOTAL_SCORE, TOTAL_SCORE))
+            return
+        print(hidn.get_deduction_string())
+    except:
+        print("hidden tests crashed before execution")
+
+def display_late_days_used():
+    """display_late_days_used() prints details about the number of late days used by the student"""
+    if not os.path.exists(HIDDEN_FILE):
+        print()
+        return
+    hidn.display_late_days_used()
+
+
+def identify_nb():
+    """identify_nb() identifies the name of the project `.ipynb` file that is tested by this file"""
+    for file in os.listdir():
+        if not file.endswith(".ipynb"):
+            continue
+        project_name = file.split(".")[0].lower().strip()
+        if not (project_name.startswith("p") or project_name.startswith("lab-p")):
+            continue
+        project_num = project_name.replace("lab-p", "").replace("p", "")
+        if not (project_num.isnumeric() and 1 <= int(project_num) <= 13):
+            continue
+        return file
+
+
+
+import nbformat
+
+def get_score_digit(digit):
+    """get_score_digit(digit) returns the `digit` of the score using the hidden test file on the Gradescope autograder"""
+    try:
+        file = identify_nb()
+        if file == None:
+            return 0
+        with open(file, encoding='utf-8') as f:
+            nb = nbformat.read(f, as_version=nbformat.NO_CONVERT)
+        if nb['cells'][0]['cell_type'] == "raw" and nb['cells'][0]['source'].startswith("# ASSIGNMENT CONFIG"):
+            return 1
+        elif not os.path.exists(HIDDEN_FILE):
+            return 0
+        score = hidn.get_score()
+        digits = bin(score)[2:]
+        digits = "0"*(7 - len(digits)) + digits
+        return int(digits[6 - digit])
+    except:
+        return 0
+
+
+# -
+
+def detect_public_tests():
+    '''detect_public_tests() updates the `deductions` variable if there are any references to `public_tests` in `FILE`
+    other than the `import public_tests`'''
+    try:
+        file = identify_nb()
+        with open(file, encoding='utf-8') as f:
+            nb = nbformat.read(f, as_version=nbformat.NO_CONVERT)
+        if nb['cells'][0]['cell_type'] == "raw" and nb['cells'][0]['source'].startswith("# ASSIGNMENT CONFIG"):
+            return
+        if hidn.detect_public_tests():
+            hidn.deductions = {'unexpected references to `public_tests` in notebook': hidn.TOTAL_SCORE}
+    except:
+        pass

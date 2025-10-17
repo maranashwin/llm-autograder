@@ -1,0 +1,51 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+239085,E. Haaland,22,Norway,Manchester City,Premier League (England),€185M,€340K,78.6,83.6,38.0,10.4,91,ST,195cm,Left
+231747,K. Mbappé,24,France,Paris Saint Germain,Ligue 1 (France),€181.5M,€230K,83.0,92.4,30.7,8.4,91,ST,182cm,Right
+192985,K. De Bruyne,32,Belgium,Manchester City,Premier League (England),€103M,€350K,82.4,78.8,63.0,11.2,91,CM,181cm,Right
+202126,H. Kane,29,England,FC Bayern München,Bundesliga (Germany),€119.5M,€170K,88.0,74.0,43.3,10.8,90,ST,188cm,Right
+192119,T. Courtois,31,Belgium,Real Madrid,La Liga (Spain),€63M,€250K,17.2,58.0,18.0,86.6,90,GK,200cm,Left
+188545,R. Lewandowski,34,Poland,FC Barcelona,La Liga (Spain),€58M,€340K,86.6,80.8,32.0,10.2,90,ST,185cm,Right
+158023,L. Messi,36,Argentina,Inter Miami,Major League Soccer (United States),€41M,€23K,81.8,87.0,26.3,10.8,90,CAM,169cm,Left
+264012,S. Smith,22,United States,Portland Thorns W,National Women's Soccer League (United States),€138M,€2K,82.6,88.8,40.7,11.4,89,ST,164cm,Right
+239818,Rúben Dias,26,Portugal,Manchester City,Premier League (England),€106.5M,€250K,57.0,65.6,89.7,9.4,89,CB,187cm,Right
+238794,Vini Jr.,22,Brazil,Real Madrid,La Liga (Spain),€158.5M,€310K,73.8,90.8,25.0,7.2,89,LW,176cm,Right
+231866,Rodri,27,Spain,Manchester City,Premier League (England),€112M,€250K,74.0,68.4,85.0,9.8,89,CDM,191cm,Right
+212831,Alisson,30,Brazil,Liverpool,Premier League (England),€68.5M,€180K,27.8,54.6,16.7,87.0,89,GK,193cm,Right
+209331,M. Salah,31,Egypt,Liverpool,Premier League (England),€85.5M,€260K,79.8,90.2,40.7,12.4,89,RW,175cm,Left
+203376,V. van Dijk,31,Netherlands,Liverpool,Premier League (England),€70.5M,€220K,63.0,70.0,89.0,11.6,89,CB,193cm,Right
+192448,M. ter Stegen,31,Germany,FC Barcelona,La Liga (Spain),€54.5M,€220K,23.6,52.4,16.0,87.4,89,GK,187cm,Right
+190871,Neymar Jr,31,Brazil,Al Hilal,Pro League (Saudi Arabia),€85.5M,€115K,80.0,87.4,32.0,11.8,89,LW,175cm,Right
+165153,K. Benzema,35,France,Al Ittihad,Pro League (Saudi Arabia),€44M,€89K,86.6,78.4,28.3,8.2,89,CF,185cm,Right
+252371,J. Bellingham,20,England,Real Madrid,La Liga (Spain),€128.5M,€230K,77.0,82.2,77.7,9.6,88,CAM,186cm,Right
+239053,F. Valverde,24,Uruguay,Real Madrid,La Liga (Spain),€130.5M,€270K,74.4,81.8,81.0,9.0,88,CM,182cm,Right
+231478,L. Martínez,25,Argentina,Inter,Serie A (Italy),€116M,€180K,80.6,85.4,43.3,9.6,88,ST,174cm,Right
+218667,Bernardo Silva,28,Portugal,Manchester City,Premier League (England),€91.5M,€270K,77.0,84.4,68.7,10.8,88,CM,173cm,Left
+210257,Ederson,29,Brazil,Manchester City,Premier League (England),€70M,€210K,26.2,64.6,17.3,86.6,88,GK,188cm,Left
+200389,J. Oblak,30,Slovenia,Atlético Madrid,La Liga (Spain),€61M,€90K,19.0,58.4,19.7,85.2,88,GK,188cm,Right
+194765,A. Griezmann,32,France,Atlético Madrid,La Liga (Spain),€74M,€135K,86.4,84.8,57.3,12.6,88,ST,176cm,Left
+121939,P. Lahm,32,Germany,FC Bayern München,Bundesliga (Germany),€29.5M,€200K,69.2,80.2,89.3,9.4,88,RWB,170cm,Right
+256630,F. Wirtz,20,Germany,Bayer 04 Leverkusen,Bundesliga (Germany),€118.5M,€77K,73.2,84.0,50.3,11.4,87,CAM,177cm,Right
+235073,G. Kobel,25,Switzerland,Borussia Dortmund,Bundesliga (Germany),€81.5M,€64K,17.0,48.2,15.0,83.6,87,GK,195cm,Right
+232293,V. Osimhen,24,Nigeria,Napoli,Serie A (Italy),€110M,€100K,78.2,82.8,34.3,10.6,87,ST,186cm,Right
+230621,G. Donnarumma,24,Italy,Paris Saint Germain,Ligue 1 (France),€85M,€90K,16.0,57.6,16.7,83.2,87,GK,196cm,Right
+228702,F. de Jong,26,Netherlands,FC Barcelona,La Liga (Spain),€103.5M,€240K,76.6,83.4,76.3,9.8,87,CM,181cm,Right
+222665,M. Ødegaard,24,Norway,Arsenal,Premier League (England),€109M,€170K,78.2,79.2,58.7,12.4,87,CAM,178cm,Left
+215698,M. Maignan,27,France,Milan,Serie A (Italy),€78M,€90K,26.2,57.0,19.3,85.6,87,GK,191cm,Right
+212622,J. Kimmich,28,Germany,FC Bayern München,Bundesliga (Germany),€70M,€110K,77.6,79.4,81.0,12.0,87,CDM,177cm,Right
+212198,Bruno Fernandes,28,Portugal,Manchester United,Premier League (England),€79.5M,€220K,80.4,76.8,65.3,12.6,87,CM,179cm,Right
+207865,Marquinhos,29,Brazil,Paris Saint Germain,Ligue 1 (France),€73.5M,€140K,66.8,75.8,89.0,9.4,87,CB,183cm,Right
+200145,Casemiro,31,Brazil,Manchester United,Premier League (England),€56M,€190K,74.4,64.8,87.0,13.4,87,CDM,185cm,Right
+200104,H. Son,30,Korea Republic,Tottenham Hotspur,Premier League (England),€77M,€170K,81.2,83.6,38.0,10.6,87,LW,183cm,Right
+193080,De Gea,31,Spain,Manchester United,Premier League (England),€42M,€150K,20.6,56.4,19.0,82.2,87,GK,192cm,Right
+177003,L. Modrić,37,Croatia,Real Madrid,La Liga (Spain),€25M,€190K,76.0,82.8,71.7,10.4,87,CM,172cm,Right
+167495,M. Neuer,37,Germany,FC Bayern München,Bundesliga (Germany),€9M,€55K,24.8,53.6,12.7,86.2,87,GK,193cm,Right
+153079,S. Agüero,33,Argentina,FC Barcelona,La Liga (Spain),€51M,€260K,81.2,80.8,27.7,11.8,87,ST,173cm,Right
+265674,S. Bacha,22,France,Olympique Lyonnais W,Division 1 Féminine (France),€97.5M,€1K,70.2,86.6,82.3,11.4,86,LWB,161cm,Left
+256790,J. Musiala,20,Germany,FC Bayern München,Bundesliga (Germany),€134.5M,€79K,69.4,88.0,65.0,8.4,86,CAM,184cm,Right
+253163,R. Araujo,24,Uruguay,FC Barcelona,La Liga (Spain),€93M,€175K,62.6,71.4,86.0,10.6,86,CB,188cm,Right
+251854,Pedri,20,Spain,FC Barcelona,La Liga (Spain),€105M,€165K,66.8,84.4,70.0,9.2,86,CM,174cm,Right
+247635,K. Kvaratskhelia,22,Georgia,Napoli,Serie A (Italy),€109M,€95K,73.6,83.4,37.0,10.8,86,CAM,183cm,Right
+246669,B. Saka,21,England,Arsenal,Premier League (England),€99M,€150K,74.6,85.4,60.7,10.0,86,RW,178cm,Left
+241721,Rafael Leão,24,Portugal,Milan,Serie A (Italy),€102.5M,€110K,75.8,87.4,22.3,11.4,86,LW,188cm,Right
+241096,S. Tonali,23,Italy,Newcastle United,Premier League (England),€84M,€140K,74.0,82.8,82.7,8.8,86,CDM,181cm,Right
+240130,Éder Militão,25,Brazil,Real Madrid,La Liga (Spain),€80M,€210K,63.2,77.4,86.0,12.2,86,CB,186cm,Right

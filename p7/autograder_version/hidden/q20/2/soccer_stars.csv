@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+557100,J. Smith,28,Namibia,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€194.8M,€496K,62.2,90.6,72.2,92.1,92,CDM,184cm,Left
+567316,Matthew Brown,28,Sao Tome and Principe,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€196.2M,€494K,64.3,93.0,83.9,65.7,91,ST,195cm,Left
+141527,A. Evans,25,Central African Republic,Bryant Ltd,Sims Ltd (Croatia),€247.1M,€487K,91.6,90.5,35.5,70.5,91,RM,196cm,Left
+885983,R. Brown,24,Namibia,Baldwin LLC,Premier League (England),€194.9M,€548K,70.4,87.8,71.5,90.4,90,CDM,176cm,Left
+354803,C. Cline,29,Zambia,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€195M,€475K,89.9,88.7,37.0,84.1,90,RM,185cm,Left
+143357,Mitchell Jr.,25,Central African Republic,Buchanan PLC,Farrell Ltd (Guyana),€191.8M,€486K,85.3,91.2,59.3,59.2,90,CDM,187cm,Left
+558590,T. Lee,27,Cook Islands,Bryant Ltd,Sims Ltd (Croatia),€190.3M,€470K,90.0,20.9,70.3,85.0,89,ST,206cm,Right
+387120,J. Simmons,27,France,Paris Saint Germain,Premier League (England),€191.6M,€474K,67.5,81.2,80.5,91.1,89,CDM,171cm,Left
+281393,D. Chambers,24,Togo,Schmidt-Martin,Premier League (England),€187.4M,€467K,90.5,79.1,51.0,85.6,89,RM,198cm,Left
+77752,A. Chang,35,Togo,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€184.1M,€464K,83.7,88.9,25.7,89.1,89,RM,208cm,Left
+279492,C. Clark,33,Croatia,"Barber, Jacobs and Johnson",Premier League (England),€192.1M,€482K,52.1,60.3,82.7,89.8,88,CDM,162cm,Left
+961521,P. Boyer,20,Croatia,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€186.1M,€467K,88.4,59.7,27.6,85.8,88,RM,168cm,Left
+700361,Joshua Torres,55,Togo,Reyes-Frank,Harris-Price (Togo),€180.1M,€464K,78.4,90.8,52.3,62.3,88,CB,200cm,Left
+225257,Kenneth Marquez,32,Guyana,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€181M,€453K,56.1,94.8,68.0,43.4,88,ST,153cm,Left
+18302,M. Gaines,30,Comoros,Baldwin LLC,Premier League (England),€185.6M,€454K,59.1,86.9,71.1,85.3,87,CB,173cm,Left
+363386,Hunt,33,Cook Islands,Barker-Lara,Farrell Ltd (Guyana),€181.6M,€452K,92.9,67.1,22.2,69.7,87,RM,166cm,Left
+618146,B. Whitaker,24,Namibia,Smith-Peterson,Premier League (England),€174.5M,€438K,63.0,93.7,68.0,62.7,87,ST,188cm,Left
+610153,M. Dunn,36,Zambia,FC Barcelona,Premier League (England),€182.8M,€433K,69.1,93.0,53.1,69.0,87,ST,208cm,Left
+516165,B. Shelton,31,Sao Tome and Principe,Sharp-Cox,Premier League (England),€177.1M,€461K,92.9,27.0,67.0,53.8,86,ST,167cm,Right
+607020,M. Shields,26,Venezuela,Reyes-Frank,Harris-Price (Togo),€179.5M,€436K,78.3,88.3,49.0,47.9,86,CB,160cm,Left
+967935,A. Castro,33,Croatia,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€170.2M,€422K,59.0,54.8,86.2,85.1,86,CDM,153cm,Left
+321983,A. Murray,23,Namibia,"Moore, Smith and Johnson",Weber-Strickland (France),€171M,€429K,57.8,93.8,61.5,55.1,86,ST,150cm,Left
+625453,Stafford,21,Croatia,Rodriguez and Sons,Weber-Strickland (France),€168.2M,€431K,92.6,43.4,56.6,66.1,86,CB,160cm,Right
+126058,R. Williams,30,Namibia,Rodriguez and Sons,Weber-Strickland (France),€179M,€441K,74.0,62.4,90.2,57.4,86,CDM,203cm,Left
+740742,N. Love,21,Cook Islands,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€163.1M,€396K,71.3,89.4,73.9,59.0,86,CB,183cm,Left
+93972,Mccoy,28,Croatia,Livingston Inc,Weber-Strickland (France),€161.6M,€392K,65.7,72.4,82.8,86.5,86,CDM,176cm,Left
+110433,K. Cooper,28,Central African Republic,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€164.8M,€432K,46.7,89.4,57.6,75.4,86,GK,193cm,Left
+237780,J. Mora,35,Comoros,"Carter, Cantu and Bell",Premier League (England),€174.1M,€420K,63.9,73.1,22.9,89.2,85,RM,154cm,Left
+582267,P. Silva,21,France,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€159.4M,€342K,70.7,65.6,33.2,89.3,85,RM,161cm,Left
+592928,R. Fischer,20,Comoros,Bryant Ltd,Sims Ltd (Croatia),€159.2M,€339K,61.9,87.1,71.5,78.0,85,CDM,183cm,Left
+199863,Charles Jr.,29,Guyana,Rollins LLC,Premier League (England),€156.2M,€385K,38.0,78.5,17.0,86.8,85,CM,171cm,Left
+11516,K. Walker,29,Cook Islands,Buchanan PLC,Farrell Ltd (Guyana),€155.2M,€343K,78.6,64.4,43.6,86.6,85,RM,210cm,Left
+314748,D. Garza,31,Sao Tome and Principe,Miller and Sons,Everett-Fritz (Namibia),€153.8M,€335K,32.2,83.6,85.6,55.2,85,ST,191cm,Left
+323129,E. Ryan,26,Namibia,Levine-Rollins,Everett-Fritz (Namibia),€153.2M,€404K,81.3,45.6,36.3,85.8,85,ST,189cm,Right
+454300,Garcia,34,Central African Republic,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€153.2M,€321K,68.5,90.2,49.7,47.2,85,ST,176cm,Left
+237569,Preston,44,Guyana,Crane-Moore,Premier League (England),€162.3M,€327K,54.8,65.6,81.2,84.6,84,CDM,166cm,Left
+975024,D. Smith,25,Venezuela,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€152.7M,€301K,68.2,88.9,49.6,61.6,84,RM,185cm,Left
+204990,D. Lewis,24,Guyana,Johnson and Sons,Premier League (England),€147.4M,€315K,82.9,33.3,43.5,83.9,84,ST,188cm,Right
+189736,Jones,48,Zambia,Sharp-Cox,Premier League (England),€151.1M,€299K,46.1,79.9,85.4,55.3,84,ST,203cm,Left
+648576,J. Cook,29,Croatia,Wright-Neal,Premier League (England),€146.2M,€332K,61.7,75.4,87.5,50.3,84,ST,187cm,Left
+174107,Jeffrey Hull,17,Cook Islands,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€144.8M,€298K,48.3,58.4,53.4,92.6,84,CDM,164cm,Left
+100487,T. Brooks,28,Sao Tome and Principe,"Carter, Cantu and Bell",Premier League (England),€142.6M,€290K,32.7,90.1,64.6,54.9,84,ST,187cm,Left
+657864,M. Wilson,22,Comoros,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€143.9M,€307K,91.8,61.5,17.7,61.6,84,RM,179cm,Left
+723844,William Jr.,21,Central African Republic,Crane-Moore,Premier League (England),€141M,€290K,65.0,88.8,70.6,36.2,84,GK,190cm,Left
+232481,Gregory Rogers,23,Togo,Terry Ltd,Farrell Ltd (Guyana),€136.5M,€289K,74.8,87.0,50.6,50.4,84,CB,154cm,Left
+200056,Martinez,33,Comoros,Buchanan PLC,Farrell Ltd (Guyana),€151.7M,€286K,69.4,65.1,86.9,75.2,84,CDM,158cm,Left
+699836,C. Chan,20,Central African Republic,Young LLC,Premier League (England),€139M,€284K,77.1,86.3,68.4,60.1,84,CB,197cm,Left
+880085,A. Brooks,25,France,Burnett-Henry,Premier League (England),€139M,€279K,68.1,87.4,72.8,47.7,84,ST,169cm,Left
+813246,John Jr.,24,Central African Republic,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€135.3M,€276K,38.8,87.4,54.1,69.2,84,RW,158cm,Left
+540683,Lloyd,35,Croatia,Barker-Lara,Farrell Ltd (Guyana),€135.7M,€280K,56.1,86.4,72.6,53.6,83,CB,157cm,Left
+540979,D. Fernandez,28,Togo,Willis Group,Farrell Ltd (Guyana),€133M,€270K,91.2,51.5,19.4,60.1,83,CB,184cm,Right
+172411,J. Wilson,29,Cook Islands,"Carlson, Huang and Ayala",Weber-Strickland (France),€139.5M,€272K,30.9,88.0,68.1,57.6,83,ST,203cm,Left
+91177,I. Charles,34,Sao Tome and Principe,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€132.8M,€241K,70.9,85.2,25.0,75.2,83,RM,180cm,Left
+33925,J. Sanders,33,Togo,Rodriguez and Sons,Weber-Strickland (France),€128.4M,€240K,85.0,33.1,18.2,76.8,83,RB,158cm,Left
+836858,Nathan Carter,52,Central African Republic,Kline Group,Premier League (England),€126.1M,€268K,63.8,86.2,71.7,67.3,83,ST,158cm,Left
+149073,A. Lawrence,31,Sao Tome and Principe,"Li, Brown and Smith",Everett-Fritz (Namibia),€130.5M,€242K,34.4,69.3,6.7,87.0,83,CM,207cm,Left
+403077,Michael Jr.,54,France,Butler Inc,"Guzman, Williams and Smith (Togo)",€125.6M,€225K,86.9,36.5,71.7,48.7,83,ST,198cm,Right
+444215,Christopher Walker,32,Namibia,Williams Group,"Booth, Reeves and Goodman (Namibia)",€125.5M,€234K,90.3,60.3,43.5,31.4,83,CB,197cm,Right
+313203,A. Henry,31,Venezuela,Williams Group,"Booth, Reeves and Goodman (Namibia)",€125.2M,€232K,43.6,82.9,62.6,82.0,83,LW,170cm,Left
+886717,S. Campbell,33,Croatia,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€129.9M,€221K,90.7,57.8,49.6,59.0,83,RM,181cm,Left
+887137,M. Wood,51,Cook Islands,Tyler-Miller,Premier League (England),€118M,€209K,79.8,84.0,45.9,76.1,83,RM,177cm,Left
+240215,Erik Tucker,21,Central African Republic,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€123.6M,€214K,86.4,49.2,16.2,71.2,83,RB,176cm,Left
+584658,David Jr.,31,Croatia,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€120.6M,€242K,92.6,34.9,43.0,54.7,83,CB,199cm,Right
+838657,B. Gonzalez,29,Namibia,Smith-Peterson,Premier League (England),€123.9M,€205K,91.4,59.2,55.2,40.5,83,CB,175cm,Right
+167565,J. Jones,24,Togo,Buchanan PLC,Farrell Ltd (Guyana),€123.3M,€192K,84.8,61.6,69.7,78.1,83,CDM,188cm,Left
+470692,G. Norris,22,Guyana,Livingston Inc,Weber-Strickland (France),€115M,€217K,17.8,84.0,13.6,80.3,83,CM,167cm,Left
+593628,J. Trevino,20,Cook Islands,Butler Inc,"Guzman, Williams and Smith (Togo)",€115.6M,€204K,34.0,84.9,78.7,75.0,83,GK,194cm,Left
+102201,Christopher May,25,Namibia,Johnson Group,Premier League (England),€112.1M,€193K,87.5,33.9,70.9,60.5,83,ST,205cm,Right
+929899,Michael Evans,31,Croatia,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€106.5M,€184K,44.5,85.5,74.6,34.8,83,ST,169cm,Left
+393485,Ryan Jr.,25,Venezuela,Miller and Sons,Everett-Fritz (Namibia),€107.5M,€186K,78.9,82.4,76.4,78.2,82,CB,160cm,Left
+139792,Peter Jr.,53,Venezuela,Kline Group,Premier League (England),€111.4M,€188K,87.0,66.3,44.9,39.7,82,CB,208cm,Right
+74386,J. Ball,25,Cook Islands,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€109.3M,€199K,35.1,79.6,73.7,82.5,82,LW,166cm,Left
+197578,W. Torres,31,Zambia,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€114.5M,€180K,28.3,71.8,45.1,85.4,82,CM,178cm,Left
+222292,D. Smith,39,Venezuela,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€99.8M,€167K,74.6,79.6,61.8,83.1,82,CDM,182cm,Left
+681403,D. Reyes,38,Namibia,Willis Group,Farrell Ltd (Guyana),€98.5M,€174K,39.0,77.8,32.4,83.4,82,CM,165cm,Left
+607961,C. Chung,29,Croatia,Johnson and Sons,Premier League (England),€106.4M,€175K,44.1,51.0,92.5,28.1,82,LW,162cm,Right
+108711,J. Young,31,Comoros,Rollins LLC,Premier League (England),€97.8M,€159K,81.1,76.5,76.2,82.4,82,CDM,187cm,Left
+190830,N. Smith,25,Zambia,Buchanan PLC,Farrell Ltd (Guyana),€97.8M,€158K,52.4,82.9,79.7,49.4,82,CAM,162cm,Right
+698969,C. Riggs,21,Central African Republic,White Group,Farrell Ltd (Guyana),€94.6M,€167K,81.8,80.9,58.2,60.3,82,CDM,193cm,Left
+593442,C. Wilkerson,26,Comoros,Kline Group,Premier League (England),€98.2M,€174K,70.1,82.6,62.9,82.2,82,CDM,188cm,Left
+28217,Nicholas Brown,34,Guyana,Fitzgerald-Benitez,Premier League (England),€94.9M,€136K,66.0,87.6,24.3,52.7,82,RM,191cm,Left
+680032,T. Davis,17,Croatia,Rodriguez and Sons,Weber-Strickland (France),€92M,€142K,42.7,73.0,74.6,83.2,81,CB,198cm,Left
+145,R. Munoz,22,Sao Tome and Principe,Barker-Lara,Farrell Ltd (Guyana),€91.1M,€141K,6.4,23.0,92.8,43.8,81,LW,209cm,Right
+254246,Gary Molina,20,Comoros,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€88.9M,€151K,63.7,55.4,86.3,37.3,81,ST,150cm,Left
+377282,John Jr.,26,Sao Tome and Principe,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€86.2M,€136K,46.5,26.0,68.9,85.4,81,CDM,157cm,Right
+754362,G. Moreno,24,Namibia,Johnson and Sons,Premier League (England),€85.8M,€131K,64.8,85.9,47.2,63.4,81,RWB,187cm,Left
+361213,R. Holmes,34,Central African Republic,Paris Saint Germain,Premier League (England),€87M,€133K,66.2,74.8,48.5,82.7,81,LW,166cm,Left
+934668,D. Brooks,30,Zambia,Reyes-Frank,Harris-Price (Togo),€79.9M,€126K,91.3,50.0,43.7,47.1,81,CB,206cm,Right
+549758,J. James,35,Sao Tome and Principe,White Group,Farrell Ltd (Guyana),€75.6M,€118K,46.0,82.2,30.9,78.9,81,CM,171cm,Left
+181137,Steven Jr.,35,France,Livingston Inc,Weber-Strickland (France),€76.9M,€121K,62.8,80.4,19.6,81.2,81,RM,181cm,Left
+312436,Daniel Jr.,34,Central African Republic,Bryant Ltd,Sims Ltd (Croatia),€77.5M,€102K,66.7,83.6,62.0,71.7,81,ST,173cm,Left
+517521,J. Brewer,26,Comoros,Tyler-Miller,Premier League (England),€78.9M,€120K,19.0,84.2,13.2,70.1,81,CM,193cm,Left
+533956,Butler,37,Comoros,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€66.7M,€135K,82.3,26.9,37.5,76.3,81,ST,210cm,Right
+837122,John Jr.,22,Comoros,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€69.5M,€100K,61.5,66.4,83.5,72.5,81,CDM,176cm,Left
+108353,Hall,24,Togo,"Li, Brown and Smith",Everett-Fritz (Namibia),€54.3M,€99K,66.4,82.8,76.9,75.7,81,LW,189cm,Left
+796600,W. Lee,41,Venezuela,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€60M,€99K,52.9,73.8,83.4,53.3,81,ST,179cm,Left
+788609,D. Bradshaw,31,Zambia,"Carter, Cantu and Bell",Premier League (England),€46.6M,€99K,50.1,87.5,60.9,45.8,81,RWB,208cm,Left
+526546,W. Pham,29,Comoros,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€50.1M,€99K,85.6,32.2,35.6,68.4,81,ST,208cm,Right
+420102,Cameron Jr.,29,Croatia,Livingston Inc,Weber-Strickland (France),€49.8M,€99K,39.2,81.3,40.5,80.0,81,CM,185cm,Left
+731437,F. Mason,25,Central African Republic,Willis Group,Farrell Ltd (Guyana),€92.4M,€101K,43.2,80.1,80.7,53.3,81,ST,181cm,Left
+371361,B. Hoover,21,Sao Tome and Principe,Baldwin LLC,Premier League (England),€37.2M,€99K,50.3,59.1,28.4,87.7,81,CM,202cm,Left
+68328,John Jr.,51,Central African Republic,Smith-Peterson,Premier League (England),€40.6M,€99K,38.8,83.6,71.6,69.6,81,GK,156cm,Left
+584653,Joshua Jr.,26,Venezuela,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€53.2M,€99K,64.3,55.6,43.4,86.5,81,RM,177cm,Left
+183538,W. Carney,26,Togo,Livingston Inc,Weber-Strickland (France),€43M,€99K,86.2,21.0,49.5,64.6,81,ST,187cm,Right
+453988,J. Ramos,30,Zambia,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€45.2M,€98K,88.6,32.1,58.6,50.4,81,ST,205cm,Right
+69055,M. Martin,35,Croatia,Livingston Inc,Weber-Strickland (France),€32.6M,€98K,67.0,86.0,42.4,48.3,81,RWB,183cm,Left
+855634,T. Duran,21,Cook Islands,Wright-Neal,Premier League (England),€31.6M,€98K,56.4,84.8,71.3,40.7,81,GK,154cm,Left
+732933,B. Thompson,30,Venezuela,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€29.1M,€98K,91.6,44.0,36.2,50.3,81,CB,186cm,Right
+675613,J. Montgomery,20,Zambia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€20M,€98K,68.5,85.4,41.1,65.0,81,RM,190cm,Left
+475348,K. Lawrence,31,Guyana,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€22.9M,€98K,30.7,35.3,90.7,49.9,80,LW,186cm,Right
+49747,G. Olson,35,Croatia,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€25.6M,€97K,38.0,37.0,60.8,86.7,80,CDM,183cm,Right
+673,Michael Morris,27,Namibia,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€20.3M,€99K,32.6,81.3,75.9,40.9,80,CAM,200cm,Right
+910387,Joshua Jr.,20,Croatia,Fitzgerald-Benitez,Premier League (England),€13.9M,€97K,85.6,58.3,28.9,63.2,80,RM,161cm,Left
+353376,P. Goodman,30,Comoros,Reyes-Frank,Harris-Price (Togo),€34.1M,€97K,83.5,31.3,36.1,69.7,80,RB,164cm,Left
+394367,J. Smith,28,France,Willis Group,Farrell Ltd (Guyana),€14.8M,€97K,39.6,88.8,55.5,40.2,80,GK,200cm,Left
+58658,J. Gomez,23,Comoros,Williams Group,"Booth, Reeves and Goodman (Namibia)",€17M,€97K,78.0,33.4,44.6,80.2,80,ST,161cm,Right
+255527,Hall,35,Cook Islands,Bryant Ltd,Sims Ltd (Croatia),€13.1M,€97K,49.9,85.3,62.2,39.0,80,GK,198cm,Left
+829921,S. Craig,21,Comoros,Terry Ltd,Farrell Ltd (Guyana),€9.8M,€97K,52.6,87.1,59.2,46.7,80,GK,175cm,Left
+666529,J. Clayton,27,Venezuela,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€17.7M,€97K,63.1,73.3,81.7,71.1,80,LW,193cm,Left
+166986,J. Kim,23,Guyana,"Barber, Jacobs and Johnson",Premier League (England),€9.9M,€97K,29.5,81.3,75.3,75.6,80,LW,172cm,Left
+150658,T. Mcdonald,27,Comoros,Terry Ltd,Farrell Ltd (Guyana),€9.8M,€96K,23.0,46.2,91.7,36.2,80,LW,178cm,Right
+937461,G. Abbott,28,Namibia,"Carter, Cantu and Bell",Premier League (England),€12.3M,€96K,84.6,64.3,24.7,48.9,80,CB,190cm,Right
+675713,D. Wilson,28,France,Burnett-Henry,Premier League (England),€9.8M,€97K,23.6,83.9,66.7,49.9,80,RWB,177cm,Right
+844175,D. Rogers,20,Togo,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€9.6M,€97K,51.4,79.3,77.9,72.3,79,CB,161cm,Left
+205545,G. Adams,26,Togo,Wright-Neal,Premier League (England),€9.5M,€96K,78.9,71.8,52.0,77.5,79,CDM,193cm,Left
+869246,Gonzalez,30,Croatia,Baldwin LLC,Premier League (England),€9.6M,€96K,62.9,67.0,69.4,81.7,79,LW,184cm,Left
+222198,C. Morales,53,Central African Republic,Schmidt-Martin,Premier League (England),€9.6M,€96K,56.9,53.9,80.8,74.8,79,GK,172cm,Left
+74935,J. Young,35,Togo,Bryant Ltd,Sims Ltd (Croatia),€9.6M,€96K,56.8,81.9,71.7,45.0,79,GK,202cm,Left
+771407,P. Santos,34,Cook Islands,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€9.2M,€96K,41.5,81.8,6.0,71.7,79,CM,172cm,Left
+959835,R. Short,29,Cook Islands,Fitzgerald-Benitez,Premier League (England),€9.2M,€96K,72.9,80.6,57.5,34.7,79,RWB,171cm,Left
+157310,C. Brooks,22,Central African Republic,Tyler-Miller,Premier League (England),€9.3M,€96K,80.0,58.4,32.8,76.6,79,LB,161cm,Left
+583341,J. Wilson,23,Comoros,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€9.5M,€96K,54.1,74.9,80.2,48.0,79,ST,210cm,Left
+255840,L. Fleming,21,Central African Republic,Fitzgerald-Benitez,Premier League (England),€9M,€96K,64.5,27.9,70.6,81.9,79,ST,160cm,Right
+485685,T. Combs,25,Venezuela,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€9.2M,€96K,23.8,69.8,35.8,82.6,79,CM,152cm,Left
+846203,P. Armstrong,31,Central African Republic,Barker-Lara,Farrell Ltd (Guyana),€9.5M,€96K,33.4,81.0,54.8,71.5,79,LW,200cm,Left
+829840,J. Pearson,25,France,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€9M,€96K,30.6,66.9,21.1,82.7,79,GK,208cm,Right
+403985,Marcus Jr.,29,Cook Islands,Fitzgerald-Benitez,Premier League (England),€8.7M,€96K,66.0,80.6,59.6,75.7,79,LW,205cm,Left
+920115,F. Cook,33,Guyana,Miller and Sons,Everett-Fritz (Namibia),€9.1M,€95K,83.8,57.0,36.5,64.3,79,CB,191cm,Right
+814370,J. Smith,31,Venezuela,Rollins LLC,Premier League (England),€8.9M,€95K,42.4,62.5,15.0,85.0,79,CM,185cm,Left
+388566,J. Nichols,24,Venezuela,Levine-Rollins,Everett-Fritz (Namibia),€8.9M,€95K,80.7,46.0,41.7,75.6,79,ST,155cm,Right
+225068,A. Chambers,43,Cook Islands,Butler Inc,"Guzman, Williams and Smith (Togo)",€8.6M,€95K,36.4,58.0,71.7,81.4,79,LW,206cm,Left
+223894,W. Benton,27,Cook Islands,Manchester United,"Cox, Miller and Barber (Cook Islands)",€8.7M,€95K,62.0,27.3,59.4,82.8,79,CDM,209cm,Right
+958687,E. Villarreal,53,Comoros,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€8.7M,€95K,35.1,80.5,52.8,68.5,78,CAM,154cm,Right
+270635,M. Castaneda,34,Namibia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€8.6M,€95K,40.8,51.1,86.2,53.4,78,LW,163cm,Right
+426320,Donald Jr.,19,Comoros,"Barber, Jacobs and Johnson",Premier League (England),€8.6M,€94K,66.1,61.5,42.2,82.3,78,RM,169cm,Left
+451014,Mitchell Jr.,33,Central African Republic,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€9M,€94K,45.0,49.7,81.7,66.6,78,LW,159cm,Left
+311757,Robert Mcfarland,37,France,Crane-Moore,Premier League (England),€8.6M,€94K,47.5,85.9,53.6,56.2,78,CB,182cm,Left
+525032,L. Jacobson,20,Comoros,Barker-Lara,Farrell Ltd (Guyana),€8.6M,€94K,28.3,71.5,56.1,80.5,78,LW,171cm,Left
+74650,J. Watts,22,Guyana,"Barber, Jacobs and Johnson",Premier League (England),€8.4M,€95K,82.1,55.3,54.1,66.3,78,ST,176cm,Right
+173320,Alexander Jr.,20,Venezuela,Schmidt-Martin,Premier League (England),€8.4M,€94K,69.0,70.2,80.7,60.4,78,CDM,173cm,Left
+886068,A. Morrison,22,Venezuela,Fitzgerald-Benitez,Premier League (England),€8.6M,€93K,55.9,83.4,54.8,63.2,78,CB,203cm,Left
+878210,G. Butler,23,Namibia,Willis Group,Farrell Ltd (Guyana),€8.6M,€93K,41.8,66.1,23.3,81.3,78,GK,172cm,Right
+493307,Ryan Jr.,35,Venezuela,Buchanan PLC,Farrell Ltd (Guyana),€8.2M,€93K,79.2,74.1,71.1,62.3,78,CDM,209cm,Left
+1866,S. Hale,33,Sao Tome and Principe,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€8.2M,€93K,15.2,86.5,51.7,36.5,78,CF,199cm,Left
+608325,A. Reid,26,France,"Bell, Buchanan and Sanford",Weber-Strickland (France),€8.2M,€92K,43.8,83.1,63.2,46.0,78,CAM,202cm,Right
+34981,D. Sexton,24,Venezuela,Barker-Lara,Farrell Ltd (Guyana),€8.5M,€93K,44.7,83.6,58.3,59.3,78,ST,150cm,Left
+706975,J. Garner,33,Sao Tome and Principe,Butler Inc,"Guzman, Williams and Smith (Togo)",€8.3M,€92K,62.1,83.4,59.4,59.5,78,ST,182cm,Left
+895414,B. Greer,21,Zambia,Baldwin LLC,Premier League (England),€8M,€94K,79.3,60.8,73.2,68.5,78,CDM,181cm,Left
+658098,M. Costa,33,France,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€8.1M,€92K,84.0,57.2,47.0,61.2,78,CB,169cm,Right
+142069,Patrick Smith,35,Guyana,"Li, Brown and Smith",Everett-Fritz (Namibia),€8.2M,€92K,38.0,79.6,53.6,72.6,78,LW,161cm,Left
+281398,Michael Davis,27,Guyana,Fitzgerald-Benitez,Premier League (England),€8.2M,€92K,47.1,51.8,10.1,86.1,78,CM,196cm,Left
+543621,T. Wood,35,Croatia,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€7.9M,€92K,11.2,32.6,86.5,54.0,78,LW,199cm,Right
+240605,Daniel Jr.,32,Togo,Tyler-Miller,Premier League (England),€7.9M,€91K,49.1,63.4,54.7,83.0,78,CB,188cm,Left
+101563,J. Medina,34,Guyana,Butler Inc,"Guzman, Williams and Smith (Togo)",€8M,€91K,39.4,82.1,49.1,67.0,78,LW,173cm,Left
+757154,Stewart,35,Croatia,Barker-Lara,Farrell Ltd (Guyana),€7.8M,€91K,38.8,64.9,81.9,62.5,78,GK,173cm,Left
+200185,E. Rodriguez,27,Zambia,Young LLC,Premier League (England),€7.9M,€91K,86.1,18.8,48.4,54.6,78,RB,164cm,Left
+642893,Hawkins,24,Venezuela,White Group,Farrell Ltd (Guyana),€7.7M,€91K,57.4,81.6,68.5,64.8,78,LW,166cm,Left
+430149,D. Watson,28,Central African Republic,Johnson Group,Premier League (England),€7.7M,€91K,59.4,84.3,52.6,50.6,78,RWB,199cm,Left
+131083,J. Brown,35,Comoros,Levine-Rollins,Everett-Fritz (Namibia),€7.5M,€90K,39.6,79.4,69.1,71.4,77,LW,196cm,Left
+90160,D. Mercado,27,Namibia,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€7.5M,€91K,58.9,34.8,34.7,83.4,77,ST,157cm,Right
+180407,R. White,31,Comoros,Smith-Peterson,Premier League (England),€7.6M,€91K,58.5,80.7,65.5,35.2,77,RWB,207cm,Right
+319726,J. Gross,20,Togo,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€7.5M,€91K,49.8,85.3,53.5,38.5,77,ST,167cm,Left
+885036,Matthew Jr.,30,Comoros,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€7.5M,€90K,47.1,82.2,36.0,60.5,77,RWB,161cm,Right
+623072,T. Hartman,24,Cook Islands,Tyler-Miller,Premier League (England),€7.4M,€90K,82.4,19.5,61.5,46.8,77,ST,210cm,Right
+377371,T. Cooper,44,Zambia,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€7.4M,€90K,59.0,67.5,48.1,79.7,77,CB,176cm,Left
+549409,David Jr.,28,Zambia,Young LLC,Premier League (England),€7.4M,€90K,32.5,36.0,87.0,45.1,77,LW,154cm,Right
+885579,S. Ramirez,30,Central African Republic,Manchester United,"Cox, Miller and Barber (Cook Islands)",€7.3M,€90K,80.2,39.4,21.5,66.4,77,LB,185cm,Left
+205660,D. Archer,30,Croatia,Johnson and Sons,Premier League (England),€7.8M,€90K,44.9,45.4,87.1,36.3,77,CF,176cm,Right
+222139,E. Jackson,34,Zambia,Fitzgerald-Benitez,Premier League (England),€7.3M,€89K,70.2,76.4,77.5,70.3,77,GK,169cm,Left
+853060,J. Hodges,32,Comoros,"Carter, Cantu and Bell",Premier League (England),€7.3M,€89K,62.6,50.8,48.2,81.6,77,ST,179cm,Right
+206086,Christopher Jr.,30,Comoros,"Bell, Buchanan and Sanford",Weber-Strickland (France),€7.1M,€89K,67.7,61.2,80.2,45.4,77,ST,187cm,Left
+624179,B. Craig,42,Namibia,Miller and Sons,Everett-Fritz (Namibia),€6.9M,€89K,49.2,63.3,78.1,72.9,77,LW,175cm,Left
+140867,Joseph Hughes,27,Central African Republic,"Carlson, Huang and Ayala",Weber-Strickland (France),€7.1M,€89K,77.1,76.0,50.1,69.4,77,RM,153cm,Left
+550490,Steven Bruce,40,Cook Islands,Willis Group,Farrell Ltd (Guyana),€7.2M,€89K,28.8,17.8,93.0,26.9,77,LW,169cm,Right
+992864,R. Williams,30,Togo,Buchanan PLC,Farrell Ltd (Guyana),€6.7M,€89K,63.0,81.8,39.2,35.2,77,LM,186cm,Left
+771776,T. Marsh,43,Namibia,Crane-Moore,Premier League (England),€6.5M,€89K,69.8,78.8,51.2,58.5,77,CDM,205cm,Left
+927466,Hays,37,Namibia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€6.7M,€88K,31.5,68.5,15.3,79.4,77,GK,157cm,Right
+214972,John Thompson,16,Cook Islands,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€6.7M,€88K,19.3,76.8,22.4,77.1,77,CM,198cm,Left
+452707,M. Mckenzie,17,Guyana,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€6.3M,€87K,16.4,68.7,38.1,79.9,77,CM,163cm,Left
+280712,Benjamin Coleman,23,Central African Republic,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€6.2M,€88K,71.7,66.3,70.3,78.5,77,CB,154cm,Left
+84277,Christopher Cherry,26,France,Terry Ltd,Farrell Ltd (Guyana),€6.2M,€87K,61.6,82.1,44.7,27.0,77,LM,196cm,Left
+68216,Randall Jr.,34,Namibia,"Barber, Jacobs and Johnson",Premier League (England),€6.9M,€87K,27.2,56.2,22.3,83.9,77,CM,155cm,Left
+707420,S. Greene,22,Cook Islands,Rollins LLC,Premier League (England),€6.3M,€87K,77.2,35.0,57.4,75.9,77,ST,168cm,Right
+756819,Jeremy Johnson,34,Sao Tome and Principe,Miller and Sons,Everett-Fritz (Namibia),€6.2M,€86K,35.6,55.6,26.1,83.9,77,CM,172cm,Left
+863517,M. Rivera,36,Guyana,Barker-Lara,Farrell Ltd (Guyana),€6.1M,€86K,63.1,71.8,79.2,59.6,77,LW,181cm,Left
+724273,D. Gonzalez,42,Namibia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€6.2M,€87K,70.1,38.0,66.1,78.9,77,ST,171cm,Right
+798035,Levine,22,Guyana,Schmidt-Martin,Premier League (England),€5.9M,€87K,78.4,71.1,71.6,71.2,77,CDM,175cm,Left
+216569,J. Love,41,Zambia,Levine-Rollins,Everett-Fritz (Namibia),€5.9M,€86K,81.5,16.3,15.6,64.8,77,RB,197cm,Left
+814692,H. Bailey,24,Zambia,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€5.9M,€86K,82.5,31.1,33.7,62.1,77,RB,163cm,Left
+987066,P. Martinez,31,Zambia,Barker-Lara,Farrell Ltd (Guyana),€6.1M,€86K,80.2,66.9,46.6,58.1,77,RM,157cm,Left
+413730,Raymond Davis,41,Zambia,Manchester United,"Cox, Miller and Barber (Cook Islands)",€5.7M,€86K,38.2,55.5,77.5,77.1,77,LW,171cm,Left
+909316,A. Barr,29,Guyana,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€5.7M,€86K,48.3,69.0,77.7,51.3,76,CAM,158cm,Right
+49160,L. Fuentes,32,Cook Islands,Fitzgerald-Benitez,Premier League (England),€5.7M,€86K,45.9,81.9,57.0,58.0,76,CB,156cm,Left
+164399,L. Brown,51,Cook Islands,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€5.7M,€86K,41.7,84.6,7.6,50.9,76,CM,198cm,Left
+508493,J. Jordan,21,Central African Republic,Miller and Sons,Everett-Fritz (Namibia),€5.6M,€85K,28.3,79.6,64.1,36.2,76,CAM,150cm,Left
+492155,B. Murphy,35,Guyana,"Barber, Jacobs and Johnson",Premier League (England),€5.6M,€85K,54.0,83.1,54.8,48.6,76,CB,154cm,Left
+98945,William Jr.,28,Comoros,Reyes-Frank,Harris-Price (Togo),€5.6M,€85K,77.0,74.6,60.5,52.9,76,CB,198cm,Left
+492452,J. Wright,28,Zambia,Johnson Group,Premier League (England),€5.9M,€86K,71.9,77.8,37.3,67.5,76,RM,157cm,Left
+689187,Brett Leblanc,33,Guyana,Terry Ltd,Farrell Ltd (Guyana),€5.3M,€85K,61.1,20.6,80.6,41.4,76,CF,207cm,Right
+648343,T. Miranda,38,Comoros,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€5.4M,€85K,33.4,79.8,10.7,65.3,76,CM,179cm,Left
+967875,Howard Jr.,31,Comoros,Smith-Peterson,Premier League (England),€5.6M,€85K,79.1,53.7,46.1,65.4,76,CB,161cm,Right
+435438,S. Rush,30,Zambia,Sharp-Cox,Premier League (England),€5.5M,€85K,29.3,71.7,53.3,77.2,76,LW,158cm,Left
+361829,R. Nelson,34,Comoros,Young LLC,Premier League (England),€5.1M,€85K,53.4,69.8,78.3,35.0,76,LWB,203cm,Left
+714393,J. Ellis,30,Namibia,Johnson and Sons,Premier League (England),€5.1M,€85K,49.9,80.4,61.4,37.7,76,RWB,188cm,Left
+542371,W. Cummings,32,Croatia,Johnson and Sons,Premier League (England),€5.2M,€85K,42.0,76.3,76.5,58.3,76,CB,166cm,Left
+804535,Joseph Jr.,28,Comoros,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€5.2M,€85K,83.2,43.3,22.1,54.7,76,CB,187cm,Right
+321284,W. Arroyo,30,France,Johnson and Sons,Premier League (England),€5.1M,€85K,58.8,30.8,43.3,82.3,76,CDM,182cm,Right
+960395,B. Jarvis,31,Namibia,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€5.1M,€85K,17.9,65.5,25.7,79.9,76,CM,172cm,Left
+362648,R. Allison,24,Central African Republic,Burnett-Henry,Premier League (England),€4.9M,€85K,22.1,37.2,56.4,82.1,76,CDM,196cm,Right
+567484,S. Tate,29,Guyana,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€5.6M,€84K,76.9,29.5,31.4,73.3,76,RB,166cm,Left
+969040,A. Solomon,34,France,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€4.8M,€84K,67.8,68.4,67.2,79.2,76,CDM,161cm,Left
+821623,K. Phillips,20,Togo,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€4.9M,€84K,12.9,55.4,33.8,83.4,76,CM,202cm,Left
+35243,K. Moore,21,Namibia,"Carlson, Huang and Ayala",Weber-Strickland (France),€4.8M,€84K,37.6,76.1,26.6,74.9,76,CM,160cm,Left
+420609,Larry Jr.,31,France,Schmidt-Martin,Premier League (England),€4.8M,€84K,27.4,74.8,76.2,48.2,76,LWB,201cm,Left
+945226,J. Mitchell,20,Comoros,Kline Group,Premier League (England),€4.8M,€83K,57.9,52.9,76.0,74.1,76,CB,174cm,Left
+928964,Bruce Jr.,20,France,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€4.7M,€83K,35.8,55.8,82.9,50.7,76,GK,184cm,Left
+666977,David Spears,55,Cook Islands,FC Barcelona,Premier League (England),€4.8M,€83K,12.7,83.9,9.4,52.3,76,CM,201cm,Left
+970166,Mcgee,38,Croatia,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€5.1M,€84K,52.2,54.5,55.1,82.6,76,CB,152cm,Left
+274088,T. Goodman,23,Guyana,"Carter, Cantu and Bell",Premier League (England),€4.6M,€83K,23.1,61.0,72.6,76.8,76,CAM,191cm,Right
+610151,Williams,26,Venezuela,"Carlson, Huang and Ayala",Weber-Strickland (France),€4.6M,€83K,78.7,39.7,15.9,69.7,76,RB,197cm,Left
+942268,M. Delgado,16,Sao Tome and Principe,Johnson Group,Premier League (England),€4.6M,€83K,77.8,50.1,52.2,64.9,75,LB,187cm,Left
+967060,J. Alexander,26,Zambia,Smith-Peterson,Premier League (England),€4.8M,€83K,78.4,31.3,43.7,64.0,75,ST,161cm,Right
+25026,Scott,32,Comoros,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€4.3M,€83K,33.8,83.4,39.1,50.2,75,RWB,201cm,Left
+33338,A. Mora,27,Zambia,"Carter, Cantu and Bell",Premier League (England),€4.6M,€84K,80.3,57.7,42.5,61.0,75,RM,197cm,Left
+131738,C. Mathis,32,Zambia,Burnett-Henry,Premier League (England),€4.5M,€83K,35.1,35.0,88.0,28.0,75,LW,175cm,Right
+361146,B. Wheeler,32,Comoros,Young LLC,Premier League (England),€4.5M,€83K,83.7,42.9,47.8,46.4,75,CB,163cm,Right
+246578,Clifford Jr.,26,Guyana,White Group,Farrell Ltd (Guyana),€4.1M,€81K,9.1,35.8,87.6,29.5,75,LW,204cm,Right
+197425,R. Scott,33,Togo,Smith-Peterson,Premier League (England),€4.5M,€83K,61.3,63.0,79.0,36.0,75,ST,205cm,Left
+254851,R. Davis,27,Namibia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€4.3M,€82K,67.7,61.3,76.8,37.0,75,GK,153cm,Left
+58310,J. Thomas,33,France,Miller and Sons,Everett-Fritz (Namibia),€4.2M,€82K,77.0,47.6,42.0,69.0,75,CB,163cm,Right
+672896,G. Jensen,21,Sao Tome and Principe,"Bell, Buchanan and Sanford",Weber-Strickland (France),€4.1M,€83K,61.1,79.4,59.6,38.6,75,RWB,165cm,Left
+787947,A. Smith,47,France,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€4.1M,€81K,55.0,78.6,65.6,50.2,75,RWB,171cm,Right
+493038,A. Burns,31,Cook Islands,"Barber, Jacobs and Johnson",Premier League (England),€4M,€81K,60.8,76.3,72.2,46.5,75,GK,203cm,Left
+952187,N. Martin,33,Guyana,"Li, Brown and Smith",Everett-Fritz (Namibia),€4M,€81K,66.8,63.7,71.6,75.9,75,LW,196cm,Left
+256016,J. Anderson,26,Comoros,Reyes-Frank,Harris-Price (Togo),€4M,€80K,75.9,63.5,71.2,67.8,75,CDM,177cm,Left
+174509,B. Stevenson,20,Namibia,Smith-Peterson,Premier League (England),€4.3M,€80K,36.7,88.3,30.7,36.0,75,RWB,180cm,Left
+960958,Drew West,23,Guyana,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€3.8M,€80K,29.0,81.5,55.8,31.6,75,CF,164cm,Left
+764948,J. Parker,46,Sao Tome and Principe,Miller and Sons,Everett-Fritz (Namibia),€4M,€81K,53.9,78.3,64.4,38.1,75,RWB,192cm,Left
+306288,Hernandez,35,Zambia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€3.7M,€80K,71.6,75.5,73.7,48.5,75,GK,171cm,Left
+568940,Weeks,17,Sao Tome and Principe,"Li, Brown and Smith",Everett-Fritz (Namibia),€3.8M,€80K,78.0,18.4,21.4,65.2,75,RB,209cm,Left
+372500,R. Ward,34,Namibia,Rollins LLC,Premier League (England),€3.9M,€80K,20.5,70.2,37.6,76.8,75,CM,157cm,Left
+749447,D. Dixon,22,Central African Republic,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€3.7M,€80K,42.7,69.0,76.9,41.8,75,ST,178cm,Left
+704697,J. Green,23,Comoros,Schmidt-Martin,Premier League (England),€3.6M,€80K,71.6,24.3,35.0,75.3,74,ST,193cm,Right
+975043,Fred Jr.,33,France,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€3.6M,€80K,34.0,76.9,65.9,41.3,74,CAM,172cm,Left
+648056,K. Taylor,20,Central African Republic,"Moore, Smith and Johnson",Weber-Strickland (France),€3.6M,€79K,41.2,59.6,79.4,44.1,74,ST,175cm,Left
+320655,L. Brown,27,Zambia,Reyes-Frank,Harris-Price (Togo),€3.7M,€79K,76.8,37.8,64.1,36.3,74,RB,184cm,Right
+83121,M. Scott,26,Guyana,Paris Saint Germain,Premier League (England),€3.6M,€79K,45.1,81.1,51.9,18.8,74,CF,197cm,Left
+83231,T. Hoover,30,Central African Republic,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€3.8M,€79K,34.1,86.9,28.6,10.8,74,CF,208cm,Left
+853306,J. Caldwell,42,Togo,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€3.6M,€79K,59.2,63.2,75.7,67.8,74,CB,156cm,Left
+542085,G. Green,26,Sao Tome and Principe,Bryant Ltd,Sims Ltd (Croatia),€3.5M,€79K,80.0,48.1,38.9,54.5,74,CB,184cm,Right
+452022,R. Murray,34,Sao Tome and Principe,Rollins LLC,Premier League (England),€3.5M,€79K,24.5,69.1,75.6,39.1,74,LWB,203cm,Left
+828885,Edwards,21,Croatia,Crane-Moore,Premier League (England),€3.5M,€79K,27.8,15.3,60.1,78.1,74,LM,169cm,Right
+665074,Cortez,23,Comoros,Smith-Peterson,Premier League (England),€3.4M,€79K,64.4,77.2,60.3,20.5,74,LM,204cm,Left
+378391,D. Combs,29,Comoros,"Moore, Smith and Johnson",Weber-Strickland (France),€3.6M,€79K,55.7,78.3,33.7,63.0,74,RWB,195cm,Left
+665124,J. Torres,21,Croatia,Young LLC,Premier League (England),€3.3M,€78K,49.0,60.2,78.4,38.4,74,CAM,154cm,Right
+788156,J. Ford,34,Comoros,Rollins LLC,Premier League (England),€3.2M,€79K,40.6,53.8,81.3,54.0,74,CAM,155cm,Right
+730958,B. Gilmore,30,Namibia,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€3.4M,€78K,22.4,44.7,77.9,60.6,74,LWB,201cm,Right
+698226,P. Brock,27,Venezuela,Baldwin LLC,Premier League (England),€3.2M,€78K,34.6,42.1,83.9,45.2,74,LW,150cm,Right
+870324,A. Watkins,30,Zambia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€2.8M,€78K,72.2,25.8,43.1,74.9,74,ST,168cm,Right
+256079,N. Davis,33,Venezuela,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€3.3M,€78K,53.3,62.2,34.2,78.0,74,GK,203cm,Right
+542818,M. Carter,34,Namibia,"Carter, Cantu and Bell",Premier League (England),€2.8M,€78K,80.5,50.0,34.2,55.9,74,RB,210cm,Left
+510385,Robert Jr.,29,Namibia,Johnson Group,Premier League (England),€3.2M,€78K,49.9,79.8,51.9,58.5,74,RW,191cm,Right
+10822,R. Sexton,27,Croatia,Baldwin LLC,Premier League (England),€2.7M,€78K,81.2,33.9,27.0,52.2,74,CB,156cm,Right
+690788,R. Walker,37,Croatia,White Group,Farrell Ltd (Guyana),€2.6M,€78K,43.8,83.9,40.8,23.3,74,CF,209cm,Left
+813700,J. Moran,21,Sao Tome and Principe,Buchanan PLC,Farrell Ltd (Guyana),€2.9M,€78K,74.9,69.4,52.2,72.2,74,CB,179cm,Left
+871087,J. Cohen,27,Venezuela,Schmidt-Martin,Premier League (England),€2.5M,€77K,40.6,45.9,78.1,60.9,74,LWB,159cm,Right
+805725,J. Smith,34,Central African Republic,"Moore, Smith and Johnson",Weber-Strickland (France),€2.4M,€77K,66.8,76.6,54.1,58.4,74,LM,150cm,Left
+322504,Mark Bradford,31,Togo,Sharp-Cox,Premier League (England),€2.4M,€77K,70.6,75.3,51.2,54.3,74,CB,206cm,Left
+707588,S. Gomez,26,Cook Islands,Baldwin LLC,Premier League (England),€2.5M,€77K,67.8,31.0,20.5,75.5,74,RB,201cm,Left
+167259,J. Porter,29,Zambia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€2.4M,€77K,49.5,81.6,49.4,46.0,74,LW,165cm,Left
+880016,Cardenas,25,Sao Tome and Principe,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€2.4M,€76K,43.0,81.5,52.1,42.0,74,CAM,163cm,Right
+495040,Charles Jr.,34,Croatia,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€2.4M,€76K,65.7,76.7,67.6,66.9,74,GK,177cm,Left
+298454,J. Owens,31,Cook Islands,Johnson Group,Premier League (England),€2.3M,€77K,27.7,57.2,66.9,76.8,74,CAM,171cm,Right
+142996,Horton,32,Zambia,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€2.2M,€76K,38.8,50.0,61.0,77.9,74,CDM,185cm,Right
+470739,Jason Osborne,20,Namibia,Livingston Inc,Weber-Strickland (France),€2M,€76K,19.4,80.8,35.6,53.6,74,RW,196cm,Right
+995143,D. Norman,28,Zambia,Terry Ltd,Farrell Ltd (Guyana),€2M,€76K,77.6,24.4,56.5,63.8,74,ST,175cm,Right
+618436,M. Roman,21,Togo,Levine-Rollins,Everett-Fritz (Namibia),€2.1M,€76K,5.2,46.7,65.2,76.9,74,LM,204cm,Right
+905217,M. Hatfield,21,Zambia,Young LLC,Premier League (England),€2.3M,€76K,34.5,60.2,78.1,52.6,74,CAM,163cm,Right
+720943,R. Lynn,28,Togo,"Li, Brown and Smith",Everett-Fritz (Namibia),€1.7M,€75K,66.4,30.4,75.1,33.2,73,CF,191cm,Right
+139353,M. Harper,28,Croatia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€2.1M,€76K,69.5,54.4,17.2,73.9,73,RM,162cm,Right
+549005,T. Clark,25,Cook Islands,"Bell, Buchanan and Sanford",Weber-Strickland (France),€1.8M,€75K,50.6,56.6,78.8,57.1,73,ST,172cm,Left
+106679,S. West,23,Zambia,Livingston Inc,Weber-Strickland (France),€1.7M,€75K,52.5,53.0,79.9,37.2,73,GK,188cm,Left
+467132,D. Carpenter,30,Cook Islands,Baldwin LLC,Premier League (England),€1.6M,€75K,31.3,78.1,57.9,24.2,73,RWB,166cm,Right
+180558,Thomas,35,Central African Republic,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€1.8M,€75K,40.7,33.9,81.9,47.4,73,LWB,173cm,Right
+893607,Ryan,35,Zambia,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€1.6M,€75K,43.2,46.5,79.3,54.8,73,CM,187cm,Right
+459506,P. Harrison,24,Comoros,Rollins LLC,Premier League (England),€1.7M,€75K,5.8,34.5,85.5,26.0,73,LW,154cm,Right
+983801,R. Daniels,28,Cook Islands,FC Barcelona,Premier League (England),€1.5M,€75K,8.4,47.7,81.3,41.0,73,LW,158cm,Right
+468178,C. Smith,43,Zambia,Willis Group,Farrell Ltd (Guyana),€1.4M,€74K,76.2,43.5,31.9,63.0,73,CB,162cm,Right
+894211,Marcus Jr.,22,Central African Republic,Rollins LLC,Premier League (England),€1.4M,€74K,76.2,62.4,47.5,58.1,73,RM,179cm,Left
+836947,Curtis Jr.,32,Guyana,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€1.6M,€75K,30.1,76.4,63.7,51.0,73,RW,170cm,Right
+460263,S. King,28,Sao Tome and Principe,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€1.3M,€74K,35.8,73.8,70.3,35.8,73,LWB,181cm,Left
+837215,R. Williams,29,Zambia,Fitzgerald-Benitez,Premier League (England),€1.3M,€73K,33.3,76.2,61.6,21.3,73,RWB,155cm,Right
+788382,Anthony Jr.,23,Guyana,Rodriguez and Sons,Weber-Strickland (France),€1.5M,€73K,54.5,64.9,76.0,58.8,73,GK,162cm,Left
+591890,M. Jones,44,Togo,"Barber, Jacobs and Johnson",Premier League (England),€1.2M,€73K,21.9,71.9,15.1,73.0,73,CM,198cm,Left
+157958,Peter Jr.,48,Comoros,Rodriguez and Sons,Weber-Strickland (France),€1.2M,€73K,37.8,76.0,65.9,6.8,73,CF,166cm,Left
+624932,J. Haney,22,Cook Islands,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€1.4M,€74K,70.6,64.9,27.6,74.0,73,RM,199cm,Left
+26986,Jonathan Jr.,21,Sao Tome and Principe,"Barber, Jacobs and Johnson",Premier League (England),€1.1M,€73K,42.2,75.9,16.2,64.6,73,CM,208cm,Left
+813865,M. Miller,24,Guyana,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€1.1M,€73K,60.5,37.8,76.9,61.6,73,LWB,173cm,Left
+134328,Timothy Brock,23,Comoros,Paris Saint Germain,Premier League (England),€994K,€72K,42.9,73.2,10.0,72.9,73,CM,172cm,Left
+871754,J. Edwards,26,France,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€1M,€72K,25.3,36.7,82.5,44.3,73,LW,175cm,Right
+126361,Benjamin Jr.,33,Zambia,Paris Saint Germain,Premier League (England),€999K,€72K,23.4,77.7,57.7,14.1,73,CAM,176cm,Left
+503307,D. Foster,20,Croatia,Schmidt-Martin,Premier League (England),€997K,€73K,73.5,59.9,66.3,73.1,73,CB,155cm,Left
+716354,E. Cook,24,Sao Tome and Principe,Young LLC,Premier League (England),€987K,€72K,45.4,75.4,64.2,36.5,73,ST,152cm,Left
+995131,Mason,40,Namibia,Butler Inc,"Guzman, Williams and Smith (Togo)",€991K,€72K,78.2,33.9,43.8,58.0,73,ST,156cm,Right
+495495,Hernandez,23,Central African Republic,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€986K,€72K,55.8,75.9,42.4,64.2,73,LW,156cm,Left
+213166,N. Stark,18,Central African Republic,Bryant Ltd,Sims Ltd (Croatia),€993K,€73K,42.0,50.7,79.7,16.4,72,LW,171cm,Right
+712880,R. Salazar,27,Venezuela,Young LLC,Premier League (England),€986K,€71K,47.8,75.7,60.3,52.2,72,RWB,193cm,Left
+205084,W. Allison,36,Togo,Baldwin LLC,Premier League (England),€986K,€71K,46.0,78.3,52.1,11.7,72,CF,183cm,Left
+786718,B. Reeves,47,Namibia,Baldwin LLC,Premier League (England),€986K,€71K,42.4,59.8,75.7,56.1,72,LWB,159cm,Left
+598421,R. Taylor,32,Togo,Rodriguez and Sons,Weber-Strickland (France),€996K,€72K,42.2,29.0,79.6,50.4,72,LW,178cm,Right
+123901,B. Watkins,31,Zambia,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€983K,€71K,74.7,63.5,25.8,44.3,72,RM,181cm,Right
+689333,L. Gates,27,Togo,Butler Inc,"Guzman, Williams and Smith (Togo)",€980K,€71K,23.5,32.9,46.2,80.1,72,GK,194cm,Right
+435469,S. Simmons,31,France,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€984K,€71K,26.3,27.7,65.0,74.0,72,LM,195cm,Right
+353608,Houston,24,Comoros,Reyes-Frank,Harris-Price (Togo),€984K,€71K,15.9,82.2,42.5,23.3,72,CF,203cm,Left
+1399,R. Nunez,20,Croatia,Fitzgerald-Benitez,Premier League (England),€976K,€70K,60.6,75.8,52.0,35.7,72,ST,185cm,Left
+312721,R. Cisneros,33,Namibia,Rodriguez and Sons,Weber-Strickland (France),€979K,€70K,17.2,82.2,43.3,19.0,72,CF,178cm,Left
+247345,T. Fowler,29,Cook Islands,White Group,Farrell Ltd (Guyana),€982K,€71K,49.4,75.8,58.6,52.7,72,LW,165cm,Left
+75408,M. Smith,35,Venezuela,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€968K,€71K,37.0,73.9,65.0,29.2,72,CAM,181cm,Left
+992987,Torres,32,Cook Islands,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€961K,€70K,51.6,63.5,71.9,70.6,72,CAM,190cm,Right
+567070,M. Wilson,43,Namibia,Crane-Moore,Premier League (England),€966K,€70K,28.9,73.0,21.8,69.5,72,CM,167cm,Left
+321477,Craig,53,Sao Tome and Principe,"Barber, Jacobs and Johnson",Premier League (England),€966K,€69K,65.7,39.8,54.3,74.7,72,LB,200cm,Left
+92164,M. Gutierrez,30,Togo,Smith-Peterson,Premier League (England),€959K,€71K,50.1,76.7,56.4,52.6,72,RWB,210cm,Right
+862498,J. Rogers,42,Venezuela,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€956K,€69K,55.3,75.3,60.4,31.4,72,LM,185cm,Left
+477479,M. Campbell,30,Central African Republic,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€953K,€69K,54.7,78.4,25.4,39.1,72,RW,171cm,Right
+960821,B. Sutton,24,France,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€954K,€69K,64.4,44.7,7.5,74.1,72,RM,155cm,Right
+911689,B. Hernandez,35,Sao Tome and Principe,White Group,Farrell Ltd (Guyana),€952K,€69K,57.2,55.6,77.6,39.4,72,LWB,189cm,Left
+199047,B. Jackson,29,Venezuela,Rollins LLC,Premier League (England),€947K,€68K,36.0,68.6,73.8,48.2,72,CAM,207cm,Left
+739720,B. Gonzalez,21,Croatia,Willis Group,Farrell Ltd (Guyana),€949K,€68K,77.1,55.5,25.7,48.9,72,LB,200cm,Left
+682490,M. Brown,21,Venezuela,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€967K,€69K,63.7,48.0,46.1,75.0,72,RM,207cm,Right
+453286,Smith,35,Central African Republic,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€950K,€68K,73.9,65.2,54.1,57.4,72,LB,187cm,Left
+322345,Osborne,34,Zambia,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€945K,€67K,53.8,73.1,70.2,57.3,72,LW,172cm,Left
+527219,D. Adams,34,Togo,Crane-Moore,Premier League (England),€945K,€67K,58.6,76.4,38.7,27.8,72,LM,190cm,Left
+183172,S. Clark,35,Togo,"Barber, Jacobs and Johnson",Premier League (England),€947K,€67K,76.8,55.5,46.6,57.6,72,LB,184cm,Left
+576488,Kenneth Olson,23,Togo,Butler Inc,"Guzman, Williams and Smith (Togo)",€946K,€67K,31.3,75.0,58.6,61.7,72,CAM,191cm,Right
+191495,J. Butler,24,Togo,Manchester United,"Cox, Miller and Barber (Cook Islands)",€945K,€66K,60.6,75.3,27.5,20.7,72,LM,152cm,Left
+748701,Marcus Jr.,25,Venezuela,Willis Group,Farrell Ltd (Guyana),€947K,€66K,27.9,47.1,80.2,48.3,72,LWB,201cm,Right
+609549,T. Estrada,28,Croatia,Bryant Ltd,Sims Ltd (Croatia),€935K,€68K,39.8,72.0,71.8,18.9,72,CAM,208cm,Left
+478540,Jason Jr.,32,Sao Tome and Principe,FC Barcelona,Premier League (England),€935K,€67K,63.4,71.2,50.3,71.8,72,RM,175cm,Left
+470690,T. Taylor,31,Togo,Manchester United,"Cox, Miller and Barber (Cook Islands)",€931K,€66K,73.6,32.9,68.8,47.3,72,RB,189cm,Right
+151288,J. Baldwin,29,Central African Republic,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€934K,€66K,46.2,64.0,64.1,75.1,72,CB,190cm,Left
+749308,Jeffrey Jr.,27,Comoros,"Bell, Buchanan and Sanford",Weber-Strickland (France),€941K,€67K,51.5,32.5,79.4,26.7,72,CM,191cm,Right
+888721,G. Wolfe,32,Sao Tome and Principe,Young LLC,Premier League (England),€930K,€66K,41.1,50.1,79.0,19.1,72,LW,180cm,Right
+118710,C. Martinez,30,Comoros,Tyler-Miller,Premier League (England),€923K,€66K,77.6,35.5,39.3,53.9,72,ST,157cm,Right
+266341,T. Carr,22,Togo,Burnett-Henry,Premier League (England),€929K,€66K,41.1,61.1,20.7,76.3,72,GK,176cm,Right
+467238,C. Guzman,33,Central African Republic,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€920K,€66K,52.6,65.0,25.6,72.9,71,RM,172cm,Right
+664075,E. Gray,33,Croatia,Rollins LLC,Premier League (England),€920K,€66K,74.1,32.5,52.0,61.9,71,LB,207cm,Left
+205412,D. Nelson,23,Sao Tome and Principe,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€917K,€65K,12.8,80.7,40.9,14.6,71,CAM,162cm,Left
+762497,R. Jones,24,Togo,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€915K,€66K,69.2,40.5,52.8,71.8,71,RB,153cm,Left
+271029,S. Vargas,20,Comoros,FC Barcelona,Premier League (England),€921K,€65K,48.7,57.2,56.1,75.5,71,CDM,180cm,Right
+525176,K. Mclaughlin,26,Croatia,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€914K,€65K,39.6,47.8,60.9,74.1,71,CAM,205cm,Right
+345000,T. Smith,27,France,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€910K,€64K,39.7,50.8,24.6,77.2,71,CM,193cm,Left
+287709,R. Rollins,22,Togo,"Li, Brown and Smith",Everett-Fritz (Namibia),€911K,€64K,66.8,36.0,72.6,53.3,71,ST,177cm,Right
+279530,R. Reeves,30,Togo,Manchester United,"Cox, Miller and Barber (Cook Islands)",€916K,€65K,17.7,72.6,36.1,66.4,71,CM,155cm,Left
+214014,John Jr.,29,Cook Islands,Burnett-Henry,Premier League (England),€911K,€64K,73.5,62.7,15.1,65.4,71,RM,174cm,Right
+66598,J. Lopez,24,Namibia,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€910K,€64K,46.5,74.5,58.6,48.1,71,CB,200cm,Left
+591008,J. Lee,26,Croatia,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€903K,€64K,57.5,66.9,72.1,57.2,71,ST,180cm,Left
+255162,Deleon,35,Venezuela,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€903K,€63K,81.3,32.0,30.9,40.6,71,CB,180cm,Right
+263458,J. Smith,23,Zambia,"Li, Brown and Smith",Everett-Fritz (Namibia),€908K,€64K,56.0,75.8,45.2,53.6,71,GK,163cm,Left
+427511,A. Hernandez,53,Namibia,Terry Ltd,Farrell Ltd (Guyana),€900K,€63K,73.6,64.0,53.0,63.3,71,CB,205cm,Right
+18062,Andrew Jr.,26,France,"Carter, Cantu and Bell",Premier League (England),€899K,€63K,44.0,79.6,40.9,29.2,71,LM,169cm,Left
+173848,A. Chase,26,Croatia,Butler Inc,"Guzman, Williams and Smith (Togo)",€911K,€63K,49.6,73.6,62.9,33.0,71,LWB,192cm,Left
+337696,C. Rice,54,Venezuela,Williams Group,"Booth, Reeves and Goodman (Namibia)",€903K,€63K,55.7,37.8,35.5,76.1,71,GK,157cm,Right
+468818,Snow,34,Zambia,Buchanan PLC,Farrell Ltd (Guyana),€900K,€63K,36.9,72.5,65.6,14.2,71,CF,178cm,Left
+18341,D. Baker,32,Croatia,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€896K,€62K,75.2,49.4,51.3,59.1,71,LB,165cm,Left
+829575,B. Sellers,32,Sao Tome and Principe,Schmidt-Martin,Premier League (England),€894K,€63K,12.7,24.2,63.5,73.2,71,LM,201cm,Right
+977158,R. Graham,32,Comoros,"Bell, Buchanan and Sanford",Weber-Strickland (France),€896K,€63K,21.5,55.8,69.1,71.4,71,CDM,201cm,Right
+985505,M. Rowland,26,Sao Tome and Principe,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€899K,€62K,47.4,52.3,72.6,66.1,71,LW,197cm,Left
+993769,E. Pearson,30,Zambia,Kline Group,Premier League (England),€890K,€62K,72.2,48.4,40.6,68.9,71,CB,181cm,Right
+43990,C. Coleman,32,Zambia,Barker-Lara,Farrell Ltd (Guyana),€892K,€62K,21.2,78.2,30.9,49.1,71,RW,167cm,Right
+355536,Ho,24,Zambia,Williams Group,"Booth, Reeves and Goodman (Namibia)",€890K,€62K,52.2,72.4,68.1,49.4,71,GK,156cm,Left
+798199,Jonathan Park,22,France,"Barber, Jacobs and Johnson",Premier League (England),€878K,€62K,53.4,25.1,77.5,44.4,71,CM,183cm,Right
+208415,A. Thomas,29,Sao Tome and Principe,Miller and Sons,Everett-Fritz (Namibia),€878K,€62K,56.4,48.8,38.3,76.0,71,ST,160cm,Right
+986889,M. Holmes,34,Guyana,"Li, Brown and Smith",Everett-Fritz (Namibia),€883K,€62K,26.1,59.4,74.8,54.2,71,CM,183cm,Right
+331852,Michael Jr.,26,Togo,"Moore, Smith and Johnson",Weber-Strickland (France),€888K,€62K,77.9,16.9,21.7,48.9,71,RB,194cm,Left
+991273,M. Ryan,22,Cook Islands,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€872K,€61K,61.9,69.3,69.7,50.5,70,LW,175cm,Left
+98423,A. Austin,29,Guyana,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€876K,€61K,61.6,56.1,72.5,60.1,70,CM,179cm,Right
+82040,Johnson,32,Cook Islands,Butler Inc,"Guzman, Williams and Smith (Togo)",€873K,€62K,36.5,40.3,77.3,47.6,70,LW,173cm,Right
+590036,D. Gray,30,Namibia,Crane-Moore,Premier League (England),€878K,€61K,57.8,73.5,55.4,60.0,70,CAM,156cm,Right
+131552,Raymond,34,Croatia,"Li, Brown and Smith",Everett-Fritz (Namibia),€882K,€61K,70.1,64.4,55.6,69.4,70,CB,169cm,Right
+598549,William Campbell,29,Central African Republic,Crane-Moore,Premier League (England),€863K,€61K,50.0,68.3,71.0,35.9,70,LWB,187cm,Left
+156452,W. Shepherd,34,Togo,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€867K,€61K,71.3,66.3,26.8,45.3,70,LM,159cm,Left
+58161,M. Costa,30,Central African Republic,Bryant Ltd,Sims Ltd (Croatia),€867K,€61K,15.4,65.4,28.0,71.9,70,RW,175cm,Left
+721714,R. Brown,22,Sao Tome and Principe,Bryant Ltd,Sims Ltd (Croatia),€862K,€60K,70.2,70.6,24.9,55.8,70,LM,169cm,Left
+205633,D. Lee,28,Zambia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€860K,€60K,74.1,12.0,49.9,58.1,70,RB,168cm,Right
+25463,R. Turner,35,Central African Republic,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€862K,€61K,46.6,64.5,72.2,42.3,70,CAM,167cm,Left
+623862,C. Green,25,Namibia,"Barber, Jacobs and Johnson",Premier League (England),€861K,€60K,71.2,55.0,63.0,66.9,70,ST,181cm,Right
+222486,Montes,22,Togo,Kline Group,Premier League (England),€851K,€59K,66.2,51.0,39.8,70.9,70,LB,208cm,Left
+206236,A. Hunter,52,Zambia,Miller and Sons,Everett-Fritz (Namibia),€858K,€59K,61.6,57.9,34.4,73.0,70,LB,210cm,Left
+140817,R. Gentry,27,France,Willis Group,Farrell Ltd (Guyana),€861K,€60K,36.0,76.3,51.8,26.3,70,RWB,192cm,Left
+99898,P. Wilson,31,Guyana,Reyes-Frank,Harris-Price (Togo),€856K,€60K,39.6,79.7,39.5,36.5,70,LM,184cm,Left
+632594,J. Lindsey,24,Namibia,Butler Inc,"Guzman, Williams and Smith (Togo)",€849K,€59K,66.9,70.9,61.1,61.4,70,CDM,154cm,Left
+411428,J. Jones,29,Sao Tome and Principe,Williams Group,"Booth, Reeves and Goodman (Namibia)",€853K,€59K,34.9,35.9,77.1,48.8,70,CF,170cm,Right
+592193,C. Davis,21,Venezuela,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€848K,€59K,76.5,39.7,49.8,40.9,70,RB,189cm,Right
+715193,Brian Casey,23,Cook Islands,Reyes-Frank,Harris-Price (Togo),€849K,€60K,74.5,55.5,30.6,55.0,70,RM,202cm,Left
+903906,James Williams,32,Central African Republic,Young LLC,Premier League (England),€842K,€59K,78.4,19.9,36.3,46.4,70,RB,208cm,Left
+273332,Aaron Jr.,32,Venezuela,"Li, Brown and Smith",Everett-Fritz (Namibia),€836K,€59K,36.7,74.2,57.6,43.7,70,CAM,168cm,Left
+150484,G. Costa,27,France,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€846K,€59K,71.9,65.2,44.8,65.2,70,LB,208cm,Left
+355380,H. Black,24,Cook Islands,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€838K,€59K,80.2,34.6,24.0,39.7,70,LB,202cm,Left
+699555,S. Taylor,22,Central African Republic,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€835K,€59K,39.6,56.4,49.3,75.2,70,CAM,172cm,Right
+724250,Z. Buck,50,France,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€839K,€59K,74.9,54.3,42.7,41.7,70,LB,175cm,Left
+830778,C. Lowe,34,Sao Tome and Principe,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€834K,€58K,39.8,57.5,71.9,65.3,70,ST,189cm,Left
+593315,M. Green,40,Namibia,Williams Group,"Booth, Reeves and Goodman (Namibia)",€834K,€59K,55.2,48.1,35.9,74.3,70,RM,196cm,Right
+994749,J. Wise,27,Croatia,Schmidt-Martin,Premier League (England),€827K,€58K,29.6,73.5,59.4,36.1,70,CF,152cm,Left
+519980,V. Wiggins,20,Togo,Buchanan PLC,Farrell Ltd (Guyana),€835K,€58K,68.9,61.4,17.2,70.3,70,RM,175cm,Left
+716793,John Jr.,23,Venezuela,Johnson Group,Premier League (England),€832K,€58K,46.9,74.4,30.4,56.7,70,LM,188cm,Left
+692223,Chad Jr.,32,Sao Tome and Principe,Reyes-Frank,Harris-Price (Togo),€833K,€59K,63.7,70.2,56.5,69.0,70,CDM,160cm,Left
+835642,J. Peterson,24,Sao Tome and Principe,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€829K,€57K,43.4,56.5,43.5,73.0,69,CB,202cm,Left
+942171,J. Anthony,25,Togo,Kline Group,Premier League (England),€822K,€57K,39.3,19.3,78.4,40.6,69,LWB,203cm,Right
+254053,Ball,34,Togo,"Carter, Cantu and Bell",Premier League (England),€822K,€58K,29.4,76.2,48.3,35.9,69,RW,168cm,Right
+73891,R. Campbell,26,Guyana,Johnson Group,Premier League (England),€824K,€57K,70.0,67.7,27.1,36.9,69,LM,203cm,Left
+827712,J. Douglas,21,Venezuela,Tyler-Miller,Premier League (England),€820K,€57K,67.1,67.9,51.3,68.8,69,LB,175cm,Left
+803186,J. Barnes,27,Croatia,"Carter, Cantu and Bell",Premier League (England),€817K,€57K,40.4,25.0,70.9,63.3,69,CM,168cm,Right
+999798,W. Baker,21,Venezuela,Barker-Lara,Farrell Ltd (Guyana),€819K,€57K,29.8,32.9,61.8,71.9,69,LM,175cm,Right
+696781,R. Smith,31,Guyana,Baldwin LLC,Premier League (England),€822K,€57K,56.5,54.3,71.4,63.2,69,ST,189cm,Right
+762541,Jacob Jr.,41,Croatia,Rodriguez and Sons,Weber-Strickland (France),€807K,€57K,76.1,16.2,37.6,47.8,69,RB,198cm,Right
+705319,Pierce,21,Venezuela,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€807K,€57K,54.2,47.1,68.7,68.9,69,CF,167cm,Right
+508759,D. Cooper,22,Guyana,Burnett-Henry,Premier League (England),€809K,€56K,71.2,62.4,27.9,22.5,69,LM,163cm,Left
+115574,M. Decker,23,Croatia,Paris Saint Germain,Premier League (England),€820K,€56K,36.3,13.4,68.8,69.5,69,LM,209cm,Right
+25625,G. Schultz,27,Togo,Manchester United,"Cox, Miller and Barber (Cook Islands)",€807K,€55K,28.5,76.3,46.6,26.3,69,CAM,152cm,Left
+754716,K. Lewis,31,Comoros,Terry Ltd,Farrell Ltd (Guyana),€803K,€56K,18.2,75.4,43.8,50.5,69,CAM,171cm,Right
+910410,B. Terrell,35,Venezuela,Schmidt-Martin,Premier League (England),€811K,€57K,57.7,55.2,26.8,73.3,69,GK,170cm,Right
+197710,Davis,31,Namibia,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€802K,€56K,61.2,71.0,19.2,31.0,69,CB,202cm,Right
+394373,D. Smith,24,Venezuela,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€807K,€55K,59.1,72.4,49.5,51.1,69,LW,164cm,Left
+541947,C. Little,31,France,"Carter, Cantu and Bell",Premier League (England),€799K,€55K,32.0,78.2,29.6,42.7,69,RW,168cm,Right
+25914,Joshua Jr.,28,Central African Republic,Burnett-Henry,Premier League (England),€789K,€56K,31.1,50.6,75.3,38.0,69,LW,186cm,Right
+329234,J. Allen,21,Croatia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€796K,€54K,73.9,53.7,47.6,46.2,69,CB,201cm,Right
+878173,B. Miller,22,Comoros,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€779K,€55K,73.5,14.4,53.7,45.7,69,RB,198cm,Right
+624267,E. Boyd,20,Togo,Burnett-Henry,Premier League (England),€777K,€54K,72.5,54.5,59.8,47.7,69,RWB,195cm,Left
+861982,D. Bryant,29,Croatia,Kline Group,Premier League (England),€794K,€54K,24.8,77.5,38.6,41.9,69,RWB,199cm,Right
+739167,Graham,29,Comoros,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€787K,€54K,27.8,70.3,65.7,36.1,69,LWB,160cm,Left
+305189,M. May,32,Zambia,Baldwin LLC,Premier League (England),€773K,€53K,63.5,70.5,46.4,55.9,69,GK,194cm,Left
+67738,T. Brown,23,Cook Islands,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€783K,€53K,61.2,25.7,71.9,59.8,69,ST,176cm,Right
+445168,M. Edwards,27,Guyana,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€774K,€54K,41.9,25.0,74.0,55.4,69,LWB,202cm,Right
+568051,N. Whitaker,34,France,White Group,Farrell Ltd (Guyana),€776K,€53K,44.4,69.5,43.5,67.2,69,CM,188cm,Left
+920331,Caldwell,29,Cook Islands,"Bell, Buchanan and Sanford",Weber-Strickland (France),€770K,€53K,72.8,42.3,58.6,45.7,69,RB,177cm,Right
+52016,R. Villa,29,Namibia,Willis Group,Farrell Ltd (Guyana),€765K,€53K,71.6,44.3,35.6,60.8,69,RM,184cm,Right
+543585,Simmons,21,Comoros,Terry Ltd,Farrell Ltd (Guyana),€767K,€53K,35.1,78.9,28.9,41.1,69,RW,207cm,Right
+617377,D. Smith,27,Guyana,White Group,Farrell Ltd (Guyana),€770K,€53K,30.5,41.6,77.7,24.6,69,LW,191cm,Right
+461785,C. Grant,34,Cook Islands,White Group,Farrell Ltd (Guyana),€763K,€53K,8.2,17.7,81.8,30.7,69,LW,208cm,Right
+511039,Henry Bender,29,Venezuela,"Moore, Smith and Johnson",Weber-Strickland (France),€774K,€53K,16.8,76.1,48.6,36.3,69,CF,202cm,Left
+281991,D. Macdonald,33,Zambia,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€763K,€52K,43.7,69.8,60.5,65.6,69,ST,172cm,Left
+912784,Barrett,26,Croatia,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€765K,€52K,51.7,63.9,11.5,70.5,69,GK,157cm,Right
+77217,B. Lloyd,32,France,Burnett-Henry,Premier League (England),€760K,€52K,67.9,27.5,39.3,69.4,69,ST,160cm,Right
+347664,Ryan,44,Cook Islands,Rodriguez and Sons,Weber-Strickland (France),€760K,€52K,23.9,79.6,37.2,27.7,69,RW,178cm,Right
+323107,Watson,29,Togo,Tyler-Miller,Premier League (England),€762K,€52K,65.0,30.8,70.5,24.7,69,RB,165cm,Right
+396839,S. Ingram,35,Sao Tome and Principe,Levine-Rollins,Everett-Fritz (Namibia),€761K,€52K,71.0,50.0,33.1,61.2,69,RWB,202cm,Left
+962467,E. Green,20,Namibia,Levine-Rollins,Everett-Fritz (Namibia),€756K,€51K,50.2,73.3,26.6,56.2,69,CM,188cm,Left
+344204,J. Fernandez,22,Guyana,Schmidt-Martin,Premier League (England),€760K,€51K,73.3,48.2,53.9,33.8,68,CB,205cm,Right
+434478,G. Henry,22,Venezuela,Baldwin LLC,Premier League (England),€756K,€51K,55.7,69.9,62.8,54.0,68,LWB,192cm,Left
+508340,G. Clark,24,Cook Islands,Johnson Group,Premier League (England),€756K,€51K,30.9,71.0,55.4,59.1,68,RW,187cm,Right
+459233,S. Scott,22,Namibia,Tyler-Miller,Premier League (England),€755K,€50K,39.9,69.2,63.9,65.3,68,CB,188cm,Left
+500225,Allen Jr.,20,France,Fitzgerald-Benitez,Premier League (England),€746K,€51K,50.6,56.6,48.7,72.2,68,LB,171cm,Left
+107341,S. Smith,39,Croatia,Tyler-Miller,Premier League (England),€743K,€52K,71.8,37.7,22.6,54.8,68,RM,201cm,Right
+623468,Powell,21,Guyana,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€752K,€50K,74.8,28.6,37.0,47.6,68,ST,151cm,Right
+943033,D. Schmidt,23,Togo,Kline Group,Premier League (England),€740K,€50K,40.8,25.5,76.5,32.3,68,CF,154cm,Right
+943072,K. Simon,20,Central African Republic,Burnett-Henry,Premier League (England),€750K,€51K,49.5,38.7,73.7,35.7,68,CF,206cm,Right
+918509,Thomas Jr.,30,Togo,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€743K,€49K,70.0,39.3,20.6,61.9,68,CB,163cm,Right
+681107,David Wright,35,Togo,Smith-Peterson,Premier League (England),€742K,€50K,35.9,57.3,69.2,62.9,68,CDM,170cm,Right
+599190,Brown,27,Comoros,"Barber, Jacobs and Johnson",Premier League (England),€736K,€50K,42.0,49.8,73.5,49.6,68,LWB,156cm,Left
+230662,Matthew Mcguire,36,Croatia,Willis Group,Farrell Ltd (Guyana),€742K,€49K,61.1,48.1,55.9,69.8,68,LB,175cm,Left
+697790,C. Tyler,32,Croatia,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€736K,€49K,64.5,52.7,68.7,64.2,68,CB,195cm,Left
+255465,R. Sullivan,20,Venezuela,"Li, Brown and Smith",Everett-Fritz (Namibia),€735K,€49K,72.5,37.2,14.4,54.2,68,RB,208cm,Left
+665128,J. Bautista,35,Central African Republic,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€728K,€48K,65.5,42.6,68.3,47.9,68,RB,166cm,Right
+173787,J. Pierce,28,Sao Tome and Principe,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€728K,€48K,64.3,69.3,65.3,62.6,68,CB,159cm,Left
+845530,N. Walton,15,Zambia,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€727K,€48K,32.5,70.4,60.6,34.3,68,RWB,167cm,Right
+632575,M. Gonzalez,33,Comoros,Crane-Moore,Premier League (England),€730K,€48K,38.3,63.8,56.6,69.8,68,RW,206cm,Left
+124715,Christopher Jr.,48,Togo,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€724K,€48K,24.4,42.7,76.1,23.6,68,LWB,178cm,Right
+501693,T. Dean,34,Guyana,"Carlson, Huang and Ayala",Weber-Strickland (France),€732K,€49K,59.4,35.2,70.7,51.7,68,CF,153cm,Right
+624629,R. Diaz,23,Sao Tome and Principe,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€725K,€48K,65.9,47.1,24.6,68.7,68,RB,150cm,Left
+403823,A. Knight,29,Namibia,Kline Group,Premier League (England),€721K,€48K,43.4,73.9,42.3,51.2,68,LW,170cm,Left
+731623,R. Murphy,32,Cook Islands,Paris Saint Germain,Premier League (England),€723K,€47K,64.4,68.0,68.6,52.6,68,CB,189cm,Left
+952901,Molina,45,Venezuela,FC Barcelona,Premier League (England),€719K,€47K,40.6,65.9,68.5,65.3,68,ST,183cm,Left
+609081,S. Wilson,25,Guyana,FC Barcelona,Premier League (England),€720K,€47K,53.2,58.9,35.3,70.6,68,RM,206cm,Left
+805738,D. Mcgee,44,Guyana,"Li, Brown and Smith",Everett-Fritz (Namibia),€720K,€48K,23.0,43.8,70.5,60.9,68,LWB,204cm,Right
+437169,K. Hanna,31,Sao Tome and Principe,Willis Group,Farrell Ltd (Guyana),€713K,€47K,71.5,30.2,26.8,57.0,68,RB,191cm,Left
+740371,B. Mendoza,26,Togo,"Moore, Smith and Johnson",Weber-Strickland (France),€709K,€47K,74.3,45.8,37.9,47.5,68,CB,175cm,Right
+19553,M. Hebert,25,Croatia,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€713K,€47K,72.1,28.9,18.3,57.4,68,RB,204cm,Left
+953655,J. Rangel,30,Sao Tome and Principe,Johnson and Sons,Premier League (England),€719K,€47K,42.5,68.5,56.9,67.8,68,CB,210cm,Left
+413015,Michael Jr.,24,Togo,Livingston Inc,Weber-Strickland (France),€708K,€47K,43.3,20.7,75.7,40.6,68,CF,169cm,Right
+945563,M. Ballard,29,Croatia,Johnson Group,Premier League (England),€707K,€47K,27.2,56.1,72.5,25.3,68,LWB,156cm,Left
+233009,Andrew Pham,29,Central African Republic,Fitzgerald-Benitez,Premier League (England),€713K,€46K,13.0,69.0,65.2,16.6,68,CAM,202cm,Left
+700055,K. Clarke,30,Central African Republic,"Moore, Smith and Johnson",Weber-Strickland (France),€706K,€47K,35.2,59.5,23.7,70.4,68,RM,161cm,Right
+175960,J. Davila,29,Croatia,Williams Group,"Booth, Reeves and Goodman (Namibia)",€703K,€46K,41.9,43.9,33.9,76.2,68,GK,160cm,Right
+36737,N. Stout,31,Togo,Burnett-Henry,Premier League (England),€703K,€46K,73.8,44.6,48.6,52.4,68,CB,184cm,Right
+557139,M. Pearson,26,Zambia,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€706K,€46K,71.6,42.9,54.2,49.7,67,LB,191cm,Left
+385297,Wiley,27,Togo,"Carter, Cantu and Bell",Premier League (England),€702K,€46K,42.1,52.2,71.5,45.6,67,CAM,169cm,Left
+16673,D. Cohen,50,Comoros,Baldwin LLC,Premier League (England),€705K,€45K,59.4,52.7,69.2,24.9,67,LWB,150cm,Left
+991586,L. Ponce,38,Togo,Paris Saint Germain,Premier League (England),€695K,€45K,47.5,44.6,70.2,57.6,67,LWB,174cm,Left
+369038,M. Cox,30,Central African Republic,"Carlson, Huang and Ayala",Weber-Strickland (France),€701K,€47K,63.1,27.0,68.8,35.9,67,RB,174cm,Right
+147909,P. Flores,33,Venezuela,Wright-Neal,Premier League (England),€698K,€45K,38.9,70.9,54.8,34.2,67,RW,192cm,Right
+158023,Joseph Armstrong,34,Sao Tome and Principe,Kline Group,Premier League (England),€687K,€45K,70.0,45.7,56.6,52.0,67,ST,187cm,Right
+98910,Jorge Jr.,29,Sao Tome and Principe,Johnson Group,Premier League (England),€699K,€45K,57.6,70.1,40.8,53.0,67,CB,167cm,Right
+910082,J. Patterson,33,Comoros,Willis Group,Farrell Ltd (Guyana),€692K,€44K,54.8,58.9,68.1,63.5,67,CM,151cm,Right
+467852,Perez,16,Venezuela,Young LLC,Premier League (England),€685K,€44K,65.5,67.0,54.0,45.4,67,GK,203cm,Left
+983959,M. Camacho,34,Zambia,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€692K,€44K,42.4,55.6,24.0,70.9,67,CM,169cm,Left
+697253,Wesley Jr.,27,France,Manchester United,"Cox, Miller and Barber (Cook Islands)",€678K,€44K,65.9,67.3,35.2,37.5,67,RM,156cm,Right
+910252,M. Schultz,33,Zambia,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€685K,€44K,41.2,57.5,29.4,70.4,67,RW,200cm,Left
+656531,Garcia,25,Croatia,Crane-Moore,Premier League (England),€684K,€44K,30.4,52.3,53.1,71.2,67,CDM,164cm,Right
+34165,Raymond Jr.,26,Sao Tome and Principe,Buchanan PLC,Farrell Ltd (Guyana),€677K,€43K,67.4,41.9,53.9,64.8,67,LB,199cm,Left
+804223,D. Mcgee,35,Cook Islands,Buchanan PLC,Farrell Ltd (Guyana),€668K,€43K,46.1,58.4,69.8,52.7,67,CB,188cm,Left
+157097,W. Robertson,35,Croatia,Butler Inc,"Guzman, Williams and Smith (Togo)",€671K,€44K,65.1,67.1,58.2,41.4,67,GK,200cm,Left
+140868,W. Salas,24,Venezuela,Bryant Ltd,Sims Ltd (Croatia),€666K,€43K,59.0,69.5,44.6,51.0,67,RWB,168cm,Left
+165613,Louis Jr.,22,Croatia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€665K,€43K,41.4,68.5,60.7,29.6,67,RW,206cm,Right
+681963,John Jr.,29,Namibia,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€665K,€43K,42.0,20.0,74.2,45.9,67,LWB,187cm,Right
+239625,S. Hunt,35,Guyana,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€661K,€42K,54.1,54.4,22.4,71.8,67,RM,163cm,Right
+919941,L. Wilson,29,Comoros,Schmidt-Martin,Premier League (England),€666K,€43K,52.7,71.4,53.3,39.8,67,RWB,183cm,Right
+715141,Edward Jr.,22,Venezuela,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€658K,€41K,28.8,28.8,70.0,56.9,67,LWB,172cm,Right
+43568,J. Jackson,32,Venezuela,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€655K,€41K,21.3,50.1,65.3,67.6,67,RW,190cm,Left
+494146,T. Thompson,35,Venezuela,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€684K,€41K,60.9,20.2,69.2,40.8,67,CF,166cm,Right
+748203,D. Russell,27,Croatia,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€660K,€42K,14.4,25.9,81.2,23.5,67,LW,187cm,Right
+895740,J. Peck,23,Comoros,"Barber, Jacobs and Johnson",Premier League (England),€654K,€40K,66.0,53.0,66.7,61.2,67,CF,196cm,Right
+560237,K. Owens,20,Croatia,Bryant Ltd,Sims Ltd (Croatia),€651K,€43K,30.1,67.5,66.6,43.6,67,RWB,207cm,Right
+847003,R. Stewart,19,Zambia,Rollins LLC,Premier League (England),€655K,€40K,68.5,28.4,37.9,62.7,67,RB,179cm,Left
+658744,Woodard,27,Cook Islands,"Barber, Jacobs and Johnson",Premier League (England),€658K,€40K,59.9,66.9,34.8,65.7,67,RM,180cm,Right
+298486,R. Williams,15,Sao Tome and Principe,Fitzgerald-Benitez,Premier League (England),€653K,€40K,30.7,38.7,28.8,76.2,67,GK,166cm,Right
+183917,Allison,21,Comoros,Johnson Group,Premier League (England),€648K,€40K,29.3,61.5,68.2,59.9,67,CM,150cm,Right
+429698,A. Gonzalez,21,Sao Tome and Principe,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€643K,€40K,63.6,49.1,34.5,68.5,67,RM,205cm,Right
+831114,D. Olson,54,Comoros,Tyler-Miller,Premier League (England),€650K,€40K,37.0,43.0,74.7,32.9,67,LW,197cm,Right
+945835,M. Reeves,31,Venezuela,Manchester United,"Cox, Miller and Barber (Cook Islands)",€638K,€39K,72.4,30.9,43.5,50.1,67,RB,157cm,Right
+192173,Harry Jr.,28,Sao Tome and Principe,Burnett-Henry,Premier League (England),€637K,€39K,40.8,49.5,69.6,57.5,67,CDM,204cm,Right
+388860,W. Wolfe,33,Zambia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€634K,€39K,52.5,46.8,57.0,70.9,67,LB,196cm,Left
+200619,D. Williams,33,Zambia,Butler Inc,"Guzman, Williams and Smith (Togo)",€640K,€39K,49.1,67.9,13.5,64.2,67,CM,193cm,Left
+118853,P. Arnold,33,Guyana,Johnson Group,Premier League (England),€644K,€39K,50.4,49.4,66.8,67.1,67,CAM,196cm,Right
+671949,J. Durham,21,Cook Islands,"Carter, Cantu and Bell",Premier League (England),€633K,€38K,26.4,56.5,54.7,69.8,66,CDM,161cm,Right
+975086,A. Adams,27,Croatia,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€630K,€38K,29.5,49.6,39.1,72.0,66,GK,187cm,Right
+827640,D. Patel,26,Croatia,Wright-Neal,Premier League (England),€629K,€38K,37.3,37.4,74.7,38.2,66,CF,182cm,Right
+262603,T. Frey,38,Comoros,Terry Ltd,Farrell Ltd (Guyana),€628K,€38K,74.5,16.8,14.3,40.9,66,RB,205cm,Left
+475872,B. Williams,22,Sao Tome and Principe,Johnson and Sons,Premier League (England),€634K,€38K,34.5,72.7,45.6,22.7,66,LM,203cm,Left
+344859,N. Lee,29,Guyana,Johnson Group,Premier League (England),€625K,€38K,60.5,57.4,67.9,35.7,66,CF,150cm,Right
+721693,R. Allen,44,Cook Islands,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€628K,€38K,22.8,71.8,50.6,47.0,66,RW,183cm,Right
+443260,K. King,36,Cook Islands,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€623K,€37K,32.8,21.8,63.8,67.1,66,CF,158cm,Right
+713607,I. Smith,34,Comoros,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€619K,€38K,69.3,55.9,54.0,52.2,66,LM,207cm,Left
+459904,Lewis,22,Sao Tome and Principe,Williams Group,"Booth, Reeves and Goodman (Namibia)",€623K,€37K,41.0,54.4,69.7,49.5,66,CF,198cm,Right
+509197,J. Cortez,24,Cook Islands,"Barber, Jacobs and Johnson",Premier League (England),€627K,€37K,67.1,44.8,48.8,63.0,66,RB,164cm,Left
+804163,Kyle Freeman,33,France,Crane-Moore,Premier League (England),€619K,€36K,36.5,38.8,70.1,53.7,66,LM,152cm,Right
+648529,F. Flores,23,Sao Tome and Principe,"Bell, Buchanan and Sanford",Weber-Strickland (France),€618K,€37K,58.3,28.9,68.6,45.2,66,LB,207cm,Right
+124282,Howell,34,Zambia,Terry Ltd,Farrell Ltd (Guyana),€614K,€37K,20.7,51.5,34.7,71.2,66,CM,201cm,Left
+583223,L. Gonzalez,31,Namibia,White Group,Farrell Ltd (Guyana),€622K,€37K,57.6,47.3,44.6,69.1,66,ST,167cm,Right
+624406,J. Williams,20,Sao Tome and Principe,Sharp-Cox,Premier League (England),€610K,€36K,58.2,68.2,26.2,61.4,66,LB,189cm,Left
+976726,P. Porter,20,Sao Tome and Principe,Kline Group,Premier League (England),€617K,€36K,40.1,65.5,23.7,66.3,66,RM,168cm,Right
+575467,M. Barajas,37,Venezuela,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€608K,€35K,46.9,53.5,39.7,69.7,66,CDM,174cm,Right
+993349,James Jr.,22,Namibia,Kline Group,Premier League (England),€613K,€36K,61.5,67.0,33.0,58.6,66,RWB,182cm,Left
+534672,P. Compton,31,Central African Republic,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€606K,€35K,60.2,67.9,44.7,54.3,66,RM,170cm,Left
+600276,C. Olson,23,Guyana,Buchanan PLC,Farrell Ltd (Guyana),€604K,€35K,17.1,24.4,41.2,73.7,66,LM,181cm,Right
+624880,D. Garcia,33,Guyana,Reyes-Frank,Harris-Price (Togo),€610K,€35K,43.4,63.2,66.5,55.4,66,ST,150cm,Left
+379196,T. Hughes,35,Croatia,Bryant Ltd,Sims Ltd (Croatia),€604K,€35K,9.6,44.1,72.2,47.6,66,LM,199cm,Right
+895351,Mark Smith,21,Zambia,FC Barcelona,Premier League (England),€601K,€34K,23.0,67.8,59.9,17.6,66,CAM,157cm,Left
+428491,Joseph Jr.,20,France,Schmidt-Martin,Premier League (England),€598K,€34K,54.5,37.4,69.6,31.9,66,LWB,200cm,Left
+158209,P. Jimenez,27,Cook Islands,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€598K,€34K,67.1,62.1,26.2,30.5,66,LM,186cm,Left
+821804,C. Hunter,34,Zambia,Baldwin LLC,Premier League (England),€601K,€35K,62.7,46.2,66.5,48.2,66,RWB,208cm,Right
+272988,Charles Jr.,25,Comoros,Rodriguez and Sons,Weber-Strickland (France),€593K,€34K,53.9,62.6,67.2,46.1,66,GK,164cm,Left
+175032,A. Brown,54,Central African Republic,Livingston Inc,Weber-Strickland (France),€600K,€34K,35.8,65.8,65.6,59.0,66,RW,203cm,Left
+855051,N. Bell,17,France,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€594K,€34K,45.6,56.6,69.3,25.0,66,LWB,176cm,Left
+224286,J. Todd,25,Sao Tome and Principe,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€592K,€34K,70.4,50.3,29.2,53.7,66,RWB,188cm,Left
+634001,C. Smith,34,Namibia,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€588K,€34K,58.5,68.4,22.7,55.5,66,LB,194cm,Left
+765201,Martinez,20,Togo,Crane-Moore,Premier League (England),€586K,€34K,34.6,55.5,66.7,61.9,66,LWB,197cm,Left
+36117,B. Nelson,46,Zambia,Manchester United,"Cox, Miller and Barber (Cook Islands)",€584K,€34K,61.2,68.1,39.5,35.6,66,RWB,176cm,Right
+962317,C. Rodriguez,30,Croatia,Burnett-Henry,Premier League (England),€587K,€34K,41.3,30.1,68.7,56.7,66,CM,169cm,Right
+295010,K. King,32,Zambia,FC Barcelona,Premier League (England),€577K,€33K,39.2,46.8,71.2,19.7,65,RB,199cm,Right
+909734,Matthew Jr.,28,Namibia,Johnson and Sons,Premier League (England),€580K,€33K,40.6,64.2,54.1,65.8,65,GK,153cm,Left
+885277,M. Rodriguez,33,France,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€595K,€34K,21.4,73.1,41.7,41.4,65,RW,204cm,Right
+778856,S. Johnson,49,Togo,Wright-Neal,Premier League (England),€583K,€33K,41.2,28.4,68.3,55.5,65,CDM,167cm,Right
+115368,Roberts,29,Namibia,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€568K,€34K,65.4,63.5,37.6,25.7,65,RWB,207cm,Left
+148401,E. Sanchez,20,Comoros,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€575K,€32K,45.9,23.8,67.8,56.4,65,LWB,185cm,Right
+295913,E. Hamilton,27,Togo,White Group,Farrell Ltd (Guyana),€575K,€33K,70.6,50.0,43.9,44.7,65,RB,199cm,Left
+795750,S. Martinez,35,Sao Tome and Principe,Willis Group,Farrell Ltd (Guyana),€576K,€33K,51.2,69.2,43.4,50.8,65,LWB,152cm,Left
+279820,M. Mitchell,21,Cook Islands,Schmidt-Martin,Premier League (England),€565K,€32K,67.7,58.3,36.5,42.6,65,RWB,179cm,Left
+116006,W. Hebert,21,Central African Republic,Reyes-Frank,Harris-Price (Togo),€567K,€32K,17.1,66.1,61.1,46.1,65,RW,208cm,Right
+345504,C. Gregory,29,France,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€573K,€32K,57.6,67.2,49.6,58.5,65,RWB,183cm,Right
+992787,Higgins,30,Comoros,Barker-Lara,Farrell Ltd (Guyana),€566K,€32K,65.6,63.3,51.0,54.5,65,RWB,188cm,Left
+362028,Alan Jr.,24,Central African Republic,Rodriguez and Sons,Weber-Strickland (France),€564K,€32K,65.5,50.4,25.5,65.2,65,LB,191cm,Left
+927495,C. Farrell,30,Comoros,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€564K,€31K,49.4,67.1,58.0,41.8,65,CAM,205cm,Right
+59615,J. Chen,21,Comoros,"Moore, Smith and Johnson",Weber-Strickland (France),€565K,€32K,40.1,52.9,68.4,54.7,65,CDM,209cm,Right
+100655,J. Anderson,20,Namibia,Johnson and Sons,Premier League (England),€560K,€32K,59.1,59.4,65.6,61.4,65,ST,171cm,Left
+338291,N. Espinoza,50,Central African Republic,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€561K,€31K,23.4,46.7,26.3,70.6,65,CM,151cm,Left
+240292,John Jr.,34,Sao Tome and Principe,Wright-Neal,Premier League (England),€552K,€31K,67.8,23.7,29.0,58.5,65,LB,177cm,Right
+109234,J. Fuentes,28,Central African Republic,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€553K,€32K,51.2,41.0,41.0,69.3,65,CDM,172cm,Right
+977717,M. Webb,27,France,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€556K,€31K,19.1,66.5,61.0,29.2,65,CAM,203cm,Left
+543544,J. Potter,24,Sao Tome and Principe,Young LLC,Premier League (England),€553K,€30K,41.7,70.7,46.7,49.2,65,CAM,159cm,Left
+428870,W. Allen,21,Cook Islands,Crane-Moore,Premier League (England),€541K,€30K,30.0,44.5,43.0,71.2,65,CAM,198cm,Right
+232827,C. Clark,26,Namibia,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€551K,€31K,45.7,70.8,24.6,29.0,65,LM,196cm,Left
+626302,S. Pratt,35,Togo,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€546K,€30K,47.1,39.2,31.8,70.7,65,RM,203cm,Right
+560822,C. Wood,20,France,Fitzgerald-Benitez,Premier League (England),€540K,€30K,24.2,35.8,73.6,40.1,65,LW,159cm,Right
+266126,J. Rivera,20,Croatia,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€539K,€30K,57.6,47.0,50.6,67.2,65,CDM,167cm,Right
+577631,R. Hall,21,Sao Tome and Principe,Kline Group,Premier League (England),€535K,€30K,56.3,49.1,67.4,28.9,65,RB,150cm,Right
+966656,K. Keith,33,Namibia,Terry Ltd,Farrell Ltd (Guyana),€539K,€30K,35.3,68.2,33.4,50.9,64,LM,157cm,Left
+270395,B. Ellis,25,France,Kline Group,Premier League (England),€533K,€30K,26.4,30.4,69.6,45.6,64,LW,179cm,Right
+516286,M. Perez,25,Comoros,Willis Group,Farrell Ltd (Guyana),€534K,€30K,40.2,65.2,16.5,58.9,64,GK,182cm,Right
+426508,J. Hayes,30,Croatia,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€533K,€30K,65.5,61.5,55.0,32.8,64,CB,194cm,Right
+828142,Nicholas Jr.,20,Namibia,Miller and Sons,Everett-Fritz (Namibia),€533K,€30K,64.8,21.6,40.6,60.5,64,ST,178cm,Right
+172875,D. King,31,France,FC Barcelona,Premier League (England),€529K,€28K,65.8,43.6,37.9,58.6,64,RB,182cm,Left
+705767,D. Garcia,34,Comoros,Baldwin LLC,Premier League (England),€527K,€29K,37.4,27.0,43.5,70.9,64,CDM,189cm,Right
+198068,Rick Jr.,25,Zambia,"Barber, Jacobs and Johnson",Premier League (England),€531K,€29K,64.4,33.1,62.8,61.2,64,CF,206cm,Right
+288189,Mitchell Jr.,25,Comoros,Rodriguez and Sons,Weber-Strickland (France),€552K,€29K,43.2,55.1,19.3,67.5,64,CM,162cm,Left
+763363,T. Love,21,Cook Islands,Paris Saint Germain,Premier League (England),€518K,€28K,67.5,34.5,53.4,43.6,64,RB,207cm,Left
+861912,M. Lester,29,Zambia,Sharp-Cox,Premier League (England),€519K,€30K,68.9,48.9,45.7,41.9,64,RB,200cm,Left
+280428,Brandon Avery,37,Namibia,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€522K,€28K,29.7,66.0,39.7,56.8,64,CM,198cm,Left
+264059,K. Davis,27,Zambia,Williams Group,"Booth, Reeves and Goodman (Namibia)",€523K,€28K,36.7,58.8,42.0,65.4,64,CM,164cm,Right
+567528,K. Brown,25,Zambia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€525K,€28K,68.0,53.7,26.0,23.5,64,LM,194cm,Left
+936241,D. Fitzgerald,25,Guyana,Bryant Ltd,Sims Ltd (Croatia),€507K,€28K,32.6,27.8,67.2,53.1,64,LWB,173cm,Right
+198989,Daniel Jr.,42,Comoros,Buchanan PLC,Farrell Ltd (Guyana),€517K,€27K,36.4,27.6,71.7,41.4,64,CF,192cm,Right
+10656,Collins,33,Sao Tome and Principe,"Bell, Buchanan and Sanford",Weber-Strickland (France),€513K,€27K,46.9,54.5,47.9,66.6,64,GK,187cm,Left
+51659,S. Watkins,23,Sao Tome and Principe,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€500K,€27K,44.4,46.6,69.4,35.1,64,CM,188cm,Right
+731766,D. Soto,31,Zambia,Miller and Sons,Everett-Fritz (Namibia),€494K,€27K,21.4,31.3,68.1,50.9,64,LM,196cm,Right
+838353,W. Baird,54,Guyana,Burnett-Henry,Premier League (England),€498K,€27K,66.9,57.0,50.5,46.4,64,CF,207cm,Right
+404426,D. Lewis,34,Comoros,Rodriguez and Sons,Weber-Strickland (France),€509K,€27K,34.4,32.7,60.9,64.7,64,CDM,150cm,Right
+625657,A. Daniel,18,Zambia,Paris Saint Germain,Premier League (England),€487K,€27K,17.0,11.2,63.3,64.3,64,LM,162cm,Right
+527360,R. Jarvis,29,Central African Republic,"Li, Brown and Smith",Everett-Fritz (Namibia),€493K,€27K,56.2,24.5,65.3,59.7,64,CM,207cm,Right
+552563,Alexander Richardson,44,Namibia,Crane-Moore,Premier League (England),€490K,€27K,57.7,51.7,66.3,41.8,64,GK,153cm,Left
+937619,T. Banks,28,Sao Tome and Principe,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€502K,€27K,71.5,39.8,23.8,41.7,64,LB,199cm,Left
+110273,T. Mcdonald,33,France,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€484K,€26K,10.1,22.7,41.5,71.0,64,LM,171cm,Right
+929489,Hernandez,31,Venezuela,Baldwin LLC,Premier League (England),€482K,€26K,66.2,58.1,49.2,49.6,64,LM,183cm,Left
+315279,R. Meza,31,Togo,Terry Ltd,Farrell Ltd (Guyana),€488K,€26K,35.4,60.0,39.3,65.6,64,GK,175cm,Right
+421804,D. Hayes,30,Zambia,Crane-Moore,Premier League (England),€487K,€27K,56.0,66.5,51.7,25.6,64,LM,191cm,Left
+299106,J. Shepherd,31,Guyana,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€473K,€25K,68.1,52.0,9.7,43.6,64,RM,196cm,Right
+975021,F. Morales,24,Central African Republic,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€479K,€25K,28.6,63.9,60.0,39.8,63,CAM,164cm,Left
+164088,Bruce Edwards,32,Cook Islands,Reyes-Frank,Harris-Price (Togo),€470K,€26K,63.5,44.5,35.4,61.6,63,LB,170cm,Right
+401873,R. Baldwin,51,France,"Carter, Cantu and Bell",Premier League (England),€468K,€25K,40.7,49.0,65.9,53.3,63,LW,171cm,Left
+434831,M. Goodman,26,Central African Republic,Livingston Inc,Weber-Strickland (France),€468K,€24K,53.6,34.8,28.2,66.3,63,LB,187cm,Left
+582399,Gabriel Jr.,27,Sao Tome and Principe,White Group,Farrell Ltd (Guyana),€462K,€24K,49.9,35.6,10.0,67.5,63,GK,187cm,Right
+893970,A. Parker,29,Namibia,FC Barcelona,Premier League (England),€474K,€25K,68.8,28.4,38.7,46.2,63,RB,150cm,Right
+623739,T. Brown,33,Venezuela,Rollins LLC,Premier League (England),€462K,€24K,24.3,65.3,38.1,54.2,63,GK,206cm,Right
+689468,E. Howard,23,Sao Tome and Principe,Tyler-Miller,Premier League (England),€458K,€25K,64.1,51.4,60.8,31.7,63,LM,203cm,Left
+181796,Mitchell,43,Togo,Crane-Moore,Premier League (England),€452K,€24K,46.4,68.8,44.9,27.6,63,LWB,190cm,Left
+165421,B. Rodriguez,32,Namibia,"Barber, Jacobs and Johnson",Premier League (England),€462K,€24K,62.2,45.9,29.2,63.2,63,CB,167cm,Right
+542302,Rodney Jr.,31,Central African Republic,Sharp-Cox,Premier League (England),€467K,€24K,59.3,18.3,50.0,64.2,63,LB,210cm,Right
+681781,M. Rubio,22,Croatia,"Li, Brown and Smith",Everett-Fritz (Namibia),€450K,€24K,50.0,66.8,44.2,30.0,63,RWB,206cm,Left
+591817,J. Jarvis,41,Sao Tome and Principe,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€448K,€24K,12.2,65.4,36.0,56.4,63,CM,169cm,Left
+690133,Spencer Phillips,35,Guyana,Schmidt-Martin,Premier League (England),€451K,€24K,63.0,39.0,62.4,19.7,63,RB,155cm,Right
+518281,Scott Smith,27,Cook Islands,Manchester United,"Cox, Miller and Barber (Cook Islands)",€457K,€24K,39.8,69.1,40.8,43.5,63,RWB,200cm,Left
+100658,Z. Blair,16,Guyana,Bryant Ltd,Sims Ltd (Croatia),€438K,€24K,22.0,61.9,63.2,33.5,63,CF,181cm,Left
+182955,Nicholas Jr.,24,Venezuela,Smith-Peterson,Premier League (England),€451K,€23K,46.2,38.8,67.7,47.9,63,CF,199cm,Right
+772844,Jeffrey Jr.,28,France,Willis Group,Farrell Ltd (Guyana),€438K,€23K,67.0,41.6,28.0,50.7,63,LB,167cm,Left
+994228,S. Kelly,30,Guyana,Manchester United,"Cox, Miller and Barber (Cook Islands)",€436K,€23K,24.3,20.2,56.1,65.5,63,LM,158cm,Right
+584792,B. Kerr,20,Cook Islands,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€429K,€23K,63.1,61.5,48.8,32.5,63,CB,187cm,Right
+937145,Cox,35,Sao Tome and Principe,Miller and Sons,Everett-Fritz (Namibia),€442K,€23K,14.3,67.3,45.8,50.3,63,CM,201cm,Left
+478500,Joseph Jr.,35,Guyana,Williams Group,"Booth, Reeves and Goodman (Namibia)",€429K,€23K,24.3,32.3,44.1,68.8,63,LM,175cm,Right
+412973,T. White,34,Venezuela,Johnson Group,Premier League (England),€433K,€23K,25.9,39.9,53.3,66.1,63,CDM,195cm,Right
+675170,A. Blackburn,35,Cook Islands,Willis Group,Farrell Ltd (Guyana),€413K,€23K,14.1,71.9,36.8,36.6,63,CAM,185cm,Left
+134626,Lopez,34,Namibia,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€419K,€23K,23.7,65.1,20.0,56.2,63,CM,201cm,Left
+978529,Rollins,35,Croatia,Smith-Peterson,Premier League (England),€432K,€23K,31.1,59.4,50.5,64.3,63,CDM,197cm,Right
+364174,G. Miller,33,Comoros,Willis Group,Farrell Ltd (Guyana),€421K,€23K,29.7,20.0,57.5,65.4,63,LM,182cm,Right
+888547,M. Porter,32,Central African Republic,Kline Group,Premier League (England),€412K,€22K,67.2,33.1,49.4,38.0,63,CF,200cm,Right
+102139,W. Powell,23,Central African Republic,"Barber, Jacobs and Johnson",Premier League (England),€412K,€22K,26.0,48.5,67.7,29.6,63,LWB,159cm,Right
+757570,J. Frost,30,Croatia,Crane-Moore,Premier League (England),€404K,€22K,72.7,12.1,33.2,31.4,63,RB,179cm,Right
+61251,Smith,20,Comoros,Levine-Rollins,Everett-Fritz (Namibia),€406K,€22K,27.2,63.1,63.6,48.0,63,LW,184cm,Left
+4019,B. Taylor,24,Zambia,Smith-Peterson,Premier League (England),€399K,€22K,56.0,42.0,38.4,65.4,63,RB,166cm,Left
+659411,R. Brown,29,Togo,Willis Group,Farrell Ltd (Guyana),€401K,€23K,46.0,53.2,25.5,65.8,63,RM,173cm,Right
+381037,S. Carey,50,Cook Islands,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€397K,€22K,20.5,68.2,35.9,46.3,63,CAM,193cm,Left
+622669,R. Bass,34,France,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€422K,€22K,19.1,16.4,69.6,38.5,62,LW,206cm,Right
+860442,Alexander Cain,34,Comoros,Miller and Sons,Everett-Fritz (Namibia),€395K,€21K,52.9,22.7,58.4,63.3,62,CM,204cm,Right
+991525,Adam Jr.,30,Guyana,Smith-Peterson,Premier League (England),€394K,€21K,30.6,51.3,65.3,52.7,62,LWB,196cm,Right
+147942,C. Mullins,20,Venezuela,Wright-Neal,Premier League (England),€402K,€21K,52.0,63.9,52.0,55.3,62,CB,208cm,Left
+582253,Thomas Jr.,21,Sao Tome and Principe,Rollins LLC,Premier League (England),€397K,€21K,57.7,62.2,61.1,33.3,62,RWB,157cm,Left
+402088,D. Cole,32,Togo,Rodriguez and Sons,Weber-Strickland (France),€392K,€21K,37.8,19.2,69.5,26.6,62,LW,185cm,Right
+131908,Aaron Jr.,27,France,Barker-Lara,Farrell Ltd (Guyana),€387K,€21K,54.8,47.3,28.0,64.6,62,CB,179cm,Right
+492396,C. Turner,29,Togo,Livingston Inc,Weber-Strickland (France),€388K,€21K,25.5,34.3,37.0,69.7,62,CDM,155cm,Right
+50059,Ortega,29,Croatia,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€386K,€21K,47.3,64.3,53.2,31.3,62,LWB,163cm,Left
+779222,M. Mccoy,30,France,Williams Group,"Booth, Reeves and Goodman (Namibia)",€390K,€20K,36.6,47.6,41.6,66.4,62,CDM,168cm,Right
+254958,P. Ibarra,52,Namibia,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€382K,€21K,58.1,55.5,36.3,63.8,62,CB,197cm,Right
+861279,J. Joseph,24,Guyana,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€383K,€20K,12.7,42.6,69.1,38.1,62,LWB,153cm,Right
+656628,S. Casey,32,Togo,Livingston Inc,Weber-Strickland (France),€381K,€20K,57.7,62.8,37.6,58.6,62,RM,202cm,Left
+263577,T. Kennedy,52,Cook Islands,Schmidt-Martin,Premier League (England),€371K,€19K,62.5,11.9,60.2,39.6,62,LB,190cm,Right
+173549,M. Peters,25,Croatia,Johnson Group,Premier League (England),€386K,€20K,58.8,34.5,22.1,62.4,62,LB,207cm,Left
+747016,M. Jackson,32,Zambia,Young LLC,Premier League (England),€379K,€19K,37.2,54.3,51.9,64.2,62,RW,200cm,Left
+288532,Eric Jr.,28,Central African Republic,Crane-Moore,Premier League (England),€378K,€19K,54.6,62.3,60.3,61.7,62,ST,167cm,Left
+280499,T. Cook,23,Central African Republic,Willis Group,Farrell Ltd (Guyana),€370K,€18K,24.5,65.7,42.8,51.5,62,CAM,175cm,Left
+403399,Peter Jr.,35,Sao Tome and Principe,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€369K,€19K,44.0,64.9,53.2,46.9,62,RW,172cm,Left
+43211,C. Farley,24,France,Willis Group,Farrell Ltd (Guyana),€377K,€18K,63.5,44.8,18.5,57.0,62,RB,195cm,Left
+805080,B. Moore,35,Sao Tome and Principe,Burnett-Henry,Premier League (England),€365K,€18K,37.7,65.4,52.9,26.2,62,CAM,181cm,Left
+362737,Jonathan Jr.,26,Croatia,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€363K,€18K,31.1,62.9,60.7,50.8,62,LWB,208cm,Left
+166146,J. Kemp,20,Guyana,Schmidt-Martin,Premier League (England),€365K,€18K,16.4,24.9,66.6,49.6,62,LW,182cm,Right
+928133,C. Wilson,25,France,Wright-Neal,Premier League (England),€359K,€18K,42.0,66.8,25.4,48.1,62,RM,171cm,Right
+182737,Kevin Ross,47,Comoros,Tyler-Miller,Premier League (England),€365K,€19K,52.7,63.3,59.3,45.6,62,LM,175cm,Left
+256536,J. Willis,25,France,Young LLC,Premier League (England),€360K,€18K,47.2,65.7,52.3,51.6,62,ST,185cm,Left
+248366,Robert Jr.,29,Comoros,"Carter, Cantu and Bell",Premier League (England),€353K,€18K,57.6,44.0,46.2,63.3,62,GK,176cm,Right
+510683,C. Padilla,23,Venezuela,Reyes-Frank,Harris-Price (Togo),€356K,€18K,60.2,62.5,54.6,56.0,62,ST,186cm,Left
+584688,L. Williams,33,Namibia,Johnson and Sons,Premier League (England),€352K,€18K,50.6,60.6,62.7,27.0,62,CM,171cm,Right
+723967,E. Hardin,20,Namibia,Reyes-Frank,Harris-Price (Togo),€355K,€18K,65.1,44.1,51.7,35.6,62,CF,159cm,Right
+134145,Pedro Jr.,24,Guyana,Young LLC,Premier League (England),€351K,€18K,37.6,70.0,26.9,36.4,62,RW,196cm,Right
+249144,W. Rodriguez,44,France,FC Barcelona,Premier League (England),€351K,€17K,56.0,62.6,51.3,58.6,62,RWB,171cm,Right
+363858,Jorge Jr.,25,Venezuela,Rodriguez and Sons,Weber-Strickland (France),€349K,€18K,61.1,61.8,62.4,39.7,62,RWB,210cm,Right
+191854,Rodney Jr.,40,Guyana,Young LLC,Premier League (England),€336K,€17K,28.1,65.7,26.8,50.5,62,CM,190cm,Left
+593391,J. Baird,26,Comoros,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€334K,€17K,42.2,65.7,50.5,46.7,62,CAM,151cm,Right
+634544,Daniel Walton,20,Central African Republic,Butler Inc,"Guzman, Williams and Smith (Togo)",€334K,€17K,66.4,39.1,37.8,49.6,62,RB,177cm,Right
+20241,C. Hicks,20,France,Butler Inc,"Guzman, Williams and Smith (Togo)",€335K,€17K,57.6,19.2,64.1,31.9,62,LB,178cm,Right
+12384,J. Hensley,41,Zambia,Sharp-Cox,Premier League (England),€331K,€17K,32.0,64.3,48.1,53.8,62,LW,194cm,Left
+147730,R. Rubio,39,Comoros,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€332K,€17K,41.5,51.4,62.6,56.9,61,CAM,166cm,Right
+393499,A. Holmes,26,Central African Republic,Terry Ltd,Farrell Ltd (Guyana),€333K,€17K,33.5,62.7,54.9,36.3,61,RWB,197cm,Left
+549369,D. Soto,28,Central African Republic,Reyes-Frank,Harris-Price (Togo),€348K,€17K,63.3,48.0,56.0,21.9,61,RB,203cm,Right
+434724,Bobby Jr.,48,Sao Tome and Principe,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€320K,€17K,19.6,31.0,37.7,68.3,61,LM,184cm,Right
+754308,Jose Jr.,34,Comoros,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€333K,€17K,65.0,32.8,37.0,49.7,61,RB,151cm,Right
+164633,N. Davis,35,Cook Islands,FC Barcelona,Premier League (England),€326K,€17K,49.0,52.2,63.5,33.9,61,RW,179cm,Right
+558001,J. Johnson,33,Namibia,Kline Group,Premier League (England),€324K,€16K,48.0,54.4,53.7,63.8,61,LWB,159cm,Left
+984043,Hall,19,Sao Tome and Principe,Willis Group,Farrell Ltd (Guyana),€317K,€15K,56.2,55.0,62.8,50.4,61,RWB,166cm,Left
+558174,J. Grant,31,Central African Republic,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€319K,€16K,55.5,62.3,25.6,56.7,61,RM,195cm,Left
+738543,C. Bolton,21,Togo,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€320K,€15K,61.2,58.7,50.5,48.3,61,RWB,196cm,Right
+190056,J. Wagner,35,Guyana,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€318K,€15K,59.4,61.1,52.4,52.3,61,LWB,154cm,Left
+149254,J. Reeves,20,Zambia,White Group,Farrell Ltd (Guyana),€316K,€14K,21.7,56.1,62.2,56.3,61,RW,184cm,Right
+354356,M. Gould,23,Zambia,Levine-Rollins,Everett-Fritz (Namibia),€323K,€15K,42.1,16.5,66.8,25.9,61,RB,174cm,Right
+551066,J. Cooper,53,Guyana,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€315K,€14K,64.5,44.9,49.0,41.6,61,LB,177cm,Left
+149739,D. Harris,33,Comoros,Miller and Sons,Everett-Fritz (Namibia),€315K,€14K,63.8,45.8,29.7,53.3,61,CB,166cm,Right
+633237,C. Green,35,France,Wright-Neal,Premier League (England),€304K,€14K,63.2,26.4,52.6,46.7,61,RB,175cm,Left
+879015,J. Miles,34,Zambia,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€313K,€14K,55.0,46.0,37.0,63.5,61,LB,151cm,Right
+936463,J. Freeman,21,Croatia,Sharp-Cox,Premier League (England),€313K,€15K,9.6,37.2,68.6,17.6,61,LW,164cm,Right
+838406,B. Wagner,21,Venezuela,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€305K,€14K,62.4,43.1,55.0,23.0,61,RB,164cm,Right
+52067,Matthew Macias,33,Comoros,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€303K,€14K,31.8,65.7,45.8,39.8,61,LWB,175cm,Left
+60261,Jeffrey Sherman,48,Zambia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€305K,€14K,26.1,64.1,48.7,53.5,61,RW,162cm,Right
+445343,K. White,29,Sao Tome and Principe,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€303K,€14K,59.6,59.8,61.2,45.2,61,LM,189cm,Left
+388183,I. Miller,33,Venezuela,"Bell, Buchanan and Sanford",Weber-Strickland (France),€303K,€14K,44.1,58.3,61.2,61.5,61,CDM,152cm,Right
+552138,W. Graham,52,Guyana,Kline Group,Premier League (England),€300K,€13K,63.6,26.5,42.8,54.9,61,ST,175cm,Right
+240903,M. Tate,22,Cook Islands,FC Barcelona,Premier League (England),€299K,€13K,12.2,14.7,69.7,35.7,61,LW,169cm,Right
+609660,J. Bryant,21,Namibia,"Carlson, Huang and Ayala",Weber-Strickland (France),€301K,€13K,59.5,32.5,60.8,60.2,61,LB,163cm,Right
+757301,M. Jackson,44,Central African Republic,Paris Saint Germain,Premier League (England),€296K,€13K,63.2,12.2,55.7,49.6,61,LB,191cm,Right
+659147,Black,27,Sao Tome and Principe,Sharp-Cox,Premier League (England),€294K,€12K,65.6,23.4,16.6,47.5,61,RB,195cm,Left
+806657,Steve Jr.,27,Croatia,"Bell, Buchanan and Sanford",Weber-Strickland (France),€290K,€13K,38.3,63.7,36.0,53.7,61,GK,201cm,Right
+724775,Riley Jr.,21,Venezuela,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€300K,€13K,52.7,22.2,63.6,32.4,61,CF,160cm,Right
+495433,Pham,34,Guyana,"Carlson, Huang and Ayala",Weber-Strickland (France),€290K,€12K,34.4,60.8,60.0,38.0,61,RW,180cm,Left
+692171,J. Mooney,25,France,Williams Group,"Booth, Reeves and Goodman (Namibia)",€295K,€12K,28.0,61.5,41.4,59.5,61,RW,198cm,Left
+20489,W. Webb,35,Guyana,Livingston Inc,Weber-Strickland (France),€290K,€12K,27.5,20.2,52.4,64.4,61,CDM,188cm,Right
+151564,A. Owens,29,Guyana,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€285K,€12K,57.8,62.4,21.8,54.3,61,CB,178cm,Right
+168008,K. Lamb,29,Togo,Burnett-Henry,Premier League (England),€287K,€13K,66.3,33.9,29.9,46.5,61,LB,205cm,Right
+262515,D. Rios,22,Sao Tome and Principe,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€287K,€11K,27.1,53.1,62.1,30.5,60,CF,208cm,Left
+57876,S. Howell,20,Comoros,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€281K,€11K,64.2,33.4,32.1,45.5,60,LB,174cm,Left
+811543,D. Ibarra,41,France,Williams Group,"Booth, Reeves and Goodman (Namibia)",€281K,€11K,22.0,62.6,51.9,40.2,60,RW,174cm,Right
+795189,C. Roberts,55,Cook Islands,Manchester United,"Cox, Miller and Barber (Cook Islands)",€276K,€12K,32.5,46.5,64.4,47.3,60,CAM,193cm,Right
+696919,M. Harrington,23,Cook Islands,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€273K,€11K,51.7,63.4,31.9,37.7,60,RWB,180cm,Right
+115473,K. Davis,27,Zambia,"Moore, Smith and Johnson",Weber-Strickland (France),€274K,€10K,53.9,48.9,24.4,62.4,60,RB,176cm,Left
+992048,Eric Graham,35,Zambia,Smith-Peterson,Premier League (England),€274K,€10K,41.9,61.7,45.5,56.4,60,CM,197cm,Right
+885847,W. Ray,33,Zambia,Manchester United,"Cox, Miller and Barber (Cook Islands)",€279K,€10K,39.0,21.4,62.0,52.9,60,CF,171cm,Right
+173221,J. Nguyen,28,Cook Islands,"Moore, Smith and Johnson",Weber-Strickland (France),€270K,€10K,59.9,60.1,41.2,47.1,60,RM,154cm,Right
+738584,B. Butler,15,Guyana,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€271K,€10K,45.2,64.7,32.7,41.4,60,LM,176cm,Left
+1328,A. Hampton,34,Central African Republic,Schmidt-Martin,Premier League (England),€270K,€11K,54.3,58.9,60.3,57.5,60,CM,188cm,Right
+75242,D. Johnson,15,Sao Tome and Principe,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€271K,€10K,61.9,13.7,54.2,37.9,60,RB,165cm,Right
+288372,A. Cook,34,Croatia,Paris Saint Germain,Premier League (England),€265K,€9K,32.4,61.2,55.7,47.0,60,CM,162cm,Right
+886406,M. Nash,23,Togo,Livingston Inc,Weber-Strickland (France),€266K,€10K,18.6,61.6,27.4,55.3,60,RW,181cm,Right
+910996,George Jr.,26,Togo,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€264K,€10K,64.5,12.4,48.5,26.5,60,RB,184cm,Right
+198301,Andrew Rodriguez,34,Zambia,Johnson and Sons,Premier League (England),€262K,€10K,43.2,60.6,46.0,59.6,60,CM,165cm,Right
+829308,Thomas Baker,29,Comoros,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€250K,€9K,60.6,58.7,38.9,39.1,60,RWB,157cm,Right
+133038,Frank Jr.,33,Central African Republic,Johnson Group,Premier League (England),€262K,€9K,30.2,67.0,25.0,37.4,60,RW,150cm,Right
+469210,M. Burton,26,Zambia,Young LLC,Premier League (England),€259K,€9K,45.9,32.4,50.5,63.5,60,RW,193cm,Left
+944434,T. Sims,30,Cook Islands,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€264K,€9K,58.3,15.4,52.3,60.6,60,RB,151cm,Left
+215613,T. Rodgers,42,Sao Tome and Principe,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€259K,€8K,57.5,51.1,61.3,34.9,60,CF,206cm,Right
+289476,Bryce Jr.,26,Venezuela,Reyes-Frank,Harris-Price (Togo),€244K,€8K,23.7,25.1,68.0,34.2,60,LWB,203cm,Right
+11348,R. Smith,24,Venezuela,Kline Group,Premier League (England),€246K,€9K,55.1,61.1,27.2,57.5,60,RWB,154cm,Right
+330856,S. Williams,28,Croatia,Rollins LLC,Premier League (England),€246K,€8K,62.0,47.4,55.5,32.3,60,LWB,152cm,Left
+912544,S. Edwards,30,Comoros,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€243K,€7K,16.8,60.0,59.2,31.9,60,CAM,182cm,Left
+19747,Morris,27,Togo,Schmidt-Martin,Premier League (England),€247K,€7K,62.9,52.5,41.4,31.5,60,RWB,177cm,Left
+814372,J. Reynolds,36,France,Crane-Moore,Premier League (England),€239K,€8K,24.8,67.6,37.3,36.1,60,CF,150cm,Left
+863541,J. Flores,24,Togo,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€239K,€8K,47.4,64.5,44.9,42.4,60,RW,190cm,Left
+626041,B. Palmer,24,Sao Tome and Principe,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€237K,€6K,53.6,45.6,62.4,30.2,60,CF,169cm,Right
+462246,S. Foster,32,France,Paris Saint Germain,Premier League (England),€225K,€7K,43.3,62.1,54.3,47.4,60,RWB,206cm,Right
+962014,Cody Jr.,54,Venezuela,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€230K,€7K,38.2,64.6,48.0,41.3,60,GK,210cm,Left
+110048,G. Foster,31,Zambia,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€243K,€7K,13.0,61.4,56.3,20.4,60,CAM,174cm,Left
+823037,Jon Jr.,33,Comoros,Rodriguez and Sons,Weber-Strickland (France),€218K,€6K,42.4,65.4,26.0,33.5,60,RW,193cm,Right
+356171,N. Orozco,20,Namibia,Willis Group,Farrell Ltd (Guyana),€226K,€6K,51.8,42.0,11.8,63.3,60,GK,183cm,Right
+536415,V. Brown,29,France,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€218K,€6K,22.4,46.4,65.1,33.7,60,LWB,206cm,Right
+831435,J. Welch,26,Croatia,"Li, Brown and Smith",Everett-Fritz (Namibia),€224K,€6K,30.8,53.2,62.6,41.3,60,CAM,159cm,Right
+262616,K. Crawford,37,Guyana,Paris Saint Germain,Premier League (England),€223K,€5K,57.2,41.7,59.4,38.0,59,RB,171cm,Right
+852474,E. Novak,23,Comoros,Williams Group,"Booth, Reeves and Goodman (Namibia)",€217K,€7K,63.2,17.0,47.6,27.6,59,RB,177cm,Right
+353150,Nathan Sandoval,20,Sao Tome and Principe,Rollins LLC,Premier League (England),€215K,€5K,48.0,52.8,60.9,43.1,59,LW,152cm,Left
+959537,J. Sweeney,24,Guyana,Paris Saint Germain,Premier League (England),€217K,€5K,54.1,60.7,31.3,43.1,59,CB,193cm,Right
+263221,D. Martin,33,Croatia,Buchanan PLC,Farrell Ltd (Guyana),€206K,€5K,55.9,60.2,48.8,29.0,59,CM,161cm,Right
+25743,Chad Jr.,28,Comoros,Terry Ltd,Farrell Ltd (Guyana),€205K,€5K,55.0,41.6,25.6,60.1,59,CB,197cm,Right
+17949,Anthony Lee,22,Togo,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€205K,€5K,12.2,67.7,30.6,34.7,59,CF,207cm,Left
+476731,Daniel Jr.,25,Guyana,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€213K,€5K,43.2,53.8,49.2,60.5,59,CAM,192cm,Right
+132725,M. Sharp,34,Croatia,Bryant Ltd,Sims Ltd (Croatia),€218K,€5K,62.6,30.4,28.4,48.0,59,LB,158cm,Left
+861924,R. Melton,49,Comoros,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€203K,€5K,55.6,38.0,38.2,59.7,59,LB,195cm,Right
+222996,J. Smith,20,Central African Republic,"Carter, Cantu and Bell",Premier League (England),€204K,€5K,20.4,54.1,60.4,29.7,59,LWB,179cm,Right
+968589,D. Savage,29,Namibia,Williams Group,"Booth, Reeves and Goodman (Namibia)",€201K,€5K,46.4,62.5,23.9,47.9,59,RM,154cm,Right
+714780,R. Morrison,28,Sao Tome and Principe,Baldwin LLC,Premier League (England),€199K,€4K,51.3,47.1,61.4,44.6,59,LWB,188cm,Left
+149553,J. Santos,26,Sao Tome and Principe,Terry Ltd,Farrell Ltd (Guyana),€193K,€5K,34.9,49.1,61.9,23.4,59,RWB,180cm,Right
+542941,J. Campbell,32,Zambia,"Moore, Smith and Johnson",Weber-Strickland (France),€191K,€5K,38.8,38.3,49.6,62.6,59,LM,192cm,Right
+76105,Michael Morris,19,Venezuela,Terry Ltd,Farrell Ltd (Guyana),€182K,€4K,35.6,39.1,62.9,49.0,59,LWB,202cm,Left
+919926,R. Martin,21,Central African Republic,Bryant Ltd,Sims Ltd (Croatia),€179K,€4K,20.4,52.9,61.6,49.7,59,LWB,210cm,Right
+920056,D. Morris,20,Togo,Fitzgerald-Benitez,Premier League (England),€182K,€4K,50.9,58.9,58.8,34.7,59,RW,189cm,Right
+870989,Mejia,22,France,Terry Ltd,Farrell Ltd (Guyana),€180K,€4K,34.9,53.2,52.7,60.5,59,RW,152cm,Right
+355059,Jesse Wyatt,25,Croatia,Wright-Neal,Premier League (England),€180K,€4K,45.6,36.2,61.1,54.5,59,RB,154cm,Right
+420900,Richard Wilson,30,Sao Tome and Principe,Levine-Rollins,Everett-Fritz (Namibia),€172K,€3K,51.8,22.2,61.7,28.8,59,CM,179cm,Right
+380005,M. Obrien,33,France,"Barber, Jacobs and Johnson",Premier League (England),€175K,€3K,11.8,28.9,62.2,48.0,59,LM,153cm,Right
+797963,T. Williams,29,Zambia,White Group,Farrell Ltd (Guyana),€172K,€3K,40.8,40.8,64.6,26.6,59,RB,168cm,Right
+101998,S. Reeves,22,Namibia,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€180K,€4K,19.4,30.9,54.3,60.5,59,LWB,173cm,Right
+790210,J. Brennan,26,Togo,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€162K,€2K,13.2,38.9,65.1,31.7,59,LW,183cm,Right
+519924,D. Gonzalez,21,Central African Republic,Rodriguez and Sons,Weber-Strickland (France),€163K,€2K,16.4,23.6,60.8,52.9,59,LWB,160cm,Right
+724797,A. Smith,32,Guyana,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€178K,€2K,64.2,35.6,40.0,42.1,59,CB,151cm,Right
+773967,H. Schaefer,21,Comoros,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€171K,€3K,55.1,56.9,60.1,56.1,59,LM,153cm,Left
+601939,C. Walker,32,Cook Islands,Rodriguez and Sons,Weber-Strickland (France),€149K,€0,60.1,55.3,54.5,54.8,59,RWB,195cm,Left
+168045,Dodson,31,Guyana,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€153K,€0,50.4,58.5,55.2,59.4,59,CB,205cm,Left
+368845,M. Murphy,24,Namibia,"Carlson, Huang and Ayala",Weber-Strickland (France),€152K,€1K,39.1,58.1,54.6,57.2,58,GK,150cm,Left
+213200,Bullock,35,Togo,FC Bayern München,"Anderson, Wise and Pearson (Venezuela)",€151K,€0,45.3,33.5,58.3,56.0,58,CDM,195cm,Right
+770378,Derek Jr.,28,France,Reyes-Frank,Harris-Price (Togo),€148K,€0,60.6,52.2,29.9,39.0,58,RWB,161cm,Left
+893306,R. Spencer,32,Sao Tome and Principe,Buchanan PLC,Farrell Ltd (Guyana),€149K,€0,30.8,20.8,67.3,30.8,58,LB,181cm,Right
+557445,M. Martin,26,Croatia,Buchanan PLC,Farrell Ltd (Guyana),€147K,€0,55.7,37.3,41.7,59.0,58,CDM,161cm,Right
+123297,J. Davis,54,Central African Republic,Kline Group,Premier League (England),€157K,€1K,50.8,44.5,60.4,24.6,58,RB,207cm,Right
+410651,K. Henderson,24,Togo,Butler Inc,"Guzman, Williams and Smith (Togo)",€145K,€0,56.3,45.9,32.2,58.5,58,CB,150cm,Right
+951339,S. Gonzalez,34,Croatia,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€140K,€0,8.0,38.3,63.0,43.2,58,LM,200cm,Right
+377990,D. Pitts,27,Cook Islands,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€142K,€0,47.4,60.4,32.0,50.6,58,LB,150cm,Left
+493003,C. Rodriguez,32,Namibia,Crane-Moore,Premier League (England),€145K,€0,46.8,42.2,13.4,62.4,58,GK,178cm,Right
+26117,N. Coleman,30,Comoros,Schmidt-Martin,Premier League (England),€138K,€0,48.5,41.9,14.4,61.1,58,GK,188cm,Right
+960080,A. Weiss,32,Namibia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€138K,€0,38.2,62.4,44.7,37.7,58,LM,193cm,Left
+386778,C. Baxter,21,France,Johnson Group,Premier League (England),€138K,€0,27.5,59.3,40.8,54.3,58,GK,170cm,Right
+608752,Kevin Jr.,29,Cook Islands,Wright-Neal,Premier League (England),€138K,€0,24.3,53.3,52.6,59.2,58,RW,164cm,Left
+707099,William Jr.,28,Central African Republic,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€133K,€0,58.3,48.0,43.2,57.2,58,GK,170cm,Right
+805430,Stephen Griffith,29,Cook Islands,Wright-Neal,Premier League (England),€148K,€0,24.3,35.0,8.8,65.7,58,GK,189cm,Right
+379490,R. Dodson,31,Comoros,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€135K,€0,50.4,29.0,58.0,57.3,58,CDM,178cm,Right
+502374,J. Joseph,27,Togo,Miller and Sons,Everett-Fritz (Namibia),€135K,€0,26.3,58.2,42.2,55.6,58,LWB,199cm,Left
+813797,M. Schultz,25,Guyana,"Li, Brown and Smith",Everett-Fritz (Namibia),€113K,€0,42.3,62.6,41.7,22.6,58,CAM,199cm,Left
+216286,J. Rogers,34,Cook Islands,Bryant Ltd,Sims Ltd (Croatia),€115K,€0,53.3,56.4,40.4,58.2,58,LWB,158cm,Left
+650660,M. Martin,27,Namibia,Tyler-Miller,Premier League (England),€117K,€0,60.5,20.7,52.4,43.7,58,CF,181cm,Right
+290344,G. Marsh,34,Central African Republic,Wright-Neal,Premier League (England),€133K,€0,44.4,52.2,60.4,43.4,58,LM,155cm,Left
+224908,R. Kelly,28,Togo,Levine-Rollins,Everett-Fritz (Namibia),€110K,€0,42.8,44.9,60.3,51.5,58,LW,198cm,Right
+188490,E. Price,25,Venezuela,Baldwin LLC,Premier League (England),€110K,€0,24.9,49.0,59.6,41.7,57,CAM,169cm,Left
+712850,J. Castaneda,28,Comoros,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€122K,€0,31.6,27.7,65.0,31.8,57,LWB,165cm,Right
+770301,Ramos,23,Zambia,"Bell, Buchanan and Sanford",Weber-Strickland (France),€109K,€0,64.6,20.5,34.3,31.5,57,LB,152cm,Right
+557409,R. Hinton,24,France,Manchester United,"Cox, Miller and Barber (Cook Islands)",€108K,€0,24.4,51.8,59.3,22.9,57,LW,172cm,Right
+140107,Christopher Carlson,28,Cook Islands,Smith-Peterson,Premier League (England),€107K,€0,58.4,33.0,48.0,52.7,57,CDM,171cm,Right
+9135,J. Black,21,Comoros,Reyes-Frank,Harris-Price (Togo),€107K,€0,23.9,59.2,49.5,22.8,57,CAM,181cm,Left
+1064,T. Barker,23,Guyana,Wright-Neal,Premier League (England),€112K,€0,33.2,59.2,34.8,50.8,57,LM,200cm,Left
+9355,C. Collins,20,Cook Islands,Johnson and Sons,Premier League (England),€104K,€0,51.2,39.6,59.3,49.1,57,CF,160cm,Right
+361672,J. Robinson,55,France,Willis Group,Farrell Ltd (Guyana),€106K,€0,15.9,43.4,61.2,42.3,57,RW,200cm,Right
+304872,J. Murray,35,Venezuela,"Carter, Cantu and Bell",Premier League (England),€106K,€0,57.8,56.6,43.7,54.6,57,LWB,162cm,Left
+67361,J. Tucker,20,France,Bryant Ltd,Sims Ltd (Croatia),€104K,€0,34.7,17.2,49.0,60.0,57,LB,196cm,Right
+780348,E. Griffin,29,Cook Islands,Young LLC,Premier League (England),€103K,€0,33.7,57.1,28.0,54.9,57,RWB,178cm,Left
+747600,J. Joyce,33,Sao Tome and Principe,Johnson and Sons,Premier League (England),€97K,€0,23.6,59.0,33.2,50.7,57,CM,166cm,Left
+501883,J. Zimmerman,23,France,"Carlson, Huang and Ayala",Weber-Strickland (France),€100K,€0,57.7,55.4,45.0,54.2,57,LW,179cm,Left
+362822,A. Perkins,42,Zambia,"Bell, Buchanan and Sanford",Weber-Strickland (France),€103K,€0,50.4,43.3,48.7,59.0,57,RW,204cm,Right
+117192,Joseph Jr.,24,Comoros,"Barber, Jacobs and Johnson",Premier League (England),€95K,€0,38.4,50.3,58.6,44.1,57,CAM,178cm,Right
+477701,B. Powell,28,Togo,"Li, Brown and Smith",Everett-Fritz (Namibia),€95K,€0,60.3,36.9,45.8,27.1,57,LB,195cm,Right
+461349,B. Murphy,41,Central African Republic,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€105K,€0,59.6,49.4,28.3,49.5,57,RWB,168cm,Right
+76573,R. Reilly,20,Namibia,Schmidt-Martin,Premier League (England),€95K,€0,31.4,51.6,59.3,36.8,57,RWB,177cm,Right
+854932,K. Lee,26,Zambia,Wright-Neal,Premier League (England),€90K,€0,41.7,49.3,59.3,34.1,57,RW,188cm,Right
+19513,Brian Munoz,32,Zambia,Ramos Group,"Booth, Reeves and Goodman (Namibia)",€87K,€0,14.9,49.2,60.2,30.5,57,CAM,206cm,Left
+412961,B. Garcia,26,Zambia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€92K,€0,41.4,59.3,50.9,43.7,57,LM,193cm,Left
+667462,Greene,33,Central African Republic,Schmidt-Martin,Premier League (England),€94K,€0,35.4,45.0,59.7,48.2,57,CAM,162cm,Right
+454569,J. Hicks,31,Namibia,"Li, Brown and Smith",Everett-Fritz (Namibia),€82K,€0,49.0,59.5,43.8,32.0,57,CF,189cm,Left
+905168,D. Coleman,34,Comoros,Schmidt-Martin,Premier League (England),€93K,€0,59.6,47.8,17.4,44.8,57,RM,182cm,Right
+503859,Z. Barnett,34,Central African Republic,Young LLC,Premier League (England),€80K,€0,34.1,51.6,59.1,36.4,57,CF,203cm,Right
+213121,R. Myers,16,Venezuela,Levine-Rollins,Everett-Fritz (Namibia),€79K,€0,54.9,31.6,55.6,55.2,56,CF,192cm,Right
+901532,Christian Lopez,34,Venezuela,Williams Group,"Booth, Reeves and Goodman (Namibia)",€76K,€0,14.5,15.7,43.2,60.0,56,LM,190cm,Right
+287243,N. Smith,28,Central African Republic,Johnson Group,Premier League (England),€73K,€0,33.8,43.9,60.1,38.7,56,CF,179cm,Right
+901953,Burke,25,France,Terry Ltd,Farrell Ltd (Guyana),€81K,€0,44.3,31.7,44.8,59.6,56,CDM,160cm,Right
+762741,C. Russell,39,Comoros,Williams Group,"Booth, Reeves and Goodman (Namibia)",€78K,€0,48.3,58.3,49.6,28.7,56,RWB,201cm,Right
+787551,E. Patel,30,Zambia,Livingston Inc,Weber-Strickland (France),€72K,€0,54.1,34.0,56.9,46.8,56,LB,151cm,Right
+353562,J. Collier,29,Central African Republic,"Barber, Jacobs and Johnson",Premier League (England),€71K,€0,30.1,45.0,48.8,58.6,56,RW,165cm,Right
+386399,Tyler Jr.,23,France,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€76K,€0,26.0,59.4,43.9,46.7,56,GK,203cm,Right
+26090,H. Lopez,23,Cook Islands,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€70K,€0,8.3,60.5,42.8,32.5,56,CAM,155cm,Left
+271941,Castillo,22,France,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€70K,€0,59.2,43.9,45.8,48.1,56,LWB,155cm,Left
+845382,V. Marks,34,Togo,Terry Ltd,Farrell Ltd (Guyana),€64K,€0,34.9,50.0,57.9,41.7,56,CF,177cm,Right
+296604,C. Miller,43,Croatia,Burnett-Henry,Premier League (England),€67K,€0,23.1,55.4,55.6,32.9,56,RWB,190cm,Right
+550577,R. Peters,35,Namibia,Bryant Ltd,Sims Ltd (Croatia),€70K,€0,29.6,58.5,48.0,35.4,56,RWB,206cm,Right
+345987,D. Mckinney,29,Venezuela,Bryant Ltd,Sims Ltd (Croatia),€64K,€0,41.5,34.9,48.8,58.6,56,LWB,158cm,Right
+100374,K. Melendez,35,Namibia,"Carter, Cantu and Bell",Premier League (England),€60K,€0,45.2,32.9,27.6,59.1,56,GK,189cm,Right
+272637,J. Franklin,20,Central African Republic,"Li, Brown and Smith",Everett-Fritz (Namibia),€64K,€0,30.2,59.4,44.6,38.7,56,CF,205cm,Left
+625079,Obrien,30,France,Miller and Sons,Everett-Fritz (Namibia),€51K,€0,40.1,24.0,55.8,56.1,56,LWB,195cm,Right
+534988,J. Ortega,29,Namibia,"Barber, Jacobs and Johnson",Premier League (England),€44K,€0,60.4,30.5,43.4,31.4,56,RB,157cm,Right
+666533,J. Walter,30,Guyana,Barker-Lara,Farrell Ltd (Guyana),€50K,€0,27.2,38.9,56.8,53.5,56,LW,206cm,Right
+232374,Jose Phillips,35,France,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€68K,€0,21.5,8.2,40.5,60.7,56,LM,164cm,Right
+338905,Angel Jr.,19,Venezuela,Fitzgerald-Benitez,Premier League (England),€50K,€0,57.8,51.2,47.4,35.7,56,RWB,171cm,Left
+396556,P. Maynard,35,Central African Republic,White Group,Farrell Ltd (Guyana),€41K,€0,52.1,52.3,46.3,57.9,56,CDM,198cm,Right
+93503,S. Mullen,20,Comoros,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€45K,€0,43.6,60.1,39.7,22.5,56,CAM,200cm,Left
+241163,S. Wood,28,Croatia,Kline Group,Premier League (England),€43K,€0,61.0,34.5,27.5,41.9,56,RM,197cm,Right
+331349,T. Rogers,34,Central African Republic,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€43K,€0,40.6,54.7,34.6,56.0,56,LM,183cm,Left
+560909,J. Kent,35,Togo,Johnson Group,Premier League (England),€40K,€0,32.3,53.4,56.7,16.9,56,CF,203cm,Left
+94039,Wilson,23,Sao Tome and Principe,"Li, Brown and Smith",Everett-Fritz (Namibia),€39K,€0,36.6,37.0,57.0,53.4,56,LM,200cm,Right
+806941,D. Diaz,35,Comoros,Willis Group,Farrell Ltd (Guyana),€35K,€0,50.5,56.7,52.3,50.5,56,CAM,168cm,Right
+200799,D. Murray,23,Zambia,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€35K,€0,57.1,52.8,8.8,44.8,56,GK,208cm,Right
+835743,Ramirez,29,Croatia,Schmidt-Martin,Premier League (England),€29K,€0,40.1,57.2,48.7,29.0,55,LM,193cm,Left
+746630,R. Garza,26,Croatia,Manchester United,"Cox, Miller and Barber (Cook Islands)",€32K,€0,40.8,33.0,60.2,30.8,55,LWB,178cm,Right
+623827,Hughes,26,France,Crane-Moore,Premier League (England),€41K,€0,36.2,58.4,28.2,45.0,55,RW,207cm,Right
+713980,Bailey,25,Guyana,Johnson and Sons,Premier League (England),€28K,€0,42.5,58.6,30.3,37.0,55,CF,176cm,Left
+460060,A. Herrera,28,Comoros,Buchanan PLC,Farrell Ltd (Guyana),€26K,€0,46.2,31.6,45.6,57.7,55,RB,188cm,Right
+66932,T. Lamb,27,Namibia,Johnson and Sons,Premier League (England),€26K,€0,55.7,51.9,44.7,46.3,55,RWB,199cm,Right
+321050,T. Moran,24,Sao Tome and Principe,Livingston Inc,Weber-Strickland (France),€26K,€0,47.7,56.9,29.2,49.4,55,GK,196cm,Right
+558763,G. Davis,31,France,Schmidt-Martin,Premier League (England),€28K,€0,18.4,34.2,50.7,56.5,55,LWB,163cm,Right
+1748,Peter Arias,30,Guyana,Livingston Inc,Weber-Strickland (France),€24K,€0,57.8,41.7,25.5,46.0,55,CB,162cm,Right
+985382,W. Jones,43,Central African Republic,Paris Saint Germain,Premier League (England),€21K,€0,56.2,25.8,48.6,51.3,55,CM,172cm,Right
+133703,C. Lopez,24,Sao Tome and Principe,Smith-Peterson,Premier League (England),€19K,€0,34.5,38.6,47.8,56.9,55,LWB,182cm,Left
+944890,J. Robbins,35,Namibia,Levine-Rollins,Everett-Fritz (Namibia),€26K,€0,23.5,48.8,56.6,27.8,55,RWB,180cm,Right
+215903,J. Chavez,34,Togo,Livingston Inc,Weber-Strickland (France),€23K,€0,55.8,41.7,54.2,53.1,55,CB,208cm,Right
+928823,Dunn,27,Croatia,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€9K,€0,35.2,44.3,30.2,58.9,55,RM,197cm,Right
+543820,R. Bates,30,Zambia,"Bell, Buchanan and Sanford",Weber-Strickland (France),€19K,€0,33.8,50.4,35.8,57.0,55,RWB,179cm,Right
+101614,T. Nguyen,35,Namibia,Buchanan PLC,Farrell Ltd (Guyana),€18K,€0,46.5,10.8,57.2,40.4,55,LB,190cm,Right
+371957,J. Villanueva,30,Central African Republic,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€6K,€0,56.3,45.5,52.3,48.1,55,CF,167cm,Right
+699658,J. Brown,33,France,Burnett-Henry,Premier League (England),€7K,€0,55.0,28.3,52.6,55.6,55,LB,186cm,Right
+249159,R. Terry,35,Central African Republic,Bryant Ltd,Sims Ltd (Croatia),€13K,€0,36.6,32.6,58.0,47.0,55,LM,197cm,Right
+216417,M. Curtis,55,Comoros,FC Barcelona,Premier League (England),€8K,€0,20.4,58.1,28.0,46.3,55,RW,157cm,Left
+265813,D. Jones,53,Comoros,Baldwin LLC,Premier League (England),€1K,€0,44.9,52.4,10.5,55.8,55,CM,167cm,Left
+381022,James Jr.,32,Togo,Young LLC,Premier League (England),€750,€0,52.5,55.3,41.7,45.6,55,GK,171cm,Right
+548902,J. Stanley,28,Zambia,Crane-Moore,Premier League (England),€750,€0,20.7,43.9,53.9,54.3,54,LM,170cm,Right
+286879,B. Booker,25,Croatia,Baldwin LLC,Premier League (England),€750,€0,24.5,27.9,59.9,37.5,54,CM,206cm,Right
+950889,Kelly,35,Sao Tome and Principe,"Carlson, Huang and Ayala",Weber-Strickland (France),€750,€0,49.6,28.9,35.8,56.1,54,LB,168cm,Right
+508707,B. Smith,23,Croatia,Bryant Ltd,Sims Ltd (Croatia),€750,€0,51.6,54.3,27.0,44.6,54,RW,196cm,Right
+574460,A. Walters,25,Central African Republic,White Group,Farrell Ltd (Guyana),€750,€0,47.6,56.2,28.8,40.9,54,LB,205cm,Left
+410630,Adams,25,Togo,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€750,€0,35.7,57.2,35.9,45.5,54,CF,154cm,Left
+288193,N. Hendricks,28,Comoros,Kline Group,Premier League (England),€750,€0,58.4,32.0,31.4,42.2,54,CB,184cm,Right
+378402,Schmidt,49,Cook Islands,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€750,€0,59.7,34.5,34.3,35.2,54,CB,210cm,Right
+108120,Sean Jr.,22,Sao Tome and Principe,Willis Group,Farrell Ltd (Guyana),€750,€0,45.0,35.5,57.0,35.5,54,LB,162cm,Right
+739303,Michael Jr.,28,France,"Barber, Jacobs and Johnson",Premier League (England),€750,€0,12.4,49.2,55.9,23.6,54,CF,191cm,Left
+51606,Hector Jr.,22,Cook Islands,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€750,€0,51.6,35.7,55.2,24.4,54,RB,170cm,Right
+977539,D. Sanchez,34,Central African Republic,"Barber, Jacobs and Johnson",Premier League (England),€750,€0,54.5,48.9,25.7,54.5,54,CB,181cm,Right
+690988,Thomas Shaw,23,Namibia,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€750,€0,44.3,13.3,43.5,56.7,54,LB,187cm,Right
+371701,G. Rogers,25,France,"Carlson, Huang and Ayala",Weber-Strickland (France),€750,€0,28.3,17.1,59.6,36.1,54,LB,202cm,Right
+839708,J. Mcdowell,33,Comoros,"Bell, Buchanan and Sanford",Weber-Strickland (France),€750,€0,29.1,55.7,49.2,41.1,54,CF,208cm,Left
+421995,Dan Jr.,24,Comoros,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€750,€0,37.5,51.4,55.1,28.6,54,LM,175cm,Left
+598175,Tyler Jr.,25,Sao Tome and Principe,Sharp-Cox,Premier League (England),€500,€0,13.1,13.6,63.1,23.3,53,LW,168cm,Right
+24907,J. Haynes,34,Central African Republic,"Li, Brown and Smith",Everett-Fritz (Namibia),€750,€0,29.1,45.2,55.1,28.9,53,RWB,186cm,Right
+926251,D. Mckay,25,Central African Republic,"Li, Brown and Smith",Everett-Fritz (Namibia),€500,€0,36.9,54.4,48.4,29.2,53,CM,193cm,Right
+697503,Anthony White,35,Venezuela,"Carter, Cantu and Bell",Premier League (England),€500,€0,9.6,43.2,44.8,56.0,53,RW,207cm,Left
+673148,Kevin Jr.,31,France,"Carlson, Huang and Ayala",Weber-Strickland (France),€500,€0,54.9,47.5,29.8,34.0,53,RW,170cm,Right
+337582,William Snyder,26,Croatia,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€750,€0,8.4,13.0,55.0,46.4,53,LW,162cm,Right
+755437,Ryan Gallagher,21,Comoros,Sharp-Cox,Premier League (England),€500,€0,40.2,45.7,55.6,44.6,53,LB,169cm,Right
+435980,Matthew Jr.,28,Namibia,Levine-Rollins,Everett-Fritz (Namibia),€500,€0,38.7,53.2,51.1,44.1,53,RW,153cm,Right
+182322,H. Blackburn,25,Venezuela,Bryant Ltd,Sims Ltd (Croatia),€500,€0,57.6,17.2,40.5,38.6,53,LB,166cm,Right
+174232,R. Parker,27,Zambia,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€500,€0,36.1,52.7,52.0,31.1,53,CM,167cm,Right
+190737,A. Simmons,22,Namibia,Tyler-Miller,Premier League (England),€500,€0,20.9,52.9,53.4,37.0,53,RW,191cm,Left
+821559,J. Hubbard,23,Comoros,Schmidt-Martin,Premier League (England),€500,€0,34.1,17.6,59.3,30.7,53,LWB,197cm,Right
+445151,J. Lee,30,Croatia,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€500,€0,48.8,54.6,39.4,39.2,53,CF,173cm,Left
+600833,J. Davis,21,Comoros,Schmidt-Martin,Premier League (England),€500,€0,15.6,52.3,53.7,15.1,53,CAM,194cm,Left
+633734,A. Brown,28,Comoros,Tyler-Miller,Premier League (England),€500,€0,18.6,33.8,48.5,55.0,53,LWB,202cm,Right
+224718,J. Curry,24,Comoros,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€500,€0,17.4,56.8,41.4,9.3,53,CF,185cm,Left
+61113,D. Martin,23,Sao Tome and Principe,Cruz LLC,"Cox, Miller and Barber (Cook Islands)",€500,€0,50.1,25.6,35.9,53.7,53,LB,197cm,Right
+593707,C. Downs,22,Guyana,Reyes-Frank,Harris-Price (Togo),€500,€0,49.9,54.0,44.9,48.7,53,CAM,194cm,Right
+36820,S. Rogers,30,Venezuela,Tyler-Miller,Premier League (England),€500,€0,27.8,42.7,55.8,38.7,53,LWB,162cm,Right
+934133,J. Smith,22,Croatia,Bryant Ltd,Sims Ltd (Croatia),€500,€0,44.1,23.0,39.0,54.9,52,RB,158cm,Right
+909558,J. Alvarez,28,Namibia,Schmidt-Martin,Premier League (England),€500,€0,56.0,35.9,35.0,40.7,52,CB,178cm,Right
+205283,A. Baker,27,Guyana,Schmidt-Martin,Premier League (England),€500,€0,21.1,56.4,32.1,37.1,52,RW,185cm,Left
+279297,Jonathan West,19,Zambia,Wright-Neal,Premier League (England),€500,€0,47.7,29.3,44.6,53.3,52,CDM,188cm,Right
+869439,S. Whitehead,27,Venezuela,"Bell, Buchanan and Sanford",Weber-Strickland (France),€500,€0,33.4,51.1,51.7,18.1,52,CF,194cm,Left
+796240,J. Richardson,49,Namibia,"Moore, Smith and Johnson",Weber-Strickland (France),€500,€0,52.3,48.3,51.9,42.4,52,RWB,208cm,Right
+460665,K. Mcclain,36,Zambia,Johnson Group,Premier League (England),€500,€0,29.4,48.8,43.8,53.7,52,CAM,175cm,Right
+903739,M. Elliott,25,Namibia,"Tran, Bridges and Harris","Anderson, Wise and Pearson (Venezuela)",€500,€0,39.7,36.0,54.8,44.1,52,LM,207cm,Right
+133759,T. Berger,35,Togo,Rollins LLC,Premier League (England),€500,€0,53.4,46.4,47.1,48.2,52,RWB,164cm,Right
+535578,Daniel Wilson,32,Namibia,Kline Group,Premier League (England),€500,€0,24.2,56.5,28.9,37.6,52,CF,157cm,Left
+208952,Joseph Jr.,24,Guyana,"Campbell, Castro and Hensley","Booth, Reeves and Goodman (Namibia)",€500,€0,13.4,54.9,45.0,14.4,52,CAM,158cm,Left
+245914,T. Powell,22,Zambia,Miller and Sons,Everett-Fritz (Namibia),€250,€0,40.9,51.2,47.6,50.6,51,LW,193cm,Left
+918139,Rios,51,Croatia,"Bell, Buchanan and Sanford",Weber-Strickland (France),€250,€0,52.2,14.6,46.8,47.4,51,LB,168cm,Right
+459801,J. Jensen,45,Sao Tome and Principe,Burnett-Henry,Premier League (England),€250,€0,43.9,52.9,32.7,47.1,51,RW,183cm,Right
+746897,D. Caldwell,42,Central African Republic,Reeves-Oconnor,"Guzman, Williams and Smith (Togo)",€250,€0,39.4,47.9,46.7,51.7,51,RW,209cm,Right
+378325,S. Spencer,33,Guyana,Baldwin LLC,Premier League (England),€250,€0,35.8,40.0,26.3,55.1,51,RM,188cm,Right
+485028,Corey Cohen,45,Venezuela,"Bell, Buchanan and Sanford",Weber-Strickland (France),€250,€0,44.7,31.9,49.0,51.3,51,LB,210cm,Right
+322103,R. Mclaughlin,34,Guyana,Rollins LLC,Premier League (England),€250,€0,16.7,44.9,53.6,34.5,51,LWB,185cm,Right
+27231,J. Sloan,21,Zambia,"Li, Brown and Smith",Everett-Fritz (Namibia),€250,€0,33.2,54.9,38.2,40.5,51,RW,174cm,Right
+633729,Griffin,15,Comoros,Wilson-Pace,"Ortega, Sullivan and Garcia (Central African Republic)",€250,€0,43.0,49.4,52.0,26.3,51,RW,193cm,Right
+937499,A. Alvarez,21,Venezuela,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€250,€0,40.4,42.9,34.5,53.3,51,LB,207cm,Right
+167506,J. Brady,31,Namibia,Cole-Hays,"Anderson, Wise and Pearson (Venezuela)",€250,€0,44.9,38.0,53.5,43.0,51,LM,193cm,Right
+286813,R. Kim,30,Togo,Terry Ltd,Farrell Ltd (Guyana),€250,€0,34.8,50.7,46.1,39.8,50,CF,174cm,Left
+254083,Lawrence,20,Zambia,Buchanan PLC,Farrell Ltd (Guyana),€250,€0,39.1,53.5,37.6,40.4,50,CAM,165cm,Left
+540829,Ronald Long,26,Guyana,Schmidt-Martin,Premier League (England),€250,€0,49.4,49.6,47.7,32.6,50,RB,175cm,Right
+746012,S. Bridges,27,France,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€250,€0,47.5,50.9,44.8,21.8,50,CF,202cm,Left
+352821,R. Blanchard,20,France,"Carlson, Huang and Ayala",Weber-Strickland (France),€250,€0,8.6,32.5,31.5,55.2,50,RW,152cm,Left
+868964,J. Poole,22,Guyana,Butler Inc,"Guzman, Williams and Smith (Togo)",€250,€0,21.2,44.2,32.9,52.2,50,RW,177cm,Left
+951348,D. Villa,51,Croatia,Livingston Inc,Weber-Strickland (France),€250,€0,30.2,56.4,29.4,17.1,50,CF,187cm,Left
+26984,R. Bradford,23,Namibia,Vaughn-Abbott,"Anderson, Wise and Pearson (Venezuela)",€250,€0,44.2,14.5,51.5,32.1,50,RB,185cm,Right
+903869,E. Bush,32,Cook Islands,Sharp-Cox,Premier League (England),€250,€0,44.8,30.3,52.1,24.7,50,RB,200cm,Right
+584579,B. Smith,17,Croatia,Williams Group,"Booth, Reeves and Goodman (Namibia)",€250,€0,51.2,14.3,47.6,34.4,50,RB,183cm,Right
+716037,C. Brown,28,Venezuela,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€250,€0,44.8,48.1,50.4,24.9,50,CF,173cm,Left
+503795,R. Martinez,26,Central African Republic,"Moore, Smith and Johnson",Weber-Strickland (France),€250,€0,24.1,42.0,45.2,51.1,50,GK,177cm,Right
+508933,M. Hamilton,21,Central African Republic,"Castro, Flowers and Clark","Booth, Reeves and Goodman (Namibia)",€250,€0,30.9,27.6,30.2,54.8,49,LB,154cm,Right
+648321,J. Jones,28,Sao Tome and Principe,Manchester United,"Cox, Miller and Barber (Cook Islands)",€250,€0,26.1,42.9,34.9,51.3,49,RW,180cm,Right
+641849,James Jr.,24,Central African Republic,FC Barcelona,Premier League (England),€250,€0,39.3,49.3,18.5,49.2,49,GK,167cm,Right
+651070,B. Gonzalez,26,Sao Tome and Principe,Williams Group,"Booth, Reeves and Goodman (Namibia)",€250,€0,30.6,34.5,39.3,51.6,49,GK,164cm,Right
+266236,T. Chapman,27,Togo,Sharp-Cox,Premier League (England),€250,€0,35.6,24.8,52.7,39.6,49,LB,174cm,Right
+151626,Joe Odonnell,24,Togo,Baldwin LLC,Premier League (England),€250,€0,21.7,53.3,37.6,31.8,49,CAM,198cm,Left
+312428,R. Graves,20,Sao Tome and Principe,"Carlson, Huang and Ayala",Weber-Strickland (France),€250,€0,29.7,53.4,33.6,27.5,48,RW,165cm,Right
+714346,M. Brown,29,Guyana,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€250,€0,8.1,25.9,55.9,24.9,48,LW,153cm,Right
+625500,M. Robinson,28,Zambia,"Barber, Jacobs and Johnson",Premier League (England),€250,€0,35.3,38.8,43.5,49.8,48,CM,150cm,Right
+257288,J. Stephens,31,Namibia,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€250,€0,22.8,49.0,33.1,45.4,48,RW,167cm,Right
+372045,Ford,35,Cook Islands,Sharp-Cox,Premier League (England),€0,€0,35.6,42.3,34.6,49.7,48,RW,191cm,Left
+770078,Tom Fox,24,Comoros,Burnett-Henry,Premier League (England),€0,€0,20.6,45.5,47.8,32.4,47,CAM,171cm,Left
+360554,E. Gross,32,Sao Tome and Principe,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€0,€0,40.1,29.7,34.3,48.7,47,GK,182cm,Right
+434521,N. Morales,25,Namibia,"Bell, Buchanan and Sanford",Weber-Strickland (France),€0,€0,43.6,47.8,31.6,33.9,47,LB,204cm,Right
+656444,Ali,35,Zambia,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€0,€0,32.0,23.1,51.5,27.2,47,LB,180cm,Right
+116451,C. Anderson,25,Guyana,Willis Group,Farrell Ltd (Guyana),€0,€0,38.0,16.5,48.3,42.1,47,LM,207cm,Right
+986929,Alan Perkins,22,Cook Islands,Smith-Dougherty,"Ortega, Sullivan and Garcia (Central African Republic)",€0,€0,37.8,39.0,33.7,49.9,47,GK,172cm,Right
+131944,Alvin Jr.,17,Zambia,Burnett-Henry,Premier League (England),€0,€0,6.0,25.3,47.5,39.8,46,LM,201cm,Right
+394246,B. Dean,33,Central African Republic,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€0,€0,35.2,44.4,46.7,38.5,46,RW,198cm,Left
+18162,C. Russell,49,Guyana,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€0,€0,44.3,27.6,46.0,45.8,46,RB,205cm,Right
+714825,R. Parrish,51,Sao Tome and Principe,Davis and Sons,"Ortega, Sullivan and Garcia (Central African Republic)",€0,€0,46.2,34.4,16.9,45.8,46,GK,180cm,Right
+599124,J. Clark,28,Guyana,White Group,Farrell Ltd (Guyana),€0,€0,32.9,31.4,27.3,48.1,44,GK,200cm,Right
+402805,E. Holder,26,Zambia,Liverpool,"Ortega, Sullivan and Garcia (Central African Republic)",€0,€0,23.7,43.0,44.3,25.0,44,RW,206cm,Right
+51525,J. Lane,31,Sao Tome and Principe,Tyler-Miller,Premier League (England),€0,€0,34.9,47.0,35.0,28.5,44,LB,171cm,Right
+601009,J. Nguyen,31,Guyana,Paris Saint Germain,Premier League (England),€0,€0,39.4,33.6,45.7,21.5,44,RB,192cm,Right
+461533,A. Smith,31,Zambia,Jones-Gonzalez,"Guzman, Williams and Smith (Togo)",€0,€0,18.9,44.6,37.1,34.6,43,RW,180cm,Right
+205949,J. Powers,28,Sao Tome and Principe,Buchanan PLC,Farrell Ltd (Guyana),€0,€0,40.3,25.4,43.2,32.0,42,RB,195cm,Right
+403308,Rice,15,Comoros,"Bell, Buchanan and Sanford",Weber-Strickland (France),€0,€0,35.6,30.7,32.8,43.9,42,RW,176cm,Left
+35179,S. Wilson,35,Central African Republic,"Carter, Cantu and Bell",Premier League (England),€0,€0,39.5,39.0,31.7,42.4,42,LB,175cm,Right
+617234,Michael Jr.,35,Croatia,Bryant Ltd,Sims Ltd (Croatia),€0,€0,41.9,32.2,40.9,34.8,42,RW,171cm,Left
+764732,J. Lee,32,Sao Tome and Principe,"Moore, Smith and Johnson",Weber-Strickland (France),€0,€0,8.8,41.7,28.6,41.5,42,RW,187cm,Left
+459654,T. Meyer,31,Guyana,Brown-Cole,"Ortega, Sullivan and Garcia (Central African Republic)",€0,€0,30.7,24.9,36.7,40.1,39,LM,210cm,Right
+901233,D. Reid,22,Guyana,"Carter, Cantu and Bell",Premier League (England),€0,€0,37.9,11.7,37.2,29.9,38,LB,178cm,Right

@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+402291,W. Hanna,18,Iran,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€188.3M,€544K,41.8,55.7,93.1,86.9,92,CF,168cm,Right
+361378,C. Cunningham,29,United Arab Emirates,"Bailey, Baker and Hunt",Premier League (England),€245.6M,€460K,41.0,48.2,91.8,91.4,92,CF,201cm,Right
+328662,Hanson,34,Algeria,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€190.1M,€479K,87.8,20.3,35.8,92.2,91,LWB,188cm,Left
+462562,S. Gomez,34,Algeria,Liverpool,Wilson-Harrison (Palestinian Territory),€194M,€466K,51.7,21.4,93.3,79.3,91,RW,160cm,Right
+254646,L. Glass,23,Central African Republic,FC Barcelona,Wilson-Harrison (Palestinian Territory),€185M,€492K,80.8,27.3,32.5,93.5,90,ST,187cm,Right
+755612,D. Dixon,26,Argentina,Dean-Thomas,Premier League (England),€187M,€435K,77.5,29.0,31.2,94.4,90,ST,175cm,Right
+748592,A. Rodriguez,22,Bermuda,Dean-Thomas,Premier League (England),€181.9M,€438K,91.8,43.6,59.2,86.6,90,LWB,210cm,Left
+50765,J. Adams,24,Argentina,"Pierce, Howard and Stephens",Premier League (England),€193M,€452K,82.2,58.4,91.9,26.6,89,RW,150cm,Right
+265296,J. Williams,31,Iran,Craig-Morrison,Premier League (England),€187.2M,€422K,43.4,55.8,92.9,77.5,89,CF,177cm,Right
+986897,Mathis,27,Bermuda,"Thomas, Vaughan and Peters",Premier League (England),€168.4M,€432K,52.3,25.8,86.0,90.5,89,CF,173cm,Right
+287436,Davis,20,Bermuda,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€181.7M,€454K,94.5,35.2,66.7,59.2,88,LW,159cm,Left
+896755,K. Hicks,22,Yemen,"David, Barnes and Gardner",Skinner Ltd (Argentina),€174.8M,€425K,90.3,27.5,80.8,40.1,88,RB,186cm,Left
+975101,G. Bradley,27,Algeria,Cole Ltd,Premier League (England),€165.5M,€400K,76.4,64.7,90.6,61.2,87,RB,179cm,Left
+434734,A. Herrera,27,United Arab Emirates,Schmidt-Bird,Premier League (England),€167M,€426K,68.8,92.6,58.8,63.9,87,LM,151cm,Left
+369221,M. Johnson,39,Algeria,Tate-Medina,Premier League (England),€166.8M,€407K,91.0,38.6,73.9,52.8,87,RB,200cm,Left
+558427,B. Howard,26,Yemen,"Pierce, Howard and Stephens",Premier League (England),€167.3M,€406K,22.8,34.1,75.2,91.1,87,CF,153cm,Right
+452898,J. Thompson,20,Svalbard & Jan Mayen Islands,"David, Barnes and Gardner",Skinner Ltd (Argentina),€149.2M,€384K,45.0,31.7,79.5,89.2,87,CF,174cm,Right
+896023,D. Johnson,25,Argentina,FC Barcelona,Wilson-Harrison (Palestinian Territory),€164.9M,€381K,40.9,18.4,67.6,93.4,87,CF,176cm,Right
+147464,J. Rivera,53,Yemen,Cole Ltd,Premier League (England),€171.7M,€419K,91.0,55.3,68.3,72.2,86,LW,171cm,Left
+237800,R. Frye,20,Bermuda,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€160.3M,€394K,73.5,30.3,46.2,89.9,86,RM,177cm,Left
+443393,C. Johnson,23,Saudi Arabia,Cole Ltd,Premier League (England),€148M,€363K,86.3,35.7,52.6,85.3,86,LWB,157cm,Left
+459788,G. Franco,32,Palestinian Territory,Joyce Group,Premier League (England),€144.7M,€363K,51.9,44.1,82.3,86.9,86,CF,190cm,Right
+575156,V. Hernandez,25,Bermuda,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€160.1M,€380K,58.5,13.4,67.7,92.5,86,LWB,209cm,Left
+657293,J. Martin,21,Svalbard & Jan Mayen Islands,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€147M,€376K,60.3,91.1,69.2,60.9,86,LM,173cm,Left
+288780,C. Moore,33,Svalbard & Jan Mayen Islands,Choi-Edwards,Maldonado-Wells (Malawi),€142M,€357K,64.0,92.9,57.9,48.1,86,LM,204cm,Left
+707966,R. Brown,32,Iran,Cisneros Ltd,Skinner Ltd (Argentina),€135.7M,€355K,46.5,40.1,86.0,85.5,86,CF,165cm,Right
+999658,S. Reyes,31,Saudi Arabia,Howard Inc,Premier League (England),€144.5M,€351K,85.1,53.7,82.8,59.5,85,RB,205cm,Left
+549472,L. Richardson,31,Iran,Liverpool,Wilson-Harrison (Palestinian Territory),€147.5M,€351K,68.6,16.7,56.8,90.7,85,LWB,185cm,Left
+639963,Micheal Jr.,27,Malawi,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€131.7M,€358K,36.8,35.6,62.9,92.9,85,CF,179cm,Right
+460577,E. Bryant,30,United Arab Emirates,Lawrence-Murphy,Premier League (England),€131.4M,€344K,92.5,51.1,43.2,61.9,85,LW,161cm,Left
+796668,Martin,26,United Arab Emirates,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€131.9M,€350K,80.3,31.3,85.9,57.6,85,RW,165cm,Right
+133467,Brian Hill,21,Svalbard & Jan Mayen Islands,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€139.2M,€335K,62.4,67.5,90.2,32.0,85,RW,154cm,Right
+453710,E. Patton,29,Yemen,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€132.9M,€338K,88.8,61.7,73.9,61.0,85,RB,155cm,Left
+322669,Christopher Jr.,20,Argentina,"Thomas, Vaughan and Peters",Premier League (England),€129.9M,€309K,89.1,45.3,34.3,72.1,85,LW,194cm,Left
+85219,May,44,Malawi,Alvarez Inc,Klein-Young (Central African Republic),€130.7M,€296K,29.6,31.0,87.3,77.9,85,CF,174cm,Right
+617770,D. Hart,38,Saudi Arabia,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€129.5M,€302K,45.8,39.3,70.4,89.7,85,CF,153cm,Right
+749430,J. Green,30,Yemen,Perez Inc,Klein-Young (Central African Republic),€128.2M,€283K,90.0,52.7,68.9,43.7,85,LW,169cm,Left
+73757,J. Powell,31,Algeria,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€122.5M,€275K,91.1,64.3,39.6,49.5,84,GK,179cm,Right
+803060,C. Duarte,27,Algeria,Cole Ltd,Premier League (England),€117.9M,€333K,88.2,46.8,37.4,72.9,84,LW,178cm,Left
+991648,Watts,37,Palestinian Territory,Joyce Group,Premier League (England),€118.2M,€276K,77.1,23.9,30.6,86.5,84,ST,167cm,Right
+344814,P. Cox,23,Palestinian Territory,Howard Inc,Premier League (England),€116.1M,€269K,51.2,27.1,89.4,65.9,84,CF,186cm,Right
+205837,J. Brown,34,Algeria,Whitaker Group,Huber-Mcdonald (Argentina),€116.2M,€269K,69.8,7.7,26.0,88.4,84,ST,204cm,Right
+771157,B. Higgins,26,Bermuda,Tate-Medina,Premier League (England),€114.8M,€270K,72.3,17.5,19.9,87.7,84,ST,165cm,Right
+722567,G. Mathis,26,Saudi Arabia,Whitaker Group,Huber-Mcdonald (Argentina),€115.6M,€266K,90.6,53.8,47.8,64.4,84,RM,175cm,Right
+730845,C. Wood,26,Central African Republic,"David, Barnes and Gardner",Skinner Ltd (Argentina),€114.6M,€257K,73.8,28.9,86.3,78.5,84,RB,210cm,Left
+698959,L. Owen,21,Bermuda,"Gardner, West and Turner",Premier League (England),€104.8M,€286K,63.6,65.5,89.9,32.8,84,RW,162cm,Right
+2788,S. Chavez,33,Algeria,Williams Ltd,Wilson-Harrison (Palestinian Territory),€106.4M,€251K,87.6,51.0,74.9,65.3,84,RB,193cm,Left
+666539,B. Bowers,20,Central African Republic,Perez Inc,Klein-Young (Central African Republic),€109.7M,€259K,60.0,16.1,44.8,91.8,84,ST,171cm,Right
+494906,E. Gaines,23,Malawi,Howard Inc,Premier League (England),€101M,€246K,39.6,35.2,66.9,90.2,84,CF,157cm,Right
+675139,R. Graves,46,Svalbard & Jan Mayen Islands,Whitaker Group,Huber-Mcdonald (Argentina),€112.3M,€245K,75.2,41.2,86.3,52.9,84,RB,204cm,Left
+339451,P. Sanders,27,Iran,FC Barcelona,Wilson-Harrison (Palestinian Territory),€101.8M,€246K,50.9,84.4,33.8,81.9,84,RWB,202cm,Left
+3690,Chase,42,Yemen,"Bailey, Baker and Hunt",Premier League (England),€99.6M,€242K,89.1,15.6,41.7,70.2,84,LWB,195cm,Left
+626507,D. Smith,17,Algeria,"Carter, Bailey and Reilly",Premier League (England),€91.9M,€223K,65.4,43.8,90.8,43.0,84,RB,183cm,Left
+106971,M. Brandt,22,Central African Republic,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€103.4M,€230K,63.5,23.4,10.8,89.1,83,ST,180cm,Right
+918272,D. Dunn,31,Svalbard & Jan Mayen Islands,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€87.3M,€215K,89.8,63.9,43.1,36.0,83,RM,180cm,Right
+132072,J. Doyle,23,Svalbard & Jan Mayen Islands,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€87.8M,€230K,87.3,68.7,43.1,21.7,83,RW,151cm,Left
+885943,D. Summers,28,Central African Republic,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€84.2M,€212K,86.7,73.3,27.1,38.5,83,RM,206cm,Right
+746747,M. Malone,23,Yemen,"Mcguire, Alvarez and Keith",Premier League (England),€85M,€206K,57.2,7.3,45.5,91.1,83,ST,195cm,Right
+476586,R. Taylor,31,Algeria,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€83.8M,€230K,86.0,28.5,32.0,72.2,83,LWB,209cm,Left
+436255,J. Malone,20,United Arab Emirates,Joyce Group,Premier League (England),€96.1M,€194K,90.0,36.2,62.3,40.7,83,RB,188cm,Left
+789065,Mckinney,34,Central African Republic,Alvarez Inc,Klein-Young (Central African Republic),€77.5M,€179K,71.2,15.4,20.3,86.3,83,RM,164cm,Left
+977615,J. Clark,34,Argentina,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€83.3M,€182K,74.8,25.8,85.1,48.0,83,RB,202cm,Left
+428881,L. Smith,21,Iran,Joyce Group,Premier League (England),€77.8M,€183K,40.3,56.8,61.2,90.6,83,CF,156cm,Right
+494626,C. Allen,32,Saudi Arabia,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€84.5M,€203K,92.5,33.1,54.4,36.8,83,CM,167cm,Left
+429163,Michael Carter,25,Saudi Arabia,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€73.3M,€173K,58.3,46.2,33.7,90.6,83,LWB,204cm,Left
+888381,Alex Jr.,33,Bermuda,Lawrence-Murphy,Premier League (England),€72.5M,€173K,90.3,48.0,62.2,45.3,83,RM,181cm,Right
+165315,Richard Jr.,21,Iran,Manchester United,Premier League (England),€73.5M,€164K,68.2,22.5,34.2,86.9,83,CDM,155cm,Right
+753989,Daniel Johnson,20,Algeria,Tate-Medina,Premier League (England),€67.1M,€161K,18.0,47.7,89.1,61.0,82,CF,201cm,Right
+524641,W. Green,35,Saudi Arabia,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€65.2M,€160K,50.1,85.3,74.1,72.9,82,LM,182cm,Right
+623944,C. Smith,34,Argentina,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€75.4M,€160K,89.1,59.2,47.6,32.8,82,GK,175cm,Right
+329569,Bryan Jr.,48,Algeria,"Mcguire, Alvarez and Keith",Premier League (England),€67M,€161K,60.0,48.9,29.7,89.7,82,LWB,203cm,Left
+534403,I. Estrada,28,United Arab Emirates,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€66.9M,€161K,77.5,7.0,11.9,83.4,82,ST,161cm,Right
+788392,Cory Johnson,29,Bermuda,Joyce Group,Premier League (England),€57.5M,€150K,76.6,42.6,84.2,55.6,82,RB,170cm,Left
+903315,D. Tucker,23,Central African Republic,FC Barcelona,Wilson-Harrison (Palestinian Territory),€62.2M,€161K,57.3,87.2,66.1,56.5,82,LM,191cm,Left
+993467,Anthony Ward,34,Algeria,Morgan Inc,Huber-Mcdonald (Argentina),€59.2M,€152K,61.4,47.7,86.0,71.1,82,RB,206cm,Left
+977299,C. Mcmillan,33,Yemen,Li PLC,Klein-Young (Central African Republic),€60.3M,€144K,75.2,30.8,84.4,39.5,82,LWB,201cm,Right
+371216,N. Rios,48,Saudi Arabia,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€50.9M,€126K,71.6,9.6,40.1,85.8,82,LWB,152cm,Left
+748354,C. Huynh,20,Central African Republic,Choi-Edwards,Maldonado-Wells (Malawi),€47.7M,€131K,84.5,33.5,73.8,25.2,82,RW,187cm,Right
+749030,J. Delgado,21,Yemen,Liverpool,Wilson-Harrison (Palestinian Territory),€44.3M,€132K,41.2,90.4,43.7,55.5,82,LM,154cm,Left
+675418,Michael Franco,24,Yemen,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€43.2M,€133K,14.6,20.3,89.2,59.0,82,CF,160cm,Right
+913032,W. Warner,29,Iran,Whitaker Group,Huber-Mcdonald (Argentina),€42M,€124K,76.6,9.4,34.8,84.2,82,LWB,205cm,Left
+749233,W. Petersen,32,Saudi Arabia,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€64M,€123K,87.6,58.7,66.4,54.4,82,RB,198cm,Left
+438005,B. White,34,Palestinian Territory,Craig-Morrison,Premier League (England),€37.3M,€112K,88.5,49.5,60.8,63.0,82,RB,171cm,Left
+618234,J. Brown,24,United Arab Emirates,Cole Ltd,Premier League (England),€33.4M,€157K,92.0,22.7,38.9,50.6,82,LW,194cm,Left
+274326,C. Peters,35,Algeria,Dean-Thomas,Premier League (England),€29.4M,€109K,89.9,35.6,50.0,57.0,82,LWB,208cm,Left
+925830,T. Hampton,27,United Arab Emirates,Morgan Inc,Huber-Mcdonald (Argentina),€26.7M,€102K,53.2,31.8,77.2,82.2,81,CF,205cm,Right
+246084,R. Green,35,Saudi Arabia,Dean-Thomas,Premier League (England),€32M,€110K,74.6,38.4,11.4,82.9,81,RM,207cm,Left
+533136,Cortez,31,Algeria,Morgan Inc,Huber-Mcdonald (Argentina),€32.2M,€124K,63.3,49.5,83.3,74.0,81,RB,168cm,Left
+254664,Anderson,28,Iran,Liverpool,Wilson-Harrison (Palestinian Territory),€26.3M,€99K,44.4,48.5,24.7,91.3,81,RM,180cm,Left
+33509,J. Key,30,Bermuda,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€27.1M,€100K,88.2,49.1,31.2,60.3,81,CM,164cm,Left
+361214,T. Rogers,15,Algeria,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€19.6M,€108K,48.6,83.4,12.6,73.3,81,RWB,179cm,Left
+181121,Boyd,21,Palestinian Territory,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€17.9M,€100K,18.0,72.8,11.6,84.2,81,RWB,192cm,Left
+451458,A. Williams,22,Saudi Arabia,Paris Saint Germain,Premier League (England),€13.7M,€99K,90.9,52.4,17.6,17.5,81,ST,169cm,Left
+467900,C. Johnston,33,Iran,Tate-Medina,Premier League (England),€22.2M,€100K,74.2,53.9,83.4,58.8,81,RB,157cm,Left
+460219,Griffin,24,Palestinian Territory,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€15.3M,€99K,87.4,59.4,63.5,49.1,81,RW,163cm,Right
+116155,D. Green,17,Saudi Arabia,Dean-Thomas,Premier League (England),€16.6M,€99K,82.3,32.5,52.2,76.8,81,LW,200cm,Left
+165435,Atkins,40,Algeria,"David, Barnes and Gardner",Skinner Ltd (Argentina),€10M,€99K,16.6,83.0,75.5,35.2,81,LM,176cm,Right
+829184,R. Bird,27,Palestinian Territory,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€9.9M,€98K,72.5,46.4,83.6,28.0,81,RW,151cm,Right
+927640,K. Jones,32,Argentina,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€11.4M,€99K,83.9,59.6,71.0,40.7,81,RB,150cm,Left
+248160,E. Hughes,47,Saudi Arabia,Tate-Medina,Premier League (England),€12.1M,€99K,73.4,84.0,42.8,28.5,81,LM,181cm,Left
+691817,Smith,21,Iran,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€9.7M,€98K,85.9,58.7,67.5,53.4,81,RW,165cm,Right
+970400,T. Robinson,22,Saudi Arabia,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€9.8M,€98K,78.0,44.1,55.4,82.4,81,LWB,198cm,Left
+872393,K. Harris,21,Svalbard & Jan Mayen Islands,"Mcguire, Alvarez and Keith",Premier League (England),€9.7M,€98K,85.1,47.5,57.8,67.5,81,LW,162cm,Left
+462822,P. Gonzalez,34,Argentina,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€9.8M,€98K,86.7,62.4,49.4,15.9,81,RW,199cm,Left
+942103,D. Wilson,44,Argentina,Choi-Edwards,Maldonado-Wells (Malawi),€9.5M,€98K,77.2,41.6,80.9,32.8,80,LB,190cm,Left
+205051,Huff,21,Central African Republic,Lawrence-Murphy,Premier League (England),€9.7M,€98K,41.0,23.2,82.5,71.9,80,CF,156cm,Right
+827715,J. Melendez,26,Iran,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€9.7M,€98K,23.3,72.4,45.7,82.9,80,RWB,193cm,Left
+999749,Brandon Silva,20,Malawi,Tate-Medina,Premier League (England),€9.5M,€98K,85.2,48.9,59.4,65.8,80,LW,170cm,Left
+901649,R. Murphy,30,Argentina,Williams Ltd,Wilson-Harrison (Palestinian Territory),€9.4M,€99K,81.5,36.0,75.5,54.4,80,RB,201cm,Left
+688714,M. Barnes,31,Svalbard & Jan Mayen Islands,Perez Inc,Klein-Young (Central African Republic),€9.6M,€98K,58.8,68.8,83.9,31.8,80,CF,198cm,Left
+910233,G. Crawford,32,Palestinian Territory,Williams Ltd,Wilson-Harrison (Palestinian Territory),€9.4M,€98K,18.1,40.6,79.1,80.2,80,CF,206cm,Right
+533670,John King,39,Yemen,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€9.5M,€98K,45.3,80.6,26.6,78.6,80,RWB,197cm,Left
+402742,C. Perez,27,Saudi Arabia,Howard Inc,Premier League (England),€9.1M,€98K,60.3,65.7,84.9,32.5,80,CAM,203cm,Left
+1352,K. Richardson,22,Bermuda,Alvarez Inc,Klein-Young (Central African Republic),€9.4M,€97K,30.2,77.7,48.3,80.9,80,RWB,182cm,Left
+263544,S. Wilkinson,41,Central African Republic,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€9.1M,€97K,88.4,56.7,51.2,42.4,80,ST,203cm,Left
+969000,N. Morgan,29,Palestinian Territory,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€9.1M,€97K,44.1,69.2,30.5,84.2,80,RWB,168cm,Left
+272914,D. Fernandez,15,United Arab Emirates,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€9M,€96K,79.8,54.1,79.9,46.5,80,RB,185cm,Left
+207682,J. Black,31,Iran,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€8.8M,€96K,52.2,69.6,82.9,37.2,80,RW,177cm,Right
+846802,R. Cross,34,Central African Republic,Li PLC,Klein-Young (Central African Republic),€9M,€97K,88.8,52.7,39.8,53.3,80,GK,162cm,Right
+756719,Miguel Jr.,26,Svalbard & Jan Mayen Islands,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€8.8M,€97K,80.8,51.9,76.2,25.9,80,RW,160cm,Right
+396353,D. King,25,Central African Republic,"Mcguire, Alvarez and Keith",Premier League (England),€8.6M,€96K,83.3,71.2,36.9,44.4,80,RM,197cm,Right
+470109,Hanson,47,Saudi Arabia,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€8.9M,€96K,44.8,50.7,44.1,90.4,80,RM,209cm,Left
+224677,R. Delgado,15,Palestinian Territory,"Pierce, Howard and Stephens",Premier League (England),€8.7M,€96K,72.9,56.8,82.0,35.9,80,CAM,172cm,Left
+732612,T. Kelley,33,Saudi Arabia,Schmidt-Bird,Premier League (England),€8.7M,€97K,89.0,49.2,53.8,39.3,80,LW,157cm,Left
+609877,D. Williams,55,Svalbard & Jan Mayen Islands,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€8.5M,€96K,21.3,30.2,83.4,70.4,80,CF,153cm,Right
+642851,A. Fox,30,Yemen,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€8.6M,€95K,33.8,48.0,82.6,70.6,80,CF,161cm,Right
+978766,J. Mccarthy,32,Saudi Arabia,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€8.6M,€95K,41.2,41.6,18.8,92.4,80,ST,187cm,Right
+376867,C. Anderson,49,Malawi,Joyce Group,Premier League (England),€8.6M,€96K,63.4,56.8,46.1,83.7,79,LB,199cm,Right
+8343,T. Carter,49,Yemen,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€8.5M,€95K,45.4,8.2,37.5,90.5,79,ST,165cm,Right
+73982,M. Cooper,20,Yemen,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€8.4M,€95K,42.5,15.8,27.3,90.9,79,ST,160cm,Right
+844047,John Coffey,35,Algeria,Liverpool,Wilson-Harrison (Palestinian Territory),€8.4M,€95K,83.9,62.8,42.6,52.2,79,RM,200cm,Right
+262651,J. Gardner,50,Svalbard & Jan Mayen Islands,Schmidt-Bird,Premier League (England),€8.7M,€95K,86.9,50.3,43.3,54.9,79,GK,198cm,Right
+467808,G. Harper,22,Svalbard & Jan Mayen Islands,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€8.3M,€95K,50.7,78.8,78.0,27.7,79,CAM,168cm,Left
+557920,James Jr.,35,Central African Republic,"Gardner, West and Turner",Premier League (England),€8.5M,€94K,79.2,25.9,78.6,68.0,79,LB,183cm,Left
+795704,R. Carrillo,25,Svalbard & Jan Mayen Islands,"Thomas, Vaughan and Peters",Premier League (England),€8.3M,€95K,74.1,80.5,47.3,51.6,79,LM,157cm,Left
+640158,Benjamin Barker,21,Saudi Arabia,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€8.1M,€95K,26.7,85.6,61.1,43.7,79,LM,174cm,Right
+787898,S. Hicks,31,Iran,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€8M,€93K,80.4,8.2,9.6,76.7,79,ST,157cm,Right
+722470,T. Price,43,Central African Republic,Williams Ltd,Wilson-Harrison (Palestinian Territory),€7.9M,€94K,71.5,53.3,29.5,81.6,79,GK,207cm,Left
+9894,Andrew Jr.,26,Bermuda,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€8.2M,€93K,62.7,23.1,36.3,84.3,79,RM,202cm,Left
+263991,J. Anderson,34,Malawi,Tate-Medina,Premier League (England),€8M,€94K,55.7,15.6,46.6,86.3,79,ST,151cm,Right
+575407,D. Dixon,16,Algeria,"Mcguire, Alvarez and Keith",Premier League (England),€7.7M,€92K,86.2,19.7,55.6,42.4,79,LW,189cm,Left
+411730,S. Ballard,46,Svalbard & Jan Mayen Islands,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€7.8M,€92K,63.8,83.5,39.6,39.9,79,LM,170cm,Left
+584357,K. Ellis,26,Bermuda,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€7.9M,€93K,86.8,53.6,56.5,21.0,79,GK,172cm,Right
+764799,Lara,21,Saudi Arabia,Craig-Morrison,Premier League (England),€7.8M,€93K,67.0,83.3,63.6,35.7,79,LM,156cm,Left
+920628,C. Carr,31,Argentina,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€7.9M,€92K,83.6,34.7,65.4,55.1,79,RW,161cm,Right
+789688,J. Dominguez,28,Malawi,Alvarez Inc,Klein-Young (Central African Republic),€7.5M,€92K,79.2,30.6,76.5,47.8,79,LB,203cm,Left
+756972,E. Grimes,28,Yemen,Cisneros Ltd,Skinner Ltd (Argentina),€7.5M,€92K,71.8,37.2,34.7,80.9,79,LWB,162cm,Left
+142648,J. Allen,21,Bermuda,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€7.6M,€92K,37.8,36.4,72.8,81.4,79,CF,167cm,Right
+576914,Benjamin Jr.,48,Iran,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€7.4M,€92K,79.3,55.2,78.6,68.4,79,RB,186cm,Left
+110048,Michael Sullivan,22,United Arab Emirates,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€7.3M,€91K,54.6,27.6,29.6,86.7,79,GK,184cm,Left
+880514,D. Golden,41,United Arab Emirates,Choi-Edwards,Maldonado-Wells (Malawi),€7.4M,€94K,52.2,28.6,62.6,84.8,79,LB,151cm,Right
+659349,L. Mercado,24,Saudi Arabia,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€7.3M,€92K,85.9,60.2,37.6,33.0,79,RM,159cm,Right
+459002,Benjamin Graham,55,Svalbard & Jan Mayen Islands,Novak LLC,Maldonado-Wells (Malawi),€7.1M,€91K,80.5,69.6,69.5,54.1,78,RW,194cm,Right
+442641,J. Lee,24,Bermuda,Joyce Group,Premier League (England),€7.3M,€91K,83.1,40.5,61.4,18.3,78,GK,194cm,Right
+278840,J. Ford,55,Palestinian Territory,Whitaker Group,Huber-Mcdonald (Argentina),€7.6M,€91K,87.4,36.8,49.0,32.9,78,ST,207cm,Left
+385,B. Mitchell,34,Algeria,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€7.1M,€91K,63.0,22.5,47.7,83.4,78,LWB,156cm,Left
+303624,J. Bruce,26,Svalbard & Jan Mayen Islands,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€7.1M,€90K,63.6,46.8,83.4,40.9,78,RB,189cm,Left
+787005,P. Mendoza,28,Bermuda,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€6.8M,€91K,84.8,45.9,59.1,44.2,78,RW,153cm,Left
+926680,S. Knox,22,Svalbard & Jan Mayen Islands,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€7.2M,€91K,87.8,29.3,47.7,35.9,78,CM,178cm,Left
+74991,Adrian Jr.,53,Malawi,"Mcguire, Alvarez and Keith",Premier League (England),€6.9M,€92K,55.4,39.5,84.9,43.9,78,RB,183cm,Left
+165163,J. Ferguson,33,Yemen,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€6.7M,€90K,79.8,34.9,70.6,64.8,78,LB,166cm,Left
+419216,S. Davis,18,United Arab Emirates,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€7.1M,€91K,65.0,36.3,32.0,82.6,78,LB,193cm,Right
+960096,A. Smith,21,United Arab Emirates,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€6.7M,€90K,54.9,50.4,79.8,72.8,78,RB,158cm,Right
+50937,C. Reyes,53,Algeria,Lawrence-Murphy,Premier League (England),€6.7M,€90K,79.6,31.5,26.4,73.7,78,ST,186cm,Right
+575505,J. Parks,21,Palestinian Territory,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€6.5M,€90K,29.6,78.3,76.7,26.2,78,CF,191cm,Left
+518407,T. Harmon,23,Central African Republic,Cisneros Ltd,Skinner Ltd (Argentina),€6.6M,€89K,15.4,39.1,64.7,81.9,78,CF,182cm,Right
+395689,J. Leach,25,Iran,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€6.7M,€89K,84.6,42.4,29.7,57.9,78,RM,168cm,Right
+150384,A. Lopez,20,Saudi Arabia,Whitaker Group,Huber-Mcdonald (Argentina),€6.5M,€90K,81.0,33.1,50.3,70.8,78,LW,186cm,Left
+379774,C. Gallegos,27,United Arab Emirates,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€6.4M,€89K,44.2,29.1,40.4,89.9,78,ST,205cm,Right
+764802,R. Sandoval,26,Iran,"Carter, Bailey and Reilly",Premier League (England),€6.5M,€89K,71.7,15.9,17.6,79.7,78,RM,181cm,Left
+273299,J. Ho,22,Svalbard & Jan Mayen Islands,Howard Inc,Premier League (England),€6.4M,€89K,52.1,22.7,27.2,86.9,78,ST,182cm,Right
+609210,D. Watson,35,Saudi Arabia,Cole Ltd,Premier League (England),€6.3M,€90K,67.5,7.3,14.5,81.1,78,ST,166cm,Right
+781661,J. Schultz,24,Iran,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€6.4M,€89K,87.4,45.4,50.0,44.4,78,RM,187cm,Right
+52613,Hernandez,32,Argentina,"Bailey, Baker and Hunt",Premier League (England),€6.3M,€88K,53.5,76.4,78.3,58.9,78,CF,203cm,Left
+659184,Larry Harris,28,Svalbard & Jan Mayen Islands,Li PLC,Klein-Young (Central African Republic),€6.3M,€89K,63.6,82.7,50.6,55.0,78,LM,183cm,Left
+405429,C. Cruz,28,Argentina,Williams Ltd,Wilson-Harrison (Palestinian Territory),€6.3M,€88K,41.6,27.0,25.0,89.7,78,ST,188cm,Right
+737502,J. Zimmerman,53,Iran,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€6.2M,€88K,51.0,68.8,79.5,43.4,77,RW,195cm,Right
+262393,N. Miller,29,Malawi,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€6.2M,€89K,36.4,81.5,10.1,65.1,77,RWB,179cm,Left
+381,Jose Abbott,38,Svalbard & Jan Mayen Islands,Cole Ltd,Premier League (England),€6.3M,€88K,71.7,46.1,13.2,78.8,77,RM,196cm,Left
+926276,P. Reynolds,29,Iran,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€6.3M,€88K,54.3,51.8,84.2,55.0,77,CAM,167cm,Left
+426712,A. Jones,36,Palestinian Territory,FC Barcelona,Wilson-Harrison (Palestinian Territory),€6M,€87K,33.4,54.3,83.7,56.4,77,CF,167cm,Left
+99655,R. Graves,25,Palestinian Territory,Liverpool,Wilson-Harrison (Palestinian Territory),€6M,€87K,74.1,78.6,56.1,24.4,77,CAM,191cm,Left
+9593,R. Gonzalez,34,Central African Republic,Alvarez Inc,Klein-Young (Central African Republic),€6.3M,€87K,78.5,56.0,38.9,70.6,77,RWB,180cm,Right
+190035,S. Palmer,25,Malawi,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€6.2M,€87K,87.2,41.8,47.3,43.9,77,LW,201cm,Left
+26383,J. Flores,25,Bermuda,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€6M,€87K,81.2,29.7,58.9,63.8,77,CM,150cm,Left
+206640,J. Lowery,29,Iran,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€5.9M,€87K,43.0,21.7,82.1,60.6,77,CF,195cm,Right
+51001,A. Lucas,21,Yemen,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€6.2M,€87K,81.7,38.9,64.0,64.4,77,LW,156cm,Left
+100202,L. Smith,48,Palestinian Territory,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€5.8M,€87K,65.0,17.5,53.4,81.2,77,LB,200cm,Right
+673674,W. Arnold,28,Malawi,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€5.9M,€86K,44.0,82.7,38.1,60.6,77,RWB,157cm,Left
+190363,N. Hernandez,35,Svalbard & Jan Mayen Islands,Howard Inc,Premier League (England),€5.7M,€85K,80.4,28.7,38.8,67.3,77,ST,187cm,Right
+673908,R. Cole,26,Palestinian Territory,Whitaker Group,Huber-Mcdonald (Argentina),€5.6M,€86K,59.8,46.4,35.7,82.7,77,GK,170cm,Left
+215165,R. Morales,28,Saudi Arabia,Cole Ltd,Premier League (England),€5.6M,€87K,79.3,36.7,53.7,70.2,77,LW,195cm,Left
+92301,D. Johnson,25,Malawi,"Carter, Bailey and Reilly",Premier League (England),€5.5M,€87K,74.5,47.5,77.8,45.7,77,LB,191cm,Left
+755930,J. Perry,30,Svalbard & Jan Mayen Islands,FC Barcelona,Wilson-Harrison (Palestinian Territory),€5.4M,€85K,52.4,59.5,82.4,26.8,77,CAM,158cm,Left
+583901,Jennings,28,Svalbard & Jan Mayen Islands,Dean-Thomas,Premier League (England),€5.6M,€85K,65.6,64.9,80.3,58.4,77,CAM,187cm,Left
+10602,Jeremy Clark,37,Yemen,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€5.5M,€85K,84.3,52.8,54.7,30.2,77,RW,161cm,Right
+633425,J. Ramos,26,Iran,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€5.3M,€85K,85.2,49.1,51.0,38.3,77,RW,203cm,Left
+445021,J. Vega,31,Yemen,Li PLC,Klein-Young (Central African Republic),€5.3M,€85K,85.7,37.1,52.3,20.8,77,RW,204cm,Left
+51858,Arthur Clark,28,Malawi,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€5.4M,€85K,80.5,42.7,41.2,67.6,77,LW,189cm,Left
+158388,M. Wilson,26,United Arab Emirates,Howard Inc,Premier League (England),€5.8M,€85K,89.0,21.9,38.1,41.1,77,CM,206cm,Left
+346839,Derek Cox,35,Saudi Arabia,Howard Inc,Premier League (England),€5.2M,€84K,60.6,60.5,81.9,31.5,77,CF,154cm,Left
+166644,C. Nguyen,44,Svalbard & Jan Mayen Islands,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€5.2M,€85K,39.0,88.5,30.6,40.7,77,LM,208cm,Left
+510762,R. Ortiz,35,Algeria,Paris Saint Germain,Premier League (England),€5.4M,€84K,83.7,57.9,34.3,54.3,77,GK,195cm,Right
+920741,L. Montgomery,47,Bermuda,"Bailey, Baker and Hunt",Premier League (England),€5.2M,€84K,67.0,19.3,28.7,80.1,77,LB,166cm,Right
+511178,Petersen,34,Central African Republic,Alvarez Inc,Klein-Young (Central African Republic),€4.8M,€83K,51.5,82.0,33.0,61.1,77,LM,178cm,Left
+527912,Williams,26,Bermuda,"Thomas, Vaughan and Peters",Premier League (England),€4.8M,€83K,23.5,85.7,25.3,49.6,77,RWB,152cm,Left
+85601,P. Garcia,23,Malawi,Paris Saint Germain,Premier League (England),€5.2M,€84K,41.4,53.1,80.4,68.1,77,LB,182cm,Left
+536520,Stanley Jr.,20,Palestinian Territory,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€4.9M,€84K,50.0,58.9,14.1,82.6,77,RWB,170cm,Left
+704566,S. Shaffer,49,Saudi Arabia,FC Barcelona,Wilson-Harrison (Palestinian Territory),€4.7M,€83K,39.4,79.5,51.4,66.0,76,LM,208cm,Right
+163942,J. Rios,23,Palestinian Territory,"Thomas, Vaughan and Peters",Premier League (England),€5.2M,€84K,69.8,45.8,63.3,77.6,76,LWB,161cm,Left
+803403,D. Harvey,32,United Arab Emirates,Palmer-Ewing,Maldonado-Wells (Malawi),€4.8M,€83K,73.5,31.5,30.3,77.3,76,LWB,155cm,Left
+918220,J. Fernandez,34,United Arab Emirates,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€4.6M,€83K,83.6,33.3,53.8,37.8,76,RW,163cm,Left
+533197,J. Rodriguez,27,Svalbard & Jan Mayen Islands,Morgan Inc,Huber-Mcdonald (Argentina),€4.3M,€82K,79.2,29.3,64.7,15.0,76,LWB,164cm,Right
+181372,Robert Herrera,18,Yemen,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€4.5M,€83K,43.2,55.1,76.6,75.9,76,CF,182cm,Right
+99582,C. Salas,17,Saudi Arabia,Choi-Edwards,Maldonado-Wells (Malawi),€4.5M,€83K,47.1,58.2,82.1,53.7,76,CF,162cm,Left
+836975,D. Baxter,28,Argentina,Dean-Thomas,Premier League (England),€4.4M,€83K,78.8,45.6,50.3,69.2,76,LWB,198cm,Left
+509473,Daniel Kramer,35,Argentina,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€4.3M,€82K,77.9,42.2,44.2,70.1,76,RWB,203cm,Right
+509589,B. Strong,27,Saudi Arabia,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€4.2M,€83K,52.3,39.6,83.6,25.0,76,LWB,165cm,Right
+509594,Justin Jr.,20,Yemen,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€4.2M,€82K,42.6,69.8,77.7,46.5,76,CAM,155cm,Left
+386902,Stephen Clark,37,Argentina,Morgan Inc,Huber-Mcdonald (Argentina),€4.1M,€82K,60.8,27.1,80.1,64.1,76,RB,182cm,Left
+821293,Wilson,26,Svalbard & Jan Mayen Islands,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€4M,€82K,61.7,55.9,80.7,40.6,76,CF,207cm,Left
+10309,Ronald Jr.,33,Algeria,Lawrence-Murphy,Premier League (England),€4M,€82K,66.9,32.0,78.6,64.3,76,RB,204cm,Right
+583811,J. Gardner,33,Palestinian Territory,Howard Inc,Premier League (England),€3.9M,€82K,83.5,41.9,54.1,29.4,76,GK,194cm,Right
+305825,J. Herrera,42,United Arab Emirates,Whitaker Group,Huber-Mcdonald (Argentina),€4M,€82K,82.5,56.0,49.6,36.7,76,GK,206cm,Right
+101482,P. Johnson,35,Palestinian Territory,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€3.7M,€82K,62.4,38.1,80.6,61.2,76,RB,165cm,Left
+355508,T. Barrera,32,Central African Republic,"Bailey, Baker and Hunt",Premier League (England),€3.9M,€81K,26.1,78.4,69.6,64.3,76,CF,170cm,Left
+52564,R. Campos,26,Argentina,Morgan Inc,Huber-Mcdonald (Argentina),€3.5M,€81K,84.3,36.9,51.7,30.8,76,CM,171cm,Left
+470584,Jeremy Johnson,24,Svalbard & Jan Mayen Islands,"Mcguire, Alvarez and Keith",Premier League (England),€4.2M,€80K,85.3,49.5,38.3,38.7,76,RW,169cm,Left
+790441,J. Bennett,25,Argentina,"Gardner, West and Turner",Premier League (England),€3.5M,€80K,80.2,61.7,47.0,37.1,76,RW,188cm,Left
+426123,D. Armstrong,31,Argentina,Cisneros Ltd,Skinner Ltd (Argentina),€3.5M,€80K,86.9,40.8,28.2,22.2,75,GK,207cm,Right
+434379,D. Patel,18,Central African Republic,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€3.5M,€81K,68.0,26.8,28.5,77.5,75,LB,179cm,Right
+713005,T. Clark,20,Argentina,Williams Ltd,Wilson-Harrison (Palestinian Territory),€3.4M,€80K,54.3,47.6,81.5,31.6,75,RW,182cm,Right
+909879,F. Schmidt,15,Central African Republic,Cole Ltd,Premier League (England),€3.3M,€79K,61.3,59.2,78.0,66.2,75,LB,153cm,Left
+197207,R. Roman,33,Palestinian Territory,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€3.2M,€78K,74.5,46.5,75.4,60.9,75,RW,202cm,Right
+205504,John Jr.,20,Iran,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€3.2M,€79K,83.4,46.8,48.3,31.3,75,CM,164cm,Left
+312693,J. Zimmerman,25,Bermuda,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€3.7M,€79K,16.1,31.1,75.2,72.7,75,CF,206cm,Right
+910845,D. Patton,52,Yemen,Morgan Inc,Huber-Mcdonald (Argentina),€3.3M,€78K,45.0,40.7,78.1,67.6,75,CF,167cm,Right
+108093,Vincent Jr.,27,Iran,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€3.1M,€78K,49.1,63.0,51.0,78.5,75,GK,196cm,Left
+755269,B. West,21,Algeria,"Pierce, Howard and Stephens",Premier League (England),€3.1M,€79K,21.7,82.3,28.2,51.7,75,RWB,173cm,Left
+984653,Z. Maynard,37,Malawi,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€3.2M,€78K,67.9,15.9,76.9,27.9,75,CB,196cm,Left
+206464,John Jr.,27,Saudi Arabia,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€3.1M,€78K,72.0,16.8,51.0,75.4,75,LWB,164cm,Left
+18186,Z. Curry,32,Iran,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€3M,€78K,73.1,29.2,30.4,75.5,75,LW,195cm,Left
+50990,D. Frazier,32,Saudi Arabia,Perez Inc,Klein-Young (Central African Republic),€3M,€78K,78.8,58.0,60.5,62.2,75,LB,162cm,Left
+600337,S. Robinson,35,Bermuda,Craig-Morrison,Premier League (England),€3.2M,€78K,78.4,64.6,31.6,25.6,75,RW,156cm,Left
+428355,Jeffery Jr.,28,Argentina,Novak LLC,Maldonado-Wells (Malawi),€2.8M,€78K,37.1,60.3,50.0,79.8,75,GK,207cm,Left
+199268,C. Murillo,30,Argentina,Novak LLC,Maldonado-Wells (Malawi),€2.8M,€77K,74.7,40.6,63.0,75.6,75,RB,194cm,Left
+27267,P. Smith,28,Iran,Liverpool,Wilson-Harrison (Palestinian Territory),€3M,€78K,72.0,76.3,40.0,29.6,75,LM,190cm,Left
+838400,F. Hamilton,29,Argentina,FC Barcelona,Wilson-Harrison (Palestinian Territory),€3M,€77K,79.1,61.6,53.9,37.4,75,ST,165cm,Left
+183457,J. Hayden,36,Argentina,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€2.5M,€77K,78.1,47.0,49.4,65.9,75,LB,204cm,Left
+888218,J. Burke,31,Argentina,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€2.7M,€76K,55.1,42.1,81.4,44.9,75,LWB,156cm,Right
+355902,M. Harper,48,Algeria,"Bailey, Baker and Hunt",Premier League (England),€2.7M,€77K,51.2,36.1,79.7,60.9,75,RB,151cm,Left
+380625,P. Sampson,34,Algeria,FC Barcelona,Wilson-Harrison (Palestinian Territory),€2.7M,€76K,65.8,24.1,26.5,78.2,75,LB,199cm,Right
+53161,J. Miller,30,Iran,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€2.9M,€76K,79.5,27.6,50.7,62.5,75,LWB,172cm,Left
+315336,D. Baker,28,Svalbard & Jan Mayen Islands,"Gardner, West and Turner",Premier League (England),€2.3M,€76K,77.6,37.2,68.0,20.8,75,CB,151cm,Left
+12257,S. Clark,22,Svalbard & Jan Mayen Islands,"Gardner, West and Turner",Premier League (England),€2.5M,€75K,81.3,19.6,55.5,54.3,75,LW,166cm,Left
+983125,M. Whitney,32,Iran,Palmer-Ewing,Maldonado-Wells (Malawi),€2.4M,€76K,36.2,30.1,41.2,85.4,74,GK,182cm,Left
+983476,J. Patton,29,United Arab Emirates,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€2M,€75K,45.8,20.3,77.7,61.1,74,LB,165cm,Left
+877025,Omar Jr.,25,Argentina,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€2.1M,€75K,52.9,66.4,76.4,35.8,74,RB,201cm,Right
+762371,L. Reid,31,Saudi Arabia,"Bailey, Baker and Hunt",Premier League (England),€2.3M,€75K,63.1,75.0,69.3,47.4,74,CAM,201cm,Left
+205533,J. Carter,28,Bermuda,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€2.1M,€75K,68.4,24.9,76.0,34.5,74,LB,208cm,Left
+336647,J. Miller,24,Malawi,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€2M,€76K,42.3,37.7,84.7,41.4,74,LWB,167cm,Right
+443148,R. Foster,34,Argentina,Dean-Thomas,Premier League (England),€2.1M,€74K,23.7,75.1,71.2,43.8,74,CF,210cm,Left
+435028,D. Coleman,21,Svalbard & Jan Mayen Islands,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€1.9M,€75K,78.1,38.6,61.6,37.1,74,GK,151cm,Right
+910169,S. Robbins,27,Central African Republic,Manchester United,Premier League (England),€2M,€74K,77.2,36.7,27.0,64.9,74,CM,171cm,Left
+140460,M. Johnson,23,Algeria,Howard Inc,Premier League (England),€1.9M,€74K,70.9,75.4,45.1,30.3,74,LM,151cm,Left
+599420,C. Singh,34,United Arab Emirates,"Mcguire, Alvarez and Keith",Premier League (England),€1.9M,€74K,40.0,55.8,79.4,50.0,74,CF,183cm,Left
+83335,W. Harper,23,Central African Republic,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€1.9M,€74K,76.5,57.4,67.9,29.6,74,LB,167cm,Left
+214467,M. Brady,24,Saudi Arabia,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€2M,€74K,64.8,76.7,36.5,58.0,74,LM,183cm,Left
+665222,K. Green,20,Svalbard & Jan Mayen Islands,"Thomas, Vaughan and Peters",Premier League (England),€1.8M,€73K,43.5,17.0,26.1,84.3,74,RM,206cm,Left
+116377,Russell,21,Yemen,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€1.9M,€73K,45.5,82.1,43.5,48.3,74,LM,168cm,Left
+796491,D. Parker,21,Saudi Arabia,"David, Barnes and Gardner",Skinner Ltd (Argentina),€1.8M,€74K,82.5,37.8,49.6,40.2,74,RM,201cm,Right
+493428,G. Fisher,26,Iran,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€1.8M,€73K,78.0,22.6,25.7,62.2,74,RM,155cm,Left
+182253,B. Avila,24,United Arab Emirates,"Gardner, West and Turner",Premier League (England),€1.7M,€72K,74.0,40.1,29.8,72.8,74,LWB,190cm,Left
+346119,Philip Wood,32,Bermuda,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€1.8M,€73K,74.9,69.4,59.2,28.9,74,RW,190cm,Right
+805125,S. Joseph,44,Algeria,"David, Barnes and Gardner",Skinner Ltd (Argentina),€1.6M,€72K,74.5,42.0,33.8,71.9,74,GK,201cm,Left
+141735,M. Miller,32,Central African Republic,Perez Inc,Klein-Young (Central African Republic),€1.6M,€72K,51.2,76.1,68.3,51.6,74,CAM,170cm,Left
+788972,D. Bass,49,Malawi,Schmidt-Bird,Premier League (England),€1.5M,€72K,53.7,24.3,29.5,80.2,74,RM,203cm,Left
+961104,Ryan Jr.,34,United Arab Emirates,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€1.4M,€72K,44.9,78.6,50.2,60.2,74,LM,193cm,Left
+305823,S. Edwards,35,Palestinian Territory,Whitaker Group,Huber-Mcdonald (Argentina),€1.7M,€73K,34.3,43.6,78.0,64.0,74,CF,182cm,Right
+412444,J. Alexander,22,Palestinian Territory,Whitaker Group,Huber-Mcdonald (Argentina),€1.6M,€72K,74.6,47.5,30.2,70.3,74,LB,208cm,Right
+781134,A. Spencer,21,Saudi Arabia,Palmer-Ewing,Maldonado-Wells (Malawi),€1.3M,€72K,81.1,30.8,38.1,52.9,74,RW,176cm,Left
+297946,T. Allen,34,Argentina,"David, Barnes and Gardner",Skinner Ltd (Argentina),€1.2M,€71K,80.6,18.5,56.1,48.7,74,LW,168cm,Left
+732412,J. Miller,20,Argentina,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€1.6M,€71K,52.2,39.1,43.9,81.5,74,LB,168cm,Right
+118243,N. Williams,29,Yemen,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€1.2M,€72K,75.4,57.8,48.3,68.3,74,LB,183cm,Left
+741041,Choi,30,Central African Republic,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€1.1M,€71K,77.1,66.1,33.4,24.2,74,RW,184cm,Left
+204880,Daniel Jr.,27,United Arab Emirates,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€1.1M,€71K,71.3,53.7,40.5,74.1,73,RWB,167cm,Right
+57514,R. Huff,55,Algeria,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€998K,€71K,45.3,76.6,63.1,25.6,73,CAM,204cm,Left
+794815,J. Parker,34,Algeria,"Thomas, Vaughan and Peters",Premier League (England),€998K,€71K,74.5,22.9,35.3,66.9,73,RWB,208cm,Right
+827610,B. Hill,26,Argentina,Alvarez Inc,Klein-Young (Central African Republic),€994K,€70K,85.0,35.5,23.2,31.5,73,CM,165cm,Left
+967005,Christopher Jr.,21,Central African Republic,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€996K,€70K,68.3,26.2,43.1,74.1,73,GK,208cm,Left
+991722,S. Peters,46,Svalbard & Jan Mayen Islands,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€996K,€70K,75.9,42.9,53.5,63.3,73,CM,180cm,Left
+606755,J. King,29,Algeria,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€994K,€71K,75.2,47.6,26.5,66.6,73,RM,185cm,Right
+901808,S. Herrera,32,Iran,Choi-Edwards,Maldonado-Wells (Malawi),€990K,€70K,82.6,41.7,42.5,32.6,73,GK,173cm,Right
+90810,W. Knox,27,Svalbard & Jan Mayen Islands,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€990K,€70K,79.1,53.1,35.6,23.2,73,ST,175cm,Left
+320197,J. Andrews,24,Algeria,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€987K,€70K,59.7,77.9,34.6,44.1,73,LM,199cm,Left
+443111,T. Burke,25,Bermuda,Dean-Thomas,Premier League (England),€1M,€71K,84.0,35.0,37.5,39.2,73,ST,198cm,Left
+508765,J. Sparks,47,Argentina,"David, Barnes and Gardner",Skinner Ltd (Argentina),€977K,€69K,45.9,79.8,31.2,54.1,73,RWB,200cm,Left
+91020,William Hanna,21,Palestinian Territory,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€977K,€69K,76.4,61.0,58.4,39.2,73,LM,165cm,Left
+476327,M. Campbell,34,Malawi,"Gardner, West and Turner",Premier League (England),€981K,€70K,78.0,23.8,59.8,27.8,73,LWB,206cm,Right
+132338,J. Kirby,32,Bermuda,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€976K,€69K,26.6,25.3,75.9,64.2,73,CF,210cm,Right
+836965,Paul Vasquez,30,Central African Republic,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€990K,€68K,79.8,51.5,49.2,30.8,73,GK,198cm,Right
+689634,K. Armstrong,34,Central African Republic,Craig-Morrison,Premier League (England),€974K,€68K,79.6,39.9,34.5,55.1,73,ST,169cm,Right
+763389,Sullivan,25,Central African Republic,Joyce Group,Premier League (England),€971K,€68K,83.0,37.1,29.9,41.8,73,CM,189cm,Left
+419570,C. Krause,48,Saudi Arabia,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€969K,€68K,50.3,75.3,64.7,56.3,73,LM,180cm,Right
+182119,B. Johnson,20,United Arab Emirates,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€966K,€67K,74.3,39.5,55.2,67.7,73,GK,153cm,Left
+722796,Anderson,19,Malawi,Cole Ltd,Premier League (England),€968K,€69K,81.1,40.7,50.2,20.3,73,RW,193cm,Left
+378790,R. May,24,Palestinian Territory,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€972K,€67K,75.9,21.4,56.0,65.6,73,CM,166cm,Left
+567236,B. Rogers,35,Central African Republic,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€966K,€68K,32.2,71.6,74.0,48.0,73,LM,204cm,Right
+444415,K. Lee,27,Bermuda,"Gardner, West and Turner",Premier League (England),€964K,€67K,82.4,34.6,31.2,43.2,73,RM,187cm,Right
+288849,D. Dorsey,22,Palestinian Territory,"Mcguire, Alvarez and Keith",Premier League (England),€960K,€66K,43.0,78.4,28.2,55.1,73,RWB,155cm,Left
+985221,Christopher Jr.,41,Bermuda,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€961K,€67K,74.8,32.9,51.7,69.4,73,LB,203cm,Right
+157852,M. Moore,21,Malawi,Cole Ltd,Premier League (England),€962K,€67K,31.0,53.2,35.5,80.0,73,RWB,162cm,Left
+362671,E. Taylor,22,Algeria,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€956K,€66K,27.9,62.6,76.3,60.5,73,CF,201cm,Left
+600259,K. Juarez,53,Yemen,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€957K,€65K,18.1,80.2,45.8,51.5,73,RWB,187cm,Left
+502088,Dunn,22,Svalbard & Jan Mayen Islands,"Pierce, Howard and Stephens",Premier League (England),€955K,€65K,77.9,58.9,49.0,38.7,73,LB,170cm,Left
+854391,Macdonald,28,Saudi Arabia,Cole Ltd,Premier League (England),€960K,€66K,76.0,9.3,65.3,33.5,73,CB,155cm,Left
+100901,P. Osborn,22,Saudi Arabia,Dean-Thomas,Premier League (England),€943K,€65K,60.6,38.1,58.4,77.1,73,CAM,151cm,Right
+412353,J. Morgan,22,Central African Republic,Tate-Medina,Premier League (England),€944K,€64K,46.3,33.6,81.8,41.8,73,LWB,175cm,Right
+854817,C. Velasquez,34,Saudi Arabia,Novak LLC,Maldonado-Wells (Malawi),€950K,€68K,78.0,56.2,25.3,54.8,73,CM,171cm,Left
+969624,Dustin Beck,40,Yemen,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€951K,€65K,68.0,33.2,74.2,22.8,73,CB,163cm,Left
+920804,T. Johnson,35,Malawi,Cisneros Ltd,Skinner Ltd (Argentina),€935K,€64K,77.9,43.4,58.1,24.5,73,RW,205cm,Left
+265836,J. Chapman,23,Yemen,Alvarez Inc,Klein-Young (Central African Republic),€934K,€64K,50.4,16.3,34.4,80.7,73,RM,202cm,Left
+126700,G. Ibarra,53,United Arab Emirates,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€939K,€64K,55.0,33.1,65.0,75.6,73,LWB,207cm,Left
+831293,Erik Jr.,29,Algeria,Joyce Group,Premier League (England),€952K,€64K,78.6,56.2,38.6,52.1,73,ST,192cm,Left
+774090,J. Garcia,32,Yemen,Lawrence-Murphy,Premier League (England),€932K,€63K,79.9,21.9,53.7,52.1,73,LW,170cm,Left
+663667,Henry,34,Saudi Arabia,Palmer-Ewing,Maldonado-Wells (Malawi),€939K,€64K,81.3,29.3,44.3,18.9,72,ST,188cm,Left
+491724,Johnson,29,Iran,FC Barcelona,Wilson-Harrison (Palestinian Territory),€931K,€63K,77.9,55.4,45.5,28.2,72,CM,207cm,Left
+811365,M. Goodwin,26,Argentina,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€928K,€63K,48.4,48.7,31.7,80.0,72,LB,150cm,Right
+737906,J. Nielsen,31,Argentina,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€927K,€63K,75.0,23.4,43.7,64.2,72,CM,158cm,Left
+476125,R. Bates,26,Palestinian Territory,"Bailey, Baker and Hunt",Premier League (England),€922K,€63K,25.7,46.2,80.7,39.2,72,LM,156cm,Right
+787449,L. Kelly,23,Bermuda,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€923K,€63K,35.5,58.8,21.8,76.6,72,CAM,157cm,Right
+1127,J. Allen,35,Palestinian Territory,Liverpool,Wilson-Harrison (Palestinian Territory),€928K,€63K,22.8,77.3,56.8,56.8,72,LM,186cm,Right
+345578,D. Wilson,34,Svalbard & Jan Mayen Islands,Dean-Thomas,Premier League (England),€915K,€63K,79.4,47.9,21.8,40.8,72,CM,200cm,Left
+624495,D. Chavez,32,Bermuda,Morgan Inc,Huber-Mcdonald (Argentina),€911K,€63K,75.9,19.2,42.3,61.3,72,LW,154cm,Left
+772084,R. Garcia,32,Central African Republic,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€915K,€62K,66.2,19.2,28.5,74.2,72,RM,178cm,Left
+862314,Jackson,32,Malawi,"Gardner, West and Turner",Premier League (England),€917K,€63K,76.9,37.6,43.8,57.4,72,ST,152cm,Right
+723088,G. Barnett,30,Yemen,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€904K,€62K,33.4,69.1,73.1,63.4,72,LM,203cm,Right
+944316,Kenneth Jr.,26,Malawi,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€908K,€62K,57.3,75.7,58.9,58.7,72,CAM,195cm,Left
+968897,D. Washington,33,Bermuda,"Gardner, West and Turner",Premier League (England),€911K,€62K,72.9,46.5,69.1,38.1,72,CB,192cm,Left
+592136,B. Perry,26,Malawi,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€906K,€62K,62.3,21.6,38.4,75.7,72,LWB,182cm,Left
+379192,D. Lane,33,Algeria,Whitaker Group,Huber-Mcdonald (Argentina),€895K,€61K,47.3,43.0,79.7,30.1,72,CB,187cm,Left
+944785,William Garcia,27,Bermuda,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€915K,€62K,80.4,45.0,44.1,36.2,72,RW,204cm,Left
+11051,M. Murphy,22,Bermuda,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€902K,€62K,84.7,32.3,25.3,35.6,72,ST,151cm,Left
+650173,Mcdonald,21,Algeria,Choi-Edwards,Maldonado-Wells (Malawi),€896K,€61K,75.4,61.9,38.9,25.7,72,GK,194cm,Right
+379844,H. Williams,33,Saudi Arabia,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€894K,€61K,68.3,73.2,49.9,30.2,72,LM,185cm,Left
+437212,N. Austin,24,Iran,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€893K,€62K,49.1,44.7,42.0,79.2,72,LB,166cm,Right
+420925,Jason Thomas,36,Central African Republic,"David, Barnes and Gardner",Skinner Ltd (Argentina),€901K,€61K,47.2,29.6,22.4,79.6,72,ST,195cm,Right
+306306,L. Garner,30,Palestinian Territory,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€892K,€61K,77.8,55.4,31.0,32.8,72,GK,208cm,Right
+363967,J. Mcdonald,21,Svalbard & Jan Mayen Islands,Cole Ltd,Premier League (England),€892K,€61K,76.5,41.6,56.1,58.8,72,LWB,206cm,Left
+962176,Baker,21,Bermuda,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€891K,€60K,44.8,66.9,74.3,41.5,72,CF,181cm,Left
+683648,M. Rodriguez,20,Central African Republic,Novak LLC,Maldonado-Wells (Malawi),€891K,€61K,70.0,51.3,68.9,73.1,72,RB,174cm,Left
+773914,J. Jordan,33,Central African Republic,Tate-Medina,Premier League (England),€892K,€61K,15.6,67.3,73.7,65.8,72,LM,180cm,Right
+569208,A. Vaughn,22,Central African Republic,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€884K,€60K,77.7,20.2,15.6,56.0,72,RM,198cm,Left
+307083,T. Mcintosh,21,Saudi Arabia,Palmer-Ewing,Maldonado-Wells (Malawi),€885K,€60K,40.1,28.1,82.9,16.2,72,LWB,159cm,Right
+716692,Jeffrey Jr.,33,Yemen,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€887K,€60K,77.2,47.0,55.5,18.6,72,CB,155cm,Left
+352317,J. Campbell,33,Saudi Arabia,Joyce Group,Premier League (England),€889K,€60K,29.4,48.5,66.1,72.5,71,CDM,168cm,Left
+467094,M. Mitchell,22,United Arab Emirates,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€875K,€60K,42.4,55.7,76.4,43.7,71,RB,150cm,Right
+860360,S. Hart,31,Algeria,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€877K,€60K,22.5,75.4,22.0,56.2,71,CAM,197cm,Right
+909683,T. Cook,25,Palestinian Territory,Novak LLC,Maldonado-Wells (Malawi),€869K,€61K,17.8,77.1,48.9,52.1,71,RWB,195cm,Left
+672211,Smith,25,Malawi,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€889K,€60K,35.7,68.2,71.3,57.4,71,CF,150cm,Left
+975455,C. Reynolds,26,Svalbard & Jan Mayen Islands,"Gardner, West and Turner",Premier League (England),€865K,€59K,58.4,18.9,36.7,75.7,71,RM,179cm,Left
+49898,Robert Yates,35,Bermuda,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€867K,€58K,72.3,45.8,20.7,68.5,71,RM,203cm,Left
+99099,Gary Wheeler,22,Svalbard & Jan Mayen Islands,Choi-Edwards,Maldonado-Wells (Malawi),€880K,€59K,76.8,55.2,27.6,51.6,71,RW,205cm,Left
+713688,Michael Jr.,28,Bermuda,Schmidt-Bird,Premier League (England),€861K,€60K,51.1,56.9,76.2,28.6,71,CAM,166cm,Left
+705512,Graves,30,Svalbard & Jan Mayen Islands,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€859K,€58K,52.6,41.9,72.2,68.5,71,CF,168cm,Right
+828392,T. Wiggins,27,Yemen,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€864K,€58K,72.7,37.6,64.0,61.5,71,LW,179cm,Left
+369688,J. Moreno,23,United Arab Emirates,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€858K,€58K,74.3,60.7,56.9,51.3,71,RWB,190cm,Right
+156746,A. Hill,25,Saudi Arabia,Morgan Inc,Huber-Mcdonald (Argentina),€855K,€60K,67.1,71.9,50.1,52.6,71,CAM,165cm,Left
+754961,Michael Jr.,25,United Arab Emirates,Lawrence-Murphy,Premier League (England),€853K,€57K,71.0,21.7,70.5,35.0,71,LWB,198cm,Right
+706039,A. Green,47,Palestinian Territory,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€849K,€58K,39.5,77.0,54.6,31.2,71,CF,163cm,Left
+9834,M. Ryan,35,Algeria,Lawrence-Murphy,Premier League (England),€853K,€57K,34.5,64.4,28.1,73.3,71,LW,178cm,Right
+378488,M. Smith,21,United Arab Emirates,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€853K,€57K,77.6,23.6,34.5,49.3,71,LW,172cm,Left
+624439,R. Hernandez,44,Bermuda,Cisneros Ltd,Skinner Ltd (Argentina),€841K,€57K,65.4,26.2,73.5,30.9,71,LWB,167cm,Right
+493418,M. Michael,40,Iran,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€860K,€57K,47.0,72.1,10.8,69.3,71,CB,204cm,Right
+419712,J. Moore,28,Algeria,"Thomas, Vaughan and Peters",Premier League (England),€846K,€57K,71.9,13.8,29.3,68.9,71,ST,171cm,Right
+485284,R. Mitchell,34,Iran,Novak LLC,Maldonado-Wells (Malawi),€847K,€57K,53.8,71.1,25.0,70.6,71,RM,179cm,Right
+444329,W. Fowler,32,Algeria,Alvarez Inc,Klein-Young (Central African Republic),€843K,€57K,71.2,30.4,70.0,30.0,71,LB,157cm,Left
+149418,Clinton Jr.,45,Algeria,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€834K,€56K,55.7,25.9,75.7,42.6,71,LB,196cm,Left
+534736,J. Le,21,Central African Republic,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€833K,€57K,61.6,74.2,26.4,49.5,71,CAM,157cm,Right
+657710,J. Patterson,31,United Arab Emirates,Joyce Group,Premier League (England),€837K,€57K,81.2,35.0,29.3,41.3,71,RW,158cm,Left
+788791,Christopher Jr.,24,Svalbard & Jan Mayen Islands,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€839K,€56K,52.2,47.9,56.4,75.3,71,LB,200cm,Right
+321969,T. Martinez,35,Bermuda,FC Barcelona,Wilson-Harrison (Palestinian Territory),€832K,€56K,64.1,72.8,21.0,46.3,71,CB,176cm,Right
+133596,I. Alexander,35,Iran,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€833K,€57K,44.9,22.1,79.3,9.1,71,CB,172cm,Left
+485864,L. Palmer,29,Malawi,Lawrence-Murphy,Premier League (England),€833K,€56K,55.5,40.4,76.7,28.1,71,CB,202cm,Left
+584190,Cristian Jr.,25,Svalbard & Jan Mayen Islands,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€828K,€55K,64.3,18.3,72.9,11.1,71,CB,200cm,Left
+199245,D. Clark,28,Algeria,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€829K,€55K,50.9,38.6,25.8,77.7,71,CAM,210cm,Right
+723581,D. Johnson,22,Central African Republic,Craig-Morrison,Premier League (England),€827K,€55K,80.4,36.3,36.2,41.3,71,LW,181cm,Left
+306138,Knox,29,United Arab Emirates,Tate-Medina,Premier League (England),€832K,€55K,41.4,7.2,41.0,81.3,71,ST,180cm,Right
+855285,E. Roth,25,Algeria,Whitaker Group,Huber-Mcdonald (Argentina),€824K,€55K,46.5,50.3,55.4,75.6,71,CAM,171cm,Right
+216381,Mullen,31,Algeria,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€827K,€55K,63.5,73.6,34.6,35.2,71,RM,175cm,Right
+781857,G. Brown,25,Svalbard & Jan Mayen Islands,"Pierce, Howard and Stephens",Premier League (England),€818K,€56K,60.7,50.8,52.4,74.4,71,RB,187cm,Left
+102009,A. Ward,28,Bermuda,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€817K,€55K,54.1,63.2,73.3,45.6,71,CAM,204cm,Left
+675514,I. Smith,34,Saudi Arabia,"Bailey, Baker and Hunt",Premier League (England),€819K,€54K,30.6,68.9,30.8,71.2,71,CB,207cm,Right
+986864,E. Collier,25,Bermuda,Manchester United,Premier League (England),€815K,€55K,67.2,39.0,60.8,72.7,71,RM,209cm,Right
+794702,S. Wise,32,Central African Republic,FC Barcelona,Wilson-Harrison (Palestinian Territory),€812K,€54K,26.5,71.8,41.9,65.2,70,CAM,153cm,Right
+622931,J. Leonard,31,Iran,"Thomas, Vaughan and Peters",Premier League (England),€813K,€55K,63.4,26.6,63.4,72.5,70,RB,152cm,Left
+672234,D. Freeman,46,Argentina,"Mcguire, Alvarez and Keith",Premier League (England),€802K,€54K,57.3,37.0,74.7,41.3,70,LB,155cm,Left
+614929,C. Bailey,42,Svalbard & Jan Mayen Islands,Morgan Inc,Huber-Mcdonald (Argentina),€802K,€54K,37.2,47.7,75.6,51.4,70,RB,210cm,Right
+852514,E. Gray,34,Yemen,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€805K,€54K,67.4,44.8,59.5,70.3,70,LB,180cm,Right
+733,Lowe,20,Yemen,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€808K,€54K,79.0,32.8,36.2,42.1,70,ST,164cm,Left
+41707,J. Carlson,21,Algeria,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€800K,€53K,28.1,71.9,22.9,62.5,70,CB,198cm,Right
+287505,S. Gates,30,Yemen,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€801K,€54K,31.7,71.3,22.7,65.6,70,RWB,174cm,Left
+296269,John Jr.,26,Malawi,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€813K,€53K,39.9,55.9,57.5,74.8,70,LB,182cm,Right
+509296,T. Smith,22,Palestinian Territory,Joyce Group,Premier League (England),€797K,€53K,72.7,24.1,60.8,45.4,70,LWB,199cm,Right
+697801,C. Perry,30,Palestinian Territory,Williams Ltd,Wilson-Harrison (Palestinian Territory),€793K,€53K,65.8,44.8,36.8,71.9,70,CDM,203cm,Left
+42543,K. Johnson,20,Central African Republic,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€795K,€53K,34.8,78.3,44.0,39.3,70,CF,187cm,Left
+329479,A. Pollard,24,Iran,Lawrence-Murphy,Premier League (England),€799K,€53K,69.6,10.2,61.2,70.0,70,LWB,150cm,Left
+837566,A. David,22,Algeria,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€794K,€53K,63.3,69.8,9.2,70.3,70,CB,175cm,Right
+305656,J. Campbell,40,Yemen,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€792K,€52K,44.9,58.9,26.1,74.2,70,CAM,165cm,Right
+354809,A. Washington,22,Svalbard & Jan Mayen Islands,"Carter, Bailey and Reilly",Premier League (England),€789K,€53K,44.8,22.8,59.1,74.2,70,RWB,194cm,Right
+707150,Rosales,25,Saudi Arabia,Lawrence-Murphy,Premier League (England),€792K,€52K,41.2,50.8,76.7,34.1,70,LM,199cm,Right
+764508,D. Phillips,22,Saudi Arabia,Dean-Thomas,Premier League (England),€795K,€53K,31.4,72.4,9.0,63.9,70,CB,150cm,Right
+395895,Thomas,32,Argentina,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€789K,€53K,31.3,28.5,81.6,35.2,70,RB,152cm,Right
+322318,Weiss,21,Palestinian Territory,Novak LLC,Maldonado-Wells (Malawi),€788K,€52K,62.9,27.4,50.4,72.9,70,LB,176cm,Right
+256881,A. Bowers,26,Bermuda,"Gardner, West and Turner",Premier League (England),€789K,€52K,64.6,8.3,71.8,17.6,70,CB,181cm,Left
+658292,John Jr.,34,Yemen,Liverpool,Wilson-Harrison (Palestinian Territory),€791K,€52K,58.7,28.1,30.1,73.9,70,GK,183cm,Left
+486619,Benjamin Jr.,35,Algeria,Tate-Medina,Premier League (England),€787K,€51K,51.9,72.4,61.0,50.7,70,LM,193cm,Left
+470411,E. Brock,29,Malawi,Whitaker Group,Huber-Mcdonald (Argentina),€784K,€51K,63.5,55.4,37.2,72.3,70,RWB,183cm,Right
+142735,T. Shaw,55,Central African Republic,"Thomas, Vaughan and Peters",Premier League (England),€782K,€51K,55.1,30.0,36.5,74.9,70,GK,167cm,Left
+831052,A. Martin,16,Central African Republic,Whitaker Group,Huber-Mcdonald (Argentina),€786K,€51K,59.7,63.4,48.2,72.3,70,RM,150cm,Right
+306965,Stanley,18,United Arab Emirates,Tate-Medina,Premier League (England),€777K,€51K,76.8,48.4,47.5,18.1,70,GK,196cm,Right
+372689,Wells,23,United Arab Emirates,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€775K,€51K,52.5,51.2,76.5,25.2,70,LWB,169cm,Right
+647215,N. Griffith,23,Svalbard & Jan Mayen Islands,Schmidt-Bird,Premier League (England),€785K,€51K,40.6,71.4,48.6,60.6,69,CF,160cm,Left
+352428,J. Newman,32,Bermuda,Cisneros Ltd,Skinner Ltd (Argentina),€774K,€52K,64.5,51.0,70.2,46.5,69,LWB,159cm,Right
+319717,T. Williams,35,Svalbard & Jan Mayen Islands,"Carter, Bailey and Reilly",Premier League (England),€774K,€50K,32.1,30.8,76.8,45.4,69,RB,173cm,Right
+598317,M. Johnson,33,Yemen,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€781K,€51K,69.8,44.6,64.9,49.8,69,LB,159cm,Left
+344401,A. Wilson,32,Iran,Manchester United,Premier League (England),€771K,€51K,38.9,58.4,70.7,63.8,69,LM,202cm,Right
+770405,J. Le,28,Malawi,Perez Inc,Klein-Young (Central African Republic),€770K,€50K,72.5,17.1,30.8,57.0,69,RM,178cm,Left
+66258,Michael Jr.,49,Argentina,Perez Inc,Klein-Young (Central African Republic),€764K,€51K,55.9,38.2,73.0,29.9,69,LB,187cm,Left
+656119,E. Rodriguez,45,United Arab Emirates,Tate-Medina,Premier League (England),€756K,€50K,51.5,60.9,24.5,71.8,69,RWB,165cm,Right
+533544,M. Hunt,35,Bermuda,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€754K,€50K,38.4,55.0,70.0,64.5,69,CF,179cm,Left
+369704,James Jr.,48,Iran,FC Barcelona,Wilson-Harrison (Palestinian Territory),€759K,€50K,36.5,63.2,71.3,42.8,69,LM,153cm,Right
+984165,Rodriguez,50,Argentina,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€752K,€50K,47.9,23.6,40.3,76.0,69,LB,175cm,Right
+812159,Timothy Jr.,29,Argentina,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€750K,€50K,61.8,28.1,69.7,68.0,69,LB,210cm,Left
+525485,A. Moore,27,Malawi,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€754K,€50K,45.3,32.3,62.6,70.9,69,LW,177cm,Right
+255199,D. Perry,22,United Arab Emirates,Cole Ltd,Premier League (England),€754K,€50K,67.5,69.6,30.9,16.8,69,RW,193cm,Left
+214484,Jake Jr.,35,Saudi Arabia,"Gardner, West and Turner",Premier League (England),€749K,€49K,69.6,43.5,68.9,53.3,69,LW,196cm,Left
+927355,T. Williams,33,United Arab Emirates,"Thomas, Vaughan and Peters",Premier League (England),€747K,€49K,63.3,24.3,70.8,27.3,69,LWB,197cm,Right
+18359,Taylor Jr.,28,Svalbard & Jan Mayen Islands,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€774K,€49K,71.5,37.0,49.7,62.8,69,RM,151cm,Right
+75742,N. Lam,31,Malawi,Dean-Thomas,Premier League (England),€746K,€50K,52.6,34.8,47.4,74.5,69,ST,195cm,Right
+493565,Nicholas Williams,35,Svalbard & Jan Mayen Islands,"Bailey, Baker and Hunt",Premier League (England),€746K,€49K,69.0,52.7,68.8,38.1,69,LB,177cm,Left
+788662,F. Lewis,32,United Arab Emirates,Cole Ltd,Premier League (England),€741K,€48K,70.1,54.7,64.1,64.7,69,LB,170cm,Right
+919740,T. Henderson,31,Saudi Arabia,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€746K,€49K,48.8,31.1,56.3,73.0,69,GK,200cm,Left
+338312,D. Barrett,31,Malawi,"Pierce, Howard and Stephens",Premier League (England),€741K,€49K,71.2,56.5,31.5,63.5,69,RM,151cm,Right
+379289,Black,24,Central African Republic,Cole Ltd,Premier League (England),€745K,€48K,72.2,50.4,57.6,50.8,69,CM,153cm,Left
+903578,Cain,31,Iran,"Carter, Bailey and Reilly",Premier League (England),€736K,€48K,60.2,40.7,40.8,72.3,69,GK,155cm,Left
+617226,Singh,20,Central African Republic,Alvarez Inc,Klein-Young (Central African Republic),€737K,€49K,74.8,39.3,53.2,51.6,69,RM,196cm,Right
+969580,M. Mendoza,34,Argentina,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€734K,€48K,64.2,36.4,33.2,70.9,69,GK,194cm,Left
+338849,J. Bryant,45,Malawi,"Mcguire, Alvarez and Keith",Premier League (England),€717K,€48K,55.8,51.7,25.4,73.8,69,RM,167cm,Left
+592951,S. Mitchell,31,Algeria,"Carter, Bailey and Reilly",Premier League (England),€732K,€48K,71.0,56.0,61.8,43.0,69,LW,151cm,Left
+248923,D. Green,31,Bermuda,Manchester United,Premier League (England),€713K,€47K,58.8,62.0,37.4,70.9,69,GK,201cm,Left
+978015,Edward Jr.,51,Svalbard & Jan Mayen Islands,"Bailey, Baker and Hunt",Premier League (England),€724K,€48K,69.1,66.9,47.3,39.0,69,RM,166cm,Right
+986424,P. Tate,33,Saudi Arabia,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€710K,€48K,54.9,29.9,53.0,73.4,69,RWB,189cm,Right
+675197,Payne,33,Central African Republic,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€707K,€47K,50.1,75.8,43.3,35.8,69,LM,208cm,Left
+454172,R. King,31,Bermuda,Paris Saint Germain,Premier League (England),€723K,€47K,66.4,42.6,10.4,69.4,69,CB,199cm,Right
+183866,James Jr.,19,Palestinian Territory,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€707K,€47K,72.4,59.9,41.9,50.8,69,RWB,156cm,Right
+798291,Jonathon Sanchez,16,Malawi,Cole Ltd,Premier League (England),€696K,€47K,23.2,75.9,46.5,49.2,69,CF,204cm,Left
+692066,M. Garcia,29,Palestinian Territory,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€702K,€47K,51.6,67.0,57.5,69.7,69,LW,183cm,Right
+806837,Eric Jr.,22,Iran,"Thomas, Vaughan and Peters",Premier League (England),€706K,€47K,67.9,41.8,37.8,69.4,69,RWB,169cm,Right
+475208,J. Jefferson,34,Central African Republic,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€710K,€47K,63.1,55.0,59.3,69.0,68,RB,194cm,Right
+688217,Z. Russell,24,Argentina,Dean-Thomas,Premier League (England),€694K,€46K,71.7,39.1,56.7,48.8,68,RW,205cm,Right
+893124,S. Gibbs,30,Malawi,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€694K,€46K,75.0,45.7,29.9,37.5,68,GK,182cm,Right
+688626,Joshua Weber,38,Bermuda,Paris Saint Germain,Premier League (England),€695K,€46K,47.7,34.6,28.5,74.9,68,LB,174cm,Right
+426653,Joseph Russell,24,Malawi,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€705K,€47K,70.5,62.5,26.2,50.8,68,GK,173cm,Right
+836307,G. Baker,22,Bermuda,"Thomas, Vaughan and Peters",Premier League (England),€690K,€46K,54.1,70.6,24.7,59.9,68,RWB,204cm,Left
+271172,M. Molina,30,Yemen,Lawrence-Murphy,Premier League (England),€688K,€46K,41.1,72.7,48.0,54.6,68,CB,164cm,Right
+475993,Jones,32,Algeria,Cole Ltd,Premier League (England),€685K,€46K,37.6,52.3,68.2,68.2,68,LM,206cm,Right
+459994,Timothy Jr.,21,Algeria,Tate-Medina,Premier League (England),€692K,€46K,45.5,38.7,68.2,66.0,68,RB,172cm,Right
+271783,Austin Jr.,33,United Arab Emirates,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€684K,€47K,70.4,42.3,61.1,12.9,68,CB,151cm,Left
+804352,J. Watts,32,Yemen,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€680K,€45K,47.7,69.8,24.1,62.5,68,CB,191cm,Right
+763434,S. Diaz,39,Iran,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€688K,€44K,58.5,49.5,71.2,47.0,68,RW,191cm,Right
+951879,R. Trujillo,47,United Arab Emirates,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€681K,€45K,71.9,51.8,42.8,56.6,68,GK,170cm,Left
+67155,R. Anderson,28,Bermuda,Li PLC,Klein-Young (Central African Republic),€679K,€44K,49.6,51.7,54.5,72.2,68,RWB,196cm,Right
+59258,P. Macias,45,Saudi Arabia,Morgan Inc,Huber-Mcdonald (Argentina),€681K,€44K,59.9,52.1,71.3,41.9,68,LWB,201cm,Right
+493705,N. Brewer,27,Iran,"Gardner, West and Turner",Premier League (England),€674K,€45K,68.9,36.8,66.4,62.5,68,LW,203cm,Left
+215485,M. Perkins,25,Palestinian Territory,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€677K,€44K,65.8,69.3,46.0,61.0,68,LM,154cm,Left
+641553,J. Lutz,35,Svalbard & Jan Mayen Islands,Perez Inc,Klein-Young (Central African Republic),€666K,€44K,46.7,46.9,41.4,74.4,68,CAM,181cm,Right
+592580,W. Bruce,43,Saudi Arabia,Choi-Edwards,Maldonado-Wells (Malawi),€668K,€44K,71.9,54.4,45.5,47.6,68,LM,195cm,Left
+461518,A. Edwards,34,Argentina,Morgan Inc,Huber-Mcdonald (Argentina),€669K,€44K,56.1,70.1,62.6,39.5,68,RM,200cm,Right
+19151,B. Cooley,29,United Arab Emirates,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€671K,€44K,44.3,46.2,22.7,74.8,68,CAM,188cm,Right
+617622,A. Wilson,29,Svalbard & Jan Mayen Islands,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€660K,€43K,69.3,27.5,38.6,63.6,68,LW,161cm,Left
+478384,N. Ortega,28,Yemen,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€659K,€44K,49.6,56.2,35.5,71.6,68,CAM,189cm,Right
+175557,J. Hall,53,Palestinian Territory,Joyce Group,Premier League (England),€668K,€43K,75.5,32.5,44.1,7.6,68,CB,155cm,Left
+527931,R. Anderson,18,Algeria,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€663K,€43K,70.3,46.1,59.7,48.1,68,RB,198cm,Left
+904765,Pierce,23,Bermuda,Whitaker Group,Huber-Mcdonald (Argentina),€650K,€43K,34.3,76.0,44.5,36.8,68,LM,169cm,Right
+781899,C. Bridges,21,Argentina,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€654K,€43K,63.9,69.0,52.5,45.2,68,GK,158cm,Right
+347743,M. Taylor,26,Yemen,Manchester United,Premier League (England),€654K,€43K,55.0,11.4,28.0,71.8,68,ST,207cm,Right
+618115,Boyer,28,Svalbard & Jan Mayen Islands,Cisneros Ltd,Skinner Ltd (Argentina),€652K,€43K,41.8,54.1,57.5,71.6,68,GK,183cm,Left
+659240,Johnathan Jr.,24,United Arab Emirates,"Bailey, Baker and Hunt",Premier League (England),€645K,€43K,20.1,51.2,11.4,73.7,68,RWB,156cm,Left
+8244,Hubbard,35,Central African Republic,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€647K,€42K,40.1,23.7,76.5,38.2,67,LWB,188cm,Right
+884809,D. Newton,20,Algeria,Schmidt-Bird,Premier League (England),€659K,€42K,40.3,69.6,59.8,55.3,67,CAM,191cm,Right
+147542,S. Olson,35,Algeria,Williams Ltd,Wilson-Harrison (Palestinian Territory),€643K,€43K,26.0,34.9,71.0,56.1,67,CF,198cm,Right
+434312,William Murray,22,Iran,Palmer-Ewing,Maldonado-Wells (Malawi),€637K,€42K,40.4,48.1,35.7,73.7,67,CAM,160cm,Right
+573676,W. Mitchell,46,Central African Republic,Palmer-Ewing,Maldonado-Wells (Malawi),€634K,€42K,47.8,47.3,37.2,73.2,67,GK,199cm,Left
+557344,A. King,29,Argentina,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€640K,€42K,72.0,33.9,39.7,52.5,67,GK,165cm,Right
+762322,R. Keller,20,Argentina,"Pierce, Howard and Stephens",Premier League (England),€637K,€42K,58.5,32.9,69.5,34.8,67,CDM,204cm,Left
+860631,J. Gallagher,32,Yemen,Novak LLC,Maldonado-Wells (Malawi),€626K,€41K,13.3,49.9,72.7,39.5,67,LM,162cm,Right
+328226,Marc Bartlett,26,Algeria,Cole Ltd,Premier League (England),€626K,€42K,68.2,49.6,61.9,19.6,67,GK,179cm,Right
+254582,A. Oconnell,24,Malawi,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€631K,€41K,72.5,27.8,30.2,49.7,67,GK,174cm,Left
+58015,Mcgee,41,Saudi Arabia,"Gardner, West and Turner",Premier League (England),€650K,€41K,46.9,69.5,61.4,37.7,67,LM,197cm,Right
+877421,Terry Jr.,20,Yemen,Schmidt-Bird,Premier League (England),€619K,€41K,44.2,34.2,56.9,70.9,67,LB,165cm,Right
+115568,P. Sherman,25,United Arab Emirates,Craig-Morrison,Premier League (England),€626K,€41K,69.5,58.9,49.9,30.8,67,CAM,196cm,Left
+58522,D. Stephens,30,Saudi Arabia,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€620K,€41K,37.7,64.7,67.8,29.0,67,LM,162cm,Left
+132253,M. Jones,31,Yemen,Paris Saint Germain,Premier League (England),€626K,€41K,50.7,53.7,21.1,70.9,67,CAM,207cm,Right
+558505,M. Lynn,19,Central African Republic,"Mcguire, Alvarez and Keith",Premier League (England),€615K,€41K,52.2,49.7,71.5,22.1,67,CAM,172cm,Left
+296457,N. Huynh,25,Bermuda,Novak LLC,Maldonado-Wells (Malawi),€623K,€41K,61.1,68.8,27.8,57.8,67,RM,181cm,Right
+919241,C. Williams,27,Argentina,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€615K,€41K,52.7,43.2,30.4,72.4,67,GK,162cm,Left
+158023,T. Carrillo,29,United Arab Emirates,Liverpool,Wilson-Harrison (Palestinian Territory),€618K,€41K,75.0,41.1,37.2,33.0,67,RW,189cm,Left
+313421,Jacob Conley,25,Bermuda,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€606K,€40K,54.4,36.7,64.4,67.5,67,LB,205cm,Right
+34954,V. Owens,30,Svalbard & Jan Mayen Islands,"Pierce, Howard and Stephens",Premier League (England),€610K,€41K,71.4,49.1,55.2,28.4,67,ST,179cm,Left
+755941,T. Soto,23,Iran,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€607K,€40K,41.5,57.6,70.7,23.1,67,CAM,184cm,Left
+706870,M. Shields,43,Malawi,Whitaker Group,Huber-Mcdonald (Argentina),€605K,€40K,23.2,41.8,75.6,28.2,67,CF,186cm,Left
+903526,G. Cooper,21,Argentina,Li PLC,Klein-Young (Central African Republic),€603K,€40K,67.1,19.8,66.5,24.5,67,LWB,150cm,Right
+297440,G. Bright,33,Svalbard & Jan Mayen Islands,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€602K,€40K,54.9,16.4,71.4,28.0,67,CB,151cm,Left
+576017,R. Perry,23,Svalbard & Jan Mayen Islands,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€602K,€40K,68.1,54.6,43.2,63.2,67,RWB,160cm,Right
+559684,B. Price,30,Central African Republic,"Mcguire, Alvarez and Keith",Premier League (England),€601K,€40K,70.4,49.1,57.6,37.3,67,LB,158cm,Left
+461445,D. Ibarra,38,Iran,Li PLC,Klein-Young (Central African Republic),€589K,€40K,69.4,59.5,56.7,43.4,67,GK,185cm,Right
+182957,K. Williams,34,Bermuda,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€613K,€40K,32.3,59.6,10.6,69.0,67,RWB,181cm,Left
+830632,Chavez,24,Svalbard & Jan Mayen Islands,"Carter, Bailey and Reilly",Premier League (England),€591K,€40K,56.7,43.4,70.0,39.3,67,CAM,189cm,Left
+601287,Scott Parsons,34,Yemen,Craig-Morrison,Premier League (England),€599K,€39K,58.0,43.2,69.4,22.3,67,LWB,151cm,Right
+863732,J. Lewis,47,Saudi Arabia,Liverpool,Wilson-Harrison (Palestinian Territory),€596K,€39K,47.2,58.1,69.6,38.4,67,CAM,156cm,Left
+847424,M. Johnson,21,United Arab Emirates,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€587K,€40K,68.8,53.3,24.6,59.8,67,RWB,173cm,Right
+872038,J. Castro,24,Argentina,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€587K,€39K,45.5,70.5,53.0,56.9,67,CAM,165cm,Right
+298854,Richard Jr.,35,Algeria,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€587K,€39K,31.8,46.9,29.0,73.2,67,CB,190cm,Right
+724879,C. Gay,35,Malawi,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€585K,€39K,58.9,44.3,68.6,60.6,67,CAM,194cm,Left
+192437,L. Hatfield,33,Bermuda,Joyce Group,Premier League (England),€583K,€39K,38.5,41.5,60.5,69.6,67,CAM,182cm,Right
+638996,S. Coffey,29,United Arab Emirates,"Thomas, Vaughan and Peters",Premier League (England),€586K,€39K,36.4,14.4,58.2,68.4,66,CDM,199cm,Left
+925759,D. Hernandez,34,Algeria,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€584K,€39K,47.0,23.9,44.5,72.8,66,RM,158cm,Left
+221278,J. Carlson,24,Argentina,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€582K,€39K,74.3,40.5,31.3,29.4,66,RW,164cm,Left
+622812,P. Gonzalez,28,Central African Republic,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€586K,€38K,49.0,16.5,72.3,39.7,66,CB,154cm,Left
+778478,M. Austin,32,Central African Republic,Craig-Morrison,Premier League (England),€582K,€38K,56.4,19.8,10.4,69.3,66,ST,159cm,Right
+205172,J. Taylor,27,Central African Republic,Perez Inc,Klein-Young (Central African Republic),€582K,€38K,43.5,69.2,29.7,55.4,66,RWB,173cm,Left
+491905,B. Rowland,22,Malawi,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€580K,€38K,33.8,54.5,69.2,53.0,66,LM,152cm,Right
+590241,B. Jones,30,Saudi Arabia,Howard Inc,Premier League (England),€570K,€37K,60.7,44.3,48.8,67.4,66,LB,188cm,Right
+803365,J. Heath,25,Yemen,"Bailey, Baker and Hunt",Premier League (England),€578K,€37K,77.1,30.5,30.8,20.6,66,GK,181cm,Right
+909914,J. Dickerson,27,Algeria,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€573K,€37K,69.9,51.9,20.0,56.3,66,RM,200cm,Left
+443089,B. Harding,29,Saudi Arabia,Dean-Thomas,Premier League (England),€574K,€37K,50.9,67.3,62.6,61.5,66,RW,197cm,Right
+869204,R. Vega,52,Palestinian Territory,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€570K,€37K,66.3,45.2,64.7,46.5,66,RB,207cm,Left
+992143,G. Jackson,24,Iran,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€565K,€37K,69.8,56.0,52.5,48.1,66,CM,178cm,Left
+844698,Solomon,26,Iran,Schmidt-Bird,Premier League (England),€564K,€37K,53.1,70.1,54.8,38.0,66,CF,203cm,Left
+189453,J. Lawrence,21,Palestinian Territory,Paris Saint Germain,Premier League (England),€561K,€37K,43.1,47.2,66.0,65.5,66,CF,172cm,Right
+746549,Daniel Decker,22,Algeria,Williams Ltd,Wilson-Harrison (Palestinian Territory),€563K,€37K,26.3,68.4,59.1,31.8,66,CF,198cm,Left
+517209,M. Doyle,27,Malawi,Schmidt-Bird,Premier League (England),€560K,€37K,47.8,52.2,34.2,71.2,66,CB,161cm,Right
+582771,N. Huang,37,Algeria,"David, Barnes and Gardner",Skinner Ltd (Argentina),€563K,€37K,54.3,47.6,13.3,70.3,66,RWB,187cm,Left
+550048,M. Carrillo,35,Argentina,Cisneros Ltd,Skinner Ltd (Argentina),€555K,€36K,71.2,19.3,22.1,50.9,66,CM,158cm,Left
+705717,T. Griffin,34,Bermuda,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€560K,€36K,66.0,31.7,25.3,66.5,66,RWB,196cm,Right
+607559,J. Alexander,20,Central African Republic,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€557K,€36K,47.6,60.9,67.8,27.2,66,CAM,195cm,Left
+714056,A. Baldwin,31,Yemen,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€549K,€36K,55.7,37.5,42.1,68.8,66,LB,154cm,Right
+148843,J. Molina,32,Central African Republic,"Thomas, Vaughan and Peters",Premier League (England),€548K,€36K,55.3,45.0,69.8,37.2,66,CB,194cm,Left
+116096,R. King,23,Malawi,Liverpool,Wilson-Harrison (Palestinian Territory),€544K,€36K,61.7,60.9,67.9,59.4,66,LM,179cm,Left
+771635,P. Thompson,26,Yemen,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€540K,€35K,54.9,46.5,48.1,69.3,66,CDM,160cm,Left
+132710,A. Mccarthy,35,Yemen,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€544K,€36K,59.9,43.6,49.1,67.4,66,LWB,161cm,Left
+190218,A. Spence,34,Svalbard & Jan Mayen Islands,Paris Saint Germain,Premier League (England),€538K,€35K,51.3,56.1,68.7,46.0,66,LM,174cm,Right
+845730,Tracy Jr.,52,Palestinian Territory,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€535K,€35K,62.5,50.2,67.3,31.9,66,LB,150cm,Left
+509885,L. Torres,55,Iran,Williams Ltd,Wilson-Harrison (Palestinian Territory),€533K,€35K,60.5,41.0,68.2,7.6,66,CB,189cm,Left
+985218,D. Ross,27,Yemen,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€567K,€35K,27.0,48.7,27.3,72.1,66,LW,202cm,Right
+305361,D. Mahoney,23,Iran,"Mcguire, Alvarez and Keith",Premier League (England),€518K,€34K,68.2,55.4,59.7,44.2,66,RW,201cm,Left
+26932,M. Mckenzie,20,United Arab Emirates,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€523K,€34K,51.2,56.7,67.7,59.6,66,LM,177cm,Left
+666080,S. Ruiz,22,Yemen,Perez Inc,Klein-Young (Central African Republic),€521K,€34K,54.2,68.0,44.8,61.2,66,CB,161cm,Right
+649718,Torres,32,Argentina,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€539K,€34K,64.9,27.1,63.7,67.0,66,LB,176cm,Left
+715321,B. Beck,20,Malawi,Schmidt-Bird,Premier League (England),€511K,€33K,42.9,14.4,70.5,50.8,66,LWB,210cm,Right
+469590,William Knight,22,United Arab Emirates,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€517K,€33K,66.5,66.3,9.3,65.9,66,CB,173cm,Right
+871082,Alan Jones,32,Argentina,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€526K,€34K,68.4,41.0,59.4,48.6,66,GK,156cm,Left
+84774,M. Fields,22,Algeria,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€511K,€33K,31.0,68.4,58.4,55.7,66,CF,161cm,Left
+748511,B. Robertson,34,Saudi Arabia,Howard Inc,Premier League (England),€508K,€33K,63.1,53.0,55.7,66.7,66,RM,178cm,Right
+977916,R. Le,34,Malawi,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€506K,€33K,70.2,47.3,45.0,52.7,66,ST,173cm,Left
+44120,E. Hill,29,Algeria,Schmidt-Bird,Premier League (England),€506K,€33K,48.2,35.5,42.2,72.3,66,CB,154cm,Right
+486599,B. Morales,26,United Arab Emirates,Li PLC,Klein-Young (Central African Republic),€509K,€33K,38.1,65.4,31.6,66.6,66,LW,166cm,Right
+855302,Donald Jr.,20,Argentina,Tate-Medina,Premier League (England),€500K,€34K,42.0,58.5,34.0,68.5,66,CAM,188cm,Right
+642359,J. Benson,32,Palestinian Territory,"Thomas, Vaughan and Peters",Premier League (England),€500K,€33K,71.2,34.5,51.4,44.8,66,ST,185cm,Left
+536184,Eric Jr.,25,Malawi,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€505K,€33K,58.1,69.3,42.5,41.2,66,CB,173cm,Right
+175909,R. Fernandez,22,Bermuda,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€504K,€33K,44.3,67.9,58.6,48.3,66,CAM,195cm,Left
+151349,J. Curry,30,Iran,Manchester United,Premier League (England),€499K,€33K,66.1,46.4,8.6,65.3,66,CB,171cm,Right
+290784,E. Maldonado,32,Svalbard & Jan Mayen Islands,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€511K,€33K,46.3,62.8,52.0,66.8,66,GK,199cm,Left
+671928,J. Moore,33,Palestinian Territory,Craig-Morrison,Premier League (England),€495K,€33K,46.8,22.4,23.8,70.9,65,RM,175cm,Left
+729363,R. Rodriguez,25,Argentina,Whitaker Group,Huber-Mcdonald (Argentina),€495K,€32K,70.0,23.6,49.2,38.2,65,LW,150cm,Left
+672377,Kevin Pearson,26,Svalbard & Jan Mayen Islands,"Gardner, West and Turner",Premier League (England),€488K,€32K,52.8,51.8,68.5,51.2,65,CF,171cm,Left
+508940,J. Barron,52,Algeria,"Thomas, Vaughan and Peters",Premier League (England),€492K,€32K,50.5,35.0,69.7,30.0,65,RW,180cm,Right
+329036,James Jr.,25,Palestinian Territory,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€488K,€32K,43.5,29.2,48.0,70.2,65,RWB,173cm,Right
+443865,Jason Jr.,47,Argentina,Choi-Edwards,Maldonado-Wells (Malawi),€489K,€32K,31.1,68.5,45.0,54.1,65,RWB,186cm,Left
+353862,Z. Beck,25,Argentina,Morgan Inc,Huber-Mcdonald (Argentina),€487K,€31K,67.6,42.2,55.3,5.7,65,CB,194cm,Left
+665370,N. Parks,23,Iran,Whitaker Group,Huber-Mcdonald (Argentina),€484K,€31K,43.4,31.2,40.3,72.5,65,RWB,168cm,Right
+280840,K. Evans,34,Malawi,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€495K,€31K,52.3,66.9,59.4,39.8,65,RM,203cm,Right
+289055,J. Adams,35,Argentina,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€483K,€31K,53.5,58.9,67.3,35.2,65,RW,153cm,Right
+903517,R. Huff,30,Bermuda,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€477K,€31K,56.4,35.4,68.5,44.8,65,CDM,209cm,Left
+780674,J. Long,22,Yemen,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€483K,€32K,66.1,36.8,42.3,62.8,65,LW,185cm,Left
+551342,B. Combs,30,Algeria,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€482K,€31K,53.7,23.9,38.3,68.3,65,LWB,190cm,Left
+920096,Gomez,22,United Arab Emirates,"David, Barnes and Gardner",Skinner Ltd (Argentina),€485K,€31K,52.2,40.0,42.6,69.5,65,LW,169cm,Right
+158493,M. Adams,27,Yemen,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€473K,€31K,55.8,18.0,68.1,39.0,65,CDM,187cm,Left
+158581,D. Brown,23,Palestinian Territory,Li PLC,Klein-Young (Central African Republic),€476K,€31K,68.5,37.5,42.3,55.1,65,RM,174cm,Right
+715643,E. Flynn,46,Algeria,Joyce Group,Premier League (England),€475K,€30K,33.6,67.1,60.3,36.1,65,CF,187cm,Left
+978036,D. Frank,21,Bermuda,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€473K,€31K,30.2,68.6,42.5,54.8,65,RWB,191cm,Left
+159010,Drake,25,Algeria,Cole Ltd,Premier League (England),€472K,€30K,31.6,59.6,66.2,62.6,65,RB,163cm,Right
+494961,M. Jensen,31,United Arab Emirates,Morgan Inc,Huber-Mcdonald (Argentina),€473K,€30K,50.0,65.8,36.3,63.8,65,LM,185cm,Left
+462239,E. Cooper,24,Saudi Arabia,"Carter, Bailey and Reilly",Premier League (England),€480K,€30K,28.0,45.7,58.0,67.7,65,CF,200cm,Right
+380550,M. Moses,31,Iran,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€472K,€31K,26.0,60.7,26.1,66.4,65,RWB,171cm,Left
+855808,Pena,20,Yemen,Tate-Medina,Premier League (England),€464K,€30K,68.3,55.4,25.5,53.5,65,RW,168cm,Left
+552721,John Williams,30,United Arab Emirates,"Bailey, Baker and Hunt",Premier League (England),€468K,€30K,60.5,10.0,36.1,66.1,65,LWB,152cm,Left
+905120,Mitchell,35,Bermuda,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€465K,€29K,71.2,40.4,39.4,45.9,65,ST,183cm,Left
+724930,T. Yoder,20,Svalbard & Jan Mayen Islands,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€467K,€30K,63.6,65.2,40.3,37.0,65,CB,192cm,Right
+352282,Schultz,29,Argentina,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€461K,€29K,62.5,57.9,65.1,43.1,64,RB,194cm,Left
+516151,Pena,20,Algeria,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€471K,€30K,65.0,61.3,46.6,34.4,64,GK,173cm,Right
+458856,A. Gonzalez,50,Bermuda,Cisneros Ltd,Skinner Ltd (Argentina),€463K,€29K,62.9,20.9,63.7,19.5,64,LWB,207cm,Right
+885065,J. Hoffman,31,Yemen,"Mcguire, Alvarez and Keith",Premier League (England),€464K,€29K,67.5,52.9,30.2,41.8,64,RWB,153cm,Right
+246128,C. House,46,Iran,Manchester United,Premier League (England),€460K,€28K,50.8,47.9,62.8,64.6,64,RWB,196cm,Right
+74171,Blake,33,Yemen,"Carter, Bailey and Reilly",Premier League (England),€461K,€28K,46.2,52.9,68.2,42.7,64,LWB,203cm,Right
+295364,J. Wilkerson,32,Malawi,"Bailey, Baker and Hunt",Premier League (England),€457K,€28K,54.8,49.4,49.4,67.5,64,LB,210cm,Left
+328299,S. Scott,25,Malawi,"Pierce, Howard and Stephens",Premier League (England),€457K,€29K,56.8,44.4,66.1,18.8,64,CB,163cm,Left
+910183,S. George,32,Central African Republic,Alvarez Inc,Klein-Young (Central African Republic),€452K,€28K,70.6,24.8,45.6,35.5,64,ST,185cm,Left
+762753,Bernard Jr.,27,Bermuda,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€460K,€28K,56.4,59.7,45.4,64.9,64,RM,205cm,Right
+730002,S. Nelson,28,Iran,Li PLC,Klein-Young (Central African Republic),€455K,€28K,20.0,53.9,59.5,65.3,64,CF,209cm,Right
+640039,R. Mcbride,55,Central African Republic,Paris Saint Germain,Premier League (England),€453K,€28K,66.9,26.9,55.6,34.6,64,ST,153cm,Left
+33896,Richard Smith,35,Yemen,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€449K,€27K,68.0,49.3,51.8,18.9,64,GK,162cm,Right
+607501,Anthony Beard,45,Malawi,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€451K,€28K,40.5,37.7,21.1,72.1,64,CB,208cm,Right
+288263,Christopher Osborne,29,Iran,"Bailey, Baker and Hunt",Premier League (England),€449K,€27K,50.5,51.4,53.0,68.0,64,LB,161cm,Left
+681553,S. Williams,22,Iran,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€452K,€28K,42.1,56.4,66.7,49.4,64,CAM,201cm,Left
+83604,T. Smith,24,Palestinian Territory,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€444K,€26K,56.4,19.7,58.8,65.6,64,LB,194cm,Right
+239272,X. Flynn,26,Algeria,Cisneros Ltd,Skinner Ltd (Argentina),€454K,€27K,63.5,26.3,50.4,63.7,64,GK,182cm,Left
+452281,Joseph Davis,32,Algeria,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€444K,€26K,56.9,44.5,28.9,66.5,64,CM,172cm,Left
+632620,M. Curtis,22,United Arab Emirates,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€447K,€27K,64.2,61.7,44.6,52.1,64,LM,191cm,Left
+911194,R. Johnson,48,Malawi,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€439K,€26K,31.2,61.4,40.0,64.4,64,CB,204cm,Right
+427932,Anthony Sanchez,20,United Arab Emirates,Cole Ltd,Premier League (England),€429K,€26K,70.6,18.0,29.6,43.1,64,CM,196cm,Left
+821149,Paul White,50,Saudi Arabia,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€448K,€26K,57.5,8.8,66.7,21.8,64,CB,158cm,Left
+878505,A. Hughes,21,Algeria,Li PLC,Klein-Young (Central African Republic),€435K,€26K,68.8,16.6,51.1,13.1,64,LWB,197cm,Right
+911385,L. Turner,54,Iran,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€423K,€26K,32.7,38.3,60.9,65.1,64,LW,200cm,Right
+788521,J. Woodard,20,Bermuda,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€425K,€26K,55.4,66.5,41.5,32.0,64,CM,163cm,Right
+936177,M. Jenkins,23,Argentina,Novak LLC,Maldonado-Wells (Malawi),€421K,€26K,37.7,55.0,42.9,66.6,64,CB,203cm,Right
+911769,R. George,31,Palestinian Territory,Cisneros Ltd,Skinner Ltd (Argentina),€423K,€26K,63.3,60.3,58.5,63.7,64,RWB,172cm,Right
+354717,Jordan Jr.,23,Saudi Arabia,Williams Ltd,Wilson-Harrison (Palestinian Territory),€415K,€25K,65.7,20.3,39.3,58.4,64,CDM,192cm,Left
+911828,G. Austin,27,Argentina,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€439K,€25K,66.7,42.8,23.4,56.2,64,GK,188cm,Left
+313932,C. Gordon,21,Algeria,Tate-Medina,Premier League (England),€418K,€25K,47.2,35.4,69.2,42.8,64,LB,152cm,Left
+813671,D. Carey,25,Argentina,Morgan Inc,Huber-Mcdonald (Argentina),€418K,€26K,70.1,26.4,32.0,44.6,64,ST,151cm,Left
+117529,G. Barnes,54,Yemen,Dean-Thomas,Premier League (England),€407K,€25K,41.8,64.8,62.6,46.5,64,CF,152cm,Left
+633844,B. Rowe,33,Iran,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€410K,€25K,66.0,37.3,58.0,25.3,64,LWB,201cm,Right
+756764,D. Castillo,20,Svalbard & Jan Mayen Islands,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€409K,€25K,36.6,72.9,15.0,38.0,64,CB,152cm,Right
+19787,T. Solis,21,Argentina,Tate-Medina,Premier League (England),€416K,€25K,57.5,29.8,40.9,66.8,64,GK,195cm,Left
+478682,George Harris,31,Bermuda,Paris Saint Germain,Premier League (England),€399K,€24K,65.4,47.8,61.3,42.8,64,LW,187cm,Left
+470548,T. Taylor,25,Yemen,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€406K,€24K,58.4,66.0,56.3,48.4,64,GK,162cm,Right
+699933,J. Berg,55,Argentina,"David, Barnes and Gardner",Skinner Ltd (Argentina),€395K,€24K,67.7,38.6,30.5,51.0,64,GK,188cm,Right
+102121,Kim,31,Argentina,Craig-Morrison,Premier League (England),€397K,€25K,65.7,48.6,45.9,60.9,64,GK,186cm,Left
+167693,W. Walls,34,Palestinian Territory,"Mcguire, Alvarez and Keith",Premier League (England),€410K,€24K,64.5,41.5,60.5,59.5,64,RB,154cm,Left
+606226,J. Turner,23,Argentina,Dean-Thomas,Premier League (England),€393K,€24K,50.8,49.3,67.5,45.0,63,RB,204cm,Right
+65627,C. Bowers,45,Central African Republic,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€395K,€24K,67.8,49.2,46.0,33.3,63,ST,182cm,Left
+245913,Martinez,33,Argentina,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€391K,€24K,62.5,30.3,62.8,38.2,63,RB,179cm,Right
+631024,Cooper,51,Palestinian Territory,"Bailey, Baker and Hunt",Premier League (England),€391K,€24K,30.4,21.8,61.0,63.4,63,CDM,192cm,Left
+237848,A. Calderon,44,Yemen,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€386K,€23K,63.6,34.9,60.7,50.2,63,RM,185cm,Right
+237849,R. Campbell,21,Algeria,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€391K,€24K,61.9,50.9,49.1,64.0,63,RM,204cm,Right
+90420,G. Ortega,22,Argentina,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€386K,€24K,68.1,48.6,36.9,42.6,63,RW,185cm,Left
+991578,O. Cooke,33,Yemen,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€382K,€23K,64.0,19.1,25.6,59.0,63,LB,186cm,Right
+901516,D. Martinez,38,Saudi Arabia,Dean-Thomas,Premier League (England),€390K,€23K,48.4,56.3,47.7,64.8,63,LM,164cm,Left
+672271,Michael Jr.,30,Bermuda,Morgan Inc,Huber-Mcdonald (Argentina),€386K,€23K,62.8,48.5,27.8,62.2,63,LB,181cm,Right
+918300,P. Johnson,20,Central African Republic,Li PLC,Klein-Young (Central African Republic),€386K,€23K,48.2,55.7,65.4,43.5,63,LM,208cm,Left
+74754,Jones,50,Saudi Arabia,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€370K,€24K,52.8,17.4,66.4,14.6,63,CB,182cm,Left
+935081,Cameron,51,Palestinian Territory,Novak LLC,Maldonado-Wells (Malawi),€370K,€23K,67.3,44.8,40.5,49.8,63,RW,179cm,Left
+173324,Mark Gardner,24,Saudi Arabia,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€377K,€22K,56.9,65.6,29.1,51.6,63,LW,203cm,Right
+419151,D. Shields,34,Iran,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€365K,€23K,60.8,24.8,48.0,63.5,63,LW,205cm,Left
+320966,E. Nielsen,50,Iran,Cole Ltd,Premier League (England),€362K,€22K,40.9,63.6,40.8,60.9,63,RWB,180cm,Left
+722640,Mccall,35,Malawi,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€357K,€22K,40.0,34.5,45.5,68.9,63,LB,163cm,Right
+370519,J. Kennedy,24,Palestinian Territory,Whitaker Group,Huber-Mcdonald (Argentina),€360K,€22K,70.2,37.1,42.0,21.4,63,CB,170cm,Left
+903049,Stewart,26,Argentina,Schmidt-Bird,Premier League (England),€371K,€22K,53.1,65.9,53.6,30.7,63,CM,199cm,Right
+895042,Joshua Vasquez,20,Saudi Arabia,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€357K,€21K,44.7,31.8,69.6,26.9,63,CB,185cm,Left
+100598,J. Stanley,25,Saudi Arabia,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€356K,€23K,51.3,66.5,54.1,45.1,63,LM,199cm,Right
+100609,J. Cohen,25,Yemen,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€362K,€21K,50.9,43.6,67.0,46.8,63,CAM,192cm,Left
+486116,D. Smith,29,Yemen,Perez Inc,Klein-Young (Central African Republic),€356K,€22K,56.8,26.8,39.0,64.7,63,CDM,156cm,Left
+731981,S. Williams,23,Malawi,Liverpool,Wilson-Harrison (Palestinian Territory),€344K,€22K,60.1,64.6,59.1,43.4,63,LW,165cm,Right
+469969,J. Day,44,Svalbard & Jan Mayen Islands,Liverpool,Wilson-Harrison (Palestinian Territory),€348K,€21K,62.3,15.1,20.9,63.1,63,ST,197cm,Right
+44250,W. Smith,30,Yemen,"David, Barnes and Gardner",Skinner Ltd (Argentina),€340K,€21K,37.3,64.8,39.4,56.4,63,GK,175cm,Left
+601394,Mark Bullock,31,Central African Republic,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€350K,€20K,29.5,57.2,64.9,43.6,63,CF,168cm,Left
+765374,S. Hernandez,32,Central African Republic,Li PLC,Klein-Young (Central African Republic),€329K,€21K,55.5,46.8,65.9,18.6,63,GK,158cm,Right
+658889,J. Gillespie,21,Palestinian Territory,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€356K,€20K,40.2,25.5,58.9,64.0,63,CDM,190cm,Left
+921111,Powers,15,Algeria,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€337K,€20K,36.9,65.6,29.8,57.0,63,CB,169cm,Right
+347987,L. Dalton,39,Central African Republic,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€332K,€20K,58.3,64.1,44.5,48.6,63,RB,182cm,Right
+901193,C. Rogers,29,Central African Republic,Tate-Medina,Premier League (England),€332K,€19K,52.8,57.7,63.2,50.7,62,RB,208cm,Left
+843981,Bond,30,Iran,Liverpool,Wilson-Harrison (Palestinian Territory),€323K,€19K,52.7,28.5,65.2,39.6,62,CB,204cm,Left
+221552,M. Baker,34,United Arab Emirates,Palmer-Ewing,Maldonado-Wells (Malawi),€328K,€19K,38.5,16.2,68.3,42.7,62,CB,187cm,Left
+672147,R. Coffey,24,Iran,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€324K,€20K,62.0,61.8,28.3,28.8,62,CM,177cm,Right
+918026,J. Carlson,29,Argentina,"Pierce, Howard and Stephens",Premier League (England),€323K,€19K,65.3,54.1,44.9,48.5,62,LB,195cm,Right
+918203,J. Davies,21,Yemen,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€322K,€19K,32.3,39.6,47.9,66.5,62,CAM,151cm,Right
+623524,Daniel Olson,27,Bermuda,Paris Saint Germain,Premier League (England),€321K,€20K,37.6,32.8,47.7,67.3,62,LW,203cm,Right
+25524,David Cisneros,27,Bermuda,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€322K,€19K,54.9,45.6,57.3,63.4,62,RW,179cm,Right
+312327,Smith,31,United Arab Emirates,Choi-Edwards,Maldonado-Wells (Malawi),€316K,€18K,66.5,44.1,49.5,8.6,62,CB,202cm,Left
+828629,C. Martinez,29,Yemen,Manchester United,Premier League (England),€320K,€18K,65.8,37.0,51.5,26.6,62,GK,188cm,Right
+427292,G. Obrien,24,Palestinian Territory,Howard Inc,Premier League (England),€320K,€18K,59.0,34.4,42.9,63.4,62,CDM,190cm,Left
+607898,E. Clark,20,Saudi Arabia,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€320K,€18K,54.0,65.3,49.6,36.8,62,CM,210cm,Right
+935584,J. Mack,24,Iran,Liverpool,Wilson-Harrison (Palestinian Territory),€310K,€18K,61.4,61.8,37.9,53.2,62,RW,174cm,Left
+435917,Washington,35,Svalbard & Jan Mayen Islands,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€315K,€18K,63.4,24.3,56.8,35.2,62,LWB,190cm,Right
+116463,E. Carey,23,Central African Republic,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€313K,€18K,50.5,58.8,28.3,62.4,62,CAM,175cm,Right
+206613,Chase Robinson,28,Central African Republic,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€324K,€18K,50.8,64.6,53.3,16.9,62,RW,167cm,Left
+788327,Robert Jr.,23,Algeria,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€310K,€17K,63.8,35.2,56.9,41.4,62,RW,194cm,Right
+714688,J. Smith,23,Yemen,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€315K,€19K,64.0,49.2,56.3,30.4,62,CM,186cm,Left
+829681,Gary Castillo,22,Saudi Arabia,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€307K,€17K,45.5,24.8,45.9,67.5,62,RM,179cm,Left
+846180,R. Pearson,22,Bermuda,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€309K,€17K,46.2,67.3,42.9,43.0,62,CAM,160cm,Right
+412014,William Jr.,23,Svalbard & Jan Mayen Islands,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€307K,€17K,61.7,62.1,33.4,50.7,62,CM,173cm,Right
+715202,Smith,26,Algeria,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€307K,€17K,55.2,54.5,10.1,64.2,62,CB,201cm,Right
+789095,M. Leonard,30,Svalbard & Jan Mayen Islands,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€306K,€17K,60.8,37.3,46.1,62.4,62,RB,206cm,Right
+494388,C. Romero,22,Svalbard & Jan Mayen Islands,"Bailey, Baker and Hunt",Premier League (England),€310K,€17K,48.8,62.2,18.4,60.6,62,CB,161cm,Right
+273420,J. Fuller,20,Algeria,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€298K,€17K,57.9,61.9,62.2,48.7,62,RB,167cm,Left
+191510,C. Fisher,32,Central African Republic,Whitaker Group,Huber-Mcdonald (Argentina),€294K,€16K,63.1,58.7,47.3,37.8,62,ST,170cm,Left
+642084,Morse,25,Algeria,Novak LLC,Maldonado-Wells (Malawi),€299K,€17K,53.6,52.7,64.3,52.8,62,CF,153cm,Left
+44184,J. Berger,36,Saudi Arabia,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€292K,€17K,41.5,34.4,69.3,12.9,62,CB,173cm,Left
+134300,B. Sims,34,Algeria,Novak LLC,Maldonado-Wells (Malawi),€306K,€16K,42.3,51.8,65.3,44.8,62,LB,170cm,Left
+191735,L. Alexander,42,Algeria,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€291K,€16K,50.9,41.9,39.4,66.1,62,CB,171cm,Right
+617865,B. Hamilton,26,Malawi,Schmidt-Bird,Premier League (England),€288K,€16K,67.3,21.3,37.9,45.9,62,RWB,154cm,Right
+675228,N. Wolf,20,Iran,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€290K,€16K,40.1,34.5,8.2,69.0,62,CB,203cm,Right
+609778,G. Banks,35,Bermuda,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€278K,€15K,57.1,53.0,30.9,63.7,62,LB,191cm,Right
+221546,Timothy Jr.,24,Svalbard & Jan Mayen Islands,"Pierce, Howard and Stephens",Premier League (England),€280K,€16K,42.2,45.9,65.8,30.4,61,CF,164cm,Left
+336312,J. Gilmore,25,Saudi Arabia,Joyce Group,Premier League (England),€284K,€15K,63.2,56.3,21.5,41.8,61,CM,192cm,Right
+680449,Michael Turner,31,Iran,"Pierce, Howard and Stephens",Premier League (England),€280K,€16K,54.4,46.5,63.8,26.7,61,CAM,175cm,Left
+942664,J. Clark,23,United Arab Emirates,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€272K,€14K,54.9,62.5,42.2,43.2,61,CM,159cm,Right
+549448,Dylan Jr.,24,Algeria,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€271K,€15K,61.8,49.3,57.2,41.4,61,RM,199cm,Right
+98984,T. Davis,29,Palestinian Territory,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€277K,€16K,58.1,36.7,60.8,60.1,61,CAM,159cm,Right
+722056,Jose Wood,31,Algeria,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€274K,€15K,61.8,57.2,26.8,52.4,61,RM,192cm,Right
+124118,P. Rodriguez,29,Bermuda,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€270K,€15K,23.9,32.2,53.2,63.1,61,LW,152cm,Right
+26169,E. Wagner,16,United Arab Emirates,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€270K,€14K,60.2,47.8,61.6,39.5,61,RB,175cm,Right
+141059,T. Poole,25,United Arab Emirates,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€269K,€14K,33.2,62.8,25.4,53.8,61,LW,210cm,Right
+485554,A. Jimenez,27,Malawi,Paris Saint Germain,Premier League (England),€271K,€13K,22.6,50.0,35.3,65.0,61,RWB,199cm,Left
+936531,J. Lawson,31,United Arab Emirates,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€266K,€13K,36.9,39.5,68.4,33.9,61,CDM,182cm,Left
+272990,J. Henry,32,Palestinian Territory,"Bailey, Baker and Hunt",Premier League (England),€261K,€13K,42.2,62.8,54.5,56.0,61,RB,167cm,Right
+19314,S. Weiss,21,United Arab Emirates,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€288K,€13K,56.4,28.7,62.1,49.2,61,LWB,200cm,Right
+19399,Jeremiah Jr.,39,Yemen,"David, Barnes and Gardner",Skinner Ltd (Argentina),€266K,€14K,57.6,62.0,47.7,38.1,61,CB,166cm,Right
+666590,M. Thompson,15,Svalbard & Jan Mayen Islands,"Thomas, Vaughan and Peters",Premier League (England),€258K,€12K,58.2,52.3,61.1,59.3,61,LB,172cm,Left
+158774,A. Lee,20,Yemen,Cole Ltd,Premier League (England),€260K,€12K,62.4,57.5,34.0,48.4,61,LW,158cm,Right
+896094,B. Romero,29,Svalbard & Jan Mayen Islands,Perez Inc,Klein-Young (Central African Republic),€261K,€13K,25.1,65.0,48.6,46.9,61,CAM,150cm,Right
+994758,Lopez,20,Algeria,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€259K,€12K,62.8,57.0,26.2,41.3,61,RWB,157cm,Right
+929274,J. Nichols,34,Bermuda,Alvarez Inc,Klein-Young (Central African Republic),€263K,€12K,46.7,61.6,28.2,57.5,61,CB,181cm,Right
+274042,J. Harris,16,Svalbard & Jan Mayen Islands,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€257K,€11K,62.0,25.5,39.0,56.5,61,LB,193cm,Right
+765585,A. Howe,24,Palestinian Territory,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€256K,€11K,63.5,9.4,51.7,28.3,61,CB,157cm,Left
+49190,A. Jenkins,34,Malawi,Li PLC,Klein-Young (Central African Republic),€256K,€11K,63.7,49.9,28.5,47.9,60,CM,163cm,Right
+909382,R. Perez,15,Bermuda,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€258K,€11K,64.3,17.6,48.6,33.0,60,CM,171cm,Left
+442849,Paul Jr.,23,Iran,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€255K,€11K,22.5,53.3,31.5,62.5,60,RWB,200cm,Left
+926376,J. Johnson,32,Bermuda,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€253K,€11K,60.7,55.5,28.3,59.3,60,LB,185cm,Right
+943024,R. Torres,27,Algeria,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€255K,€11K,48.2,36.1,24.2,64.4,60,GK,181cm,Left
+754624,Dixon,24,Central African Republic,Liverpool,Wilson-Harrison (Palestinian Territory),€254K,€11K,62.9,53.3,35.5,36.1,60,RWB,158cm,Right
+697280,K. Diaz,21,United Arab Emirates,Schmidt-Bird,Premier League (England),€250K,€11K,30.0,66.9,30.1,40.7,60,CM,186cm,Right
+410665,J. Garcia,31,Bermuda,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€251K,€11K,43.8,53.5,17.4,62.3,60,CB,179cm,Right
+935074,Steven Smith,34,Svalbard & Jan Mayen Islands,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€250K,€11K,60.0,48.6,49.3,59.4,60,CM,193cm,Left
+566816,S. Martinez,30,Palestinian Territory,Lawrence-Murphy,Premier League (England),€245K,€11K,66.5,39.7,30.4,42.0,60,RW,179cm,Left
+271917,M. Savage,23,Bermuda,Cisneros Ltd,Skinner Ltd (Argentina),€252K,€10K,46.1,58.9,25.9,60.5,60,RWB,181cm,Left
+182022,R. Ortiz,31,Iran,Paris Saint Germain,Premier League (England),€250K,€10K,64.9,45.2,27.3,44.0,60,CB,192cm,Right
+714575,J. Wright,23,Central African Republic,"Gardner, West and Turner",Premier League (England),€247K,€10K,61.8,54.0,34.8,49.0,60,RW,172cm,Left
+575430,B. Martin,25,Svalbard & Jan Mayen Islands,Lawrence-Murphy,Premier League (England),€240K,€9K,51.5,53.6,61.7,49.3,60,LW,174cm,Right
+444446,G. Friedman,33,Malawi,"David, Barnes and Gardner",Skinner Ltd (Argentina),€240K,€11K,19.9,63.3,39.6,48.4,60,RWB,175cm,Left
+116835,D. Chambers,43,Yemen,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€239K,€10K,42.2,51.5,55.3,61.6,60,LW,177cm,Right
+419991,S. Ferguson,35,Argentina,"Gardner, West and Turner",Premier League (England),€242K,€10K,35.5,42.5,27.3,65.2,60,LB,154cm,Right
+231720,J. Burgess,23,Argentina,Novak LLC,Maldonado-Wells (Malawi),€236K,€10K,53.3,41.5,30.0,62.1,60,RM,188cm,Left
+248139,R. Howe,23,Argentina,Tate-Medina,Premier League (England),€235K,€9K,43.6,44.2,64.9,35.2,60,CB,159cm,Left
+420510,E. Gentry,43,Svalbard & Jan Mayen Islands,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€241K,€9K,44.4,65.3,24.6,43.7,60,CM,203cm,Right
+208038,D. Mcdonald,23,Palestinian Territory,Manchester United,Premier League (England),€235K,€9K,59.2,59.7,19.4,45.3,60,ST,168cm,Left
+159102,M. Hernandez,34,Algeria,"Thomas, Vaughan and Peters",Premier League (England),€229K,€8K,39.7,41.7,65.5,31.0,60,CAM,191cm,Left
+896698,Paul Jr.,46,United Arab Emirates,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€226K,€8K,38.4,38.5,46.1,64.9,60,CAM,197cm,Right
+864218,Paul Boyd,36,Bermuda,Choi-Edwards,Maldonado-Wells (Malawi),€237K,€9K,56.5,60.6,37.0,41.7,60,LW,196cm,Right
+983056,A. Robinson,28,Iran,"Pierce, Howard and Stephens",Premier League (England),€223K,€8K,24.4,59.3,57.5,44.6,59,CAM,184cm,Right
+147481,Kyle Jr.,21,Argentina,Howard Inc,Premier League (England),€219K,€7K,60.1,54.8,30.0,40.0,59,RM,176cm,Right
+450589,A. Thomas,22,Malawi,Williams Ltd,Wilson-Harrison (Palestinian Territory),€234K,€7K,58.9,42.3,57.5,33.3,59,RM,178cm,Right
+950599,J. Lowe,44,Malawi,Alvarez Inc,Klein-Young (Central African Republic),€216K,€8K,57.7,53.7,59.8,48.8,59,RM,197cm,Right
+164235,M. Lopez,20,United Arab Emirates,Alvarez Inc,Klein-Young (Central African Republic),€216K,€7K,27.3,51.9,61.1,46.5,59,LM,204cm,Right
+737697,Myers,24,Yemen,Schmidt-Bird,Premier League (England),€215K,€7K,43.9,33.3,63.7,43.0,59,LW,159cm,Right
+631337,E. Holt,22,United Arab Emirates,Liverpool,Wilson-Harrison (Palestinian Territory),€214K,€7K,31.4,65.5,26.6,40.7,59,CAM,199cm,Right
+746075,N. Hall,17,Iran,"David, Barnes and Gardner",Skinner Ltd (Argentina),€211K,€8K,58.4,59.8,42.7,58.6,59,RM,186cm,Right
+57946,C. Washington,28,Malawi,Joyce Group,Premier League (England),€209K,€7K,41.3,39.8,65.2,42.0,59,RB,199cm,Right
+713328,M. Martinez,19,Svalbard & Jan Mayen Islands,Morgan Inc,Huber-Mcdonald (Argentina),€218K,€7K,46.6,10.2,63.2,41.1,59,CB,186cm,Left
+418418,M. Smith,27,Yemen,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€208K,€7K,60.1,50.1,54.9,44.3,59,CAM,177cm,Left
+566374,Richard Jr.,18,Iran,Schmidt-Bird,Premier League (England),€207K,€6K,43.3,46.7,38.1,63.3,59,LW,170cm,Right
+795802,J. Wang,43,Saudi Arabia,"Thomas, Vaughan and Peters",Premier League (England),€199K,€6K,32.2,56.0,52.6,59.6,59,CM,184cm,Right
+484518,Wilkinson,22,Malawi,Li PLC,Klein-Young (Central African Republic),€194K,€6K,47.7,56.9,59.1,44.6,59,LW,179cm,Right
+738497,N. Harvey,29,Malawi,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€196K,€6K,35.1,35.3,56.3,59.8,59,LB,181cm,Right
+116078,J. Johnson,28,Argentina,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€199K,€5K,51.1,60.8,53.3,37.3,59,RW,180cm,Left
+624037,J. Gonzales,49,Iran,"Bailey, Baker and Hunt",Premier League (England),€197K,€5K,59.2,39.6,35.1,56.8,59,RM,170cm,Left
+83653,Richard Jr.,35,Algeria,"Thomas, Vaughan and Peters",Premier League (England),€189K,€5K,62.5,29.5,47.8,28.0,59,CB,157cm,Left
+911049,N. Marquez,26,Bermuda,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€192K,€5K,60.4,54.3,30.0,22.1,59,GK,168cm,Right
+690044,J. Smith,29,United Arab Emirates,Dean-Thomas,Premier League (England),€188K,€5K,60.1,54.6,29.4,55.9,59,GK,205cm,Left
+608185,Ryan Jr.,35,Central African Republic,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€189K,€4K,47.5,63.4,41.2,44.3,59,LM,181cm,Left
+215152,T. Cook,22,Bermuda,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€185K,€4K,60.9,51.3,19.9,53.0,59,CM,170cm,Right
+469159,Davenport,32,Palestinian Territory,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€184K,€4K,36.8,30.7,60.3,56.5,59,RB,182cm,Right
+985342,Frank Jr.,23,Malawi,"Pierce, Howard and Stephens",Premier League (England),€180K,€4K,51.8,37.3,50.4,61.3,59,GK,167cm,Left
+903460,B. Marshall,20,Central African Republic,Morgan Inc,Huber-Mcdonald (Argentina),€190K,€4K,42.1,29.9,64.3,33.4,59,LB,176cm,Left
+969078,N. Garcia,24,Algeria,Dean-Thomas,Premier League (England),€176K,€4K,38.5,25.6,45.3,64.0,59,GK,185cm,Left
+953271,Clay,55,Malawi,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€179K,€4K,62.2,35.0,50.7,34.7,59,GK,195cm,Right
+11282,W. Gallegos,26,Central African Republic,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€175K,€4K,41.5,36.6,62.0,51.8,59,RB,151cm,Right
+224599,William Jr.,23,Bermuda,Cisneros Ltd,Skinner Ltd (Argentina),€178K,€4K,49.3,33.7,59.9,54.6,59,RB,206cm,Right
+790252,Willie Jr.,30,Argentina,Joyce Group,Premier League (England),€165K,€4K,55.8,40.6,34.5,59.7,59,GK,175cm,Left
+946106,Cameron Jr.,44,Palestinian Territory,Manchester United,Premier League (England),€172K,€3K,39.7,57.9,9.8,58.9,59,CB,199cm,Right
+33023,C. Livingston,34,Yemen,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€174K,€3K,52.9,59.1,52.1,41.3,58,RW,196cm,Left
+74044,A. Nguyen,22,Svalbard & Jan Mayen Islands,Craig-Morrison,Premier League (England),€179K,€4K,59.2,52.9,51.7,16.6,58,LWB,197cm,Right
+909839,M. Mcdowell,28,Malawi,Lawrence-Murphy,Premier League (England),€156K,€3K,60.6,43.5,52.0,30.1,58,CAM,178cm,Left
+57920,Nunez,48,Saudi Arabia,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€159K,€3K,50.6,60.8,45.3,44.1,58,RW,203cm,Left
+607100,Daniel Jr.,34,Svalbard & Jan Mayen Islands,"Thomas, Vaughan and Peters",Premier League (England),€159K,€3K,58.2,34.8,56.5,33.6,58,RW,183cm,Right
+304432,Mark Jr.,33,Svalbard & Jan Mayen Islands,FC Barcelona,Wilson-Harrison (Palestinian Territory),€163K,€3K,59.0,55.9,33.3,40.5,58,LW,209cm,Left
+755237,R. West,27,Argentina,Whitaker Group,Huber-Mcdonald (Argentina),€155K,€3K,32.5,54.5,56.1,59.3,58,CAM,195cm,Right
+566873,J. Goodwin,33,Bermuda,Craig-Morrison,Premier League (England),€159K,€3K,50.9,59.8,50.1,36.1,58,CF,175cm,Left
+468617,C. Hall,27,Bermuda,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€151K,€3K,59.3,52.3,27.1,49.5,58,CAM,201cm,Right
+640710,Chavez,26,United Arab Emirates,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€152K,€3K,31.4,64.7,39.1,22.9,58,CM,150cm,Right
+845633,R. Caldwell,24,Yemen,Perez Inc,Klein-Young (Central African Republic),€148K,€2K,58.8,42.5,50.8,55.3,58,LW,156cm,Left
+649241,Jason Wilson,28,Algeria,Paris Saint Germain,Premier League (England),€152K,€1K,44.2,42.2,62.4,24.7,58,CB,194cm,Left
+272494,F. King,23,Bermuda,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€142K,€0,63.0,30.9,41.8,28.1,58,CB,188cm,Left
+411946,R. Hernandez,33,Algeria,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€144K,€0,54.2,58.5,52.5,57.3,58,CAM,203cm,Left
+731524,A. Copeland,30,Iran,Schmidt-Bird,Premier League (England),€140K,€0,38.6,51.8,30.8,60.3,58,CB,201cm,Right
+477788,J. Young,29,Palestinian Territory,"Carter, Bailey and Reilly",Premier League (England),€136K,€2K,61.1,37.2,48.4,25.7,58,RW,162cm,Left
+518863,D. Mcguire,29,Argentina,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€139K,€0,39.4,53.3,54.2,58.7,58,RB,174cm,Right
+576680,K. Roy,36,Central African Republic,Liverpool,Wilson-Harrison (Palestinian Territory),€137K,€0,56.6,58.3,43.3,31.3,58,LM,177cm,Left
+838884,Jose Jr.,31,Svalbard & Jan Mayen Islands,"Mcguire, Alvarez and Keith",Premier League (England),€131K,€0,58.5,33.2,56.2,54.1,58,CDM,205cm,Left
+609579,M. Harris,28,Iran,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€125K,€0,54.9,59.1,42.3,34.4,58,CM,208cm,Right
+527722,J. Hill,27,Malawi,Tate-Medina,Premier League (England),€132K,€0,58.3,54.5,54.9,56.5,58,CAM,179cm,Left
+404848,J. Pace,30,Central African Republic,FC Barcelona,Wilson-Harrison (Palestinian Territory),€135K,€0,60.7,23.1,47.7,50.9,58,LW,182cm,Left
+445980,J. Ferguson,20,Yemen,"Mcguire, Alvarez and Keith",Premier League (England),€123K,€0,36.3,48.3,43.0,61.7,58,GK,179cm,Left
+958720,D. Fischer,32,Yemen,Palmer-Ewing,Maldonado-Wells (Malawi),€126K,€0,39.4,23.3,63.3,37.0,57,RWB,161cm,Right
+909722,A. Rogers,35,Central African Republic,"Thomas, Vaughan and Peters",Premier League (England),€120K,€0,47.3,14.5,32.2,60.5,57,RM,152cm,Left
+213409,Marcus Butler,34,Algeria,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€122K,€0,60.2,48.1,43.6,47.5,57,CM,179cm,Right
+49628,M. Bailey,25,United Arab Emirates,Cisneros Ltd,Skinner Ltd (Argentina),€107K,€0,55.9,37.4,21.1,56.8,57,CM,168cm,Left
+926507,N. Rodriguez,26,Argentina,"David, Barnes and Gardner",Skinner Ltd (Argentina),€116K,€0,59.8,38.6,31.2,48.9,57,RM,178cm,Right
+205674,M. Cruz,31,Bermuda,Schmidt-Bird,Premier League (England),€113K,€0,59.8,48.1,41.1,45.0,57,GK,199cm,Right
+402440,A. Simon,31,Argentina,Alvarez Inc,Klein-Young (Central African Republic),€115K,€0,54.1,31.3,42.9,58.0,57,RM,169cm,Left
+116104,W. Little,31,Argentina,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€111K,€0,42.2,15.8,58.8,51.3,57,LWB,173cm,Right
+771679,Nathan Jr.,27,Svalbard & Jan Mayen Islands,"Pierce, Howard and Stephens",Premier League (England),€105K,€0,57.0,27.8,42.7,57.5,57,LB,183cm,Right
+92009,Saunders,22,Iran,Palmer-Ewing,Maldonado-Wells (Malawi),€102K,€0,38.4,56.9,57.6,48.5,57,CF,165cm,Left
+436156,I. Smith,20,Yemen,Joyce Group,Premier League (England),€101K,€0,33.3,55.9,47.7,57.3,57,CB,176cm,Right
+452580,Ivan Jr.,23,Svalbard & Jan Mayen Islands,Manchester United,Premier League (England),€95K,€0,57.4,40.7,37.8,57.4,57,CDM,209cm,Left
+870416,E. Jenkins,33,Malawi,Schmidt-Bird,Premier League (England),€98K,€0,42.6,54.8,46.6,57.2,57,RWB,182cm,Left
+534559,Tony Beasley,26,Argentina,Paris Saint Germain,Premier League (England),€101K,€0,57.3,30.8,57.5,8.8,57,CB,186cm,Left
+321647,R. Aguirre,49,Bermuda,Perez Inc,Klein-Young (Central African Republic),€96K,€0,62.0,40.2,33.0,26.1,57,CM,153cm,Right
+469114,J. Ritter,30,United Arab Emirates,Morgan Inc,Huber-Mcdonald (Argentina),€89K,€0,48.5,47.0,60.1,29.1,57,LB,158cm,Left
+198779,K. Taylor,23,Algeria,Howard Inc,Premier League (England),€89K,€0,37.5,47.6,60.6,23.5,57,CAM,201cm,Left
+346336,Brandon Garrison,30,Central African Republic,Liverpool,Wilson-Harrison (Palestinian Territory),€91K,€0,51.1,58.7,32.9,24.7,57,CM,198cm,Right
+837904,Robert Brown,23,Central African Republic,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€94K,€0,58.6,38.2,38.9,53.3,57,RM,209cm,Left
+698742,J. Jones,47,United Arab Emirates,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€88K,€0,45.5,22.1,59.5,48.8,57,RWB,181cm,Right
+805260,Taylor,30,Malawi,Paris Saint Germain,Premier League (England),€101K,€0,59.8,21.1,49.8,42.5,57,CB,164cm,Left
+44014,D. Taylor,33,Yemen,Craig-Morrison,Premier League (England),€87K,€0,20.4,57.2,44.9,55.3,57,RWB,197cm,Left
+494836,C. Wells,31,Argentina,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€87K,€0,54.3,56.8,30.3,57.6,57,LB,204cm,Right
+585204,Devon Jr.,21,Malawi,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€82K,€0,49.5,53.5,57.0,55.9,57,LW,202cm,Right
+143064,C. Carpenter,27,United Arab Emirates,Whitaker Group,Huber-Mcdonald (Argentina),€81K,€0,58.9,36.3,52.0,47.1,57,LWB,203cm,Right
+17117,Martinez,29,Svalbard & Jan Mayen Islands,Paris Saint Germain,Premier League (England),€85K,€0,55.7,55.3,31.1,37.1,56,CM,202cm,Right
+74661,J. Aguilar,25,Argentina,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€83K,€0,61.2,39.5,25.4,33.0,56,RW,162cm,Left
+803848,J. Morris,21,Algeria,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€77K,€0,58.8,19.4,24.4,49.5,56,CM,195cm,Left
+304532,M. Hoover,32,Algeria,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€88K,€0,58.8,33.9,40.1,48.5,56,LW,190cm,Right
+624155,J. Ball,29,Saudi Arabia,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€78K,€0,55.4,26.4,25.3,56.6,56,ST,200cm,Right
+739094,J. Garrison,29,Yemen,Dean-Thomas,Premier League (England),€79K,€0,41.1,23.9,61.1,12.4,56,CB,155cm,Left
+862322,J. Collins,29,Yemen,"Carter, Bailey and Reilly",Premier League (England),€70K,€0,58.5,34.9,45.3,50.0,56,GK,167cm,Left
+100466,J. Miller,32,Svalbard & Jan Mayen Islands,Perez Inc,Klein-Young (Central African Republic),€72K,€0,48.6,41.0,58.9,23.0,56,LWB,158cm,Right
+297171,Eric Stephens,29,Argentina,Paris Saint Germain,Premier League (England),€75K,€0,44.2,26.0,45.0,59.6,56,CDM,198cm,Right
+862836,Ronald Jr.,31,Bermuda,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€71K,€0,57.4,30.2,50.3,14.3,56,LWB,199cm,Right
+567992,Tyler Jr.,31,Saudi Arabia,Li PLC,Klein-Young (Central African Republic),€66K,€0,55.9,54.2,55.5,34.7,56,LM,168cm,Left
+944919,Ramos,22,Iran,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€67K,€0,31.5,47.3,36.6,58.8,56,CDM,208cm,Right
+592949,J. Morales,31,Algeria,Alvarez Inc,Klein-Young (Central African Republic),€70K,€0,58.3,48.1,48.6,30.9,56,GK,170cm,Right
+527436,L. Gonzalez,36,United Arab Emirates,Novak LLC,Maldonado-Wells (Malawi),€76K,€0,55.9,56.0,32.9,43.4,56,CB,170cm,Right
+273510,J. Harrison,31,Iran,Li PLC,Klein-Young (Central African Republic),€63K,€0,42.3,55.4,35.2,56.8,56,CB,204cm,Right
+576762,D. Weber,34,United Arab Emirates,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€69K,€0,48.9,58.0,35.2,47.8,56,LM,204cm,Left
+69059,J. Norris,29,Palestinian Territory,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€58K,€0,59.0,38.2,35.9,45.1,56,GK,164cm,Right
+314886,R. Cole,27,Bermuda,Tate-Medina,Premier League (England),€63K,€0,38.0,31.4,34.3,62.4,56,LB,180cm,Right
+401469,Lance Jr.,26,Svalbard & Jan Mayen Islands,Williams Ltd,Wilson-Harrison (Palestinian Territory),€55K,€0,59.4,36.0,42.5,35.3,55,RWB,164cm,Right
+540968,J. Kemp,45,Argentina,Dean-Thomas,Premier League (England),€56K,€0,56.8,47.1,48.2,49.4,55,RB,179cm,Right
+434592,T. Jensen,24,Algeria,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€62K,€0,57.8,47.9,40.3,43.2,55,RWB,156cm,Right
+115283,M. Ramos,33,Svalbard & Jan Mayen Islands,Perez Inc,Klein-Young (Central African Republic),€57K,€0,41.6,51.1,48.9,56.6,55,LM,167cm,Right
+860936,L. Rodriguez,23,Saudi Arabia,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€55K,€0,56.3,37.6,40.4,51.4,55,CM,200cm,Right
+516888,E. Salinas,20,Argentina,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€49K,€0,58.5,44.9,38.0,43.3,55,RM,207cm,Right
+99436,J. Taylor,25,Palestinian Territory,Alvarez Inc,Klein-Young (Central African Republic),€54K,€0,21.0,56.7,31.1,50.1,55,RWB,203cm,Left
+280047,Adam Ibarra,29,United Arab Emirates,Stuart Inc,"Davis, Ramirez and Hall (Central African Republic)",€53K,€0,25.5,50.3,48.1,57.2,55,CM,193cm,Right
+673438,R. Diaz,23,Malawi,FC Bayern München,"Cain, Booth and Gibson (Palestinian Territory)",€48K,€0,54.5,38.9,55.0,15.4,55,CB,157cm,Left
+83824,Perry,28,Palestinian Territory,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€43K,€0,59.2,40.8,15.7,42.0,55,CM,201cm,Right
+641083,A. Walker,15,Palestinian Territory,Perez Inc,Klein-Young (Central African Republic),€52K,€0,56.7,31.8,37.0,48.6,55,LW,204cm,Right
+788576,A. Owens,32,Argentina,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€44K,€0,44.4,52.7,55.4,36.6,55,RB,187cm,Right
+363156,Charles Jr.,27,Iran,Cisneros Ltd,Skinner Ltd (Argentina),€48K,€0,41.0,56.9,48.0,22.4,55,CAM,157cm,Left
+10957,B. Crawford,21,United Arab Emirates,Tate-Medina,Premier League (England),€41K,€0,25.3,57.6,45.5,26.5,55,CF,152cm,Left
+641788,T. Powell,33,United Arab Emirates,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€41K,€0,30.4,15.8,41.0,59.1,55,CDM,200cm,Left
+961283,W. Walsh,31,Iran,"David, Barnes and Gardner",Skinner Ltd (Argentina),€34K,€0,47.8,15.6,58.0,8.2,55,CB,153cm,Left
+469872,P. Wilson,33,Svalbard & Jan Mayen Islands,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€31K,€0,56.2,45.5,32.2,49.8,55,CAM,208cm,Right
+625575,M. Logan,35,United Arab Emirates,Williams Ltd,Wilson-Harrison (Palestinian Territory),€32K,€0,32.4,35.3,45.7,57.5,55,LW,152cm,Right
+814501,R. Lewis,20,Central African Republic,Palmer-Ewing,Maldonado-Wells (Malawi),€29K,€0,46.4,45.1,58.2,44.9,55,CAM,174cm,Left
+568748,Z. Castaneda,33,United Arab Emirates,"Pierce, Howard and Stephens",Premier League (England),€25K,€0,37.9,54.2,55.0,44.5,55,CAM,155cm,Right
+110002,E. Mack,47,Malawi,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€33K,€0,38.0,43.7,38.2,58.7,55,CDM,156cm,Right
+921076,K. Johnson,50,Argentina,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€25K,€0,48.0,48.9,57.1,48.3,55,GK,169cm,Left
+118267,M. Beck,21,Argentina,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€20K,€0,46.1,58.0,20.1,32.9,55,CM,177cm,Right
+937759,R. Smith,47,Palestinian Territory,Paris Saint Germain,Premier League (England),€19K,€0,48.5,52.0,30.2,55.5,55,CM,150cm,Right
+773938,G. Shannon,20,Algeria,Howard Inc,Premier League (England),€21K,€0,38.8,49.8,57.1,38.2,55,LW,161cm,Right
+839502,B. Banks,33,Bermuda,Liverpool,Wilson-Harrison (Palestinian Territory),€14K,€0,60.0,40.7,21.7,39.6,55,ST,165cm,Left
+454492,M. James,28,United Arab Emirates,"Pierce, Howard and Stephens",Premier League (England),€9K,€0,31.6,30.3,30.9,62.5,55,LW,178cm,Right
+427259,D. Smith,26,Yemen,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€14K,€0,42.1,18.6,57.9,26.8,54,LWB,200cm,Right
+959881,David Turner,50,Malawi,Craig-Morrison,Premier League (England),€9K,€0,59.7,36.5,33.8,34.1,54,LW,152cm,Right
+100431,J. Torres,31,Palestinian Territory,"David, Barnes and Gardner",Skinner Ltd (Argentina),€7K,€0,54.6,51.5,47.8,43.9,54,CM,193cm,Right
+477717,J. Frey,51,Yemen,"Pierce, Howard and Stephens",Premier League (England),€10K,€0,55.7,47.9,18.2,25.9,54,ST,163cm,Left
+470002,Christian,30,Argentina,Williams Ltd,Wilson-Harrison (Palestinian Territory),€7K,€0,41.0,57.8,42.6,38.9,54,RWB,165cm,Right
+691272,J. York,51,Argentina,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€750,€0,24.6,40.3,47.1,56.8,54,LW,180cm,Right
+282430,G. Miller,40,Iran,FC Barcelona,Wilson-Harrison (Palestinian Territory),€750,€0,59.6,27.7,37.1,35.2,54,RWB,208cm,Right
+655414,R. Lewis,34,United Arab Emirates,Novak LLC,Maldonado-Wells (Malawi),€750,€0,35.7,41.9,35.9,56.1,53,LB,193cm,Right
+41409,T. Jacobs,20,Yemen,Li PLC,Klein-Young (Central African Republic),€750,€0,45.8,33.5,20.2,55.7,53,CM,171cm,Right
+57917,Dawson,23,Bermuda,Schmidt-Bird,Premier League (England),€750,€0,28.0,57.2,34.6,40.9,53,LW,189cm,Right
+729942,R. Jackson,53,Central African Republic,Williams Ltd,Wilson-Harrison (Palestinian Territory),€750,€0,38.8,46.5,54.0,51.7,53,CF,195cm,Left
+975737,J. Thomas,48,Malawi,"Mack, Lawson and Morrison","Cain, Booth and Gibson (Palestinian Territory)",€9K,€0,39.6,33.9,57.6,34.8,53,LW,177cm,Right
+50205,Wesley Miller,22,Svalbard & Jan Mayen Islands,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€750,€0,46.4,36.3,54.6,42.4,53,RWB,206cm,Right
+853105,N. Mann,31,Argentina,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€750,€0,49.5,33.4,48.1,54.7,53,RWB,193cm,Right
+304701,B. Brown,49,Bermuda,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€750,€0,12.9,23.7,36.4,58.3,53,CDM,189cm,Right
+108303,Frank Bond,21,Bermuda,Williams Ltd,Wilson-Harrison (Palestinian Territory),€750,€0,53.4,52.0,32.8,46.0,53,CAM,173cm,Right
+616281,Martinez,34,Central African Republic,"Bailey, Baker and Hunt",Premier League (England),€750,€0,52.8,52.3,53.3,41.2,53,LW,179cm,Right
+616294,H. Hicks,25,Palestinian Territory,Craig-Morrison,Premier League (England),€750,€0,50.2,44.7,54.1,32.6,53,RW,197cm,Left
+755647,J. Mcintosh,21,Saudi Arabia,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€750,€0,47.7,43.7,11.5,55.0,53,CDM,187cm,Right
+862159,K. Pitts,26,Argentina,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€750,€0,30.9,44.2,23.8,55.7,53,CB,158cm,Right
+886911,D. Prince,30,Algeria,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€750,€0,55.8,9.9,43.5,41.5,53,CB,199cm,Left
+395733,R. Hoffman,48,Palestinian Territory,Ortega-Rodriguez,Bass-Oneal (Central African Republic),€750,€0,44.0,19.3,30.6,56.6,53,ST,152cm,Right
+821903,R. Pineda,21,Algeria,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€750,€0,47.5,34.7,24.7,54.5,53,CM,175cm,Right
+879251,D. Hampton,33,Svalbard & Jan Mayen Islands,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€750,€0,44.7,51.5,45.1,53.3,53,CM,171cm,Right
+715464,A. Bartlett,20,Malawi,"David, Barnes and Gardner",Skinner Ltd (Argentina),€750,€0,53.3,28.4,51.9,28.2,53,CM,172cm,Right
+330548,Jacob Martinez,32,Iran,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€750,€0,42.5,56.1,43.6,35.8,53,LM,152cm,Left
+257261,D. Morrison,31,United Arab Emirates,"Gardner, West and Turner",Premier League (England),€750,€0,46.1,53.5,34.5,52.1,53,LW,173cm,Right
+798131,R. Cook,23,United Arab Emirates,Williams Ltd,Wilson-Harrison (Palestinian Territory),€750,€0,58.5,36.0,34.2,33.1,53,RM,182cm,Right
+134749,E. Alvarez,20,Saudi Arabia,Liverpool,Wilson-Harrison (Palestinian Territory),€750,€0,46.7,54.2,38.4,51.0,53,CB,153cm,Right
+295383,John Jr.,20,Iran,Li PLC,Klein-Young (Central African Republic),€750,€0,45.1,41.7,54.6,37.1,52,CDM,199cm,Left
+262794,S. Rodriguez,55,Yemen,"Pierce, Howard and Stephens",Premier League (England),€750,€0,57.6,34.8,26.4,30.7,52,ST,172cm,Left
+640350,Lane,30,Malawi,Wolfe-Hopkins,"Davis, Ramirez and Hall (Central African Republic)",€750,€0,40.6,49.0,53.6,45.0,52,CM,189cm,Right
+796593,Michael Caldwell,23,Bermuda,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€750,€0,51.4,33.3,40.1,51.8,52,ST,156cm,Left
+231394,Daniel Jr.,22,Svalbard & Jan Mayen Islands,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€750,€0,57.5,37.1,25.4,22.0,52,RW,187cm,Left
+911569,Andrew Castro,36,United Arab Emirates,Manchester United,Premier League (England),€750,€0,43.7,54.7,45.1,38.7,52,LM,173cm,Left
+208008,M. Glenn,32,Bermuda,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€750,€0,22.2,53.9,46.0,26.8,52,CF,173cm,Left
+331256,S. Russo,34,Yemen,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€750,€0,52.6,51.7,44.2,39.2,52,CM,207cm,Right
+630915,R. Gomez,51,Bermuda,"David, Barnes and Gardner",Skinner Ltd (Argentina),€750,€0,52.8,41.4,45.0,35.8,51,CB,208cm,Left
+484331,J. Howell,21,Central African Republic,Craig-Morrison,Premier League (England),€750,€0,40.3,53.3,34.0,43.6,51,RWB,191cm,Right
+582659,Michael Jr.,20,Svalbard & Jan Mayen Islands,"Carter, Bailey and Reilly",Premier League (England),€500,€0,35.5,39.1,17.2,55.5,51,CB,173cm,Right
+877616,Scott Jackson,35,Svalbard & Jan Mayen Islands,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€750,€0,43.0,52.0,49.6,45.1,51,CAM,175cm,Right
+681076,M. Ray,30,Svalbard & Jan Mayen Islands,"David, Barnes and Gardner",Skinner Ltd (Argentina),€500,€0,35.0,52.5,46.7,38.4,51,LW,177cm,Right
+58612,D. Henderson,33,Malawi,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€500,€0,52.1,49.1,24.8,29.0,51,ST,202cm,Left
+534536,Sandoval,55,Yemen,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€500,€0,49.9,31.5,51.4,35.5,51,CM,195cm,Right
+675100,T. Cain,33,United Arab Emirates,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€500,€0,44.4,53.4,44.7,41.4,51,RB,208cm,Right
+3434,K. Williams,32,Svalbard & Jan Mayen Islands,Joyce Group,Premier League (England),€500,€0,24.9,51.0,31.2,50.0,51,RWB,152cm,Left
+716431,J. Arnold,23,Iran,Alvarez Inc,Klein-Young (Central African Republic),€500,€0,44.0,41.2,29.9,53.3,51,LW,205cm,Right
+106589,O. Armstrong,26,Svalbard & Jan Mayen Islands,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€500,€0,36.0,48.2,36.6,51.1,50,LB,192cm,Right
+843944,S. Palmer,35,Central African Republic,Cisneros Ltd,Skinner Ltd (Argentina),€500,€0,55.2,33.5,35.1,26.2,50,RW,179cm,Left
+164475,T. Williams,23,Argentina,"Wilkerson, Taylor and Beasley",Miller-Spencer (United Arab Emirates),€500,€0,37.5,53.6,16.6,22.7,50,CM,154cm,Right
+189560,B. Jones,26,Bermuda,Best-Thomas,"Rogers, Pearson and Lee (Saudi Arabia)",€500,€0,30.2,44.5,51.4,37.2,50,CM,177cm,Right
+944216,Morales,22,Central African Republic,Choi-Edwards,Maldonado-Wells (Malawi),€500,€0,52.7,40.0,43.6,32.2,50,RW,195cm,Left
+519251,J. Mcintosh,33,Yemen,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€500,€0,28.0,49.2,50.7,46.2,50,CM,204cm,Right
+216422,J. Cannon,35,Saudi Arabia,"Allen, Kelly and Pham",Klein-Young (Central African Republic),€500,€0,28.0,8.4,8.6,57.7,50,CDM,154cm,Right
+339891,Dunn,28,United Arab Emirates,Choi-Edwards,Maldonado-Wells (Malawi),€500,€0,50.1,25.2,36.5,49.2,50,LB,210cm,Right
+630917,J. Ruiz,29,Malawi,"Walters, Moore and Erickson",Wilson-Harrison (Palestinian Territory),€500,€0,42.2,50.3,46.1,38.3,49,RB,186cm,Right
+165190,J. Robertson,30,Iran,Li PLC,Klein-Young (Central African Republic),€500,€0,49.2,43.0,46.7,45.8,49,CM,163cm,Right
+329368,Nelson,33,Svalbard & Jan Mayen Islands,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€500,€0,32.3,27.5,42.0,50.7,49,LW,205cm,Right
+173788,R. Lopez,31,Yemen,Alvarez Inc,Klein-Young (Central African Republic),€500,€0,48.7,34.3,43.7,47.9,49,RWB,183cm,Right
+280494,Jeffrey Lawrence,29,Malawi,Manchester United,Premier League (England),€500,€0,17.3,49.5,46.8,37.2,49,LM,158cm,Right
+936611,C. Delacruz,35,Yemen,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€500,€0,48.8,41.9,47.7,34.0,49,CB,167cm,Left
+518886,J. Salazar,20,Svalbard & Jan Mayen Islands,"Thomas, Vaughan and Peters",Premier League (England),€500,€0,33.8,29.0,28.3,53.7,49,CM,201cm,Right
+248831,S. Ruiz,23,Palestinian Territory,Dean-Thomas,Premier League (England),€500,€0,42.3,8.1,51.6,24.7,49,CB,161cm,Left
+814164,N. Bryant,34,Central African Republic,Novak LLC,Maldonado-Wells (Malawi),€500,€0,30.9,49.5,46.9,31.9,49,CF,202cm,Left
+659396,R. Bell,25,Palestinian Territory,Tate-Medina,Premier League (England),€500,€0,51.0,23.9,42.0,41.8,49,RWB,153cm,Right
+491730,J. Mitchell,15,Iran,Cole Ltd,Premier League (England),€500,€0,46.3,47.6,40.2,47.2,48,CM,164cm,Right
+304016,M. Walton,23,Palestinian Territory,Alvarez Inc,Klein-Young (Central African Republic),€500,€0,25.0,48.5,45.0,39.1,48,CM,185cm,Right
+935848,J. Hernandez,16,United Arab Emirates,Choi-Edwards,Maldonado-Wells (Malawi),€250,€0,28.7,44.3,49.9,29.2,48,CF,167cm,Left
+125322,Michael Hernandez,47,Malawi,"Bennett, Stephens and English",Maldonado-Wells (Malawi),€500,€0,54.1,30.0,15.3,28.1,48,CM,190cm,Right
+191472,Steven Medina,35,Saudi Arabia,"Carter, Bailey and Reilly",Premier League (England),€500,€0,42.8,41.9,49.2,44.9,48,CAM,189cm,Right
+724451,N. Carrillo,23,Bermuda,Manchester United,Premier League (England),€250,€0,40.2,46.6,30.9,47.9,48,CDM,193cm,Right
+437780,S. Stewart,32,Yemen,Alvarez Inc,Klein-Young (Central African Republic),€250,€0,36.0,44.1,28.7,49.8,48,GK,197cm,Left
+950325,J. Fischer,25,Central African Republic,"Pierce, Howard and Stephens",Premier League (England),€250,€0,29.8,43.0,27.3,48.0,47,CB,166cm,Right
+213392,A. Mcdonald,31,Palestinian Territory,Howard Inc,Premier League (England),€250,€0,10.6,44.1,45.9,46.7,47,CDM,179cm,Right
+197741,G. Ward,26,Iran,Tate-Medina,Premier League (England),€250,€0,36.3,35.2,36.3,50.7,47,LW,205cm,Right
+281222,D. Hernandez,33,Palestinian Territory,Mccormick-Griffin,"Rogers, Pearson and Lee (Saudi Arabia)",€250,€0,45.6,13.1,47.1,18.4,47,CB,161cm,Left
+944875,D. Ross,28,Bermuda,Manchester United,Premier League (England),€250,€0,50.4,31.8,38.7,37.9,47,RWB,200cm,Right
+772957,Daniel Jr.,27,Algeria,Perez Inc,Klein-Young (Central African Republic),€250,€0,49.0,33.3,34.0,39.8,47,RWB,171cm,Right
+732553,T. Armstrong,30,Central African Republic,Tate-Medina,Premier League (England),€250,€0,51.6,32.0,19.4,29.8,47,CM,164cm,Right
+336143,Jerry Robinson,30,Argentina,Whitaker Group,Huber-Mcdonald (Argentina),€250,€0,22.2,36.4,36.6,49.2,46,CDM,157cm,Right
+885880,T. Hensley,45,Palestinian Territory,"Bailey, Baker and Hunt",Premier League (England),€250,€0,25.1,33.5,47.0,41.9,46,CM,204cm,Right
+837115,S. Park,27,Bermuda,Reyes Inc,"Rogers, Pearson and Lee (Saudi Arabia)",€250,€0,27.7,47.7,42.2,35.5,46,LM,179cm,Right
+34390,J. Spears,36,Argentina,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€250,€0,47.2,43.3,29.3,41.5,46,RWB,165cm,Right
+468861,A. Hall,21,Algeria,Cole Ltd,Premier League (England),€250,€0,44.6,39.0,46.5,44.2,46,CB,194cm,Left
+773294,Ortiz,49,Iran,Alvarez Inc,Klein-Young (Central African Republic),€250,€0,44.3,31.6,46.1,37.9,46,RB,189cm,Right
+289997,R. Johnson,30,Malawi,"Reed, Lopez and Jensen","Davis, Ramirez and Hall (Central African Republic)",€250,€0,19.7,21.7,14.1,54.5,46,CDM,178cm,Right
+19718,J. Chen,41,Malawi,FC Barcelona,Wilson-Harrison (Palestinian Territory),€250,€0,38.7,35.2,17.4,47.9,46,CB,157cm,Right
+311676,W. Ward,25,Argentina,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€250,€0,33.0,34.1,38.2,47.1,45,CB,208cm,Right
+459906,V. Lam,25,Yemen,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€250,€0,48.4,29.6,34.7,36.4,45,CM,205cm,Right
+566527,Conrad,21,Bermuda,Schmidt-Bird,Premier League (England),€250,€0,43.4,39.6,43.5,45.4,45,CDM,173cm,Left
+17938,R. Ryan,20,Algeria,Schmidt-Bird,Premier League (England),€250,€0,36.4,27.6,46.9,39.0,45,LW,184cm,Right
+312893,Justin Flynn,21,Bermuda,"Bailey, Baker and Hunt",Premier League (England),€250,€0,34.6,34.0,39.7,46.2,45,CDM,196cm,Right
+616102,Frost,25,United Arab Emirates,"Beck, Willis and Valdez",Klein-Young (Central African Republic),€250,€0,43.5,24.9,41.0,45.6,45,CDM,206cm,Right
+313445,D. Fowler,21,Bermuda,Craig-Morrison,Premier League (England),€250,€0,42.3,36.4,32.1,46.5,45,CB,164cm,Right
+879579,A. Williams,46,Malawi,"Carter, Bailey and Reilly",Premier League (England),€250,€0,38.9,34.3,37.1,47.1,45,CDM,175cm,Left
+257056,M. Valdez,52,Algeria,Schmidt-Bird,Premier League (England),€250,€0,34.1,17.2,21.3,48.9,45,CDM,201cm,Right
+411388,Kevin Suarez,32,Palestinian Territory,"Gardner, West and Turner",Premier League (England),€250,€0,29.3,24.6,46.3,36.1,44,CDM,156cm,Left
+781098,P. Camacho,33,Svalbard & Jan Mayen Islands,"Wagner, Dawson and Cross",Skinner Ltd (Argentina),€250,€0,37.5,45.7,38.3,29.5,44,CM,175cm,Right
+888410,Randall Jr.,33,Algeria,Alvarez Inc,Klein-Young (Central African Republic),€250,€0,38.0,35.2,42.4,44.1,44,CM,179cm,Right
+945871,B. Manning,34,Iran,Perez Inc,Klein-Young (Central African Republic),€250,€0,32.1,35.1,45.3,38.8,44,LW,199cm,Right
+230042,Bautista,37,Svalbard & Jan Mayen Islands,"David, Barnes and Gardner",Skinner Ltd (Argentina),€250,€0,44.4,24.5,32.6,38.7,43,RWB,196cm,Right
+246898,Caleb Jr.,21,Algeria,"Clark, Carter and Martinez","Davis, Ramirez and Hall (Central African Republic)",€250,€0,33.1,31.2,45.7,30.4,43,CDM,172cm,Right
+410922,Michael Jr.,49,Palestinian Territory,Whitaker Group,Huber-Mcdonald (Argentina),€250,€0,35.8,21.1,45.2,36.9,43,CDM,171cm,Right
+83934,James Jr.,52,Central African Republic,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€250,€0,39.6,28.6,43.6,27.8,43,CB,186cm,Left
+116951,C. Bird,31,Saudi Arabia,FC Barcelona,Wilson-Harrison (Palestinian Territory),€250,€0,9.0,11.6,45.6,36.5,43,CDM,193cm,Right
+494162,S. Conner,21,Palestinian Territory,"Johnson, Nguyen and Alvarez",Huber-Mcdonald (Argentina),€0,€0,44.8,14.3,39.6,27.3,43,CDM,174cm,Right
+394677,J. Harding,20,Iran,FC Barcelona,Wilson-Harrison (Palestinian Territory),€250,€0,44.0,37.6,32.5,27.2,42,CM,169cm,Right
+141169,R. Gilmore,32,Iran,Manchester United,Premier League (England),€250,€0,35.4,42.3,42.2,23.3,42,CDM,178cm,Right
+952451,C. James,33,Malawi,Dean-Thomas,Premier League (England),€0,€0,44.8,16.1,32.3,25.4,42,CDM,169cm,Right
+731585,B. Gonzalez,34,Iran,Berg-Murillo,"Davis, Ramirez and Hall (Central African Republic)",€0,€0,28.7,31.7,30.2,46.1,42,CM,201cm,Right
+289767,J. Burnett,20,Bermuda,Alvarez Inc,Klein-Young (Central African Republic),€250,€0,37.5,42.3,23.4,25.4,41,CDM,181cm,Right
+320483,E. Russell,31,United Arab Emirates,Rivera-Compton,"Rogers, Pearson and Lee (Saudi Arabia)",€0,€0,36.3,41.4,24.5,29.3,40,CM,202cm,Right
+158430,J. Preston,33,Svalbard & Jan Mayen Islands,Howard Inc,Premier League (England),€0,€0,42.9,20.9,15.8,31.1,40,CDM,171cm,Right
+224066,J. Clark,23,Saudi Arabia,"Christian, Cole and Armstrong",Huber-Mcdonald (Argentina),€0,€0,41.7,23.2,30.4,36.0,40,RWB,188cm,Right
+590919,N. Jackson,25,Yemen,Craig-Morrison,Premier League (England),€0,€0,38.8,17.5,15.0,38.9,39,CDM,178cm,Right
+388986,M. Mckee,23,Saudi Arabia,Lawrence-Murphy,Premier League (England),€0,€0,37.4,27.1,24.1,39.1,39,CDM,180cm,Right
+706515,S. Goodwin,20,Palestinian Territory,"Mcguire, Alvarez and Keith",Premier League (England),€0,€0,28.3,32.1,40.4,26.5,38,CM,204cm,Right
+213265,E. Duncan,35,Svalbard & Jan Mayen Islands,Craig-Morrison,Premier League (England),€0,€0,13.9,14.8,36.7,33.2,36,CDM,173cm,Right
+51779,M. Wright,26,Bermuda,"Carter, Bailey and Reilly",Premier League (England),€0,€0,28.9,29.4,32.6,37.5,36,CDM,188cm,Right
+91507,K. Avila,26,Bermuda,FC Barcelona,Wilson-Harrison (Palestinian Territory),€0,€0,32.7,36.1,27.8,28.7,35,CM,190cm,Right
+296903,Mark Jr.,28,Iran,Morgan Inc,Huber-Mcdonald (Argentina),€0,€0,17.3,17.7,11.3,41.1,35,CDM,203cm,Right
+862661,P. Watson,24,Argentina,Fisher Group,"Rogers, Pearson and Lee (Saudi Arabia)",€0,€0,36.4,26.0,16.2,31.0,35,CDM,166cm,Right
+117627,K. Young,26,United Arab Emirates,Alvarez Inc,Klein-Young (Central African Republic),€0,€0,36.0,16.7,7.4,29.3,34,CDM,180cm,Right
+847657,V. Chapman,22,Iran,Beasley-Russell,"Davis, Ramirez and Hall (Central African Republic)",€0,€0,14.5,13.5,37.5,22.0,34,CDM,195cm,Right
+683999,J. Brown,22,United Arab Emirates,Novak LLC,Maldonado-Wells (Malawi),€0,€0,25.8,22.8,34.4,34.1,34,CDM,166cm,Right

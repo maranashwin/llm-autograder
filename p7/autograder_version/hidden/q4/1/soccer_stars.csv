@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+893904,L. Ayala,22,Christmas Island,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€197.4M,€494K,94.3,21.6,82.9,54.5,91,CM,195cm,Left
+683295,Porter,22,Dominica,Levy Group,"King, Chandler and Taylor (Mali)",€197.2M,€549K,90.1,68.1,35.0,91.6,91,CB,167cm,Left
+852456,D. Cohen,35,Mali,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€198.7M,€486K,85.6,50.7,34.5,91.5,90,LB,161cm,Left
+10620,P. Bruce,32,France,Lee-Allen,Li Inc (Christmas Island),€249.4M,€496K,89.1,87.3,20.4,90.3,90,CM,163cm,Left
+117859,R. Anderson,25,Vanuatu,Lucas-Beasley,Li Inc (Christmas Island),€187.5M,€482K,91.8,80.2,42.2,49.0,89,RWB,187cm,Left
+421109,M. Valenzuela,29,Vanuatu,"Schultz, Johnson and Aguilar",Premier League (England),€192.3M,€482K,87.0,89.7,44.4,80.2,89,ST,199cm,Left
+593513,Joseph Miller,24,Mali,"Schultz, Johnson and Aguilar",Premier League (England),€192.7M,€480K,86.5,76.3,26.0,89.9,89,LB,160cm,Left
+164033,C. Hill,23,France,Griffin Ltd,Premier League (England),€192.4M,€484K,70.9,76.5,23.6,91.2,88,RM,178cm,Left
+829468,Jeff Jr.,44,Dominica,"Allen, Howard and Bruce",Coleman-Williams (Mali),€187M,€489K,92.5,74.9,46.1,67.1,88,CDM,170cm,Left
+289740,R. Hernandez,31,Malta,FC Barcelona,"King, Chandler and Taylor (Mali)",€186.1M,€472K,42.8,88.2,67.5,85.5,88,LW,189cm,Right
+745720,J. Martin,23,Vanuatu,Manchester United,Premier League (England),€185.3M,€458K,70.3,56.2,38.7,92.6,88,RW,178cm,Left
+581681,P. Holmes,32,Bouvet Island (Bouvetoya),Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€189.7M,€470K,92.1,20.8,69.9,17.8,87,ST,156cm,Left
+66470,K. Gray,30,Malta,Smith-Perez,Orozco-Sosa (Christmas Island),€175.8M,€440K,80.7,35.3,89.7,47.4,87,RM,207cm,Left
+960506,Eduardo Jr.,31,Malta,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€173.5M,€437K,88.7,83.8,52.8,55.4,87,CDM,179cm,Left
+813690,E. Cherry,30,Malta,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€186.7M,€447K,89.4,78.2,30.3,53.5,87,LM,159cm,Left
+338736,J. Bush,33,Dominica,Paris Saint Germain,Premier League (England),€184.5M,€476K,34.4,83.4,87.6,76.9,87,RWB,171cm,Right
+781552,C. Lopez,20,Vanuatu,Li and Sons,Coleman-Williams (Mali),€167.1M,€415K,19.2,80.7,89.0,56.2,87,RB,151cm,Right
+803301,Matthew Jr.,26,French Polynesia,Mccullough-Alexander,Premier League (England),€169.5M,€414K,87.3,19.4,80.6,48.8,86,LW,195cm,Left
+557740,G. Mcmillan,22,Sudan,Burgess and Sons,Orozco-Sosa (Christmas Island),€160.1M,€427K,69.4,92.0,55.1,55.3,86,GK,205cm,Right
+689322,B. Mckay,25,Christmas Island,Harris-Wells,Logan Ltd (Christmas Island),€183.4M,€441K,87.7,81.2,53.4,69.2,86,ST,188cm,Left
+264114,J. Wright,30,France,Lucas-Beasley,Li Inc (Christmas Island),€160.7M,€414K,37.7,77.0,88.0,80.4,86,CM,167cm,Right
+641297,J. Ramsey,33,Christmas Island,Boyd-Payne,Logan Ltd (Christmas Island),€156.9M,€404K,60.5,86.6,77.6,85.0,86,CAM,174cm,Right
+789432,J. Johnson,21,Bouvet Island (Bouvetoya),Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€151.1M,€418K,77.2,89.6,63.1,49.6,86,LB,201cm,Left
+569065,M. Huffman,48,France,"Blair, Strickland and Perry",Premier League (England),€152.7M,€400K,84.7,86.1,46.6,70.8,86,RWB,200cm,Left
+893939,J. Wilson,24,France,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€149.8M,€378K,85.8,66.4,50.4,81.7,85,RWB,208cm,Left
+853583,M. Scott,21,Bouvet Island (Bouvetoya),Williams-Flynn,Premier League (England),€148M,€396K,51.4,83.3,54.8,86.2,85,RB,171cm,Right
+281216,B. Bennett,29,Honduras,Diaz PLC,Premier League (England),€144.2M,€383K,23.8,59.4,85.9,83.7,85,GK,181cm,Right
+141999,J. Singleton,32,Dominica,FC Barcelona,"King, Chandler and Taylor (Mali)",€143.8M,€414K,36.9,69.6,90.1,68.6,85,CDM,201cm,Right
+150378,Jeffrey Jr.,44,Dominica,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€142.6M,€384K,53.1,71.9,89.2,59.2,85,CDM,165cm,Right
+732509,S. Mills,26,Dominica,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€144.2M,€376K,49.4,18.5,90.8,69.4,85,CM,150cm,Right
+716488,Chad Jr.,16,French Polynesia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€137.8M,€377K,88.6,72.7,61.3,40.5,85,GK,202cm,Left
+843957,J. Henson,30,Zambia,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€129.9M,€377K,85.8,78.5,32.1,42.2,84,CM,159cm,Left
+352476,G. Lang,25,Christmas Island,Carter Ltd,Premier League (England),€131.8M,€360K,79.1,86.0,43.1,32.5,84,CDM,196cm,Left
+999684,A. Little,22,Bouvet Island (Bouvetoya),Sanchez Inc,"King, Chandler and Taylor (Mali)",€129M,€362K,70.1,31.0,88.7,39.3,84,RM,191cm,Left
+459596,Steven Jr.,23,French Polynesia,Carter Ltd,Premier League (England),€127.4M,€366K,48.8,59.3,87.8,74.2,84,CF,154cm,Right
+910320,T. Neal,16,Mali,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€129.3M,€359K,88.6,70.7,59.1,23.6,84,LW,204cm,Left
+287768,P. Jones,22,Christmas Island,Burgess and Sons,Orozco-Sosa (Christmas Island),€122M,€374K,88.7,56.1,71.9,54.5,84,LWB,150cm,Left
+771130,J. Robbins,40,Malta,Mccullough-Alexander,Premier League (England),€119.2M,€339K,38.7,82.5,84.5,67.7,84,LB,155cm,Right
+935968,D. Hall,40,Malta,Lucas-Beasley,Li Inc (Christmas Island),€119.9M,€338K,58.8,86.2,56.1,79.4,84,LB,170cm,Right
+837959,K. Stewart,27,Christmas Island,Lucas-Beasley,Li Inc (Christmas Island),€121.3M,€336K,83.6,84.5,49.7,82.6,84,LB,168cm,Left
+109528,K. Acevedo,47,France,FC Barcelona,"King, Chandler and Taylor (Mali)",€105.4M,€347K,94.7,49.8,51.5,47.1,84,RB,197cm,Left
+560651,M. Williams,46,Malta,"Brown, Peterson and Davis",Premier League (England),€104.5M,€335K,75.9,78.0,39.5,85.7,84,ST,167cm,Left
+265784,J. Cowan,26,Zambia,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€109.3M,€314K,92.8,59.3,23.0,38.6,84,ST,197cm,Right
+995146,R. Moran,25,Malta,Li and Sons,Coleman-Williams (Mali),€127.6M,€321K,85.5,78.9,38.7,42.9,84,CM,171cm,Right
+274321,Joshua Oconnell,33,Mali,Lee-Allen,Li Inc (Christmas Island),€100.1M,€308K,78.6,86.2,54.2,57.1,84,RB,154cm,Right
+618476,L. Alvarez,35,Bouvet Island (Bouvetoya),"Brown, Peterson and Davis",Premier League (England),€102.4M,€321K,59.2,79.3,27.9,86.0,84,RWB,209cm,Left
+434811,S. Mejia,51,Sudan,Taylor-Le,Orozco-Sosa (Christmas Island),€98.7M,€314K,45.9,78.3,84.9,50.6,83,RM,203cm,Right
+804209,J. Boone,44,Vanuatu,Lucas-Beasley,Li Inc (Christmas Island),€115.5M,€307K,45.3,26.7,89.5,61.8,83,CF,184cm,Right
+92580,M. Zimmerman,20,Dominica,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€83.4M,€306K,38.2,40.2,89.1,65.3,83,CM,181cm,Right
+781116,M. Johnson,30,Malta,Harris-Wells,Logan Ltd (Christmas Island),€90.2M,€306K,88.2,67.1,27.2,55.3,83,RB,193cm,Left
+953271,S. Russo,15,Mali,"Chan, Hoover and Rios",Premier League (England),€97.6M,€306K,51.4,91.3,46.5,56.7,83,GK,198cm,Left
+229793,M. Porter,35,Vanuatu,"Brown, Peterson and Davis",Premier League (England),€92.8M,€297K,88.0,52.5,30.8,66.0,82,ST,171cm,Left
+422,D. Smith,26,France,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€73.3M,€287K,33.2,44.2,86.0,69.5,82,RW,191cm,Right
+58409,Rodgers,31,French Polynesia,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€62M,€294K,84.7,72.2,33.6,40.8,82,LM,183cm,Right
+388003,M. Norris,35,France,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€69.1M,€292K,18.2,48.0,84.9,72.5,82,RWB,183cm,Right
+412583,C. Page,29,Bouvet Island (Bouvetoya),Harris-Peterson,Premier League (England),€88.5M,€288K,61.0,88.8,40.2,32.6,82,CF,177cm,Right
+642087,William Huff,20,Bouvet Island (Bouvetoya),Smith-Mcgee,Coleman-Williams (Mali),€56.8M,€276K,72.6,85.8,43.9,57.8,82,RM,185cm,Right
+68962,P. Leonard,48,Vanuatu,Mccullough-Alexander,Premier League (England),€60.9M,€281K,84.1,45.3,76.4,22.4,82,LW,159cm,Left
+740945,C. Robles,29,Mali,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€81.8M,€285K,42.6,68.5,84.8,75.6,82,RM,181cm,Right
+478887,B. Ayala,23,Malta,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€60.2M,€299K,89.3,33.7,61.6,28.6,82,RW,161cm,Left
+290577,Jeremy Cisneros,23,Dominica,FC Barcelona,"King, Chandler and Taylor (Mali)",€48.2M,€273K,83.3,77.8,44.9,53.4,82,RM,174cm,Left
+995226,William Tanner,31,Malta,"Moore, Porter and Oliver",Premier League (England),€53.3M,€286K,15.1,81.0,81.7,61.2,82,CF,197cm,Right
+454723,Francis,41,Honduras,"Blair, Strickland and Perry",Premier League (England),€53.6M,€262K,40.6,74.2,64.9,84.5,82,GK,200cm,Right
+606471,M. Patterson,30,Vanuatu,Cunningham-Roberts,Premier League (England),€48M,€250K,92.9,37.2,46.4,22.9,81,LM,162cm,Left
+303898,J. Jones,21,Christmas Island,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€41.8M,€233K,85.4,32.0,69.5,37.5,81,RWB,205cm,Left
+803759,R. West,22,Bouvet Island (Bouvetoya),Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€42.7M,€269K,87.8,19.2,60.0,19.1,81,RW,154cm,Left
+910495,J. Pierce,31,Dominica,"Brown, Peterson and Davis",Premier League (England),€46.8M,€233K,57.6,84.2,22.1,69.7,81,RM,152cm,Left
+787970,X. Neal,30,Honduras,Levy Group,"King, Chandler and Taylor (Mali)",€46M,€232K,91.7,28.9,46.5,50.8,81,RWB,150cm,Left
+616483,B. Nichols,25,Vanuatu,Paris Saint Germain,Premier League (England),€52.3M,€231K,38.4,48.1,84.3,72.4,81,RW,159cm,Right
+272633,John Estrada,22,Dominica,Williams-Flynn,Premier League (England),€37.5M,€226K,82.7,76.5,52.1,62.0,81,LM,201cm,Left
+133907,A. Washington,25,Sudan,Carter Ltd,Premier League (England),€38.6M,€221K,68.1,85.6,34.6,56.8,81,RM,199cm,Right
+256987,M. Clay,23,French Polynesia,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€34.4M,€230K,72.3,79.9,34.1,81.3,81,RM,157cm,Left
+838884,R. Morris,26,Sudan,Harris-Peterson,Premier League (England),€32.8M,€215K,64.8,84.2,16.8,71.3,81,CAM,175cm,Left
+790111,B. Kennedy,36,France,Sanchez Inc,"King, Chandler and Taylor (Mali)",€27.8M,€233K,89.3,29.3,56.4,17.3,81,RB,192cm,Left
+880347,A. Harris,32,Dominica,Taylor-Le,Orozco-Sosa (Christmas Island),€38.6M,€211K,89.9,56.1,35.4,34.6,81,RW,198cm,Left
+487182,M. Atkins,22,French Polynesia,Li and Sons,Coleman-Williams (Mali),€27.5M,€217K,82.9,72.1,48.9,75.0,81,CDM,175cm,Left
+180737,S. Roach,20,Vanuatu,Cunningham-Roberts,Premier League (England),€24.9M,€209K,25.5,48.7,90.0,49.8,80,RWB,210cm,Right
+107020,P. Cook,31,French Polynesia,Smith-Mcgee,Coleman-Williams (Mali),€25.4M,€205K,78.1,80.2,42.6,43.7,80,CM,188cm,Left
+385607,David Jr.,46,Vanuatu,Douglas LLC,Li Inc (Christmas Island),€26.7M,€208K,17.7,51.2,84.5,68.5,80,ST,201cm,Right
+746614,J. Sims,22,Mali,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€25.7M,€220K,31.8,65.7,63.5,84.4,80,LWB,176cm,Right
+681117,M. Blair,18,Honduras,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€25.8M,€188K,58.5,87.1,33.5,58.9,80,RW,176cm,Left
+17819,J. Montoya,23,French Polynesia,Levy Group,"King, Chandler and Taylor (Mali)",€18.7M,€200K,57.6,88.0,43.4,26.8,80,RM,182cm,Left
+755241,B. Robinson,17,French Polynesia,"Blair, Strickland and Perry",Premier League (England),€20.5M,€180K,59.7,73.2,48.3,82.0,80,LWB,192cm,Left
+411301,F. Mills,25,Vanuatu,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€16.7M,€204K,89.7,52.1,29.0,24.2,80,LWB,200cm,Left
+837306,D. Sullivan,26,Bouvet Island (Bouvetoya),Burgess and Sons,Orozco-Sosa (Christmas Island),€14M,€169K,51.0,40.5,89.9,7.5,80,LB,201cm,Left
+968492,T. Shepherd,34,Malta,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€14.3M,€173K,54.5,86.0,34.8,61.8,80,CDM,169cm,Left
+675337,Joshua Myers,55,Malta,"Chan, Hoover and Rios",Premier League (England),€13.9M,€179K,35.9,51.8,84.4,68.1,80,RB,190cm,Right
+650980,Rodriguez,52,Honduras,Li and Sons,Coleman-Williams (Mali),€14.5M,€170K,26.6,37.4,78.0,81.1,80,RB,193cm,Right
+600242,James Johnson,31,Dominica,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€10M,€160K,84.3,32.3,65.0,57.0,80,CF,175cm,Left
+933922,D. Smith,22,French Polynesia,Burgess and Sons,Orozco-Sosa (Christmas Island),€10.3M,€205K,86.4,56.8,36.2,55.5,79,RW,183cm,Left
+524528,S. Andrews,34,Honduras,Carter Ltd,Premier League (England),€9.6M,€162K,66.9,43.0,83.6,41.4,79,RWB,196cm,Left
+581953,Bennett,23,Honduras,Mccarty PLC,Premier League (England),€9.6M,€167K,13.0,50.6,88.9,51.2,79,CAM,151cm,Right
+156284,Tyler Jr.,22,Christmas Island,"Allen, Howard and Bruce",Coleman-Williams (Mali),€9.5M,€154K,44.5,60.6,84.7,14.2,79,ST,169cm,Left
+287398,A. Aguirre,21,Mali,Best LLC,Premier League (England),€9.8M,€150K,81.2,56.1,19.7,71.2,79,LWB,173cm,Left
+418916,S. Andrews,35,Bouvet Island (Bouvetoya),Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€9.4M,€154K,36.8,81.1,73.8,55.4,79,RM,205cm,Right
+288512,Daniel Forbes,20,France,Smith-Mcgee,Coleman-Williams (Mali),€9.5M,€148K,83.5,63.6,55.5,66.0,79,CM,201cm,Left
+722727,Duran,25,Malta,Lee-Allen,Li Inc (Christmas Island),€9.4M,€123K,85.5,61.1,61.3,35.7,79,CAM,160cm,Left
+551410,S. Mitchell,34,Malta,FC Barcelona,"King, Chandler and Taylor (Mali)",€9.3M,€140K,88.6,51.6,35.2,25.0,79,LM,190cm,Right
+797814,C. Ramirez,21,Sudan,Best LLC,Premier League (England),€9.3M,€134K,39.6,60.9,85.2,39.4,79,GK,175cm,Left
+561079,R. Jenkins,32,Zambia,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€9.4M,€152K,31.6,86.1,57.1,55.3,79,GK,210cm,Right
+680246,J. Newton,22,Zambia,Levy Group,"King, Chandler and Taylor (Mali)",€9.2M,€110K,30.0,60.8,57.2,84.3,78,CAM,182cm,Right
+156181,J. Hernandez,34,Zambia,Lucas-Beasley,Li Inc (Christmas Island),€9.3M,€111K,23.4,53.4,80.2,72.4,78,RW,154cm,Right
+181100,D. Bishop,30,Dominica,FC Barcelona,"King, Chandler and Taylor (Mali)",€9.2M,€108K,57.0,84.3,58.9,44.2,78,RW,156cm,Left
+549837,E. Washington,35,France,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€9.2M,€112K,83.4,62.2,49.5,51.4,78,RM,173cm,Right
+935040,C. Brown,21,French Polynesia,"Blair, Strickland and Perry",Premier League (England),€9.1M,€101K,82.6,50.6,41.2,64.1,78,CAM,166cm,Left
+279749,P. Jones,32,Sudan,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€9.2M,€106K,78.1,24.8,76.3,44.2,78,CAM,202cm,Left
+386348,Schneider,38,France,FC Barcelona,"King, Chandler and Taylor (Mali)",€9.2M,€104K,26.3,67.4,80.2,70.2,78,RW,207cm,Right
+706124,Fletcher,32,Sudan,Cunningham-Roberts,Premier League (England),€9.1M,€100K,91.7,35.2,36.5,16.8,78,CAM,202cm,Right
+525899,M. Terry,28,Zambia,Douglas LLC,Li Inc (Christmas Island),€8.7M,€145K,71.1,54.9,80.6,22.6,78,CM,154cm,Left
+624503,Donald Wilson,34,Bouvet Island (Bouvetoya),Diaz PLC,Premier League (England),€8.7M,€100K,39.3,62.7,22.2,83.5,78,GK,190cm,Right
+993170,D. Lee,16,Vanuatu,"Allen, Howard and Bruce",Coleman-Williams (Mali),€8.7M,€100K,56.2,69.9,12.3,80.5,78,CDM,182cm,Left
+190707,J. Castro,25,Bouvet Island (Bouvetoya),"Schultz, Johnson and Aguilar",Premier League (England),€8.9M,€100K,54.9,35.1,72.5,79.8,78,RM,178cm,Right
+780886,Jones,21,French Polynesia,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€8.9M,€99K,59.3,64.9,82.1,17.1,78,CAM,199cm,Left
+330740,J. Glass,25,Vanuatu,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€8.6M,€99K,59.5,76.1,79.1,56.0,78,LM,153cm,Right
+576555,T. Cisneros,35,Sudan,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€8.6M,€100K,77.6,77.4,32.5,37.2,78,RB,204cm,Left
+732360,C. Carter,20,Malta,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€8.4M,€100K,31.7,49.1,87.0,51.1,78,CM,192cm,Right
+937381,R. Wilson,29,Dominica,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€8.3M,€98K,58.5,85.0,42.1,30.8,78,RB,199cm,Left
+765439,J. Klein,27,Christmas Island,"Brown, Peterson and Davis",Premier League (England),€8.3M,€98K,33.2,54.9,79.0,73.8,78,LM,197cm,Right
+114706,B. Cervantes,39,Christmas Island,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€8.4M,€99K,68.2,46.7,39.2,79.4,77,CDM,178cm,Right
+229512,W. Buck,31,Dominica,Douglas LLC,Li Inc (Christmas Island),€8.4M,€100K,21.4,78.6,63.5,71.1,77,CDM,174cm,Right
+786656,Hernandez,51,Vanuatu,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€8.2M,€98K,83.0,58.3,34.1,29.5,77,RB,205cm,Right
+549919,Jefferson,43,French Polynesia,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€8.5M,€97K,81.8,58.8,43.0,61.1,77,CM,185cm,Right
+836704,James Jr.,15,Zambia,Lee-Allen,Li Inc (Christmas Island),€8.2M,€97K,74.5,77.6,28.2,25.3,77,LB,183cm,Right
+853238,B. Terry,35,Zambia,Dean Group,Premier League (England),€8.2M,€98K,48.6,81.9,62.5,48.3,77,CF,198cm,Right
+664881,Kenneth Jr.,21,Dominica,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€8.1M,€98K,83.7,50.2,39.9,55.7,77,RM,197cm,Left
+1383,Decker,37,Sudan,FC Barcelona,"King, Chandler and Taylor (Mali)",€8.1M,€96K,22.0,45.2,87.5,37.2,77,RB,187cm,Left
+992946,E. Russell,30,Honduras,"Chan, Hoover and Rios",Premier League (England),€8.1M,€96K,56.5,81.4,62.7,35.6,77,RB,178cm,Right
+911186,S. Maxwell,28,French Polynesia,Boyd-Payne,Logan Ltd (Christmas Island),€8.3M,€97K,90.6,32.6,33.6,37.2,77,LW,200cm,Left
+296853,D. Lee,32,Vanuatu,Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€8M,€96K,56.5,83.9,55.4,48.3,77,LWB,175cm,Right
+190412,M. Kelly,32,Mali,FC Barcelona,"King, Chandler and Taylor (Mali)",€8.1M,€96K,59.3,82.4,58.3,28.1,77,LW,153cm,Right
+739440,C. Werner,34,Zambia,"Allen, Howard and Bruce",Coleman-Williams (Mali),€8M,€96K,87.7,44.2,21.4,33.0,77,LWB,150cm,Right
+911532,G. Perez,27,Honduras,Lee-Allen,Li Inc (Christmas Island),€8.1M,€96K,78.2,65.6,50.5,71.8,77,CF,207cm,Left
+608509,D. Sherman,28,Vanuatu,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€7.8M,€95K,82.5,60.8,28.9,30.6,77,CF,179cm,Left
+616736,M. Carroll,29,Christmas Island,Dean Group,Premier League (England),€7.8M,€95K,17.7,59.9,22.0,82.4,77,GK,180cm,Left
+706934,V. Sparks,30,France,"Moore, Porter and Oliver",Premier League (England),€8M,€96K,32.7,53.7,84.7,49.9,77,CM,176cm,Right
+52211,J. Beltran,23,Honduras,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€7.9M,€96K,79.3,55.3,44.5,70.1,77,LWB,159cm,Left
+961873,B. Lee,27,Vanuatu,Smith-Perez,Orozco-Sosa (Christmas Island),€7.9M,€95K,67.1,57.7,80.5,43.2,77,RW,179cm,Left
+978317,Robert Jr.,29,Sudan,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€7.6M,€95K,27.8,65.3,60.9,81.1,77,GK,188cm,Right
+552416,S. Washington,31,Honduras,Mccarty PLC,Premier League (England),€7.6M,€95K,29.8,81.2,50.8,63.3,77,LM,172cm,Right
+880245,J. Montgomery,31,Vanuatu,Powell-Deleon,Orozco-Sosa (Christmas Island),€7.5M,€95K,81.3,53.4,64.6,41.7,77,CAM,175cm,Left
+790484,J. Brown,21,Honduras,Lee-Allen,Li Inc (Christmas Island),€7.4M,€94K,81.8,62.3,31.6,62.5,77,CM,155cm,Left
+360455,Nicholas Jr.,20,Vanuatu,Smith-Perez,Orozco-Sosa (Christmas Island),€7.3M,€94K,14.3,10.0,68.5,79.0,76,LW,189cm,Right
+295073,Patrick,46,Malta,Manchester United,Premier League (England),€7.4M,€94K,80.5,62.2,36.9,54.7,76,GK,170cm,Left
+278773,Walker,52,Zambia,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€7.7M,€95K,11.6,38.5,79.5,65.3,76,LWB,204cm,Left
+303601,M. Jones,33,Sudan,Powell-Deleon,Orozco-Sosa (Christmas Island),€7.4M,€94K,26.4,81.0,60.4,43.5,76,RM,157cm,Right
+721496,Cortez,31,Christmas Island,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€7.1M,€94K,19.1,79.6,64.3,29.8,76,RB,167cm,Right
+123529,C. Hess,28,Zambia,Burgess and Sons,Orozco-Sosa (Christmas Island),€7.2M,€94K,24.1,47.4,63.2,80.4,76,RWB,175cm,Right
+951002,T. Adams,45,Honduras,Mccullough-Alexander,Premier League (England),€7.3M,€94K,69.5,47.6,77.9,49.4,76,CDM,156cm,Left
+222129,D. Cameron,20,Zambia,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€6.8M,€93K,34.6,71.0,78.3,47.2,76,CDM,164cm,Right
+680942,J. Garcia,31,Malta,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€6.8M,€94K,79.7,49.2,38.4,64.1,76,GK,172cm,Left
+443558,Brian Reed,32,Mali,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€6.8M,€94K,63.0,80.1,65.0,40.5,76,GK,205cm,Left
+476338,L. Cohen,23,Bouvet Island (Bouvetoya),Best LLC,Premier League (England),€7M,€93K,77.0,40.0,43.9,72.2,76,CM,166cm,Left
+304363,C. Duarte,24,Vanuatu,Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€6.8M,€93K,53.7,83.6,52.8,23.9,76,CF,174cm,Left
+755057,Kevin Williams,30,Sudan,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€6.8M,€93K,37.5,37.8,46.7,85.4,76,RWB,163cm,Left
+173502,Reeves,20,Bouvet Island (Bouvetoya),Harris-Wells,Logan Ltd (Christmas Island),€6.7M,€93K,36.9,35.0,89.1,36.1,76,CM,172cm,Left
+730709,N. Olsen,27,Malta,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€6.8M,€94K,50.3,48.8,84.5,10.3,76,LW,160cm,Left
+116443,J. Palmer,20,Malta,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€6.6M,€93K,82.9,55.7,40.8,9.5,76,CF,179cm,Right
+673552,C. Roberts,30,Malta,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€6.6M,€92K,80.7,58.8,29.9,61.2,76,LWB,197cm,Left
+477094,Jacob Riddle,51,Bouvet Island (Bouvetoya),"Schultz, Johnson and Aguilar",Premier League (England),€6.6M,€93K,10.8,21.9,62.2,81.2,76,RB,150cm,Right
+215086,E. Hernandez,40,Mali,Smith-Perez,Orozco-Sosa (Christmas Island),€6.4M,€92K,34.1,45.5,58.1,81.3,76,CF,198cm,Right
+657740,Robert Johnson,27,Vanuatu,"Brown, Peterson and Davis",Premier League (England),€6.3M,€92K,20.9,79.4,66.1,41.6,76,LB,180cm,Right
+207261,J. Sanchez,31,Malta,"Moore, Porter and Oliver",Premier League (England),€6.3M,€92K,78.6,67.2,43.5,57.7,76,LB,155cm,Right
+158199,Gonzalez,28,Zambia,Harris-Wells,Logan Ltd (Christmas Island),€6.3M,€93K,58.0,48.6,36.7,81.5,76,RM,184cm,Right
+920174,Abbott,25,French Polynesia,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€6.4M,€92K,72.2,77.9,64.7,27.6,76,RWB,174cm,Right
+731814,M. Larson,26,French Polynesia,"Brown, Peterson and Davis",Premier League (England),€6.2M,€92K,32.5,15.7,85.6,47.6,76,ST,198cm,Right
+527176,D. Hayden,29,Mali,FC Barcelona,"King, Chandler and Taylor (Mali)",€6.1M,€91K,82.3,58.9,45.8,36.3,76,CF,187cm,Left
+404371,J. Morrison,38,France,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€6.4M,€91K,37.3,80.3,56.3,64.9,76,RWB,185cm,Right
+740283,Scott Walker,20,Malta,Harris-Peterson,Premier League (England),€6.2M,€92K,44.9,76.3,74.4,62.6,76,CF,189cm,Right
+551881,J. Kaiser,46,Honduras,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€6M,€91K,76.3,75.4,35.2,52.1,76,LB,207cm,Left
+715775,R. Harris,26,Sudan,Burgess and Sons,Orozco-Sosa (Christmas Island),€5.7M,€91K,77.3,74.0,40.4,59.4,76,RM,205cm,Left
+666890,M. Lynch,28,Dominica,Burgess and Sons,Orozco-Sosa (Christmas Island),€5.9M,€91K,34.2,20.0,84.7,51.1,76,RWB,194cm,Right
+404887,J. Simmons,54,Sudan,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€6.2M,€91K,54.1,36.4,82.8,25.9,76,RB,164cm,Left
+634339,F. Townsend,47,Vanuatu,"Brown, Peterson and Davis",Premier League (England),€5.7M,€91K,19.0,20.0,86.4,46.7,76,LB,173cm,Right
+912984,Jacob Jr.,23,Bouvet Island (Bouvetoya),Carter Ltd,Premier League (England),€5.6M,€90K,40.3,41.7,87.1,25.6,76,LB,153cm,Left
+200309,A. Garza,30,Zambia,Mccarty PLC,Premier League (England),€5.9M,€92K,71.2,77.5,58.5,54.8,76,LB,204cm,Right
+12299,J. Nicholson,29,Christmas Island,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€5.7M,€90K,10.1,45.1,78.0,70.7,76,CDM,175cm,Right
+548898,Cunningham,23,Honduras,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€5.5M,€90K,66.6,68.8,44.4,77.0,75,LWB,158cm,Left
+811331,D. Duncan,24,Sudan,Smith-Mcgee,Coleman-Williams (Mali),€5.5M,€89K,47.1,39.7,63.6,79.2,75,RM,185cm,Right
+524613,Keith Miller,35,France,Dean Group,Premier League (England),€5.5M,€90K,86.3,33.8,39.6,32.3,75,RW,156cm,Right
+983646,D. Turner,32,Sudan,Dean Group,Premier League (England),€5.5M,€89K,54.2,81.6,25.4,46.2,75,RB,181cm,Left
+82605,Clark,22,France,Sanchez Inc,"King, Chandler and Taylor (Mali)",€5.4M,€89K,49.5,54.2,67.1,77.8,75,RW,170cm,Right
+434879,J. Mooney,27,Malta,Dean Group,Premier League (England),€5.4M,€89K,56.1,80.7,59.0,46.9,75,CF,178cm,Left
+66490,B. Pena,25,Sudan,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€5.3M,€90K,58.1,57.5,80.0,15.4,75,CDM,155cm,Right
+402391,J. Harris,53,Vanuatu,Mccarty PLC,Premier League (England),€5.6M,€89K,45.8,50.9,83.0,7.4,75,RM,208cm,Left
+91134,A. Mendoza,23,Bouvet Island (Bouvetoya),"Allen, Howard and Bruce",Coleman-Williams (Mali),€5.3M,€88K,78.7,64.9,50.7,34.4,75,ST,191cm,Left
+943205,C. Snyder,32,Sudan,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€5.3M,€89K,58.3,81.2,40.2,21.4,75,LWB,168cm,Left
+984324,Bruce Daniel,37,Malta,Lee-Allen,Li Inc (Christmas Island),€5.3M,€89K,33.0,49.7,75.3,73.4,75,CM,167cm,Right
+623919,Corey Jr.,25,Dominica,Douglas LLC,Li Inc (Christmas Island),€5.3M,€89K,84.9,16.0,43.2,45.5,75,GK,195cm,Left
+247105,A. Rios,25,Malta,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€5.2M,€88K,41.1,46.7,78.5,66.2,75,LM,155cm,Right
+435866,C. Allen,25,Zambia,"Moore, Porter and Oliver",Premier League (England),€5.2M,€88K,65.1,78.6,36.4,19.5,75,CF,167cm,Left
+214708,R. Mejia,33,France,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€5.2M,€88K,42.3,54.5,72.7,75.2,75,LWB,192cm,Right
+649045,Mitchell,20,Christmas Island,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€5.2M,€88K,78.8,64.9,27.9,45.1,75,CDM,174cm,Left
+616405,J. Cox,24,French Polynesia,Lucas-Beasley,Li Inc (Christmas Island),€5.1M,€88K,75.8,57.9,73.5,29.6,75,RM,155cm,Left
+108592,P. Garcia,29,Dominica,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€5.1M,€87K,40.0,57.2,78.7,65.5,75,LM,187cm,Right
+330088,F. Richards,30,Mali,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€5.4M,€88K,41.6,79.1,54.9,62.7,75,LB,200cm,Right
+322017,J. Carter,35,Zambia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€5.1M,€87K,53.0,81.7,56.3,52.1,75,LW,196cm,Right
+68406,Harmon,46,Mali,Dean Group,Premier League (England),€4.9M,€87K,73.3,75.4,38.7,45.0,75,CDM,203cm,Left
+371568,R. Salinas,32,French Polynesia,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€5M,€87K,65.8,78.2,39.5,43.1,75,RM,190cm,Left
+150416,J. Aguilar,39,Malta,Harris-Peterson,Premier League (England),€4.9M,€87K,48.3,29.9,74.9,73.4,75,RB,185cm,Right
+175152,G. Moore,19,Zambia,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€4.9M,€87K,78.0,66.7,28.3,18.3,75,CAM,177cm,Left
+756894,M. Perez,28,Vanuatu,Best LLC,Premier League (England),€4.6M,€88K,75.1,74.6,27.0,55.4,75,RW,184cm,Left
+27952,W. Calderon,20,French Polynesia,"Chan, Hoover and Rios",Premier League (England),€4.8M,€87K,34.1,67.8,28.3,77.4,75,LWB,156cm,Left
+937300,A. Rodgers,32,Mali,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€4.7M,€87K,85.4,45.7,29.4,32.1,75,GK,156cm,Right
+60803,M. Rogers,28,Honduras,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€4.7M,€87K,59.6,79.5,32.2,44.5,75,GK,166cm,Left
+200132,O. Mccall,29,Honduras,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€4.6M,€87K,22.0,27.7,85.6,42.4,75,LWB,177cm,Right
+69262,David Jr.,25,Vanuatu,Mccarty PLC,Premier League (England),€4.5M,€86K,16.0,46.2,78.5,63.8,75,RWB,196cm,Left
+503541,T. Perry,32,Mali,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€4.5M,€86K,37.7,41.4,86.5,29.8,75,LWB,192cm,Left
+970801,B. Marquez,28,Mali,"Chan, Hoover and Rios",Premier League (England),€4.6M,€86K,20.9,70.2,25.8,76.5,75,LWB,163cm,Left
+340019,C. Parker,29,Zambia,Paris Saint Germain,Premier League (England),€4.5M,€87K,16.6,67.0,77.8,40.9,75,CM,162cm,Left
+319882,J. Jordan,35,Honduras,Smith-Perez,Orozco-Sosa (Christmas Island),€5.1M,€86K,77.8,33.5,62.0,21.0,74,RWB,173cm,Right
+147863,J. Johnson,32,Vanuatu,Mccarty PLC,Premier League (England),€4.2M,€86K,80.2,55.0,36.6,31.2,74,LWB,180cm,Left
+33324,R. Marquez,25,Dominica,Mccarty PLC,Premier League (England),€4.3M,€86K,41.9,57.7,71.6,75.1,74,LW,200cm,Right
+967288,M. Stewart,32,Honduras,Cunningham-Roberts,Premier League (England),€4.1M,€85K,82.0,39.6,51.8,34.5,74,CF,163cm,Left
+639920,S. Shaw,27,France,"Allen, Howard and Bruce",Coleman-Williams (Mali),€4.5M,€86K,41.8,39.0,25.4,85.3,74,GK,193cm,Left
+877574,Davis,45,Mali,Diaz PLC,Premier League (England),€4M,€85K,87.8,32.5,26.0,23.6,74,ST,173cm,Right
+738416,J. Schroeder,25,Christmas Island,FC Barcelona,"King, Chandler and Taylor (Mali)",€4M,€85K,52.4,35.6,20.5,80.6,74,RW,166cm,Left
+165048,Calderon,46,Honduras,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€3.8M,€85K,76.2,29.1,66.2,33.8,74,GK,203cm,Left
+25826,M. Harris,22,Malta,Williams-Flynn,Premier League (England),€3.9M,€86K,57.4,79.8,35.5,44.0,74,CDM,155cm,Left
+804099,B. Cox,24,Zambia,Griffin Ltd,Premier League (England),€3.9M,€85K,63.6,57.6,41.6,77.3,74,RM,164cm,Right
+796437,Joshua Buchanan,29,Christmas Island,Harris-Wells,Logan Ltd (Christmas Island),€3.9M,€85K,24.8,45.8,60.2,78.0,74,CF,163cm,Right
+870234,Jonathan Jr.,29,French Polynesia,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€4.2M,€84K,34.6,16.1,84.1,44.7,74,RW,193cm,Right
+247881,Johnson,32,Bouvet Island (Bouvetoya),"Allen, Howard and Bruce",Coleman-Williams (Mali),€3.7M,€84K,65.7,53.4,76.5,55.1,74,RWB,170cm,Left
+559375,G. Holden,31,Dominica,Griffin Ltd,Premier League (England),€3.7M,€85K,30.7,51.3,79.1,60.3,74,CAM,150cm,Left
+616805,C. Ryan,33,Sudan,Douglas LLC,Li Inc (Christmas Island),€3.6M,€85K,64.9,76.4,61.2,53.2,74,RB,171cm,Left
+748235,C. Santana,32,France,Harris-Wells,Logan Ltd (Christmas Island),€3.5M,€84K,32.0,79.1,56.7,55.5,74,LM,204cm,Right
+838411,M. Douglas,22,Zambia,Boyd-Payne,Logan Ltd (Christmas Island),€3.6M,€85K,86.3,29.7,29.3,37.1,74,CAM,204cm,Right
+289565,M. Erickson,35,Malta,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€3.5M,€84K,78.0,62.6,52.2,26.5,74,LB,179cm,Right
+158629,Evan Jr.,23,Bouvet Island (Bouvetoya),Lee-Allen,Li Inc (Christmas Island),€3.5M,€84K,28.6,52.7,48.3,81.3,74,ST,162cm,Left
+412677,C. Chan,21,France,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€3.3M,€84K,83.8,45.4,42.3,30.0,74,CAM,191cm,Left
+380111,G. Miller,31,Malta,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€3.2M,€84K,22.8,77.6,65.2,48.5,74,ST,165cm,Right
+306442,G. Smith,48,Mali,Smith-Perez,Orozco-Sosa (Christmas Island),€3.3M,€84K,56.6,55.9,68.7,75.1,74,CM,192cm,Right
+691952,L. Steele,32,Mali,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€3.2M,€84K,45.2,73.9,71.5,73.6,74,CF,160cm,Right
+356174,P. Sawyer,33,Sudan,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€2.9M,€84K,48.3,41.2,15.7,82.4,74,CF,194cm,Left
+708493,D. Collins,27,Mali,Levy Group,"King, Chandler and Taylor (Mali)",€3.1M,€84K,39.9,48.5,82.3,41.3,74,CAM,164cm,Right
+499737,Kyle Jimenez,20,Honduras,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€3M,€83K,70.8,73.6,45.6,49.0,73,RB,155cm,Left
+835686,J. Knight,49,Bouvet Island (Bouvetoya),"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€3.1M,€83K,74.5,55.6,50.6,70.0,73,LW,202cm,Left
+98464,D. Ryan,22,Honduras,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€2.6M,€83K,32.8,43.1,52.0,80.4,73,LW,183cm,Left
+41247,J. Hill,29,Honduras,"Schultz, Johnson and Aguilar",Premier League (England),€2.6M,€83K,45.6,45.7,53.9,79.7,73,CDM,161cm,Right
+762351,G. Stevens,34,Christmas Island,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€2.8M,€83K,57.2,43.3,46.8,78.3,73,CDM,160cm,Right
+688771,J. Thompson,29,Christmas Island,Manchester United,Premier League (England),€2.6M,€83K,22.3,79.0,54.0,38.7,73,LW,203cm,Right
+156453,Kevin Vaughn,29,Christmas Island,Paris Saint Germain,Premier League (England),€2.6M,€82K,74.0,56.1,19.1,68.8,73,GK,187cm,Left
+648289,James,22,Malta,Griffin Ltd,Premier League (England),€3.5M,€82K,52.1,33.5,79.5,40.0,73,LW,207cm,Left
+861663,A. Robbins,24,Mali,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€2.6M,€83K,42.4,47.9,46.8,81.9,73,LM,210cm,Left
+936278,Pearson,27,Sudan,Cunningham-Roberts,Premier League (England),€2.5M,€82K,78.3,58.6,23.8,15.4,73,CM,153cm,Left
+158095,R. Smith,39,Sudan,Harris-Peterson,Premier League (England),€2.5M,€83K,81.6,30.4,47.9,22.9,73,RM,205cm,Left
+10671,Charles Wilson,27,Dominica,Best LLC,Premier League (England),€2.5M,€82K,38.5,68.9,74.9,25.5,73,LM,203cm,Right
+829896,B. Miller,54,Christmas Island,Mccullough-Alexander,Premier League (England),€2.5M,€82K,70.9,73.4,29.4,67.6,73,LM,168cm,Left
+92670,Coffey,33,Malta,FC Barcelona,"King, Chandler and Taylor (Mali)",€2.6M,€82K,75.1,65.7,42.2,29.9,73,GK,210cm,Left
+789066,M. Ellis,33,Zambia,Douglas LLC,Li Inc (Christmas Island),€2.4M,€82K,46.4,54.0,65.1,75.9,73,RB,152cm,Right
+780916,J. Hayes,33,Zambia,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€2.4M,€81K,52.8,50.8,78.7,55.3,73,RWB,168cm,Right
+715409,Patrick Mendoza,17,France,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€2.4M,€81K,28.2,27.1,76.4,62.2,73,RB,207cm,Right
+158406,S. Price,47,French Polynesia,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€2.4M,€81K,33.8,47.2,79.7,53.8,73,CDM,206cm,Right
+748537,J. Nelson,22,Christmas Island,Burgess and Sons,Orozco-Sosa (Christmas Island),€2.3M,€81K,82.2,28.2,45.5,37.7,73,LW,192cm,Left
+543783,D. Mcneil,25,Christmas Island,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€2.4M,€81K,15.8,46.1,77.2,59.3,73,GK,189cm,Right
+986284,E. Anderson,46,Vanuatu,Douglas LLC,Li Inc (Christmas Island),€2.1M,€81K,54.8,68.0,74.8,56.9,73,LM,183cm,Right
+270384,Henry,49,Mali,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€2.2M,€81K,17.9,45.4,73.4,66.3,72,LM,157cm,Left
+868433,Scott Jr.,25,French Polynesia,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€2M,€81K,73.5,66.3,25.8,41.8,72,CDM,155cm,Left
+204938,A. Stephenson,30,Dominica,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€2.3M,€80K,74.8,52.2,64.3,17.8,72,RW,172cm,Right
+696494,T. Farrell,23,Christmas Island,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€2.1M,€80K,56.2,73.3,68.0,37.3,72,CM,178cm,Right
+491816,J. Gonzales,22,Mali,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€2M,€81K,6.8,58.4,75.9,56.5,72,RM,173cm,Left
+950636,B. Jones,28,Christmas Island,Paris Saint Germain,Premier League (England),€1.8M,€80K,27.7,73.2,67.3,6.8,72,RW,183cm,Right
+319879,T. Montgomery,28,Bouvet Island (Bouvetoya),"Blair, Strickland and Perry",Premier League (England),€1.7M,€80K,75.3,28.0,60.3,52.4,72,GK,190cm,Left
+934696,C. Cook,25,Bouvet Island (Bouvetoya),Burgess and Sons,Orozco-Sosa (Christmas Island),€1.7M,€80K,37.3,20.1,79.4,49.0,72,CM,191cm,Right
+893805,S. Lucas,22,Dominica,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€1.8M,€80K,67.0,51.5,73.5,34.0,72,ST,209cm,Left
+271237,P. Ward,45,French Polynesia,Smith-Mcgee,Coleman-Williams (Mali),€1.5M,€79K,52.4,57.9,77.2,38.3,72,CM,188cm,Right
+648084,Andrew Franklin,21,Sudan,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€1.5M,€80K,75.3,35.7,62.0,46.4,72,CF,167cm,Left
+844714,B. Young,33,Mali,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€1.7M,€79K,49.5,42.7,44.4,78.9,72,LB,176cm,Left
+468181,Corey Jr.,48,French Polynesia,Griffin Ltd,Premier League (England),€1.6M,€79K,73.9,61.8,51.2,66.6,72,LWB,164cm,Left
+591179,R. Francis,27,Zambia,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€1.5M,€79K,72.7,58.5,21.5,71.6,72,LB,198cm,Left
+198128,M. Gray,20,French Polynesia,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€1.5M,€79K,43.6,68.4,73.0,64.6,72,RWB,209cm,Right
+149069,N. Brown,24,Christmas Island,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€1.5M,€79K,63.6,49.2,40.7,74.7,72,ST,173cm,Right
+575227,J. Anderson,35,France,"Blair, Strickland and Perry",Premier League (England),€1.6M,€79K,31.1,54.6,53.9,77.5,72,LM,169cm,Right
+943880,C. Fowler,21,French Polynesia,Lee-Allen,Li Inc (Christmas Island),€1.4M,€79K,73.8,67.9,43.9,49.8,72,RM,174cm,Left
+935725,Cole,30,Sudan,Paris Saint Germain,Premier League (England),€1.4M,€79K,77.6,55.6,40.3,44.0,72,RW,165cm,Right
+296979,C. Smith,24,Christmas Island,Harris-Wells,Logan Ltd (Christmas Island),€1.4M,€79K,20.3,77.2,57.9,30.4,72,GK,190cm,Right
+739445,O. Ayala,24,Christmas Island,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€1.4M,€79K,34.3,47.8,70.0,72.3,72,ST,166cm,Right
+223442,J. Lee,30,Bouvet Island (Bouvetoya),Powell-Deleon,Orozco-Sosa (Christmas Island),€1.4M,€78K,58.8,46.0,65.8,73.8,72,RWB,206cm,Right
+92402,C. Phillips,23,Vanuatu,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€1.2M,€78K,19.4,56.8,73.1,70.7,72,CAM,151cm,Right
+453012,J. Frazier,26,Malta,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€1.2M,€78K,32.1,41.1,82.3,34.4,72,LB,153cm,Left
+141841,E. Baker,26,Christmas Island,Carter Ltd,Premier League (England),€1.4M,€78K,57.3,72.1,70.8,56.0,72,LW,169cm,Right
+494225,M. Ramirez,24,Malta,Mccullough-Alexander,Premier League (England),€1.1M,€78K,79.7,40.2,40.5,48.8,72,CF,161cm,Left
+92836,John Jr.,26,Bouvet Island (Bouvetoya),Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€1.1M,€77K,80.7,33.3,46.4,43.7,72,ST,173cm,Right
+330695,M. Hawkins,35,Zambia,Paris Saint Germain,Premier League (England),€1.1M,€77K,39.3,51.4,78.3,30.6,72,GK,164cm,Left
+797984,Cory Jr.,28,Malta,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€1.1M,€78K,65.7,73.8,48.8,17.8,72,RB,205cm,Left
+888096,Ho,52,Sudan,"Chan, Hoover and Rios",Premier League (England),€1M,€76K,71.9,70.6,37.1,63.8,72,CF,150cm,Right
+593310,J. Jenkins,20,France,"Allen, Howard and Bruce",Coleman-Williams (Mali),€1.1M,€77K,81.1,46.7,23.8,44.6,72,LW,204cm,Right
+265646,J. White,32,Honduras,Griffin Ltd,Premier League (England),€1.2M,€76K,59.5,75.5,42.0,46.7,72,RM,175cm,Left
+544601,D. Sanchez,23,Sudan,Williams-Flynn,Premier League (England),€1M,€79K,16.1,58.3,74.7,64.6,72,RM,187cm,Right
+16427,Christopher Smith,49,Sudan,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€997K,€75K,55.5,51.1,64.9,73.1,71,RB,160cm,Right
+745713,D. Robinson,22,Zambia,Lee-Allen,Li Inc (Christmas Island),€997K,€75K,71.7,53.8,48.0,68.3,71,GK,173cm,Left
+590247,S. Riley,34,Honduras,Sanchez Inc,"King, Chandler and Taylor (Mali)",€995K,€76K,56.6,72.9,51.7,65.9,71,GK,154cm,Left
+90616,J. Ward,21,Sudan,Boyd-Payne,Logan Ltd (Christmas Island),€996K,€76K,20.1,67.9,72.1,32.4,71,RM,194cm,Left
+17448,Mccarty,32,Malta,Best LLC,Premier League (England),€989K,€74K,45.8,43.3,74.3,62.7,71,RM,177cm,Right
+181410,David Powers,20,Zambia,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€999K,€74K,73.3,57.2,56.4,65.9,71,RM,176cm,Left
+542474,D. Gray,24,Mali,"Allen, Howard and Bruce",Coleman-Williams (Mali),€992K,€76K,57.6,29.6,74.6,58.6,71,LWB,162cm,Right
+976705,A. Thompson,26,Sudan,Cunningham-Roberts,Premier League (England),€995K,€74K,77.2,26.5,53.6,39.9,71,LW,154cm,Right
+436141,R. Lewis,25,Mali,Griffin Ltd,Premier League (England),€982K,€74K,44.5,29.2,72.7,64.3,71,CM,179cm,Right
+206813,M. Kim,34,Bouvet Island (Bouvetoya),Powell-Deleon,Orozco-Sosa (Christmas Island),€988K,€74K,52.0,52.3,64.9,73.1,71,LW,197cm,Right
+985094,C. Salazar,32,Christmas Island,Smith-Mcgee,Coleman-Williams (Mali),€993K,€75K,57.6,31.7,26.4,75.0,71,CAM,173cm,Right
+575566,M. Morris,24,France,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€988K,€74K,76.1,53.0,39.8,53.8,71,RW,180cm,Left
+272610,T. Hobbs,29,Christmas Island,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€980K,€74K,20.9,47.5,79.0,15.2,71,LWB,156cm,Left
+84199,E. Hill,20,French Polynesia,Best LLC,Premier League (England),€984K,€74K,76.7,48.5,52.3,18.7,71,LW,179cm,Right
+428404,K. Romero,21,Honduras,Sanchez Inc,"King, Chandler and Taylor (Mali)",€974K,€74K,30.6,69.5,63.3,72.0,71,LW,165cm,Right
+453589,C. Conley,34,France,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€976K,€74K,53.4,40.7,61.7,74.5,71,RM,185cm,Right
+896051,C. Potts,21,France,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€970K,€73K,80.9,33.7,34.6,43.2,71,RM,205cm,Left
+740571,M. Young,21,Honduras,Paris Saint Germain,Premier League (England),€976K,€73K,21.6,61.2,74.9,57.2,71,RM,183cm,Right
+331092,P. Fields,27,Christmas Island,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€973K,€73K,58.2,45.8,75.3,57.9,71,RW,203cm,Right
+478600,Baker,35,Mali,Lee-Allen,Li Inc (Christmas Island),€974K,€73K,47.5,49.8,77.6,36.2,71,RM,170cm,Left
+978396,C. Green,25,Sudan,Carter Ltd,Premier League (England),€966K,€73K,78.4,15.0,48.2,44.7,71,CDM,164cm,Left
+454377,D. Freeman,32,Mali,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€966K,€73K,75.0,59.9,15.7,26.5,71,CDM,179cm,Left
+823159,N. Foster,24,Mali,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€964K,€72K,21.9,27.7,74.4,59.9,71,RW,172cm,Right
+741280,Scott Arroyo,33,Christmas Island,Taylor-Le,Orozco-Sosa (Christmas Island),€968K,€72K,62.9,32.3,74.2,29.6,71,LB,150cm,Right
+217137,N. Lee,31,Zambia,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€961K,€71K,71.1,30.5,55.3,70.1,71,RM,200cm,Left
+516096,Wayne Jr.,24,Vanuatu,"Chan, Hoover and Rios",Premier League (England),€963K,€71K,75.6,42.3,54.8,25.8,70,LW,200cm,Left
+360640,D. Baxter,26,Christmas Island,"Blair, Strickland and Perry",Premier League (England),€960K,€72K,53.0,70.3,50.4,67.5,70,LB,157cm,Left
+90631,J. Brown,23,France,Harris-Peterson,Premier League (England),€971K,€71K,25.5,44.8,54.0,75.2,70,CM,203cm,Right
+287376,C. Foley,22,France,"Blair, Strickland and Perry",Premier League (England),€952K,€71K,76.8,43.4,47.7,44.9,70,LWB,163cm,Right
+475807,K. Rodriguez,23,Sudan,Manchester United,Premier League (England),€964K,€71K,20.0,69.7,70.1,31.6,70,CF,193cm,Right
+254677,Wolf,28,Vanuatu,Williams-Flynn,Premier League (England),€959K,€71K,74.3,57.1,37.1,58.6,70,LW,173cm,Left
+328445,Glenn,20,Honduras,Griffin Ltd,Premier League (England),€953K,€71K,70.8,66.2,61.6,26.0,70,CAM,182cm,Right
+131991,Edward Lawson,23,Christmas Island,Paris Saint Germain,Premier League (England),€947K,€70K,77.2,34.5,18.4,47.8,70,LB,176cm,Right
+525228,A. Jackson,33,Bouvet Island (Bouvetoya),Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€950K,€70K,75.9,47.3,50.5,15.5,70,LM,163cm,Right
+41968,Eric Jr.,25,French Polynesia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€955K,€71K,71.8,58.2,65.6,55.9,70,CAM,167cm,Right
+869463,D. Simmons,24,French Polynesia,Harris-Wells,Logan Ltd (Christmas Island),€952K,€71K,52.1,66.1,71.7,42.6,70,LWB,182cm,Left
+762980,D. Baker,21,France,Mccarty PLC,Premier League (England),€940K,€70K,38.9,38.9,45.4,77.7,70,LW,170cm,Right
+574734,J. Riley,29,Bouvet Island (Bouvetoya),Mccarty PLC,Premier League (England),€940K,€70K,72.7,62.4,44.8,35.5,70,RM,196cm,Left
+779760,W. Peters,35,Sudan,Douglas LLC,Li Inc (Christmas Island),€952K,€70K,65.4,60.4,34.0,71.2,70,LB,181cm,Left
+878455,Derek Briggs,25,Dominica,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€941K,€70K,66.0,71.8,55.9,40.3,70,GK,188cm,Left
+313270,J. Fernandez,20,Bouvet Island (Bouvetoya),Smith-Mcgee,Coleman-Williams (Mali),€936K,€70K,52.8,68.2,70.6,35.9,70,RW,174cm,Left
+18419,Forbes,20,Honduras,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€933K,€71K,17.8,63.9,71.5,45.0,70,RWB,192cm,Right
+444564,K. Webb,29,Dominica,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€937K,€69K,75.6,54.1,23.6,45.3,70,GK,202cm,Left
+239929,Walter Brown,44,Malta,Douglas LLC,Li Inc (Christmas Island),€935K,€69K,52.7,53.8,66.6,71.5,70,CAM,204cm,Right
+649655,Steven Jr.,23,Zambia,Levy Group,"King, Chandler and Taylor (Mali)",€920K,€69K,77.4,46.9,32.5,31.4,70,CDM,152cm,Left
+993806,J. Weeks,30,Malta,Cunningham-Roberts,Premier League (England),€921K,€68K,30.6,11.2,39.9,80.4,70,CF,171cm,Right
+698924,W. Davis,25,Dominica,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€937K,€69K,38.0,50.2,76.6,38.2,70,LWB,151cm,Left
+51777,Austin Thompson,22,France,Boyd-Payne,Logan Ltd (Christmas Island),€931K,€69K,27.8,62.0,73.2,9.2,70,LWB,161cm,Right
+838223,Adam Sims,24,Christmas Island,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€911K,€68K,27.9,43.4,78.5,44.6,70,CM,180cm,Left
+92764,T. Todd,22,Malta,Carter Ltd,Premier League (England),€912K,€68K,19.9,36.8,43.9,78.6,70,LW,163cm,Right
+764622,David Jr.,18,French Polynesia,Smith-Perez,Orozco-Sosa (Christmas Island),€913K,€68K,74.3,55.1,50.6,19.7,70,CDM,162cm,Right
+903943,Barber,33,Sudan,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€915K,€69K,9.3,41.8,56.9,74.2,70,RM,160cm,Right
+986139,Rich,27,Zambia,Diaz PLC,Premier League (England),€909K,€68K,71.1,32.4,66.6,46.5,70,ST,163cm,Left
+249194,M. Perez,34,Vanuatu,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€908K,€68K,33.8,57.8,74.4,53.1,70,LM,174cm,Right
+855472,P. Mcdowell,31,France,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€910K,€68K,34.2,75.1,54.7,52.3,70,RW,184cm,Right
+233301,A. Smith,35,Bouvet Island (Bouvetoya),Johnson LLC,"Miller, Rowe and Horne (Honduras)",€910K,€68K,65.8,29.1,39.5,71.6,70,RWB,168cm,Left
+634805,E. Munoz,22,Sudan,Mccarty PLC,Premier League (England),€901K,€68K,60.1,52.6,70.8,68.3,70,RWB,156cm,Left
+159707,A. Davis,26,Zambia,Powell-Deleon,Orozco-Sosa (Christmas Island),€903K,€68K,52.2,27.3,75.9,47.4,70,CF,166cm,Right
+798724,C. Edwards,27,Sudan,Smith-Mcgee,Coleman-Williams (Mali),€910K,€67K,35.6,19.3,72.8,61.6,70,CF,187cm,Right
+303147,M. Patton,47,Vanuatu,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€899K,€68K,30.9,76.4,45.8,34.9,69,RM,152cm,Right
+712811,B. Perez,34,Zambia,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€903K,€68K,73.3,57.5,51.8,22.8,69,RB,168cm,Left
+327951,K. Gordon,33,French Polynesia,"Allen, Howard and Bruce",Coleman-Williams (Mali),€897K,€67K,51.0,31.7,75.2,44.4,69,CF,169cm,Right
+451093,Jacobs,33,Honduras,Williams-Flynn,Premier League (England),€896K,€67K,70.8,37.1,62.8,29.0,69,LWB,208cm,Right
+918290,R. Blair,20,French Polynesia,"Chan, Hoover and Rios",Premier League (England),€888K,€67K,70.5,45.2,63.0,20.6,69,CDM,204cm,Left
+181296,C. Lee,26,French Polynesia,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€884K,€66K,63.1,71.2,40.8,31.5,69,ST,151cm,Left
+803920,T. Moore,37,Bouvet Island (Bouvetoya),"Chan, Hoover and Rios",Premier League (England),€878K,€67K,71.5,61.1,44.0,12.8,69,CM,164cm,Left
+550024,Salas,40,French Polynesia,Powell-Deleon,Orozco-Sosa (Christmas Island),€874K,€67K,8.1,17.0,70.9,61.7,69,CF,154cm,Right
+705682,M. Maldonado,31,Sudan,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€888K,€67K,75.0,46.3,51.0,20.9,69,CF,156cm,Right
+197858,Ramsey,52,Malta,Levy Group,"King, Chandler and Taylor (Mali)",€878K,€65K,79.9,35.0,31.4,19.4,69,RB,160cm,Left
+869729,Peters,34,Vanuatu,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€873K,€65K,72.1,21.6,60.9,30.3,69,RM,153cm,Left
+738778,H. Jackson,30,Zambia,"Blair, Strickland and Perry",Premier League (England),€873K,€66K,73.3,42.1,52.7,54.2,69,CAM,199cm,Left
+673269,M. Gould,24,Sudan,Lee-Allen,Li Inc (Christmas Island),€874K,€65K,68.2,50.5,50.0,69.8,69,LM,189cm,Left
+1559,Davis,34,Vanuatu,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€874K,€65K,48.9,65.5,24.8,70.7,69,CM,198cm,Left
+403181,Joseph Nelson,27,Zambia,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€868K,€65K,73.5,47.9,55.6,37.4,69,CAM,197cm,Left
+698172,T. Harrington,20,Dominica,Smith-Perez,Orozco-Sosa (Christmas Island),€871K,€67K,52.9,35.8,66.9,70.0,69,LWB,176cm,Right
+468824,Justin Smith,31,Vanuatu,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€868K,€65K,23.6,39.8,78.0,43.8,69,RM,202cm,Left
+444317,R. Farley,27,Sudan,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€868K,€64K,23.2,45.3,69.8,67.5,69,LM,193cm,Right
+665815,J. Cox,55,Sudan,Sanchez Inc,"King, Chandler and Taylor (Mali)",€860K,€65K,61.1,55.1,39.8,71.3,69,CDM,156cm,Right
+559541,M. Fox,27,Sudan,Cunningham-Roberts,Premier League (England),€862K,€64K,77.6,37.0,41.9,40.1,69,LM,187cm,Left
+297481,Z. Wright,25,Sudan,Harris-Peterson,Premier League (England),€871K,€64K,69.7,31.9,65.2,26.4,69,LWB,197cm,Left
+739981,Brian Reyes,27,France,Best LLC,Premier League (England),€858K,€65K,46.6,49.3,42.7,75.7,69,LW,208cm,Right
+101106,Soto,27,Vanuatu,Best LLC,Premier League (England),€857K,€63K,71.0,56.6,56.1,64.6,69,CF,162cm,Left
+535325,D. Reyes,38,Malta,Taylor-Le,Orozco-Sosa (Christmas Island),€857K,€63K,51.6,56.1,73.1,16.3,69,CAM,195cm,Right
+748423,E. Garrett,21,France,Williams-Flynn,Premier League (England),€862K,€63K,55.1,72.1,57.8,60.3,69,LM,173cm,Right
+184073,C. Evans,30,France,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€855K,€62K,76.7,31.5,32.8,44.3,69,CAM,204cm,Right
+388912,K. Young,23,French Polynesia,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€851K,€64K,71.1,41.3,62.9,26.5,69,LM,164cm,Right
+770070,F. Miller,26,Mali,Smith-Perez,Orozco-Sosa (Christmas Island),€853K,€63K,65.5,68.8,39.0,39.0,68,CM,175cm,Left
+287349,Michael Jr.,23,Malta,FC Barcelona,"King, Chandler and Taylor (Mali)",€856K,€62K,45.4,31.6,75.7,26.8,68,LWB,204cm,Right
+844417,Robert Jr.,39,Bouvet Island (Bouvetoya),"Brown, Peterson and Davis",Premier League (England),€846K,€62K,29.4,20.7,58.1,71.5,68,LWB,198cm,Right
+533270,C. Simon,40,Malta,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€847K,€62K,71.4,54.5,42.5,58.2,68,LM,210cm,Left
+901999,David Moore,23,Malta,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€845K,€62K,21.8,18.4,47.4,74.7,68,RB,174cm,Right
+500596,Contreras,31,Dominica,Douglas LLC,Li Inc (Christmas Island),€856K,€62K,69.1,66.7,17.2,58.3,68,LWB,166cm,Right
+623736,J. Vasquez,25,France,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€843K,€61K,64.8,69.5,53.6,22.5,68,RWB,177cm,Left
+779409,M. Walton,33,Christmas Island,Carter Ltd,Premier League (England),€845K,€62K,67.3,68.8,54.6,32.0,68,LWB,199cm,Right
+877730,B. Russell,29,Bouvet Island (Bouvetoya),Diaz PLC,Premier League (England),€851K,€61K,70.7,58.9,37.5,46.3,68,ST,192cm,Right
+918709,Perry Dillon,25,Honduras,Paris Saint Germain,Premier League (England),€845K,€61K,28.1,48.9,64.9,68.9,68,LWB,176cm,Right
+772180,B. Vargas,25,Christmas Island,Smith-Perez,Orozco-Sosa (Christmas Island),€842K,€60K,70.5,58.5,39.2,21.3,68,LM,169cm,Left
+313553,D. Nelson,20,France,Douglas LLC,Li Inc (Christmas Island),€843K,€61K,65.1,35.2,38.0,68.9,68,RW,201cm,Right
+837977,D. Hall,31,Bouvet Island (Bouvetoya),Washington Group,"Valdez, Lee and Moore (Vanuatu)",€841K,€61K,48.2,64.9,24.8,69.5,68,RM,175cm,Right
+158265,C. Wilson,22,French Polynesia,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€841K,€61K,74.5,49.6,41.4,41.5,68,CM,169cm,Left
+477808,R. Fox,33,Christmas Island,Harris-Peterson,Premier League (England),€842K,€60K,30.7,52.5,23.7,72.9,68,ST,175cm,Left
+60211,J. Bailey,29,Dominica,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€827K,€60K,68.2,65.5,58.6,48.9,68,CDM,168cm,Right
+404634,Mark Washington,26,Dominica,Smith-Mcgee,Coleman-Williams (Mali),€833K,€60K,68.3,63.0,65.3,29.8,68,RB,162cm,Right
+789905,J. Cruz,22,Zambia,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€832K,€60K,52.5,58.4,70.8,14.2,68,RWB,210cm,Right
+945645,M. Young,22,Malta,Carter Ltd,Premier League (England),€840K,€60K,49.3,71.3,56.3,48.1,68,RW,157cm,Left
+781913,S. Miller,34,French Polynesia,FC Barcelona,"King, Chandler and Taylor (Mali)",€825K,€60K,61.8,69.6,59.5,64.0,68,CM,171cm,Left
+49266,Brian Jr.,20,Mali,Cunningham-Roberts,Premier League (England),€827K,€59K,42.1,40.9,75.4,38.9,67,ST,156cm,Left
+180415,Wolfe,54,France,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€827K,€60K,14.3,34.4,63.8,67.8,67,LB,159cm,Left
+196885,J. Austin,24,Dominica,FC Barcelona,"King, Chandler and Taylor (Mali)",€823K,€58K,26.3,29.6,52.2,71.5,67,LWB,191cm,Right
+500009,W. Myers,26,France,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€824K,€60K,30.6,35.1,48.0,73.4,67,CAM,165cm,Right
+336218,R. Wilkins,22,French Polynesia,Douglas LLC,Li Inc (Christmas Island),€824K,€58K,63.9,67.6,35.3,42.8,67,LW,158cm,Left
+827788,Alexander Mcdonald,31,Malta,Sanchez Inc,"King, Chandler and Taylor (Mali)",€815K,€58K,34.4,61.3,68.9,36.9,67,LB,177cm,Left
+82406,Juan Richardson,21,Sudan,Harris-Wells,Logan Ltd (Christmas Island),€807K,€57K,69.4,60.7,43.1,28.4,67,LM,194cm,Left
+705069,J. Chen,30,French Polynesia,Harris-Peterson,Premier League (England),€810K,€57K,72.5,16.1,48.0,52.0,67,RB,183cm,Left
+852636,S. Dorsey,24,Mali,Harris-Peterson,Premier League (England),€805K,€58K,31.8,46.8,35.5,73.2,67,RM,159cm,Right
+500495,R. Powell,33,Malta,Manchester United,Premier League (England),€819K,€57K,28.8,22.5,78.3,32.6,67,LB,159cm,Right
+582484,J. Lester,28,Christmas Island,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€800K,€56K,67.9,61.5,64.8,52.6,67,CM,172cm,Left
+17255,S. Martin,20,Christmas Island,Douglas LLC,Li Inc (Christmas Island),€800K,€56K,24.4,67.1,64.8,13.2,67,LM,152cm,Right
+689097,P. Bradshaw,35,Malta,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€814K,€57K,67.0,50.7,65.4,17.7,67,ST,186cm,Left
+230506,Mark Jr.,28,Vanuatu,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€803K,€56K,41.6,42.1,56.8,70.7,67,LB,157cm,Left
+738421,Keith,43,France,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€794K,€55K,36.6,29.2,68.7,61.4,67,RWB,196cm,Left
+517353,Craig,31,French Polynesia,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€795K,€55K,67.3,39.7,65.8,9.4,67,CM,180cm,Right
+599291,J. Morales,30,Christmas Island,Burgess and Sons,Orozco-Sosa (Christmas Island),€803K,€56K,46.8,72.5,52.4,35.1,67,RWB,161cm,Left
+279847,Michael Jr.,20,Christmas Island,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€798K,€56K,64.9,58.2,67.1,58.6,67,RW,196cm,Right
+509306,T. Davis,25,Honduras,Smith-Perez,Orozco-Sosa (Christmas Island),€793K,€55K,46.2,34.2,74.0,11.7,67,CM,197cm,Left
+222775,M. Savage,33,Christmas Island,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€789K,€55K,67.7,52.2,39.6,63.6,67,CM,206cm,Right
+59068,P. Perry,25,Malta,Smith-Mcgee,Coleman-Williams (Mali),€794K,€55K,68.9,55.5,60.0,39.5,67,RB,179cm,Right
+272232,A. Olson,31,Honduras,"Chan, Hoover and Rios",Premier League (England),€791K,€57K,62.5,38.7,69.1,27.1,67,RM,180cm,Left
+714645,E. Bryant,22,Mali,Best LLC,Premier League (England),€788K,€54K,72.0,50.5,49.3,46.5,67,LW,208cm,Left
+403698,S. Garcia,55,Sudan,Harris-Peterson,Premier League (England),€787K,€54K,31.1,54.8,70.6,37.7,67,CAM,181cm,Right
+551249,Robert Powers,17,Malta,Carter Ltd,Premier League (England),€792K,€54K,29.4,71.3,38.9,55.7,67,GK,210cm,Right
+35246,N. Peters,47,Christmas Island,Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€787K,€55K,75.0,41.7,23.8,32.4,67,CF,176cm,Right
+961093,D. Larson,33,French Polynesia,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€786K,€54K,11.9,39.1,76.3,32.2,67,GK,174cm,Left
+961122,D. Howe,20,Mali,"Allen, Howard and Bruce",Coleman-Williams (Mali),€783K,€53K,44.2,56.5,27.8,70.3,67,CF,177cm,Left
+936881,Jason Jr.,32,Mali,Williams-Flynn,Premier League (England),€786K,€54K,35.4,53.5,72.0,35.2,67,LB,159cm,Right
+920530,T. Cook,30,Malta,Dean Group,Premier League (England),€788K,€53K,8.8,46.5,67.4,66.2,67,CM,173cm,Right
+617444,S. Huff,35,Vanuatu,Cunningham-Roberts,Premier League (England),€783K,€53K,62.5,53.4,60.4,68.9,67,RM,174cm,Right
+683069,J. Salinas,31,French Polynesia,Li and Sons,Coleman-Williams (Mali),€783K,€54K,16.1,40.0,69.4,59.7,67,RWB,151cm,Right
+396456,B. Stephens,34,French Polynesia,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€783K,€53K,28.8,33.6,60.0,69.8,67,LM,181cm,Right
+568509,Weaver,35,France,Manchester United,Premier League (England),€781K,€53K,70.7,55.2,37.0,45.2,67,RWB,175cm,Right
+494846,Matthew Smith,28,Christmas Island,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€782K,€53K,69.0,59.4,41.5,26.2,67,LW,187cm,Left
+118200,A. Mejia,25,Honduras,"Brown, Peterson and Davis",Premier League (England),€780K,€52K,24.6,61.5,52.2,69.0,67,LW,158cm,Right
+183739,Schmidt,25,Malta,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€776K,€53K,67.3,62.4,66.7,61.6,67,CM,173cm,Left
+249535,Steven Marquez,27,Malta,Smith-Perez,Orozco-Sosa (Christmas Island),€776K,€52K,76.6,24.4,39.3,23.8,67,LM,159cm,Left
+544454,Brown,34,Dominica,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€773K,€52K,62.9,45.1,65.8,67.5,67,CF,162cm,Left
+233169,S. Williams,25,Malta,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€779K,€52K,10.5,47.8,72.9,51.1,67,LWB,162cm,Right
+143148,Michael Duncan,28,Christmas Island,Levy Group,"King, Chandler and Taylor (Mali)",€776K,€52K,17.7,33.8,40.7,76.2,67,LW,200cm,Left
+446528,T. Heath,36,French Polynesia,Douglas LLC,Li Inc (Christmas Island),€772K,€52K,40.9,45.7,43.5,73.6,67,CM,175cm,Right
+774212,M. Rodriguez,23,Vanuatu,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€771K,€51K,58.6,69.4,60.9,56.4,67,LWB,175cm,Left
+172066,P. Lee,21,Vanuatu,Griffin Ltd,Premier League (England),€766K,€51K,68.2,59.5,56.0,42.0,66,RW,207cm,Right
+368862,N. Ramos,40,France,Cunningham-Roberts,Premier League (England),€770K,€52K,65.6,66.6,38.1,44.2,66,RWB,195cm,Left
+418263,R. Salazar,33,France,Smith-Mcgee,Coleman-Williams (Mali),€768K,€51K,68.2,41.7,61.3,51.1,66,LW,165cm,Left
+533038,A. White,23,Honduras,"Allen, Howard and Bruce",Coleman-Williams (Mali),€765K,€51K,24.0,71.7,49.4,45.6,66,CDM,165cm,Right
+868913,A. Davis,31,Mali,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€754K,€50K,45.0,57.5,28.3,69.2,66,RM,208cm,Right
+8921,Peter Jr.,25,Christmas Island,Griffin Ltd,Premier League (England),€773K,€51K,26.4,26.5,64.7,66.8,66,RM,193cm,Right
+246755,R. Pittman,46,Vanuatu,Manchester United,Premier League (England),€755K,€51K,62.7,32.6,67.5,29.8,66,RWB,175cm,Left
+582649,K. Lewis,48,Malta,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€753K,€51K,65.2,65.9,30.5,11.9,66,RM,176cm,Left
+730202,M. Cook,35,Malta,Boyd-Payne,Logan Ltd (Christmas Island),€752K,€50K,41.5,60.2,66.6,63.4,66,CM,161cm,Right
+337410,Gavin Fox,30,Honduras,Cunningham-Roberts,Premier League (England),€752K,€50K,69.3,32.1,57.5,43.2,66,RM,157cm,Left
+427535,Chase Bryan,28,Malta,Sanchez Inc,"King, Chandler and Taylor (Mali)",€753K,€50K,56.3,42.3,36.0,69.8,66,RWB,162cm,Left
+829088,T. Anderson,32,Honduras,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€765K,€50K,13.8,65.4,66.3,52.7,66,CAM,168cm,Left
+108328,F. Ruiz,37,French Polynesia,Douglas LLC,Li Inc (Christmas Island),€748K,€50K,73.5,43.9,26.1,22.4,66,LB,190cm,Left
+853820,J. Hernandez,33,Vanuatu,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€746K,€50K,55.4,61.6,66.6,63.7,66,RB,191cm,Left
+419685,R. Hendricks,50,Christmas Island,Griffin Ltd,Premier League (England),€751K,€50K,67.3,47.6,62.3,45.3,66,CDM,174cm,Left
+362454,Carr,31,Malta,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€737K,€49K,60.5,67.0,63.1,63.6,66,RM,151cm,Left
+919853,C. Peters,24,Dominica,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€733K,€49K,30.1,43.8,73.9,34.0,66,CF,170cm,Left
+371117,D. Williams,25,Mali,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€744K,€49K,58.3,31.7,69.1,45.5,66,LWB,198cm,Left
+444899,J. Zimmerman,29,Vanuatu,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€751K,€50K,74.2,42.8,30.7,42.2,66,RB,169cm,Left
+699004,J. Deleon,34,Vanuatu,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€727K,€49K,31.7,34.2,27.0,77.0,66,RW,154cm,Right
+813846,Roberts,46,Bouvet Island (Bouvetoya),Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€726K,€49K,38.6,22.0,67.0,61.6,66,LWB,151cm,Right
+879481,C. Miller,31,Christmas Island,Harris-Peterson,Premier League (England),€725K,€50K,65.3,59.1,65.6,21.2,66,LWB,158cm,Right
+658319,J. Pierce,29,Sudan,Harris-Wells,Logan Ltd (Christmas Island),€727K,€49K,71.8,33.7,50.4,16.7,66,CF,196cm,Right
+183191,P. Wall,30,Bouvet Island (Bouvetoya),Harris-Peterson,Premier League (England),€721K,€48K,27.4,46.0,69.3,57.8,66,RWB,150cm,Right
+641986,A. Wall,35,Zambia,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€722K,€49K,74.7,39.5,39.1,24.3,66,LB,190cm,Left
+3034,Henry Miller,33,France,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€719K,€49K,48.1,34.1,72.3,45.6,66,RM,194cm,Right
+150567,J. Keller,27,Vanuatu,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€717K,€48K,54.1,69.8,53.3,22.1,66,ST,160cm,Left
+797880,Peter Jr.,29,Mali,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€713K,€48K,41.2,51.8,70.2,41.8,66,CM,152cm,Right
+339175,J. Cabrera,26,Honduras,Levy Group,"King, Chandler and Taylor (Mali)",€714K,€48K,72.1,49.5,33.6,21.9,66,LB,203cm,Right
+322811,Jonathan Jackson,21,Dominica,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€725K,€49K,31.0,48.1,68.9,57.6,66,LM,153cm,Right
+953937,M. Kramer,19,Mali,Best LLC,Premier League (England),€717K,€48K,69.0,34.6,57.0,38.6,66,LW,205cm,Left
+822870,P. Dawson,20,Sudan,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€707K,€48K,65.2,66.5,65.9,38.9,66,CF,201cm,Right
+904863,P. Sutton,53,France,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€712K,€47K,44.1,46.4,41.6,72.9,66,LM,175cm,Left
+282272,Michael Morris,28,Sudan,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€715K,€48K,37.1,66.1,21.7,64.2,66,GK,182cm,Left
+397053,E. Garcia,33,Honduras,Burgess and Sons,Orozco-Sosa (Christmas Island),€705K,€48K,27.1,28.4,70.0,54.4,66,RW,178cm,Right
+446398,C. Stevenson,20,Bouvet Island (Bouvetoya),Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€698K,€47K,63.4,51.2,58.8,66.4,66,CDM,168cm,Right
+274379,M. Barker,25,Christmas Island,Williams-Flynn,Premier League (England),€706K,€48K,66.3,22.3,36.3,63.3,66,RM,204cm,Right
+708566,J. Smith,20,Honduras,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€704K,€47K,16.3,66.5,48.4,63.1,66,LB,198cm,Left
+819445,Robert Jr.,45,French Polynesia,Williams-Flynn,Premier League (England),€705K,€47K,66.7,31.1,58.2,55.1,65,RW,178cm,Left
+344601,B. Rivera,18,Honduras,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€693K,€46K,70.3,47.8,51.0,34.7,65,CF,196cm,Right
+795266,Mcdonald,19,Dominica,Smith-Perez,Orozco-Sosa (Christmas Island),€704K,€46K,54.2,51.7,69.1,38.4,65,ST,180cm,Right
+722105,G. Mcdonald,30,France,Mccarty PLC,Premier League (England),€690K,€46K,50.1,69.5,34.5,22.7,65,CAM,152cm,Left
+386246,K. Vazquez,25,Christmas Island,Powell-Deleon,Orozco-Sosa (Christmas Island),€690K,€47K,57.8,66.8,36.6,53.0,65,CM,176cm,Right
+959826,Daniel Yates,22,Christmas Island,Harris-Wells,Logan Ltd (Christmas Island),€686K,€46K,65.6,63.9,45.8,54.9,65,LW,176cm,Right
+362077,B. Kelly,33,Dominica,Lucas-Beasley,Li Inc (Christmas Island),€688K,€46K,74.0,34.2,39.8,30.9,65,CAM,152cm,Left
+886468,J. Grant,30,Sudan,Harris-Peterson,Premier League (England),€687K,€46K,58.4,18.5,67.5,44.8,65,LW,184cm,Left
+370606,R. Yoder,35,Honduras,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€685K,€46K,64.5,65.1,18.8,51.9,65,LWB,196cm,Right
+837561,Scott Marshall,30,Sudan,"Brown, Peterson and Davis",Premier League (England),€681K,€45K,61.0,58.1,39.4,65.9,65,ST,186cm,Left
+927700,R. Espinoza,30,Christmas Island,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€685K,€45K,66.2,26.4,61.8,38.9,65,RM,171cm,Right
+837617,Brian Jr.,35,Zambia,Boyd-Payne,Logan Ltd (Christmas Island),€684K,€46K,68.4,56.7,35.0,54.9,65,GK,169cm,Left
+591901,J. Brown,33,Mali,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€685K,€45K,69.0,52.9,22.4,47.1,65,CAM,152cm,Left
+780550,Robert Townsend,27,Honduras,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€691K,€45K,64.2,65.1,54.7,36.7,65,RB,207cm,Left
+158014,Logan Jr.,29,Sudan,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€669K,€45K,38.6,64.1,65.0,7.6,65,CDM,157cm,Right
+453130,Zachary Jr.,29,Dominica,Griffin Ltd,Premier League (England),€671K,€45K,54.0,69.2,40.9,45.3,65,LWB,204cm,Right
+68531,George Jr.,42,Bouvet Island (Bouvetoya),Johnson LLC,"Miller, Rowe and Horne (Honduras)",€678K,€45K,11.4,9.4,67.1,59.9,65,RB,203cm,Right
+871391,J. Anderson,22,Bouvet Island (Bouvetoya),Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€666K,€45K,69.1,43.6,53.3,20.6,65,RM,185cm,Right
+134355,Stout,20,Zambia,Best LLC,Premier League (England),€666K,€44K,56.2,21.7,66.1,60.2,65,GK,205cm,Right
+961885,M. Myers,23,Christmas Island,Douglas LLC,Li Inc (Christmas Island),€669K,€44K,38.1,40.7,73.3,25.5,65,CF,161cm,Left
+462795,G. Haas,26,Christmas Island,Best LLC,Premier League (England),€666K,€44K,43.2,47.2,70.0,48.2,65,GK,204cm,Right
+372698,Jonathan Jr.,33,Christmas Island,Best LLC,Premier League (England),€681K,€45K,44.2,32.7,62.3,65.7,65,CF,187cm,Left
+344291,A. Drake,22,Malta,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€661K,€44K,55.4,66.6,30.5,47.5,64,CF,183cm,Right
+508338,C. Baker,32,Dominica,Cunningham-Roberts,Premier League (England),€665K,€44K,68.1,49.9,34.9,29.9,64,RB,159cm,Right
+492035,Benjamin Patel,22,Malta,Boyd-Payne,Logan Ltd (Christmas Island),€658K,€44K,73.8,32.0,34.4,31.1,64,RB,150cm,Left
+959002,Jeremy Murphy,27,Sudan,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€652K,€43K,45.4,68.1,43.7,50.5,64,CDM,170cm,Left
+721440,J. Rodriguez,33,Christmas Island,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€654K,€44K,64.4,20.6,60.8,45.7,64,RM,167cm,Right
+721706,K. Woods,22,France,Sanchez Inc,"King, Chandler and Taylor (Mali)",€647K,€43K,51.3,57.6,66.8,35.0,64,CDM,165cm,Right
+983902,Brandon Johnson,25,France,Griffin Ltd,Premier League (England),€663K,€44K,43.3,38.7,63.9,64.5,64,ST,195cm,Right
+279470,Archer,54,Sudan,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€644K,€44K,61.0,42.1,65.5,61.1,64,CF,197cm,Left
+607303,E. Sandoval,21,Bouvet Island (Bouvetoya),Griffin Ltd,Premier League (England),€648K,€43K,67.7,48.5,51.3,37.4,64,LWB,168cm,Left
+967920,A. Smith,21,France,Mccarty PLC,Premier League (England),€643K,€43K,60.8,65.2,56.6,33.7,64,RWB,207cm,Left
+361867,Manuel Zavala,42,Zambia,"Blair, Strickland and Perry",Premier League (England),€643K,€43K,38.7,38.3,65.0,60.1,64,ST,165cm,Right
+263738,N. Leonard,49,French Polynesia,Taylor-Le,Orozco-Sosa (Christmas Island),€635K,€42K,15.0,12.7,68.8,50.3,64,RWB,161cm,Right
+796344,Kevin Preston,21,Malta,Levy Group,"King, Chandler and Taylor (Mali)",€639K,€42K,65.9,58.0,54.4,32.1,64,CM,200cm,Left
+862063,J. Chavez,22,Zambia,"Chan, Hoover and Rios",Premier League (England),€645K,€42K,66.9,57.0,41.8,15.1,64,CAM,157cm,Right
+444389,J. Smith,28,Mali,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€642K,€42K,44.1,64.8,62.0,8.4,64,LM,161cm,Left
+256056,J. Yates,25,French Polynesia,Smith-Perez,Orozco-Sosa (Christmas Island),€624K,€41K,58.9,65.3,51.5,33.3,64,RM,175cm,Left
+641161,M. Carter,22,Malta,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€625K,€42K,73.9,34.5,33.2,19.0,64,RWB,173cm,Left
+518492,J. Lewis,29,Bouvet Island (Bouvetoya),Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€637K,€41K,64.1,29.3,63.7,53.0,64,RW,191cm,Left
+109291,D. Mcmillan,31,Bouvet Island (Bouvetoya),Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€634K,€42K,49.1,35.8,66.8,56.2,64,LM,208cm,Right
+240394,J. Cortez,32,Bouvet Island (Bouvetoya),Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€620K,€41K,29.6,33.9,55.7,67.4,64,LM,150cm,Right
+166689,S. Tate,24,Dominica,"Chan, Hoover and Rios",Premier League (England),€620K,€42K,68.4,49.8,32.4,40.1,64,RW,152cm,Left
+707406,T. Johnson,23,Christmas Island,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€621K,€41K,68.2,42.9,50.7,43.6,64,RB,179cm,Right
+404335,J. Parsons,27,Honduras,Cunningham-Roberts,Premier League (England),€623K,€41K,26.7,22.3,54.5,66.8,64,LB,178cm,Right
+461700,K. Sanders,21,Sudan,Cunningham-Roberts,Premier League (England),€632K,€41K,65.0,59.3,33.0,43.4,64,LW,161cm,Left
+805913,S. Miller,29,Honduras,Douglas LLC,Li Inc (Christmas Island),€614K,€41K,53.1,63.2,64.3,26.0,64,RB,188cm,Left
+560468,John Jr.,22,Honduras,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€613K,€40K,54.8,54.4,67.4,39.8,64,LW,193cm,Left
+167277,J. Salinas,34,Dominica,Sanchez Inc,"King, Chandler and Taylor (Mali)",€615K,€41K,67.9,50.8,26.9,18.2,64,LWB,190cm,Left
+175498,Donald Hawkins,21,Sudan,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€612K,€40K,17.5,45.4,69.9,43.2,64,RB,195cm,Right
+806362,T. Gonzales,40,Mali,"Allen, Howard and Bruce",Coleman-Williams (Mali),€613K,€41K,59.6,38.8,64.9,32.8,64,CF,180cm,Left
+69115,S. Smith,22,Malta,FC Barcelona,"King, Chandler and Taylor (Mali)",€613K,€40K,34.2,37.1,56.1,66.2,64,LB,177cm,Right
+978531,P. Barber,31,Honduras,Manchester United,Premier League (England),€613K,€40K,66.6,56.0,30.9,55.8,64,RWB,183cm,Left
+880267,F. Cobb,24,Mali,Taylor-Le,Orozco-Sosa (Christmas Island),€608K,€40K,67.9,53.9,20.9,18.0,64,RW,190cm,Left
+577217,A. Morgan,35,Dominica,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€600K,€40K,67.1,50.6,21.2,53.1,64,RW,159cm,Right
+872452,D. Day,27,Sudan,Griffin Ltd,Premier League (England),€614K,€40K,52.0,50.8,68.5,48.1,64,CAM,153cm,Right
+581687,G. Davis,37,Dominica,Lucas-Beasley,Li Inc (Christmas Island),€612K,€40K,26.4,45.4,20.0,68.5,63,CDM,189cm,Left
+868488,Phillip Lowe,23,Zambia,"Blair, Strickland and Perry",Premier League (England),€599K,€39K,50.3,36.2,64.6,59.5,63,LB,191cm,Right
+33054,J. Gregory,20,Zambia,Carter Ltd,Premier League (England),€596K,€40K,36.7,25.8,67.3,51.6,63,LWB,153cm,Left
+16891,R. Pineda,21,Malta,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€602K,€39K,41.2,52.4,47.7,67.1,63,LW,180cm,Right
+475663,Johnson,44,Honduras,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€599K,€39K,65.1,23.7,57.6,47.3,63,GK,175cm,Left
+508581,M. Howard,23,Sudan,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€596K,€39K,61.2,63.2,39.0,45.6,63,RM,193cm,Right
+762566,T. Stephenson,22,Mali,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€596K,€39K,45.9,39.2,68.4,34.4,63,ST,155cm,Left
+148271,C. Reid,33,Bouvet Island (Bouvetoya),Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€591K,€39K,13.3,54.0,66.4,33.8,63,LWB,183cm,Left
+549869,Coffey,27,Honduras,Taylor-Le,Orozco-Sosa (Christmas Island),€593K,€39K,41.7,38.9,64.9,57.2,63,CF,184cm,Left
+443396,R. May,27,France,Williams-Flynn,Premier League (England),€587K,€38K,56.9,41.1,65.6,56.9,63,RB,187cm,Left
+820354,Nicholas Jr.,22,Honduras,FC Barcelona,"King, Chandler and Taylor (Mali)",€589K,€39K,42.9,18.8,70.1,30.2,63,CM,188cm,Left
+230575,G. Owens,32,Dominica,Cunningham-Roberts,Premier League (England),€594K,€39K,41.4,51.5,66.7,29.6,63,LW,196cm,Left
+156865,Joshua Jr.,20,Bouvet Island (Bouvetoya),Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€587K,€38K,64.3,60.0,47.4,19.3,63,RB,198cm,Left
+386366,Frank Jr.,27,Dominica,Taylor-Le,Orozco-Sosa (Christmas Island),€582K,€38K,40.4,28.1,48.2,67.3,63,RW,151cm,Right
+239068,J. Rogers,30,Vanuatu,"Schultz, Johnson and Aguilar",Premier League (England),€585K,€38K,66.4,45.3,53.1,33.1,63,RB,155cm,Right
+697835,Rice,23,Mali,Li and Sons,Coleman-Williams (Mali),€571K,€37K,64.1,59.8,48.8,36.5,63,RWB,198cm,Right
+18200,T. Cole,18,Vanuatu,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€568K,€39K,65.2,56.1,55.9,37.3,63,GK,195cm,Right
+755602,Harold Rodgers,27,Sudan,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€567K,€37K,51.7,66.0,30.9,52.6,63,LWB,154cm,Right
+534504,A. Jimenez,25,Christmas Island,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€568K,€37K,35.6,55.1,66.0,45.1,63,RWB,189cm,Right
+280760,C. Hunter,23,Malta,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€575K,€38K,67.6,39.3,50.8,29.3,63,LWB,188cm,Right
+354745,J. Baker,26,French Polynesia,"Blair, Strickland and Perry",Premier League (England),€566K,€36K,21.7,61.8,63.8,54.5,63,RM,184cm,Right
+100856,David Thomas,24,Vanuatu,Best LLC,Premier League (England),€559K,€37K,5.7,63.0,56.1,61.8,63,RM,164cm,Left
+76390,R. Ortiz,29,French Polynesia,Douglas LLC,Li Inc (Christmas Island),€565K,€35K,21.1,51.5,49.0,66.3,63,CAM,209cm,Right
+338654,C. Davis,33,Honduras,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€564K,€35K,47.4,66.0,53.0,28.9,63,RM,175cm,Right
+731944,P. Lang,24,French Polynesia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€563K,€35K,63.1,45.9,62.9,22.6,63,LWB,162cm,Left
+772915,M. Anderson,21,Bouvet Island (Bouvetoya),Sanchez Inc,"King, Chandler and Taylor (Mali)",€556K,€34K,29.9,30.4,59.6,63.7,63,CF,154cm,Left
+191321,Gregory Jr.,29,Mali,Diaz PLC,Premier League (England),€556K,€34K,36.9,69.8,9.4,42.6,63,LW,205cm,Right
+568589,J. Acosta,23,Honduras,Best LLC,Premier League (England),€554K,€34K,64.5,59.8,49.4,11.2,63,CAM,176cm,Right
+675313,Fernando Franklin,22,France,Griffin Ltd,Premier League (England),€552K,€35K,64.9,56.6,45.2,46.8,63,CM,192cm,Left
+224871,D. Ramos,24,Bouvet Island (Bouvetoya),"Allen, Howard and Bruce",Coleman-Williams (Mali),€552K,€35K,46.8,61.2,63.7,20.7,63,ST,155cm,Right
+544372,J. Scott,22,Vanuatu,Burgess and Sons,Orozco-Sosa (Christmas Island),€546K,€34K,50.8,66.5,45.9,46.8,63,CM,200cm,Left
+315171,Robbins,26,Dominica,Smith-Perez,Orozco-Sosa (Christmas Island),€550K,€34K,37.2,61.1,42.7,63.3,63,RW,186cm,Right
+675674,S. Hernandez,29,Honduras,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€549K,€34K,51.2,62.7,50.0,62.9,63,LB,207cm,Left
+459263,R. Gutierrez,32,Zambia,"Schultz, Johnson and Aguilar",Premier League (England),€541K,€34K,62.7,61.5,43.0,40.3,62,RM,198cm,Left
+311813,J. Rodriguez,24,Malta,Harris-Peterson,Premier League (England),€539K,€33K,66.1,15.5,30.9,48.6,62,CF,152cm,Left
+369293,R. Jones,22,Honduras,Taylor-Le,Orozco-Sosa (Christmas Island),€565K,€34K,39.0,23.2,62.4,59.8,62,RB,170cm,Right
+844454,B. Espinoza,29,French Polynesia,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€540K,€33K,41.8,56.2,64.1,50.1,62,ST,207cm,Left
+369320,J. Hampton,35,Honduras,Diaz PLC,Premier League (England),€537K,€33K,14.8,44.0,68.1,44.4,62,GK,182cm,Right
+279752,S. Moore,26,Honduras,"Chan, Hoover and Rios",Premier League (England),€539K,€33K,13.9,8.2,44.1,67.6,62,LWB,158cm,Right
+902580,M. Smith,24,Mali,"Brown, Peterson and Davis",Premier League (England),€534K,€34K,71.4,31.2,32.6,20.8,62,CDM,176cm,Left
+247428,Craig,23,Mali,Taylor-Le,Orozco-Sosa (Christmas Island),€532K,€32K,41.3,60.1,50.4,62.1,62,CM,178cm,Right
+706181,A. Rocha,23,Zambia,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€530K,€31K,44.2,64.5,55.5,21.0,62,GK,205cm,Left
+394944,B. Franklin,24,Vanuatu,"Schultz, Johnson and Aguilar",Premier League (England),€528K,€32K,71.2,29.0,26.8,34.3,62,LW,193cm,Left
+960393,P. Mccoy,33,Mali,Dean Group,Premier League (England),€525K,€31K,44.2,13.9,46.8,66.8,62,CDM,163cm,Right
+870322,M. Webb,28,Dominica,Douglas LLC,Li Inc (Christmas Island),€525K,€33K,58.7,62.6,52.4,53.7,62,LB,193cm,Left
+165936,Wood,24,Malta,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€534K,€31K,50.4,66.5,46.4,46.1,62,RW,207cm,Left
+960627,C. Myers,27,Zambia,Mccullough-Alexander,Premier League (England),€521K,€31K,55.8,64.3,32.2,24.4,62,LW,187cm,Left
+927876,A. Fox,28,Dominica,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€520K,€31K,27.0,48.4,66.1,43.7,62,CM,153cm,Right
+411795,R. Rodriguez,41,French Polynesia,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€517K,€32K,52.2,43.6,49.8,65.3,62,RB,208cm,Left
+641642,Duffy,41,France,Sanchez Inc,"King, Chandler and Taylor (Mali)",€514K,€30K,61.5,62.1,19.6,45.1,62,CM,198cm,Left
+330419,D. Swanson,29,Mali,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€519K,€31K,50.6,57.5,64.0,38.4,62,LB,175cm,Right
+453372,N. Wallace,28,Vanuatu,Harris-Wells,Logan Ltd (Christmas Island),€515K,€30K,47.3,66.2,42.7,50.2,62,LB,185cm,Left
+273161,K. Cross,32,Bouvet Island (Bouvetoya),Johnson LLC,"Miller, Rowe and Horne (Honduras)",€516K,€30K,63.2,58.1,57.1,5.8,62,LWB,196cm,Left
+986003,S. Gordon,32,Honduras,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€511K,€30K,28.1,29.6,68.6,41.1,62,ST,202cm,Left
+183296,Eric Ramsey,29,Sudan,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€510K,€30K,20.3,22.6,52.7,65.4,62,CF,156cm,Right
+920784,M. Moore,39,Malta,Lucas-Beasley,Li Inc (Christmas Island),€512K,€30K,63.5,35.5,56.0,56.4,62,LW,191cm,Left
+134440,Morris,21,French Polynesia,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€516K,€30K,63.9,46.8,51.4,56.6,62,CDM,204cm,Left
+953878,C. Adams,48,Sudan,Levy Group,"King, Chandler and Taylor (Mali)",€512K,€30K,63.1,60.7,58.0,55.4,62,RM,206cm,Left
+634458,R. Harper,32,Malta,"Schultz, Johnson and Aguilar",Premier League (England),€510K,€30K,26.9,26.3,66.1,50.0,62,GK,192cm,Right
+749152,E. Rodriguez,20,Dominica,Sanchez Inc,"King, Chandler and Taylor (Mali)",€505K,€29K,22.8,55.5,64.8,42.4,62,CF,165cm,Right
+249527,Vincent,32,Sudan,Powell-Deleon,Orozco-Sosa (Christmas Island),€509K,€29K,64.8,51.4,54.6,30.2,62,RW,204cm,Right
+577412,W. Jones,37,Zambia,Cunningham-Roberts,Premier League (England),€500K,€29K,62.8,58.2,42.6,10.6,62,RB,177cm,Right
+397315,Joshua Jones,23,Zambia,Cunningham-Roberts,Premier League (England),€502K,€29K,48.2,43.1,66.6,34.2,62,LM,173cm,Right
+987219,Andrew Jr.,35,Christmas Island,Griffin Ltd,Premier League (England),€506K,€28K,64.5,21.0,38.2,53.0,62,CF,201cm,Left
+294983,Robert Daniels,33,French Polynesia,Best LLC,Premier League (England),€501K,€29K,52.7,50.8,63.7,39.3,61,RWB,159cm,Right
+631138,J. Terry,20,Dominica,Smith-Mcgee,Coleman-Williams (Mali),€496K,€28K,66.2,31.3,45.3,31.2,61,LW,158cm,Right
+655729,W. Decker,33,Christmas Island,Paris Saint Germain,Premier League (England),€494K,€28K,45.3,51.1,51.2,64.9,61,RM,194cm,Right
+524710,B. Andrews,32,Vanuatu,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€499K,€29K,49.9,61.4,59.1,60.0,61,LM,172cm,Left
+74178,Bryan Santos,33,Sudan,"Allen, Howard and Bruce",Coleman-Williams (Mali),€503K,€28K,39.6,49.8,64.4,45.1,61,CF,202cm,Right
+565758,R. Downs,28,Mali,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€492K,€27K,68.8,26.3,37.8,15.6,61,ST,152cm,Left
+819805,William Jr.,32,Bouvet Island (Bouvetoya),Griffin Ltd,Premier League (England),€493K,€27K,44.8,54.4,54.7,62.7,61,RW,195cm,Right
+385687,B. Hill,32,Malta,Lee-Allen,Li Inc (Christmas Island),€499K,€27K,29.4,48.8,64.9,49.2,61,RM,200cm,Right
+680774,J. Robinson,21,Malta,Smith-Perez,Orozco-Sosa (Christmas Island),€488K,€27K,64.8,48.7,41.4,35.4,61,CF,181cm,Left
+926611,Clark,31,Bouvet Island (Bouvetoya),Manchester United,Premier League (England),€488K,€27K,37.5,26.6,60.0,61.0,61,RB,163cm,Right
+705471,James Walsh,31,Christmas Island,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€485K,€27K,46.1,49.6,59.3,62.1,61,RB,156cm,Right
+369633,Brian Holmes,23,Vanuatu,Smith-Mcgee,Coleman-Williams (Mali),€486K,€27K,20.6,44.7,59.1,61.5,61,CDM,171cm,Right
+886005,K. Wilkins,20,Malta,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€484K,€28K,44.0,57.6,58.7,62.0,61,CF,182cm,Right
+410897,Louis Jr.,31,French Polynesia,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€481K,€26K,39.5,62.5,50.5,58.1,61,RWB,169cm,Right
+812774,J. Stone,16,Dominica,Sanchez Inc,"King, Chandler and Taylor (Mali)",€483K,€27K,63.1,54.2,51.8,41.7,61,RB,172cm,Left
+567114,G. Gonzales,29,Bouvet Island (Bouvetoya),"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€475K,€26K,52.6,23.4,54.2,63.4,61,ST,163cm,Right
+583499,J. Kelly,21,Bouvet Island (Bouvetoya),Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€480K,€26K,46.2,64.8,49.6,17.4,61,LB,210cm,Right
+182201,A. Friedman,22,Sudan,Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€489K,€25K,31.4,37.2,20.9,69.5,61,GK,205cm,Right
+747929,A. Davenport,28,Honduras,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€474K,€25K,60.7,22.4,31.6,60.0,61,LB,204cm,Right
+174616,S. Freeman,30,Vanuatu,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€474K,€25K,44.5,11.8,65.8,46.1,61,CF,151cm,Right
+338520,W. Collier,19,Bouvet Island (Bouvetoya),"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€471K,€25K,31.3,56.5,35.2,62.2,61,LB,206cm,Left
+297667,K. Carter,16,Bouvet Island (Bouvetoya),Lee-Allen,Li Inc (Christmas Island),€470K,€25K,20.7,47.4,61.6,58.9,61,GK,186cm,Left
+68436,M. Park,27,France,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€471K,€26K,56.3,62.2,52.5,50.8,61,RB,200cm,Right
+330731,D. Johnson,21,Christmas Island,"Moore, Porter and Oliver",Premier League (England),€470K,€25K,42.8,53.1,63.8,23.8,61,RM,150cm,Right
+977980,C. Parks,32,Honduras,"Chan, Hoover and Rios",Premier League (England),€470K,€25K,44.9,57.2,62.6,26.3,61,LWB,194cm,Right
+429183,J. Williams,30,France,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€465K,€25K,57.3,32.5,52.6,61.7,61,LB,161cm,Right
+945330,Cruz,35,Vanuatu,Best LLC,Premier League (England),€469K,€25K,39.4,54.6,62.6,44.5,61,CAM,169cm,Right
+584970,Benjamin Jr.,38,Vanuatu,Powell-Deleon,Orozco-Sosa (Christmas Island),€468K,€25K,51.4,31.7,27.4,64.3,61,LWB,188cm,Right
+232785,Samuel Jr.,28,French Polynesia,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€465K,€25K,61.7,57.8,60.4,51.6,61,CDM,178cm,Left
+257414,Brian Jr.,28,Bouvet Island (Bouvetoya),Levy Group,"King, Chandler and Taylor (Mali)",€456K,€24K,61.1,34.9,60.1,53.9,61,CM,194cm,Left
+675306,A. Parrish,31,Sudan,"Allen, Howard and Bruce",Coleman-Williams (Mali),€460K,€25K,35.2,44.5,51.3,64.2,61,RB,192cm,Left
+60993,M. Smith,24,Mali,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€457K,€25K,64.8,38.1,35.0,47.8,61,RW,195cm,Left
+872041,A. Hinton,31,French Polynesia,"Blair, Strickland and Perry",Premier League (England),€463K,€25K,40.9,33.8,42.6,67.8,61,CDM,167cm,Right
+249619,Brett Wolf,22,Zambia,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€448K,€23K,55.6,29.6,31.4,62.2,61,RB,185cm,Right
+298863,S. Mccormick,24,Bouvet Island (Bouvetoya),"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€451K,€24K,54.1,60.1,39.1,60.8,61,RB,157cm,Left
+880505,Ronald Hawkins,34,Malta,"Schultz, Johnson and Aguilar",Premier League (England),€464K,€24K,24.6,47.9,65.2,45.5,61,CDM,180cm,Left
+298934,E. Ferguson,24,Christmas Island,Smith-Perez,Orozco-Sosa (Christmas Island),€450K,€23K,44.7,62.1,59.0,52.7,61,GK,175cm,Right
+626676,C. Garza,27,Mali,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€444K,€23K,54.6,49.2,63.7,23.8,61,GK,203cm,Right
+16424,Matthew Jr.,23,Bouvet Island (Bouvetoya),FC Barcelona,"King, Chandler and Taylor (Mali)",€442K,€23K,42.0,66.4,25.4,17.6,60,RWB,164cm,Left
+819536,B. Rivera,35,Vanuatu,"Brown, Peterson and Davis",Premier League (England),€455K,€23K,38.3,62.0,23.1,55.8,60,RWB,187cm,Right
+566078,Wu,24,Christmas Island,Mccullough-Alexander,Premier League (England),€445K,€23K,51.2,62.6,19.6,20.1,60,RM,190cm,Left
+459600,J. Reeves,47,Malta,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€443K,€23K,58.4,60.3,52.7,25.9,60,LWB,191cm,Left
+181948,Charles Jr.,27,Honduras,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€439K,€23K,66.8,35.4,39.0,23.4,60,RW,188cm,Left
+976930,K. Howell,33,France,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€442K,€22K,26.9,38.6,67.8,16.9,60,RB,179cm,Left
+714995,R. Meyer,31,Honduras,"Schultz, Johnson and Aguilar",Premier League (England),€437K,€23K,41.2,22.5,25.7,66.6,60,RM,160cm,Right
+878857,C. Faulkner,22,Honduras,Cunningham-Roberts,Premier League (England),€436K,€22K,61.7,42.3,40.8,54.6,60,CM,196cm,Right
+960831,D. Matthews,31,Dominica,Levy Group,"King, Chandler and Taylor (Mali)",€432K,€23K,60.6,31.7,46.1,58.6,60,LB,208cm,Left
+395771,D. Miller,20,Bouvet Island (Bouvetoya),Smith-Mcgee,Coleman-Williams (Mali),€434K,€22K,50.6,50.7,38.6,62.6,60,RM,155cm,Left
+821791,G. Lawson,21,France,Harris-Peterson,Premier League (England),€434K,€22K,48.1,43.8,63.8,29.1,60,RW,175cm,Right
+879256,A. Smith,30,Bouvet Island (Bouvetoya),"Chan, Hoover and Rios",Premier League (England),€427K,€21K,62.7,24.2,46.1,52.8,60,RW,159cm,Left
+199335,R. Smith,25,Christmas Island,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€425K,€21K,39.1,65.0,40.2,44.0,60,LWB,191cm,Right
+10934,F. Melton,35,Bouvet Island (Bouvetoya),Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€428K,€22K,44.9,35.4,65.5,35.9,60,RWB,172cm,Left
+305979,Robert Ferguson,28,Mali,Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€427K,€21K,53.9,62.4,26.7,46.8,60,RW,203cm,Left
+486468,Morgan,32,Sudan,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€421K,€20K,61.1,32.1,56.2,46.2,60,CDM,186cm,Left
+11373,Acevedo,27,Zambia,Campbell and Sons,"Kirk, Garcia and Martin (Vanuatu)",€421K,€20K,21.0,51.7,62.1,46.3,60,LW,186cm,Right
+60608,J. Robertson,52,French Polynesia,Mccullough-Alexander,Premier League (England),€429K,€20K,57.2,60.4,47.1,20.8,60,CF,198cm,Right
+27847,R. Holt,30,Christmas Island,Smith-Perez,Orozco-Sosa (Christmas Island),€423K,€21K,55.7,60.8,52.6,11.7,60,RW,154cm,Left
+756956,Smith,32,Zambia,Harris-Peterson,Premier League (England),€417K,€20K,25.5,64.4,46.4,47.8,60,CM,186cm,Right
+732392,F. Stevens,30,Bouvet Island (Bouvetoya),FC Barcelona,"King, Chandler and Taylor (Mali)",€416K,€20K,64.8,40.6,37.5,44.5,60,CDM,188cm,Left
+478450,R. Allen,34,Christmas Island,Li and Sons,Coleman-Williams (Mali),€417K,€20K,56.0,60.9,56.7,50.2,60,CM,156cm,Right
+830729,J. Smith,26,Christmas Island,Smith-Mcgee,Coleman-Williams (Mali),€418K,€20K,33.9,43.5,34.8,65.5,60,LW,179cm,Right
+503066,R. Woodard,28,Dominica,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€412K,€19K,21.3,59.7,59.2,6.4,60,ST,206cm,Left
+486831,P. Garrett,21,Vanuatu,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€411K,€19K,65.5,28.2,27.9,43.3,60,LW,205cm,Left
+839302,J. Brown,32,Honduras,Mccullough-Alexander,Premier League (England),€416K,€19K,61.6,55.2,38.5,48.8,60,CDM,205cm,Right
+528062,Miller,20,Sudan,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€406K,€19K,60.3,38.5,52.2,59.0,60,LB,193cm,Left
+405418,D. Taylor,21,Honduras,Douglas LLC,Li Inc (Christmas Island),€424K,€19K,50.5,37.0,60.2,59.2,60,LW,186cm,Right
+266169,J. Hines,32,Sudan,Harris-Wells,Logan Ltd (Christmas Island),€406K,€20K,49.6,59.5,54.8,60.5,60,LB,189cm,Right
+852004,Samuel Jr.,32,French Polynesia,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€401K,€18K,61.3,51.6,44.5,50.5,59,LM,196cm,Left
+245938,R. Lutz,34,French Polynesia,Powell-Deleon,Orozco-Sosa (Christmas Island),€400K,€18K,60.6,26.7,54.5,47.2,59,CM,163cm,Left
+368863,J. Randolph,40,Bouvet Island (Bouvetoya),Harris-Peterson,Premier League (England),€398K,€18K,52.5,24.8,38.1,60.6,59,RB,206cm,Right
+270761,Jones,34,Dominica,Dean Group,Premier League (England),€392K,€19K,42.5,16.3,63.2,44.6,59,LWB,195cm,Right
+377346,P. Chapman,29,Christmas Island,Powell-Deleon,Orozco-Sosa (Christmas Island),€399K,€18K,58.0,59.5,43.5,49.1,59,ST,187cm,Right
+377347,M. Fisher,28,France,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€394K,€18K,67.4,25.1,25.6,35.3,59,CF,186cm,Left
+131771,Scott,35,Mali,Paris Saint Germain,Premier League (England),€388K,€18K,23.0,57.8,59.4,43.2,59,CM,159cm,Left
+647940,M. Mclaughlin,28,Mali,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€391K,€18K,25.5,34.2,67.0,17.3,59,LB,175cm,Left
+131919,Stephen Thompson,33,Vanuatu,Carter Ltd,Premier League (England),€392K,€17K,44.9,63.4,16.3,45.5,59,CM,150cm,Right
+517027,Craig Hernandez,20,Mali,"Schultz, Johnson and Aguilar",Premier League (England),€388K,€17K,37.4,29.3,64.0,43.3,59,CAM,200cm,Left
+492564,P. Castaneda,32,Dominica,Smith-Perez,Orozco-Sosa (Christmas Island),€393K,€18K,67.9,26.8,20.5,32.4,59,LM,152cm,Left
+158023,D. Thomas,28,Dominica,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€383K,€17K,17.7,70.1,16.9,25.2,59,CF,183cm,Right
+304466,B. Williams,24,French Polynesia,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€386K,€17K,38.9,39.8,65.1,35.9,59,RWB,175cm,Left
+476587,B. Anderson,27,Vanuatu,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€385K,€16K,25.2,68.5,17.1,31.2,59,RM,208cm,Right
+271909,K. Morris,23,Christmas Island,Carter Ltd,Premier League (England),€381K,€16K,24.5,66.3,37.3,35.2,59,LM,173cm,Right
+722521,H. Nguyen,25,Zambia,Dean Group,Premier League (England),€385K,€16K,60.7,24.2,22.8,54.3,59,LW,176cm,Right
+272129,J. Harding,32,Mali,Taylor-Le,Orozco-Sosa (Christmas Island),€375K,€17K,62.8,23.8,48.2,39.0,59,RWB,177cm,Right
+427847,W. Huber,15,Sudan,Cunningham-Roberts,Premier League (England),€369K,€16K,34.2,33.7,67.5,26.9,59,CF,191cm,Left
+264151,R. Martin,35,Christmas Island,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€369K,€16K,19.2,39.1,33.9,66.0,59,ST,206cm,Left
+862260,Willie Jr.,40,Christmas Island,Boyd-Payne,Logan Ltd (Christmas Island),€367K,€16K,24.0,18.4,60.9,54.7,59,LM,205cm,Right
+452745,Matthew Robinson,32,Dominica,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€366K,€16K,34.2,57.5,15.8,59.3,59,RM,156cm,Right
+616596,White,33,Zambia,Li and Sons,Coleman-Williams (Mali),€366K,€16K,28.2,69.5,11.4,19.3,59,RWB,186cm,Right
+682237,D. Smith,43,Dominica,"Moore, Porter and Oliver",Premier League (England),€358K,€15K,53.0,50.0,60.5,7.5,59,RB,191cm,Left
+370952,J. Lewis,46,Bouvet Island (Bouvetoya),Powell-Deleon,Orozco-Sosa (Christmas Island),€380K,€15K,48.6,28.3,52.8,61.3,59,LWB,209cm,Right
+862746,T. Dickerson,22,Bouvet Island (Bouvetoya),Mccarty PLC,Premier League (England),€356K,€15K,53.9,60.2,44.2,49.2,59,CF,158cm,Right
+699037,K. Silva,33,France,"Chan, Hoover and Rios",Premier League (England),€365K,€15K,32.1,33.0,64.0,42.6,59,RW,203cm,Right
+461562,Eric Miller,26,Sudan,"Schultz, Johnson and Aguilar",Premier League (England),€356K,€15K,60.9,51.8,48.3,55.2,59,LB,172cm,Left
+371687,J. Rivera,22,Malta,Harris-Peterson,Premier League (England),€351K,€14K,18.1,70.8,19.5,23.0,59,CM,186cm,Right
+945215,Mahoney,30,Zambia,Cunningham-Roberts,Premier League (England),€349K,€14K,59.9,58.0,46.1,11.0,59,CF,178cm,Left
+298283,Walker,52,Bouvet Island (Bouvetoya),Douglas LLC,Li Inc (Christmas Island),€354K,€15K,18.9,59.1,33.6,56.9,59,LWB,170cm,Right
+978335,S. Cooper,21,Mali,Burgess and Sons,Orozco-Sosa (Christmas Island),€340K,€14K,61.9,45.2,39.2,49.3,59,RM,178cm,Right
+364326,Brian Jr.,20,Sudan,Carter Ltd,Premier League (England),€340K,€16K,56.2,48.0,54.8,60.0,59,LWB,150cm,Right
+61229,W. Ward,35,Dominica,Taylor-Le,Orozco-Sosa (Christmas Island),€342K,€14K,65.0,25.8,39.9,35.4,59,GK,166cm,Left
+610119,C. Miranda,32,Bouvet Island (Bouvetoya),"Chan, Hoover and Rios",Premier League (England),€341K,€14K,48.0,51.3,61.1,51.3,59,LB,184cm,Left
+937811,M. Howell,37,French Polynesia,FC Barcelona,"King, Chandler and Taylor (Mali)",€335K,€14K,61.9,45.5,41.3,50.3,59,GK,202cm,Left
+323450,Coleman,26,Zambia,Williams-Flynn,Premier League (England),€337K,€14K,27.3,25.1,66.0,39.0,59,CM,170cm,Right
+32835,K. Fischer,33,Dominica,Harris-Wells,Logan Ltd (Christmas Island),€334K,€13K,58.4,48.1,37.3,58.2,58,RWB,150cm,Right
+491706,Russell Jr.,29,Zambia,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€353K,€13K,69.3,23.4,20.9,8.2,58,CM,166cm,Right
+399,S. Campbell,23,Honduras,Harris-Peterson,Premier League (England),€326K,€13K,19.6,57.3,58.3,26.2,58,LM,206cm,Right
+287273,C. Dean,31,Sudan,Harris-Wells,Logan Ltd (Christmas Island),€332K,€13K,54.8,59.1,55.1,50.1,58,CAM,188cm,Left
+205420,J. Lee,35,Vanuatu,Griffin Ltd,Premier League (England),€329K,€13K,27.6,40.3,56.4,58.0,58,CM,203cm,Right
+90759,Donald Arnold,34,Mali,Lucas-Beasley,Li Inc (Christmas Island),€330K,€13K,62.1,46.2,31.1,40.3,58,GK,183cm,Left
+918235,J. Paul,28,Vanuatu,Harris-Wells,Logan Ltd (Christmas Island),€323K,€12K,47.1,58.4,57.7,28.6,58,LM,204cm,Right
+312048,E. Reese,30,French Polynesia,"Blair, Strickland and Perry",Premier League (England),€326K,€12K,56.3,48.1,58.0,56.7,58,CF,155cm,Left
+549851,R. Moss,24,Sudan,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€330K,€12K,37.4,23.3,52.6,60.1,58,CAM,178cm,Right
+165412,Perez,52,Sudan,Taylor-Le,Orozco-Sosa (Christmas Island),€324K,€13K,29.9,8.3,57.6,58.6,58,CDM,200cm,Right
+542442,Torres,21,Honduras,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€322K,€12K,32.9,48.4,61.4,44.5,58,CAM,194cm,Right
+943947,G. Parker,20,Zambia,Cunningham-Roberts,Premier League (England),€321K,€12K,36.5,12.7,52.6,59.3,58,LM,157cm,Right
+911359,M. Olson,25,France,"Chan, Hoover and Rios",Premier League (England),€326K,€12K,39.6,30.2,61.1,47.8,58,LM,210cm,Right
+26629,R. Rios,24,Zambia,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€321K,€14K,40.1,64.3,37.2,15.3,58,CDM,154cm,Left
+116751,Jonathan Jr.,27,French Polynesia,Lee-Allen,Li Inc (Christmas Island),€318K,€12K,38.4,49.7,58.6,55.7,58,LM,179cm,Left
+935957,E. Nelson,29,Zambia,Mccarty PLC,Premier League (England),€321K,€11K,62.7,44.1,44.0,43.5,58,RB,164cm,Left
+264349,A. Burch,29,Malta,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€313K,€12K,59.7,39.5,54.5,40.5,58,CF,181cm,Left
+764521,E. Gutierrez,21,Sudan,Lucas-Beasley,Li Inc (Christmas Island),€319K,€12K,63.1,42.0,29.4,36.1,58,RB,207cm,Right
+805608,Christopher Jr.,30,Zambia,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€311K,€11K,61.2,47.6,39.5,29.4,58,ST,196cm,Left
+977643,J. Moore,29,Honduras,Harris-Wells,Logan Ltd (Christmas Island),€316K,€11K,60.8,48.1,20.1,9.1,58,LWB,210cm,Left
+166715,G. Huang,24,Vanuatu,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€306K,€11K,33.1,41.2,57.8,58.4,58,RW,184cm,Left
+535433,S. Gonzalez,45,Honduras,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€306K,€11K,32.5,49.4,61.4,38.9,58,ST,153cm,Left
+35868,Ryan Jr.,19,Zambia,Smith-Mcgee,Coleman-Williams (Mali),€301K,€10K,57.7,27.2,57.7,48.0,58,LW,178cm,Right
+396344,S. Russell,18,French Polynesia,Lee-Allen,Li Inc (Christmas Island),€296K,€10K,30.1,55.8,58.2,50.8,58,ST,195cm,Left
+60613,S. Shelton,35,Sudan,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€301K,€10K,57.7,36.2,57.2,48.6,58,LB,184cm,Right
+27916,Nixon,52,Dominica,Douglas LLC,Li Inc (Christmas Island),€302K,€10K,56.7,19.6,58.6,41.2,58,RWB,193cm,Right
+257354,I. Mccoy,24,Bouvet Island (Bouvetoya),Burgess and Sons,Orozco-Sosa (Christmas Island),€295K,€9K,59.7,46.2,54.1,16.5,58,GK,164cm,Right
+839286,S. Newman,33,Bouvet Island (Bouvetoya),Johnson LLC,"Miller, Rowe and Horne (Honduras)",€292K,€9K,57.1,42.0,58.9,17.0,58,CM,205cm,Left
+290557,C. Johnson,35,France,Douglas LLC,Li Inc (Christmas Island),€299K,€10K,46.2,50.7,56.2,58.0,58,LWB,169cm,Left
+765728,J. Berg,23,Christmas Island,Mccullough-Alexander,Premier League (England),€294K,€9K,34.9,47.6,61.0,43.2,58,GK,158cm,Right
+143385,M. Hughes,44,Vanuatu,Boyd-Payne,Logan Ltd (Christmas Island),€289K,€9K,57.3,57.8,57.0,38.3,58,RW,180cm,Left
+266298,S. Perry,20,French Polynesia,Smith-Mcgee,Coleman-Williams (Mali),€289K,€9K,40.5,59.4,55.2,10.4,58,RWB,192cm,Left
+491965,Brady,28,Christmas Island,Burgess and Sons,Orozco-Sosa (Christmas Island),€287K,€9K,19.3,46.7,58.8,51.8,57,CDM,199cm,Left
+58049,T. Jones,33,Vanuatu,Lucas-Beasley,Li Inc (Christmas Island),€290K,€9K,43.2,47.6,60.8,45.3,57,CF,175cm,Right
+688896,Jeremy Jr.,33,Bouvet Island (Bouvetoya),Burgess and Sons,Orozco-Sosa (Christmas Island),€287K,€9K,57.5,28.8,46.5,55.3,57,RWB,198cm,Right
+697279,Duane Moody,32,Malta,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€292K,€9K,28.6,36.6,62.5,39.1,57,RB,157cm,Right
+910609,N. Smith,32,Sudan,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€284K,€8K,34.2,57.5,28.2,55.5,57,RM,151cm,Right
+992556,L. Ray,23,Zambia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€286K,€9K,34.3,25.8,35.3,64.2,57,LB,174cm,Left
+484697,Logan,28,Dominica,Harris-Peterson,Premier League (England),€284K,€8K,59.1,48.2,39.9,50.7,57,CM,153cm,Left
+337443,Scott Jr.,29,Vanuatu,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€286K,€10K,59.8,32.4,47.7,31.6,57,ST,204cm,Left
+763507,D. Frost,30,Zambia,"Moore, Porter and Oliver",Premier League (England),€283K,€8K,20.9,50.3,25.3,59.5,57,RM,200cm,Left
+829054,Fred Allen,29,Zambia,Douglas LLC,Li Inc (Christmas Island),€284K,€8K,44.6,35.6,48.8,59.1,57,LM,192cm,Right
+984724,B. Sanders,25,Zambia,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€278K,€7K,43.9,59.2,44.9,48.5,57,GK,180cm,Left
+493212,L. Parsons,27,Malta,Powell-Deleon,Orozco-Sosa (Christmas Island),€272K,€8K,57.2,40.3,55.5,47.5,57,CF,191cm,Right
+567126,M. Vasquez,20,Bouvet Island (Bouvetoya),Lucas-Beasley,Li Inc (Christmas Island),€282K,€7K,51.2,58.8,25.7,24.7,57,RW,172cm,Left
+124777,J. Diaz,21,Zambia,Smith-Mcgee,Coleman-Williams (Mali),€268K,€7K,30.1,16.9,61.9,43.8,57,RWB,187cm,Right
+337786,J. Moore,52,Honduras,Lee-Allen,Li Inc (Christmas Island),€266K,€7K,63.1,21.0,39.4,24.9,57,LM,171cm,Left
+452541,J. Andrade,22,Mali,Harris-Wells,Logan Ltd (Christmas Island),€264K,€7K,43.4,58.6,34.4,51.8,57,CF,186cm,Right
+247763,Timothy Jr.,26,Bouvet Island (Bouvetoya),Walker Group,"Valdez, Lee and Moore (Vanuatu)",€263K,€7K,55.3,57.1,34.4,53.2,57,LM,179cm,Left
+387283,Johnny Carter,34,France,Dean Group,Premier League (England),€273K,€8K,56.9,20.0,56.1,22.8,57,CDM,205cm,Left
+600397,Michael Jr.,22,Mali,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€263K,€7K,25.5,33.6,57.2,55.7,57,CDM,198cm,Left
+215474,T. Summers,30,France,"Chan, Hoover and Rios",Premier League (England),€262K,€6K,58.8,51.3,50.3,51.3,57,CM,210cm,Left
+789048,J. Fernandez,23,Bouvet Island (Bouvetoya),"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€261K,€6K,59.1,21.1,47.2,52.5,57,LB,208cm,Right
+764494,J. Ramos,31,French Polynesia,Lucas-Beasley,Li Inc (Christmas Island),€267K,€6K,59.6,45.3,39.0,50.2,57,GK,206cm,Right
+150104,B. Alvarez,33,French Polynesia,Williams-Flynn,Premier League (England),€253K,€7K,57.9,20.6,34.3,54.5,57,CDM,161cm,Left
+977603,M. Medina,23,Sudan,"Allen, Howard and Bruce",Coleman-Williams (Mali),€260K,€6K,47.6,43.5,59.7,48.4,57,RB,204cm,Left
+994090,J. Jones,34,Christmas Island,Harris-Wells,Logan Ltd (Christmas Island),€262K,€6K,41.0,55.5,57.4,42.3,57,RW,182cm,Left
+617329,Eduardo Jr.,49,Christmas Island,Smith-Perez,Orozco-Sosa (Christmas Island),€259K,€6K,38.8,9.9,63.1,11.5,57,RB,153cm,Right
+240701,J. Koch,33,Malta,"Moore, Porter and Oliver",Premier League (England),€248K,€5K,21.9,14.8,62.7,41.8,57,LB,153cm,Right
+68727,R. Hunt,17,Malta,Williams-Flynn,Premier League (England),€254K,€6K,58.4,53.8,54.5,28.9,57,RWB,156cm,Right
+707713,Aaron Jr.,29,Honduras,Diaz PLC,Premier League (England),€253K,€6K,56.3,24.5,57.2,34.1,57,CAM,170cm,Left
+896332,A. Lewis,27,Malta,Smith-Mcgee,Coleman-Williams (Mali),€250K,€5K,49.4,59.5,29.0,33.1,57,CAM,189cm,Left
+224601,B. Anderson,54,Honduras,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€245K,€6K,31.7,36.2,64.0,28.8,57,LM,201cm,Right
+347611,Robert Jr.,43,Christmas Island,Lucas-Beasley,Li Inc (Christmas Island),€247K,€5K,23.4,37.4,58.9,51.5,57,GK,162cm,Right
+265743,B. Howard,21,France,"Schultz, Johnson and Aguilar",Premier League (England),€242K,€5K,50.3,59.6,47.2,48.8,57,CAM,187cm,Right
+724554,Freeman,35,Dominica,Best LLC,Premier League (England),€250K,€5K,26.9,35.5,50.4,58.6,57,LW,169cm,Left
+61048,Hunt,24,Sudan,Burgess and Sons,Orozco-Sosa (Christmas Island),€225K,€5K,59.8,43.8,27.5,48.5,57,RB,160cm,Left
+675577,Edward White,27,Zambia,Douglas LLC,Li Inc (Christmas Island),€234K,€4K,39.8,33.6,61.2,45.6,57,LB,205cm,Left
+847741,T. York,30,Zambia,Smith-Perez,Orozco-Sosa (Christmas Island),€233K,€4K,24.9,58.9,52.0,44.7,57,RW,181cm,Right
+94153,K. Leon,23,Sudan,Griffin Ltd,Premier League (England),€224K,€4K,46.2,31.3,40.9,60.8,57,RWB,201cm,Right
+98563,B. Charles,35,Christmas Island,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€223K,€4K,32.6,32.0,58.1,51.4,56,RM,163cm,Right
+999701,J. Banks,26,Vanuatu,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€217K,€4K,40.5,44.1,59.7,38.0,56,RWB,158cm,Left
+180627,P. Herman,27,Dominica,Best LLC,Premier League (England),€221K,€4K,59.8,26.5,41.2,44.8,56,LWB,192cm,Left
+115265,A. Mendoza,34,Bouvet Island (Bouvetoya),Smith-Mcgee,Coleman-Williams (Mali),€228K,€3K,57.5,51.1,24.8,26.0,56,RW,204cm,Right
+328540,K. Anderson,31,Mali,"Brown, Peterson and Davis",Premier League (England),€217K,€3K,65.7,15.7,26.6,19.2,56,LW,174cm,Left
+377831,Joseph Rodriguez,34,Sudan,"Brown, Peterson and Davis",Premier League (England),€215K,€3K,19.5,43.4,56.2,55.5,56,LB,177cm,Right
+361574,S. Sellers,25,Vanuatu,Mccarty PLC,Premier League (England),€206K,€4K,41.1,42.2,61.2,21.2,56,CF,176cm,Left
+763132,J. Gross,29,Dominica,Mccarty PLC,Premier League (England),€214K,€3K,34.9,59.0,16.6,47.7,56,CDM,153cm,Right
+632112,J. Rice,22,Dominica,Dean Group,Premier League (England),€205K,€3K,64.5,16.3,24.0,31.2,56,RM,153cm,Left
+689672,Brian Jr.,41,French Polynesia,Carter Ltd,Premier League (England),€203K,€3K,55.7,28.2,56.4,44.6,56,GK,196cm,Left
+558726,M. Johnson,30,Christmas Island,Diaz PLC,Premier League (England),€223K,€2K,59.8,45.6,30.8,46.3,56,LM,182cm,Left
+124651,Armstrong,20,France,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€204K,€3K,57.4,51.0,28.2,47.7,56,LW,188cm,Right
+665511,C. Walker,22,Mali,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€200K,€0,51.1,18.0,35.7,58.3,56,LB,173cm,Left
+75929,C. Bishop,26,Zambia,Griffin Ltd,Premier League (England),€201K,€2K,46.5,39.5,58.5,8.4,56,RWB,195cm,Right
+568114,E. Turner,27,Mali,Lucas-Beasley,Li Inc (Christmas Island),€201K,€2K,35.6,53.7,57.1,37.1,56,CAM,177cm,Left
+314241,B. Rivera,28,Malta,"Schultz, Johnson and Aguilar",Premier League (England),€203K,€1K,40.0,61.0,42.9,14.3,56,CF,210cm,Right
+494483,D. Harris,22,Malta,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€197K,€0,23.9,50.3,58.1,43.8,56,LW,165cm,Right
+289735,J. Jacobs,21,Malta,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€198K,€0,32.9,25.2,51.7,57.5,56,CDM,182cm,Left
+19653,Kurt Miller,28,French Polynesia,Dean Group,Premier League (England),€196K,€0,54.1,57.1,36.6,36.2,56,GK,155cm,Right
+257290,E. Peterson,33,Bouvet Island (Bouvetoya),Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€197K,€2K,52.5,56.2,54.1,43.1,56,LWB,169cm,Left
+921136,Davis,33,Sudan,Boyd-Payne,Logan Ltd (Christmas Island),€190K,€0,39.2,48.1,25.9,58.5,56,LWB,159cm,Left
+93763,Adrian Price,28,Vanuatu,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€198K,€0,55.3,31.7,33.8,56.5,56,GK,203cm,Right
+626545,D. Carter,31,Malta,"Brown, Peterson and Davis",Premier League (England),€192K,€0,20.9,59.5,46.1,19.9,56,RWB,203cm,Right
+495653,C. Johnson,38,Christmas Island,Harris-Wells,Logan Ltd (Christmas Island),€189K,€0,61.2,16.9,40.4,11.1,56,GK,170cm,Right
+868437,T. Bell,31,Vanuatu,Smith-Perez,Orozco-Sosa (Christmas Island),€183K,€0,37.3,57.5,49.1,34.9,55,LW,183cm,Right
+794784,A. Bond,32,Dominica,Smith-Perez,Orozco-Sosa (Christmas Island),€182K,€0,52.9,44.5,46.8,56.0,55,RB,160cm,Right
+549031,A. Stewart,33,Honduras,Douglas LLC,Li Inc (Christmas Island),€176K,€0,35.6,35.3,60.9,35.8,55,ST,191cm,Right
+598189,C. Moran,26,Honduras,Boyd-Payne,Logan Ltd (Christmas Island),€180K,€0,55.2,42.6,54.9,34.1,55,LW,175cm,Left
+844007,T. Smith,18,Dominica,Best LLC,Premier League (England),€168K,€0,35.5,49.4,57.2,41.0,55,GK,200cm,Right
+352503,T. Becker,33,Mali,Williams-Flynn,Premier League (England),€186K,€0,32.7,29.3,60.3,41.0,55,RB,188cm,Left
+426247,R. Hayes,34,Bouvet Island (Bouvetoya),Johnson LLC,"Miller, Rowe and Horne (Honduras)",€169K,€0,34.0,37.9,61.0,35.4,55,LWB,171cm,Left
+778526,D. Thompson,30,French Polynesia,Carter Ltd,Premier League (England),€175K,€0,24.8,48.6,56.6,22.6,55,LM,179cm,Right
+795380,S. Williams,51,French Polynesia,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€165K,€0,35.5,50.5,56.7,31.1,55,RM,202cm,Left
+41921,Mendoza,35,Bouvet Island (Bouvetoya),Dean Group,Premier League (England),€168K,€0,41.6,59.9,23.6,27.0,55,CM,162cm,Left
+836577,Harris,27,Dominica,"Schultz, Johnson and Aguilar",Premier League (England),€163K,€0,47.2,32.5,58.0,41.9,55,CAM,168cm,Left
+894038,Gray,23,Sudan,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€167K,€0,53.8,55.8,37.6,24.7,55,LWB,157cm,Left
+17531,B. Smith,26,France,Carter Ltd,Premier League (England),€157K,€0,25.3,11.3,58.3,45.2,55,CDM,172cm,Right
+353773,P. Lowe,31,Dominica,Boyd-Payne,Logan Ltd (Christmas Island),€162K,€0,54.6,53.4,54.3,49.4,55,GK,201cm,Left
+624155,G. Ross,26,Honduras,Diaz PLC,Premier League (England),€165K,€0,31.8,47.7,57.1,41.1,55,LWB,197cm,Right
+738972,G. Glass,24,French Polynesia,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€160K,€0,57.3,49.4,46.5,46.0,55,LW,199cm,Right
+731013,J. Perez,26,Christmas Island,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€150K,€0,41.6,59.0,41.1,17.8,55,CM,175cm,Right
+903350,Maurice Jr.,29,Vanuatu,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€157K,€0,49.7,48.4,55.8,50.9,55,CDM,198cm,Left
+633185,M. King,22,Bouvet Island (Bouvetoya),Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€147K,€0,60.2,28.5,37.7,37.6,55,RM,199cm,Left
+43534,Dustin Jr.,32,Dominica,Carter Ltd,Premier League (England),€150K,€0,24.9,41.5,58.6,44.7,55,RW,159cm,Right
+765038,S. Miller,23,Honduras,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€144K,€0,46.4,51.9,55.2,54.0,55,RB,180cm,Right
+527572,B. Kennedy,20,France,Levy Group,"King, Chandler and Taylor (Mali)",€145K,€0,21.2,29.9,59.2,40.4,55,LW,163cm,Right
+536008,R. Cantu,25,France,Williams-Flynn,Premier League (England),€151K,€0,35.6,55.3,53.2,17.5,55,RB,209cm,Left
+839280,J. Welch,30,France,"Schultz, Johnson and Aguilar",Premier League (England),€145K,€0,38.4,49.1,56.8,23.6,55,LWB,171cm,Right
+921351,Wayne Lee,22,Sudan,Williams-Flynn,Premier League (England),€143K,€0,45.3,20.0,57.0,49.0,55,CF,188cm,Left
+257803,Micheal Brown,32,Zambia,"Chan, Hoover and Rios",Premier League (England),€140K,€0,27.1,34.4,25.2,61.3,55,RB,155cm,Left
+896792,J. Cole,25,Dominica,Taylor-Le,Orozco-Sosa (Christmas Island),€140K,€0,20.5,28.3,56.7,48.8,55,RB,198cm,Right
+426066,Gregory Kim,24,Dominica,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€144K,€0,53.1,47.8,53.8,46.9,54,RWB,160cm,Left
+385387,A. Browning,31,Honduras,Diaz PLC,Premier League (England),€139K,€0,59.2,27.2,36.6,29.7,54,CAM,205cm,Left
+754158,W. Rubio,22,Vanuatu,"Chan, Hoover and Rios",Premier League (England),€139K,€0,58.4,23.4,30.0,39.0,54,CF,204cm,Left
+729799,Crawford,31,Bouvet Island (Bouvetoya),Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€147K,€0,51.3,37.9,34.4,55.0,54,LWB,193cm,Right
+656452,E. Jimenez,30,Vanuatu,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€135K,€0,46.7,53.5,27.1,54.3,54,RW,204cm,Right
+754916,R. Newman,18,Dominica,Diaz PLC,Premier League (England),€130K,€0,58.5,28.9,40.9,41.5,54,LM,207cm,Left
+615661,Foster,26,Bouvet Island (Bouvetoya),Boyd-Payne,Logan Ltd (Christmas Island),€128K,€0,56.4,26.0,41.5,48.2,54,RB,150cm,Right
+722245,J. Phelps,39,Mali,"Brown, Peterson and Davis",Premier League (England),€139K,€0,24.9,37.8,60.0,31.2,54,RB,202cm,Left
+67263,Tyler Allen,22,Honduras,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€134K,€0,36.7,59.4,30.8,17.9,54,CM,152cm,Left
+862279,S. Williams,22,Vanuatu,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€127K,€0,59.2,39.9,37.4,9.4,54,LM,151cm,Right
+731208,C. Taylor,25,Mali,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€120K,€0,36.1,40.2,55.3,49.4,54,RWB,197cm,Left
+149631,Caleb Neal,48,Sudan,Manchester United,Premier League (England),€124K,€0,37.0,24.7,51.0,55.2,54,CF,152cm,Left
+198910,A. Brown,27,Christmas Island,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€127K,€0,34.7,21.8,22.1,61.0,54,CAM,175cm,Right
+321900,E. Owens,30,Malta,Levy Group,"King, Chandler and Taylor (Mali)",€117K,€0,55.3,49.5,40.5,34.2,54,LB,166cm,Left
+27374,E. Henderson,22,Dominica,Boyd-Payne,Logan Ltd (Christmas Island),€131K,€0,34.8,45.5,53.0,53.7,54,CF,176cm,Right
+764760,M. Jordan,20,Sudan,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€114K,€0,42.4,40.8,29.1,57.8,54,RB,195cm,Right
+969567,Ernest Lynch,24,France,Carter Ltd,Premier League (England),€117K,€0,49.4,48.3,54.9,31.0,54,LWB,200cm,Right
+249061,K. Rios,27,Dominica,Lucas-Beasley,Li Inc (Christmas Island),€113K,€0,44.8,45.4,54.2,52.5,54,LW,202cm,Right
+216448,C. Walton,26,Sudan,Sanchez Inc,"King, Chandler and Taylor (Mali)",€114K,€0,28.3,23.6,52.7,55.0,54,ST,201cm,Right
+585179,J. Livingston,43,Malta,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€113K,€0,49.3,51.4,54.5,29.1,54,RM,181cm,Left
+704777,M. Holt,23,Zambia,"Blair, Strickland and Perry",Premier League (England),€113K,€0,39.9,19.6,57.1,39.1,53,CM,174cm,Right
+426432,J. Waters,24,Bouvet Island (Bouvetoya),"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€109K,€0,20.4,46.4,55.8,34.8,53,RM,179cm,Right
+41429,A. Stevens,29,Bouvet Island (Bouvetoya),Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€111K,€0,43.9,31.2,56.2,35.0,53,LB,172cm,Right
+131548,B. Wilson,30,French Polynesia,Levy Group,"King, Chandler and Taylor (Mali)",€110K,€0,39.8,55.2,16.4,47.6,53,ST,200cm,Left
+721994,R. Landry,32,Christmas Island,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€113K,€0,44.6,43.7,56.1,16.7,53,CM,193cm,Left
+91256,Johnson,23,France,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€105K,€0,50.4,43.8,53.6,45.7,53,LWB,171cm,Right
+574710,E. Shah,23,Honduras,Levy Group,"King, Chandler and Taylor (Mali)",€104K,€0,52.2,52.6,53.3,37.3,53,LW,154cm,Right
+263486,Juan Reeves,31,Zambia,"Chan, Hoover and Rios",Premier League (England),€107K,€0,56.8,42.9,29.2,10.2,53,LW,151cm,Left
+828881,Matthew Jr.,26,Christmas Island,Mccarty PLC,Premier League (England),€112K,€0,37.7,26.8,55.0,45.8,53,CDM,155cm,Left
+525987,D. Santana,27,Zambia,"Schultz, Johnson and Aguilar",Premier League (England),€99K,€0,23.3,21.2,59.9,33.2,53,LM,163cm,Right
+132789,Phillip Jr.,30,Malta,Douglas LLC,Li Inc (Christmas Island),€99K,€0,53.3,50.0,51.2,48.4,53,GK,163cm,Left
+502104,S. Allen,23,Malta,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€107K,€0,39.1,35.5,57.1,32.6,53,LM,208cm,Left
+35236,Patrick Jr.,30,Mali,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€95K,€0,48.8,29.7,53.9,22.9,53,CM,182cm,Left
+658282,W. Mathis,23,Zambia,Diaz PLC,Premier League (England),€90K,€0,53.9,37.4,50.2,18.8,53,GK,176cm,Left
+273273,M. Anderson,26,France,"Moore, Porter and Oliver",Premier League (England),€89K,€0,30.5,30.4,51.1,54.2,53,CM,150cm,Left
+191391,C. Rodriguez,33,French Polynesia,Douglas LLC,Li Inc (Christmas Island),€88K,€0,53.1,51.2,31.8,52.2,53,RM,209cm,Left
+593063,Mcneil,28,Malta,Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€102K,€0,54.7,34.7,27.0,48.6,53,LB,172cm,Right
+404712,E. Martin,30,Christmas Island,Saunders-Mccarthy,"Kirk, Garcia and Martin (Vanuatu)",€87K,€0,51.6,44.3,46.7,54.0,53,GK,150cm,Left
+814356,C. Mcdonald,29,Zambia,Lucas-Beasley,Li Inc (Christmas Island),€94K,€0,53.2,50.8,31.7,37.5,53,RWB,210cm,Left
+175448,K. Castillo,28,Sudan,Best LLC,Premier League (England),€83K,€0,54.5,12.2,48.7,34.5,53,RW,190cm,Right
+322949,M. George,30,Dominica,Best LLC,Premier League (England),€84K,€0,23.9,55.5,46.1,43.7,53,CAM,190cm,Right
+781780,D. Parks,53,France,"Schultz, Johnson and Aguilar",Premier League (England),€83K,€0,49.2,54.8,41.4,39.4,53,RWB,182cm,Right
+806357,J. Velez,38,Dominica,Washington Group,"Valdez, Lee and Moore (Vanuatu)",€80K,€0,48.4,54.4,46.9,9.6,53,LB,187cm,Right
+339459,Matthew Jr.,31,Honduras,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€80K,€0,59.3,24.2,35.1,19.0,53,LW,191cm,Right
+159301,A. Allen,30,Dominica,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€83K,€0,32.4,52.9,51.5,49.7,53,LW,158cm,Right
+544338,M. Carney,23,Malta,Boyd-Payne,Logan Ltd (Christmas Island),€87K,€0,41.4,56.7,36.5,41.3,53,LM,182cm,Right
+159453,I. Ford,31,Malta,Boyd-Payne,Logan Ltd (Christmas Island),€78K,€0,42.5,34.5,44.7,55.5,53,LB,179cm,Right
+962387,P. Jones,25,Christmas Island,Mccarty PLC,Premier League (England),€77K,€0,51.1,47.9,53.7,38.2,53,LM,191cm,Left
+733096,S. Barker,49,Malta,"Chan, Hoover and Rios",Premier League (England),€79K,€0,51.2,28.4,54.0,33.7,53,LM,200cm,Left
+839732,T. Ramirez,40,French Polynesia,Griffin Ltd,Premier League (England),€68K,€0,52.4,49.5,53.0,11.8,53,LM,161cm,Left
+606245,K. Davis,33,Sudan,"Allen, Howard and Bruce",Coleman-Williams (Mali),€80K,€0,56.4,35.1,39.4,40.8,52,ST,181cm,Left
+475312,B. Hill,22,Dominica,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€67K,€0,55.9,31.6,24.0,40.9,52,CM,202cm,Right
+614970,C. Drake,29,Malta,Boyd-Payne,Logan Ltd (Christmas Island),€70K,€0,47.2,46.7,51.6,52.8,52,CM,159cm,Left
+795378,N. Sims,21,Dominica,Harris-Wells,Logan Ltd (Christmas Island),€65K,€0,53.7,48.8,43.9,40.7,52,LWB,178cm,Right
+665104,D. Smith,22,Christmas Island,"Brown, Peterson and Davis",Premier League (England),€70K,€0,32.9,40.0,56.0,29.2,52,CM,163cm,Right
+452125,E. Stewart,24,France,Douglas LLC,Li Inc (Christmas Island),€59K,€0,36.4,32.4,55.3,44.0,52,RM,168cm,Left
+542238,Turner,35,Sudan,Manchester United,Premier League (England),€57K,€0,53.4,37.8,49.5,46.7,52,RM,187cm,Left
+641074,Rose,21,Honduras,Dean Group,Premier League (England),€57K,€0,28.5,11.0,52.3,52.2,52,CAM,155cm,Right
+248460,T. Cameron,30,France,Boyd-Payne,Logan Ltd (Christmas Island),€64K,€0,51.6,51.9,29.0,33.5,52,CAM,154cm,Right
+10974,Jeffery Jr.,31,Sudan,Boyd-Payne,Logan Ltd (Christmas Island),€57K,€0,53.4,32.2,49.7,31.6,52,LB,170cm,Left
+838549,E. Cooper,20,Sudan,"Blair, Strickland and Perry",Premier League (England),€55K,€0,29.5,45.2,54.4,40.6,52,LM,158cm,Right
+298241,J. Hall,32,Dominica,Cunningham-Roberts,Premier League (England),€54K,€0,50.9,52.4,38.3,37.2,52,LB,209cm,Left
+134421,J. Long,29,Bouvet Island (Bouvetoya),Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€53K,€0,40.6,30.4,53.1,48.9,52,RW,205cm,Right
+642346,M. Boyd,32,Christmas Island,Best LLC,Premier League (England),€51K,€0,40.2,29.0,55.4,33.8,52,RW,159cm,Left
+429465,Tyler Jr.,25,Honduras,"Allen, Howard and Bruce",Coleman-Williams (Mali),€53K,€0,7.0,11.8,47.0,53.0,52,LB,178cm,Right
+675269,G. Rogers,29,Vanuatu,Lucas-Beasley,Li Inc (Christmas Island),€42K,€0,54.8,36.5,27.9,45.6,52,GK,180cm,Right
+577168,Isaac Lewis,37,Mali,Burgess and Sons,Orozco-Sosa (Christmas Island),€43K,€0,55.4,22.4,30.1,43.2,52,RW,208cm,Left
+593763,Mark Jr.,27,Bouvet Island (Bouvetoya),Boyd-Payne,Logan Ltd (Christmas Island),€49K,€0,55.2,19.1,29.6,41.3,52,CF,208cm,Right
+470888,J. Jensen,15,Sudan,Best LLC,Premier League (England),€42K,€0,45.6,53.5,44.6,42.9,52,LW,158cm,Left
+815010,W. Smith,29,Malta,"Blair, Strickland and Perry",Premier League (England),€37K,€0,54.2,32.5,28.0,46.8,52,LW,200cm,Right
+639059,Wood,24,Christmas Island,Burgess and Sons,Orozco-Sosa (Christmas Island),€40K,€0,47.7,31.8,51.9,31.0,51,CAM,154cm,Left
+803198,D. Keith,26,Vanuatu,Best LLC,Premier League (England),€39K,€0,47.2,38.6,47.1,52.0,51,CM,192cm,Left
+221690,Jeffrey Jr.,27,Vanuatu,Harris-Wells,Logan Ltd (Christmas Island),€43K,€0,51.6,45.9,49.6,44.3,51,RW,180cm,Right
+803725,J. Buckley,23,Christmas Island,Carter Ltd,Premier League (England),€30K,€0,53.7,42.4,20.1,33.2,51,LWB,162cm,Left
+156918,Douglas Carter,34,Christmas Island,Harris-Peterson,Premier League (England),€31K,€0,30.7,15.3,47.9,51.8,51,GK,178cm,Left
+124464,J. Solomon,25,Dominica,Jones LLC,White-Flores (Bouvet Island (Bouvetoya)),€36K,€0,52.4,44.5,48.0,39.1,51,GK,187cm,Left
+796374,J. Chandler,34,Bouvet Island (Bouvetoya),Dean Group,Premier League (England),€37K,€0,46.1,52.6,37.5,40.1,51,LWB,203cm,Left
+370690,M. Rojas,35,French Polynesia,Smith-Perez,Orozco-Sosa (Christmas Island),€26K,€0,42.5,52.8,37.3,46.8,51,CDM,195cm,Right
+977550,Brown,24,Dominica,Wallace LLC,"Kirk, Garcia and Martin (Vanuatu)",€26K,€0,33.3,46.3,52.7,41.5,51,GK,188cm,Right
+232913,Michael Jr.,35,Dominica,Mccullough-Alexander,Premier League (England),€36K,€0,33.0,23.7,54.5,40.1,51,GK,176cm,Right
+85754,D. Bennett,30,Dominica,"Charles, Keith and Taylor",Orozco-Sosa (Christmas Island),€23K,€0,53.4,23.5,42.7,26.7,51,RB,151cm,Left
+516494,D. Valenzuela,47,Vanuatu,Smith-Perez,Orozco-Sosa (Christmas Island),€20K,€0,31.0,50.1,44.4,50.2,50,LW,189cm,Left
+746197,Gregory Jr.,20,Zambia,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€26K,€0,31.5,43.5,42.9,52.0,50,CF,206cm,Left
+336726,Ruben Jr.,31,Malta,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€18K,€0,41.2,36.3,39.0,53.4,50,RM,179cm,Left
+66399,Walter Benton,34,Honduras,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€21K,€0,52.7,41.2,39.8,17.9,50,CDM,172cm,Left
+140640,P. Alexander,25,French Polynesia,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€19K,€0,53.1,39.6,29.9,38.0,50,CF,201cm,Left
+83343,M. Reid,33,Mali,FC Barcelona,"King, Chandler and Taylor (Mali)",€13K,€0,50.7,36.8,46.6,38.9,50,RWB,208cm,Right
+18453,T. Ortiz,33,Dominica,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€18K,€0,48.5,35.1,50.8,36.6,50,RB,176cm,Right
+952394,Jeremy Gomez,21,Zambia,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€14K,€0,47.5,50.1,38.8,48.0,50,CM,184cm,Right
+878709,J. Taylor,34,French Polynesia,Burgess and Sons,Orozco-Sosa (Christmas Island),€11K,€0,54.5,37.8,23.0,17.7,50,CAM,199cm,Left
+469738,R. Jefferson,25,Dominica,"Allen, Howard and Bruce",Coleman-Williams (Mali),€12K,€0,42.3,40.5,30.7,53.1,50,RWB,206cm,Right
+822154,Francisco Foster,50,Honduras,FC Bayern München,"Valdez, Lee and Moore (Vanuatu)",€11K,€0,39.4,53.6,36.4,40.2,50,RW,196cm,Left
+887793,Charles Jr.,35,Mali,Powell-Deleon,Orozco-Sosa (Christmas Island),€14K,€0,20.6,15.6,52.6,41.2,50,CF,162cm,Right
+52271,J. Welch,35,Honduras,"Brown, Peterson and Davis",Premier League (England),€10K,€0,47.6,41.8,49.9,49.7,50,LWB,166cm,Left
+339092,John Stewart,28,Mali,Manchester United,Premier League (England),€8K,€0,41.5,41.2,40.5,52.2,50,LM,205cm,Left
+355901,J. Smith,23,Vanuatu,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€10K,€0,52.1,42.0,33.9,13.9,50,RM,195cm,Right
+151530,W. Cox,39,Zambia,Carter Ltd,Premier League (England),€6K,€0,51.5,22.9,40.5,46.7,50,LB,173cm,Left
+270679,M. Haley,23,Zambia,Harris-Wells,Logan Ltd (Christmas Island),€750,€0,30.3,44.2,50.7,41.0,49,RWB,177cm,Right
+336595,Wilson,19,Dominica,Li and Sons,Coleman-Williams (Mali),€750,€0,40.3,31.7,43.0,51.1,49,CM,153cm,Left
+418542,M. Walker,20,Sudan,Levy Group,"King, Chandler and Taylor (Mali)",€750,€0,46.3,50.0,41.1,15.3,49,LW,154cm,Left
+828497,E. Sanchez,32,Sudan,Lee-Allen,Li Inc (Christmas Island),€6K,€0,24.9,37.9,31.9,53.2,49,RWB,173cm,Left
+18269,Jeffrey Lane,16,Dominica,Williams-Flynn,Premier League (England),€9K,€0,23.6,15.7,52.8,36.5,49,GK,153cm,Left
+616311,Wallace,30,Bouvet Island (Bouvetoya),"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€750,€0,49.9,48.0,27.7,6.7,49,RB,169cm,Left
+789325,J. Fernandez,20,Dominica,Best LLC,Premier League (England),€750,€0,37.6,49.9,8.1,48.2,49,LB,159cm,Right
+846797,R. Bates,26,Zambia,"Allen, Howard and Bruce",Coleman-Williams (Mali),€750,€0,43.0,50.5,41.4,24.7,49,CAM,175cm,Left
+691906,Michael Adams,25,Honduras,Walker Group,"Valdez, Lee and Moore (Vanuatu)",€750,€0,31.7,49.0,47.4,25.8,49,LW,162cm,Left
+663858,Todd Hopkins,29,French Polynesia,Williams-Flynn,Premier League (England),€750,€0,30.6,27.8,49.9,44.3,48,CDM,195cm,Right
+196967,Shaun Jones,24,Vanuatu,Taylor-Le,Orozco-Sosa (Christmas Island),€750,€0,44.9,36.1,48.4,17.8,48,CAM,204cm,Left
+8612,J. Johnson,29,Sudan,Garcia-Frazier,White-Flores (Bouvet Island (Bouvetoya)),€750,€0,26.5,38.0,48.6,46.4,48,RM,157cm,Left
+541117,Nelson,29,French Polynesia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€750,€0,38.0,26.6,33.2,51.3,48,LM,197cm,Left
+246436,R. Lane,46,Zambia,Boyd-Payne,Logan Ltd (Christmas Island),€750,€0,16.3,48.7,44.4,41.9,48,CM,186cm,Left
+631506,K. Thomas,32,France,FC Barcelona,"King, Chandler and Taylor (Mali)",€750,€0,42.9,41.7,48.7,44.3,48,RB,187cm,Right
+566261,B. Gaines,18,France,Carter Ltd,Premier League (England),€750,€0,37.3,21.0,32.9,51.4,48,LM,207cm,Right
+124336,Steve Jr.,24,Malta,Best LLC,Premier League (England),€500,€0,14.0,38.0,45.0,48.8,48,ST,187cm,Left
+689748,M. White,21,Malta,Li and Sons,Coleman-Williams (Mali),€750,€0,32.5,48.8,32.6,46.3,48,GK,177cm,Right
+484950,Mark Richardson,24,Vanuatu,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€750,€0,49.5,42.2,38.6,13.0,48,CF,191cm,Right
+411267,J. Barr,50,Christmas Island,Diaz PLC,Premier League (England),€750,€0,36.3,26.8,52.3,18.5,48,RW,192cm,Right
+362327,J. Baker,31,Bouvet Island (Bouvetoya),"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€750,€0,50.1,17.7,42.4,25.8,48,CDM,175cm,Right
+559763,Harris,29,France,"Allen, Howard and Bruce",Coleman-Williams (Mali),€500,€0,51.2,27.8,39.3,38.2,48,RB,188cm,Left
+453871,K. Ryan,25,Christmas Island,Lucas-Beasley,Li Inc (Christmas Island),€500,€0,41.7,35.5,37.4,50.7,48,CAM,196cm,Left
+462635,D. Simpson,32,Malta,Lucas-Beasley,Li Inc (Christmas Island),€500,€0,31.9,48.6,45.8,19.4,48,LM,180cm,Right
+274229,Paul Jr.,21,France,Lee-Allen,Li Inc (Christmas Island),€500,€0,36.7,34.3,37.2,52.1,48,CAM,188cm,Left
+479040,J. Jordan,28,Christmas Island,Burgess and Sons,Orozco-Sosa (Christmas Island),€500,€0,37.0,22.5,51.8,36.0,48,LWB,153cm,Right
+249816,P. Chavez,16,Zambia,Williams Ltd,"Kirk, Garcia and Martin (Vanuatu)",€500,€0,33.0,38.8,38.6,51.3,48,GK,155cm,Left
+319696,Bush,27,French Polynesia,Smith-Perez,Orozco-Sosa (Christmas Island),€500,€0,34.1,22.4,46.7,46.9,47,LM,195cm,Left
+861986,R. Brock,22,Honduras,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€500,€0,37.7,47.3,34.9,44.2,47,RB,209cm,Right
+722993,B. Watson,20,Bouvet Island (Bouvetoya),"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€500,€0,47.8,42.3,44.1,14.8,47,CAM,174cm,Right
+542970,Calvin Jr.,25,Malta,Mccullough-Alexander,Premier League (England),€500,€0,9.8,19.1,36.8,50.6,47,RM,205cm,Right
+290018,J. Martin,21,Christmas Island,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€500,€0,37.3,48.6,41.2,43.1,47,RM,209cm,Left
+814496,M. Chung,34,Malta,Paris Saint Germain,Premier League (England),€500,€0,48.3,26.1,44.7,41.3,47,RB,205cm,Left
+951415,C. Fernandez,33,Bouvet Island (Bouvetoya),Burgess and Sons,Orozco-Sosa (Christmas Island),€500,€0,48.2,18.1,40.1,23.6,46,CAM,189cm,Left
+247947,J. Aguilar,31,Zambia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€500,€0,22.2,53.4,25.4,17.9,46,CM,193cm,Right
+248557,T. Lozano,28,Mali,Boyd-Payne,Logan Ltd (Christmas Island),€500,€0,48.7,39.7,36.7,17.6,46,RB,202cm,Right
+396160,Johnson,37,Dominica,"Chan, Hoover and Rios",Premier League (England),€500,€0,28.3,30.3,51.0,26.1,46,CM,158cm,Right
+453548,D. Jones,26,Christmas Island,Lucas-Beasley,Li Inc (Christmas Island),€500,€0,52.1,15.4,26.7,14.6,46,RB,207cm,Left
+339296,Walker,24,French Polynesia,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€500,€0,37.9,19.4,42.6,47.1,46,CF,181cm,Left
+843964,T. Gomez,54,Sudan,Dean Group,Premier League (England),€500,€0,41.2,43.4,45.1,28.0,45,CAM,158cm,Left
+960075,S. Ramos,29,Sudan,Dean Group,Premier League (England),€250,€0,25.9,23.5,31.0,49.9,45,LB,184cm,Left
+723273,R. Stone,19,Bouvet Island (Bouvetoya),Sanchez Inc,"King, Chandler and Taylor (Mali)",€250,€0,41.7,26.3,31.5,45.8,45,CF,161cm,Left
+739986,Sanders,21,Vanuatu,Lee-Allen,Li Inc (Christmas Island),€500,€0,39.3,24.4,46.1,42.4,45,RM,154cm,Left
+650060,J. Lambert,32,France,"Schultz, Johnson and Aguilar",Premier League (England),€250,€0,41.3,42.4,45.9,37.1,45,ST,201cm,Left
+749288,J. Brown,23,Bouvet Island (Bouvetoya),Paris Saint Germain,Premier League (England),€250,€0,44.4,44.9,18.9,39.2,45,LB,154cm,Right
+942353,Kevin Jr.,50,Malta,Cunningham-Roberts,Premier League (England),€250,€0,39.0,43.6,44.4,18.8,44,LB,209cm,Left
+322335,M. Clayton,30,Malta,Harris-Wells,Logan Ltd (Christmas Island),€250,€0,31.4,25.2,45.1,39.5,44,CM,162cm,Left
+682917,Gray,31,Christmas Island,Johnson PLC,White-Flores (Bouvet Island (Bouvetoya)),€500,€0,33.2,32.8,35.7,46.6,44,LWB,191cm,Right
+52230,K. Rodriguez,29,Zambia,Manchester United,Premier League (England),€250,€0,42.9,41.3,44.5,40.3,44,LWB,173cm,Left
+69400,N. Brown,34,Bouvet Island (Bouvetoya),"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€250,€0,42.2,33.7,40.6,44.9,44,CF,205cm,Right
+974883,W. Escobar,21,Vanuatu,"Chan, Hoover and Rios",Premier League (England),€250,€0,42.0,37.5,43.9,28.6,43,RB,176cm,Left
+786688,G. Johnson,22,Zambia,"Blair, Strickland and Perry",Premier League (England),€250,€0,36.6,37.2,33.3,44.6,43,LW,190cm,Right
+90966,J. Ryan,28,Malta,Smith-Mcgee,Coleman-Williams (Mali),€250,€0,29.6,47.1,11.5,20.9,43,RWB,158cm,Right
+819193,J. Harris,32,France,"Blair, Strickland and Perry",Premier League (England),€250,€0,45.7,16.5,34.8,23.1,43,LWB,175cm,Left
+435627,A. Martinez,21,Christmas Island,Vaughan-Young,White-Flores (Bouvet Island (Bouvetoya)),€250,€0,36.4,29.9,35.8,45.5,43,CM,205cm,Right
+296617,J. Nichols,34,French Polynesia,Sanchez Inc,"King, Chandler and Taylor (Mali)",€250,€0,39.1,14.3,42.1,43.9,43,CM,173cm,Left
+59225,Wright,20,Mali,Manchester United,Premier League (England),€250,€0,45.5,15.7,33.1,34.7,43,CF,177cm,Left
+527170,Jason Jimenez,33,Mali,"Marquez, Nicholson and Anderson","Valdez, Lee and Moore (Vanuatu)",€250,€0,44.9,38.7,33.9,14.4,43,CM,164cm,Right
+707479,Fischer,41,Christmas Island,"Espinoza, Wright and Palmer","King, Chandler and Taylor (Mali)",€250,€0,45.7,10.6,34.1,31.9,43,RM,191cm,Right
+560028,Jason Jr.,32,France,Smith-Mcgee,Coleman-Williams (Mali),€250,€0,35.7,43.5,32.3,43.2,43,CAM,185cm,Right
+57882,C. Odom,39,Christmas Island,Johnson LLC,"Miller, Rowe and Horne (Honduras)",€250,€0,32.4,24.3,33.7,44.5,42,CF,175cm,Right
+336504,C. Lawson,21,Christmas Island,Lee-Allen,Li Inc (Christmas Island),€250,€0,23.8,43.8,36.7,16.6,42,RB,184cm,Right
+706159,G. Smith,28,Bouvet Island (Bouvetoya),Washington Group,"Valdez, Lee and Moore (Vanuatu)",€250,€0,31.6,35.1,43.1,38.2,42,CDM,150cm,Left
+75898,J. Howell,29,France,"Schultz, Johnson and Aguilar",Premier League (England),€250,€0,39.1,30.6,42.3,22.6,42,RWB,177cm,Left
+18926,R. Lopez,17,Christmas Island,Manchester United,Premier League (England),€0,€0,34.6,34.8,43.9,27.5,42,CDM,164cm,Right
+272993,M. Wilson,40,Honduras,Cunningham-Roberts,Premier League (England),€0,€0,25.6,27.5,46.7,23.5,42,CDM,190cm,Right
+371377,B. Buckley,32,French Polynesia,Burgess and Sons,Orozco-Sosa (Christmas Island),€0,€0,24.7,45.2,34.2,34.3,42,LB,193cm,Right
+404170,A. Branch,22,Bouvet Island (Bouvetoya),Liverpool,"Kirk, Garcia and Martin (Vanuatu)",€250,€0,39.6,40.1,29.7,42.5,42,RWB,167cm,Left
+16953,S. Taylor,23,Dominica,Petersen Inc,"Valdez, Lee and Moore (Vanuatu)",€0,€0,42.7,37.0,23.1,11.0,41,LW,170cm,Left
+344947,C. Ray,27,Dominica,Smith-Mcgee,Coleman-Williams (Mali),€0,€0,35.3,22.3,31.3,41.2,40,CAM,201cm,Left
+969391,E. Stout,35,Zambia,Berger Inc,White-Flores (Bouvet Island (Bouvetoya)),€0,€0,29.8,39.9,34.3,39.6,40,RW,171cm,Right
+544173,D. Duran,52,Sudan,Griffin Ltd,Premier League (England),€0,€0,38.8,19.5,40.3,25.4,40,LW,190cm,Right
+656711,J. Johnston,50,French Polynesia,Douglas LLC,Li Inc (Christmas Island),€0,€0,37.2,39.3,16.4,18.4,39,CDM,206cm,Left
+526889,A. Washington,18,Malta,Powell-Deleon,Orozco-Sosa (Christmas Island),€0,€0,39.5,27.9,22.2,39.1,39,LWB,162cm,Right
+134159,J. Hill,26,Dominica,Cunningham-Roberts,Premier League (England),€0,€0,38.3,38.0,33.7,39.2,39,RB,173cm,Right
+3670,James Jr.,52,Zambia,"Brown, Peterson and Davis",Premier League (England),€250,€0,34.0,37.9,28.0,39.8,39,CF,207cm,Right
+446161,J. Howard,50,Zambia,Mccullough-Alexander,Premier League (England),€0,€0,33.0,41.2,34.2,29.0,39,RW,151cm,Right
+133671,Hoffman,22,French Polynesia,Lucas-Beasley,Li Inc (Christmas Island),€0,€0,34.3,36.8,13.5,38.8,38,RW,186cm,Right
+814887,Roberts,21,Vanuatu,Smith-Mcgee,Coleman-Williams (Mali),€0,€0,38.4,37.6,21.9,14.7,38,CM,199cm,Left
+755445,A. Banks,34,Vanuatu,Lee-Allen,Li Inc (Christmas Island),€0,€0,26.7,40.8,15.0,19.7,37,CM,183cm,Right
+282552,N. Velez,22,Sudan,Burgess and Sons,Orozco-Sosa (Christmas Island),€0,€0,32.0,25.1,33.7,37.8,37,RW,186cm,Left
+279982,R. Morgan,32,Bouvet Island (Bouvetoya),Griffin-Johnson,"King, Chandler and Taylor (Mali)",€0,€0,30.2,17.3,26.2,36.3,35,RM,185cm,Right
+166141,C. Sosa,22,Mali,Smith-Mcgee,Coleman-Williams (Mali),€0,€0,26.5,32.1,36.5,21.1,35,CDM,189cm,Right
+582923,J. Moore,55,Sudan,Griffin-Johnson,"King, Chandler and Taylor (Mali)",€0,€0,27.3,35.2,22.9,24.4,33,LB,193cm,Right

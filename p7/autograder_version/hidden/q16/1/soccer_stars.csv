@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+984628,B. Roy,28,Cape Verde,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€196.1M,€485K,62.9,10.1,74.1,94.8,90,LW,199cm,Left
+25638,B. Coleman,35,Iraq,Paris Saint Germain,Brown-Ferguson (Yemen),€197.2M,€492K,74.6,39.6,67.0,93.3,89,LW,191cm,Left
+181350,Jackson,55,Chile,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€198.7M,€490K,44.7,90.9,83.4,18.6,89,CF,172cm,Left
+77319,Shelton,34,Comoros,Dunn-Savage,Delacruz LLC (Sierra Leone),€199.2M,€544K,24.0,73.2,94.0,52.1,89,RM,190cm,Left
+148874,A. Jenkins,21,Yemen,"Durham, Villa and Hudson",Premier League (England),€249.9M,€481K,69.0,44.6,49.9,94.1,88,LW,206cm,Left
+797004,Donald Jr.,35,Saint Kitts and Nevis,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€191.1M,€476K,44.1,90.1,20.7,81.3,88,CDM,168cm,Right
+541485,J. Lynn,26,Chad,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€188.8M,€484K,20.0,85.0,87.6,17.2,87,CF,158cm,Left
+648045,R. Hale,27,Yemen,Dunn-Savage,Delacruz LLC (Sierra Leone),€194.5M,€476K,40.1,65.4,94.6,8.3,87,CF,180cm,Left
+550367,S. James,33,Sierra Leone,King Group,Smith-Williams (Saint Kitts and Nevis),€187.4M,€460K,38.4,71.3,92.3,28.9,87,CF,209cm,Left
+206841,D. Henry,20,Cape Verde,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€181.9M,€474K,47.6,77.9,89.9,32.8,87,CF,179cm,Left
+148604,R. Williams,31,Sierra Leone,Adams-Day,Parker-Gibson (Cape Verde),€183.2M,€472K,87.7,22.1,79.0,21.5,86,RW,164cm,Left
+83861,R. Huerta,25,Yemen,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€183M,€494K,82.4,23.0,87.4,12.1,86,RW,185cm,Left
+524479,Nguyen,33,Saint Kitts and Nevis,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€173.6M,€444K,82.6,19.0,85.6,13.6,86,RW,199cm,Left
+189493,John Jr.,23,Botswana,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€172.5M,€431K,93.1,60.3,26.4,60.4,85,LM,191cm,Left
+689706,R. Fox,18,El Salvador,"Reyes, Gray and Jenkins",Premier League (England),€174M,€448K,25.5,93.9,59.8,30.1,85,LW,179cm,Right
+960388,D. Duncan,34,Chile,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€175.2M,€475K,37.0,86.4,79.8,14.3,85,LW,191cm,Right
+26521,Meyers,46,El Salvador,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€171M,€425K,88.6,41.5,74.8,51.3,85,CDM,155cm,Left
+633074,B. Hall,40,Sierra Leone,"Rivera, Lambert and Ramirez",Premier League (England),€161.9M,€427K,28.5,80.5,86.0,14.2,85,LW,150cm,Right
+667421,N. Torres,31,Cape Verde,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€165.5M,€443K,75.8,88.7,43.7,52.4,85,RWB,164cm,Left
+147935,M. Thomas,23,Comoros,"Frye, Gates and Reyes",Premier League (England),€163.9M,€428K,88.5,14.2,71.1,14.3,84,RW,174cm,Left
+270923,A. Burton,38,Sierra Leone,King Group,Smith-Williams (Saint Kitts and Nevis),€152.4M,€407K,78.3,50.2,85.5,27.6,84,RW,192cm,Left
+795903,J. Drake,31,Chile,"Barrett, Harper and Nguyen",Premier League (England),€190.5M,€409K,20.4,91.1,31.2,62.1,84,RM,204cm,Right
+148784,Nicholas White,35,El Salvador,"Miller, Parks and Thomas",Premier League (England),€157.6M,€402K,58.0,88.3,29.5,69.2,84,RWB,167cm,Left
+468286,B. Green,15,Comoros,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€156.6M,€399K,31.5,51.1,94.5,11.8,84,CF,197cm,Left
+468577,Michael Jr.,23,Yemen,FC Bayern München,Premier League (England),€147.1M,€417K,78.4,24.2,86.2,39.0,84,RW,173cm,Left
+993494,C. Richardson,25,Chile,"Harris, Foster and Fischer",Mcclure PLC (Chad),€146.5M,€384K,49.1,27.1,70.3,88.1,84,LW,177cm,Left
+666599,S. Perkins,26,Chile,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€158.3M,€383K,76.8,50.6,86.4,60.4,84,CB,193cm,Left
+52354,B. Howard,26,El Salvador,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€146.3M,€389K,51.7,32.9,55.7,92.9,84,LW,199cm,Left
+265959,L. Barr,21,Iraq,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€143.6M,€371K,72.7,59.7,87.8,64.4,84,CB,207cm,Left
+134941,K. Lee,22,El Salvador,Gonzalez-Sparks,Williams-Smith (El Salvador),€144.3M,€370K,68.6,85.5,55.1,79.6,84,RWB,159cm,Left
+328517,M. Martin,34,Sierra Leone,Manchester United,Smith-Williams (Saint Kitts and Nevis),€144.2M,€398K,89.2,19.2,66.0,53.0,84,CDM,155cm,Left
+540871,James Holland,30,Yemen,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€141.3M,€372K,87.2,28.7,68.8,41.4,83,RW,196cm,Left
+73933,M. Thompson,27,Sierra Leone,"Barrett, Harper and Nguyen",Premier League (England),€130.2M,€358K,65.3,36.6,66.6,88.8,83,LW,187cm,Left
+991574,S. Martinez,32,El Salvador,"Miller, Parks and Thomas",Premier League (England),€140.6M,€348K,24.1,88.2,65.6,22.3,83,LW,194cm,Right
+680770,B. Kelly,21,Chad,Miller Ltd,Premier League (England),€127.9M,€359K,89.5,61.8,32.4,43.9,83,LM,176cm,Left
+1233,S. Curtis,26,Brazil,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€146.3M,€372K,10.7,88.3,43.5,66.4,83,RM,163cm,Right
+673182,T. Gray,22,Sierra Leone,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€126.5M,€333K,89.3,40.2,64.9,47.4,83,CDM,200cm,Left
+681660,Wilson,31,Brazil,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€113.8M,€333K,38.6,45.1,56.3,91.4,83,LW,189cm,Left
+755878,C. Yoder,34,El Salvador,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€137.8M,€346K,75.8,46.0,85.4,39.9,83,CB,199cm,Left
+960723,M. Anderson,21,El Salvador,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€123M,€335K,44.6,74.0,85.5,9.8,83,CF,194cm,Left
+649722,S. Aguilar,55,Sierra Leone,"Barrett, Harper and Nguyen",Premier League (England),€110.3M,€328K,24.6,82.9,81.6,41.5,83,LW,200cm,Right
+986498,M. Webster,31,Sierra Leone,Adams-Day,Parker-Gibson (Cape Verde),€110.7M,€356K,41.7,44.6,85.7,73.4,83,ST,181cm,Left
+151133,M. Clark,29,Brazil,Paris Saint Germain,Brown-Ferguson (Yemen),€111.5M,€312K,18.5,29.1,91.4,57.8,83,ST,163cm,Left
+696692,R. White,22,Botswana,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€104.4M,€332K,77.6,47.7,82.8,51.6,82,CB,153cm,Left
+484190,Cody Yang,31,Chile,Fitzgerald and Sons,Premier League (England),€90.2M,€308K,88.6,63.9,52.7,52.6,82,LM,209cm,Left
+189441,J. Wolfe,33,Chad,Romero Ltd,Premier League (England),€100.4M,€290K,83.3,54.4,23.5,79.7,82,RWB,203cm,Left
+336910,R. Ford,20,Chile,"Durham, Villa and Hudson",Premier League (England),€90.7M,€289K,22.3,83.7,75.4,22.0,82,CF,179cm,Left
+574946,Tyler Douglas,24,Botswana,FC Bayern München,Premier League (England),€94.2M,€330K,55.9,86.3,13.3,67.1,82,CDM,179cm,Right
+558930,M. Whitney,24,Brazil,"Reyes, Gray and Jenkins",Premier League (England),€126.7M,€286K,82.7,43.1,79.9,8.4,82,RW,154cm,Left
+927668,M. Thomas,21,Cape Verde,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€84.4M,€278K,50.2,86.1,50.8,68.1,82,RWB,200cm,Left
+485422,M. Cervantes,37,Sierra Leone,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€84.5M,€295K,48.3,86.6,37.7,70.2,82,CDM,175cm,Right
+895706,J. Yu,27,Yemen,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€86.4M,€280K,64.9,38.8,87.2,15.2,82,RW,151cm,Left
+232774,A. Morales,32,El Salvador,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€80.8M,€268K,46.6,59.4,88.9,28.7,82,ST,178cm,Right
+134744,A. Moore,25,Sierra Leone,Fitzgerald and Sons,Premier League (England),€82.4M,€270K,82.2,31.6,79.6,35.0,82,CDM,183cm,Left
+487206,J. Lynch,25,Saint Kitts and Nevis,Gonzalez-Sparks,Williams-Smith (El Salvador),€81.5M,€267K,55.2,83.2,42.3,78.7,82,RWB,171cm,Left
+53082,C. Michael,27,Botswana,"Miller, Parks and Thomas",Premier League (England),€81.4M,€280K,70.5,85.4,60.7,55.1,82,RWB,192cm,Left
+708443,G. Stevens,35,Iraq,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€74.7M,€272K,52.2,57.6,90.3,40.6,82,RM,206cm,Left
+917632,Jeffrey Jr.,26,Sierra Leone,"Rivera, Lambert and Ramirez",Premier League (England),€80.7M,€264K,42.1,63.2,87.5,38.7,81,RM,151cm,Left
+483819,D. Pittman,23,Iraq,Petersen-Gomez,Premier League (England),€80M,€264K,26.0,39.5,89.1,55.9,81,RM,192cm,Left
+42226,T. Flynn,25,Saint Kitts and Nevis,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€74.2M,€259K,53.4,22.4,62.7,86.5,81,LW,152cm,Left
+886075,B. Turner,26,Yemen,"Harris, Foster and Fischer",Mcclure PLC (Chad),€73.4M,€248K,8.4,60.5,87.4,27.4,81,LW,157cm,Right
+133223,John Jr.,25,Sierra Leone,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€71.6M,€253K,37.6,90.7,43.4,51.0,81,CDM,159cm,Right
+632955,D. Massey,30,Cape Verde,"Reyes, Gray and Jenkins",Premier League (England),€70.5M,€243K,23.3,79.0,32.2,82.3,81,CDM,169cm,Right
+272518,M. Roberts,27,Brazil,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€71.9M,€258K,57.5,84.8,27.1,69.8,81,RWB,170cm,Left
+273097,Lewis,23,Cape Verde,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€78.5M,€242K,80.0,81.6,73.0,44.8,81,RWB,162cm,Right
+273476,Samuel Jr.,35,Sierra Leone,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€66.6M,€228K,44.1,9.5,89.6,53.4,81,ST,152cm,Left
+748797,Franklin,21,Iraq,"Rivera, Lambert and Ramirez",Premier League (England),€69.7M,€219K,49.6,60.9,87.5,48.6,81,RM,179cm,Left
+879908,I. Peterson,42,Chile,Gonzalez-Sparks,Williams-Smith (El Salvador),€68.6M,€262K,79.7,50.7,81.2,47.0,81,CB,186cm,Left
+798401,Walker,29,Chad,Hughes Group,Williams-Smith (El Salvador),€64.1M,€205K,68.5,32.2,84.9,25.3,81,LWB,204cm,Left
+421803,S. Harvey,23,Chile,"Durham, Villa and Hudson",Premier League (England),€58.9M,€228K,77.9,82.2,62.6,54.8,81,RWB,169cm,Right
+257970,Watson,26,Comoros,King Group,Smith-Williams (Saint Kitts and Nevis),€68M,€208K,41.7,37.1,91.0,52.0,81,RM,209cm,Left
+663576,A. Smith,34,Chad,"Miller, Parks and Thomas",Premier League (England),€62.7M,€208K,81.2,75.0,54.5,19.0,80,GK,186cm,Left
+737731,M. Bryant,33,El Salvador,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€65.5M,€189K,84.2,13.3,67.6,38.7,80,RW,162cm,Left
+688599,D. Booth,29,Iraq,"Miller, Parks and Thomas",Premier League (England),€55.2M,€195K,49.2,83.7,6.4,67.8,80,CDM,169cm,Right
+459431,T. Webster,33,Comoros,Petersen-Gomez,Premier League (England),€54.1M,€206K,84.7,59.2,67.4,30.1,80,GK,162cm,Left
+115386,James Jr.,31,Brazil,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€52.6M,€201K,21.6,86.8,57.2,60.9,80,RM,170cm,Right
+459489,K. Bowman,31,Brazil,King Group,Smith-Williams (Saint Kitts and Nevis),€49M,€177K,82.4,71.6,53.7,58.6,80,RWB,171cm,Left
+721952,W. Morris,55,Cape Verde,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€48.9M,€167K,89.2,15.4,51.9,23.4,80,RW,173cm,Left
+959522,White,31,Sierra Leone,"Miller, Parks and Thomas",Premier League (England),€50.1M,€177K,77.6,40.3,80.6,50.9,80,CB,205cm,Left
+623699,Matthew Jr.,28,Sierra Leone,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€57.7M,€176K,83.1,70.2,52.0,31.7,80,GK,176cm,Left
+345242,P. Gray,27,Comoros,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€37.3M,€162K,31.7,78.7,79.8,36.8,80,LW,150cm,Right
+214566,Z. Simmons,30,Iraq,"Durham, Villa and Hudson",Premier League (England),€42.9M,€157K,85.8,63.6,46.4,47.2,80,LM,209cm,Left
+894504,B. Morris,34,Comoros,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€36.9M,€189K,79.0,63.8,79.8,51.7,80,RWB,169cm,Right
+763489,D. Williams,21,Yemen,Miller Ltd,Premier League (England),€48.7M,€163K,47.6,14.2,82.1,72.0,80,ST,195cm,Left
+26647,Burke,24,Iraq,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€34.6M,€148K,33.7,37.0,89.6,52.8,80,RM,155cm,Left
+748157,Jason Hardy,25,Botswana,Manchester United,Smith-Williams (Saint Kitts and Nevis),€30.6M,€153K,82.3,49.0,74.7,27.3,80,RW,201cm,Left
+404155,A. Chavez,26,Sierra Leone,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€36.7M,€157K,37.9,12.2,87.3,56.3,80,ST,168cm,Left
+420607,J. Guzman,25,Sierra Leone,Miller Ltd,Premier League (England),€35.6M,€155K,51.3,43.0,89.0,52.3,80,CB,200cm,Left
+641873,J. Cruz,22,Comoros,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€24.7M,€143K,14.7,62.0,86.5,35.4,80,ST,182cm,Right
+142235,D. Lee,21,Comoros,Paris Saint Germain,Brown-Ferguson (Yemen),€27.1M,€143K,26.8,68.1,84.1,42.1,80,RM,189cm,Left
+953548,E. Arroyo,17,Sierra Leone,Schwartz PLC,Cochran LLC (Comoros),€21.5M,€157K,88.9,32.2,52.3,30.9,80,CDM,171cm,Left
+355689,K. Dean,25,Chad,"Miller, Parks and Thomas",Premier League (England),€33.5M,€143K,83.7,68.7,60.6,36.8,80,GK,190cm,Left
+683476,D. Armstrong,30,Saint Kitts and Nevis,Paris Saint Germain,Brown-Ferguson (Yemen),€27.1M,€138K,75.1,14.1,81.6,33.4,80,LWB,168cm,Left
+691949,Scott Jr.,21,Chile,"Noble, Morton and Francis",Mcclure PLC (Chad),€18.1M,€130K,41.0,78.5,38.3,80.2,80,CDM,165cm,Right
+844086,B. Cruz,26,Comoros,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€13M,€113K,80.8,73.8,71.1,63.1,79,RWB,192cm,Right
+926043,Christopher Bowers,25,Comoros,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€17.7M,€131K,77.7,79.5,56.7,41.9,79,CF,186cm,Right
+33728,D. Wang,34,Chad,Wilson Inc,Premier League (England),€9.9M,€107K,9.0,82.8,36.6,66.2,79,RM,195cm,Right
+369897,Donald Villanueva,18,Chad,Salazar and Sons,Cochran LLC (Comoros),€9.8M,€103K,82.9,23.2,65.4,34.6,79,CDM,195cm,Left
+230670,Hunter Dawson,32,Yemen,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€9.8M,€102K,41.8,19.1,85.3,60.6,79,ST,200cm,Left
+181649,C. Guerrero,32,Sierra Leone,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€9.9M,€103K,77.7,31.3,78.8,34.9,79,LWB,179cm,Left
+714435,P. Campbell,28,Iraq,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€18.7M,€101K,43.8,84.7,62.8,53.6,79,RM,203cm,Right
+272185,T. Bennett,20,El Salvador,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€9.7M,€100K,17.1,48.6,89.3,28.7,79,RM,209cm,Left
+632885,Seth Jr.,24,Iraq,"Reyes, Gray and Jenkins",Premier League (England),€9.8M,€100K,88.7,14.3,51.1,33.5,79,RW,182cm,Left
+559204,Martinez,23,Chile,Petersen-Gomez,Premier League (England),€9.6M,€100K,31.5,86.9,56.8,42.2,79,RM,176cm,Right
+813523,M. Allen,20,Chile,Young-Dominguez,Parker-Gibson (Cape Verde),€9.6M,€99K,86.4,12.4,54.8,17.9,79,RW,171cm,Left
+846326,Martin Jr.,31,Yemen,"Noble, Morton and Francis",Mcclure PLC (Chad),€9.8M,€148K,40.2,44.1,90.9,28.4,79,RM,179cm,Left
+338537,Ethan Odom,40,Brazil,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€9.6M,€99K,50.4,88.6,44.1,48.8,79,CDM,154cm,Right
+109976,D. Jacobs,20,Sierra Leone,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€9.6M,€99K,50.2,81.1,47.6,72.9,79,RWB,183cm,Left
+404891,M. Mullins,27,Comoros,"Reyes, Gray and Jenkins",Premier League (England),€9.6M,€99K,84.1,46.7,54.1,62.8,79,CDM,179cm,Left
+253989,A. Shaffer,30,Comoros,Young-Dominguez,Parker-Gibson (Cape Verde),€9.5M,€99K,62.4,78.3,49.8,75.7,78,RWB,200cm,Left
+663609,Michael Jr.,44,Chile,Romero Ltd,Premier League (England),€9.6M,€99K,76.1,78.7,57.4,32.4,78,CF,181cm,Right
+65800,Michael Reed,33,El Salvador,"Harris, Foster and Fischer",Mcclure PLC (Chad),€9.5M,€99K,16.5,61.3,83.5,47.1,78,LW,152cm,Right
+852492,Benjamin Arnold,20,Comoros,FC Barcelona,Parker-Gibson (Cape Verde),€9.5M,€99K,73.1,42.1,79.4,38.6,78,LWB,172cm,Left
+148080,Jimmy Jr.,29,Iraq,Davis-Franklin,Premier League (England),€9.3M,€98K,78.8,39.6,76.7,24.3,78,LWB,186cm,Left
+492236,A. Zimmerman,34,Saint Kitts and Nevis,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€9.5M,€98K,31.3,81.0,35.2,69.9,78,CDM,163cm,Right
+410317,R. Garner,29,Chile,"Reyes, Gray and Jenkins",Premier League (England),€9.4M,€98K,77.5,78.5,53.0,13.0,78,CF,151cm,Right
+418601,D. Sanchez,35,Chad,"Harris, Foster and Fischer",Mcclure PLC (Chad),€9.2M,€98K,68.4,35.1,81.3,25.0,78,RW,171cm,Left
+172895,S. Ortega,29,Brazil,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€9.2M,€98K,65.4,82.4,52.5,43.1,78,RWB,195cm,Right
+58240,D. Roman,16,Chad,"Noble, Morton and Francis",Mcclure PLC (Chad),€9.2M,€99K,38.8,37.5,52.1,86.3,78,LW,159cm,Left
+197578,Stuart Lynn,53,Botswana,FC Barcelona,Parker-Gibson (Cape Verde),€9.2M,€98K,21.2,59.4,83.7,23.5,78,CF,201cm,Left
+394232,Green,27,Sierra Leone,"Galvan, Williams and Joyce",Premier League (England),€9.1M,€98K,64.1,30.9,82.6,12.9,78,LWB,156cm,Left
+164962,R. Acevedo,30,Iraq,Manchester United,Smith-Williams (Saint Kitts and Nevis),€9M,€98K,84.7,37.8,56.1,41.0,78,RW,173cm,Left
+894168,J. Scott,31,Yemen,Dunn-Savage,Delacruz LLC (Sierra Leone),€9.1M,€98K,62.7,78.7,53.1,77.4,78,RWB,158cm,Left
+820615,Williams,32,Iraq,Salazar and Sons,Cochran LLC (Comoros),€9.1M,€98K,50.1,36.9,87.9,45.7,78,LWB,185cm,Left
+755254,Morales,48,Sierra Leone,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€9.5M,€97K,49.0,64.1,82.9,41.0,78,ST,199cm,Right
+730792,D. Anderson,35,Brazil,Petersen-Gomez,Premier League (England),€8.8M,€97K,80.4,51.6,72.3,22.8,78,RW,191cm,Left
+821140,Andrew Jr.,33,El Salvador,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€8.9M,€97K,63.4,83.4,50.2,50.9,78,RWB,195cm,Left
+878622,R. Long,25,Chile,Leach LLC,Premier League (England),€8.7M,€97K,48.0,31.1,81.3,67.4,78,ST,179cm,Left
+927944,P. Wilson,29,Yemen,Manchester United,Smith-Williams (Saint Kitts and Nevis),€8.5M,€96K,36.9,87.9,13.5,48.9,78,CDM,185cm,Right
+625228,Jack Delgado,33,Botswana,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€8.7M,€97K,40.6,78.8,77.2,47.5,78,CAM,189cm,Right
+43726,J. Patterson,37,Brazil,"Noble, Morton and Francis",Mcclure PLC (Chad),€8.8M,€97K,68.5,20.3,65.7,81.7,78,LW,176cm,Left
+363372,R. Page,30,El Salvador,"Barrett, Harper and Nguyen",Premier League (England),€8.6M,€97K,46.7,78.9,49.7,73.7,78,RWB,177cm,Left
+789369,William Smith,35,Yemen,Young-Dominguez,Parker-Gibson (Cape Verde),€8.4M,€96K,80.2,60.4,49.1,72.4,78,RWB,170cm,Left
+887721,C. Gibbs,20,Iraq,"Galvan, Williams and Joyce",Premier League (England),€8.4M,€96K,81.9,51.2,27.8,64.3,78,LM,176cm,Left
+822211,D. Mclean,21,Yemen,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€8.5M,€96K,24.6,46.8,88.7,30.2,78,RM,150cm,Left
+208138,W. Juarez,26,Brazil,FC Bayern München,Premier League (England),€8.4M,€96K,71.2,31.9,28.9,80.1,78,CM,173cm,Left
+912987,A. Jefferson,24,Saint Kitts and Nevis,"Frye, Gates and Reyes",Premier League (England),€8.3M,€96K,80.8,69.0,48.9,37.4,78,RWB,185cm,Right
+3682,Sanchez,24,Chile,FC Barcelona,Parker-Gibson (Cape Verde),€8.2M,€95K,65.7,82.4,42.4,46.8,78,RWB,170cm,Left
+872296,R. Brown,33,Cape Verde,FC Barcelona,Parker-Gibson (Cape Verde),€8.2M,€98K,78.9,45.3,74.6,31.5,78,RWB,210cm,Right
+245894,J. Goodwin,24,Iraq,Holland Inc,Cochran LLC (Comoros),€8.4M,€95K,61.3,77.2,75.7,31.4,77,CAM,160cm,Right
+819507,S. Evans,34,El Salvador,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€7.7M,€95K,51.6,60.7,82.2,44.6,77,RM,178cm,Left
+90817,Miguel Jr.,35,Sierra Leone,Miller Ltd,Premier League (England),€8M,€95K,81.3,58.4,45.7,63.2,77,RWB,210cm,Right
+656073,C. Love,32,Comoros,Romero Ltd,Premier League (England),€8.2M,€95K,44.7,83.3,57.6,23.4,77,LW,183cm,Right
+762699,C. Rocha,25,Saint Kitts and Nevis,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€8.1M,€95K,71.4,55.3,55.7,79.3,77,CM,168cm,Left
+181244,D. Mcdonald,35,Iraq,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€7.9M,€95K,27.7,61.7,82.1,20.7,77,ST,201cm,Right
+230578,T. Jensen,30,Chad,Salazar and Sons,Cochran LLC (Comoros),€7.5M,€95K,76.9,77.3,38.7,37.3,77,GK,179cm,Left
+714204,W. Chen,21,Brazil,"Rivera, Lambert and Ramirez",Premier League (England),€7.6M,€96K,72.2,79.1,56.2,41.4,77,CF,161cm,Right
+820803,Jimmy Alexander,55,Comoros,"Noble, Morton and Francis",Mcclure PLC (Chad),€7.6M,€94K,77.7,59.8,76.7,58.0,77,CB,199cm,Left
+640695,T. Moore,35,Comoros,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€6.9M,€94K,80.2,68.8,52.7,68.1,77,RWB,186cm,Left
+313231,Jacob Jr.,23,Yemen,"Rivera, Lambert and Ramirez",Premier League (England),€7M,€94K,83.5,17.6,44.4,57.3,77,CDM,164cm,Left
+681965,Kyle Jr.,51,Yemen,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€7.3M,€94K,78.4,55.3,72.2,33.5,77,RWB,189cm,Right
+174121,Herbert Jr.,30,Comoros,"Frye, Gates and Reyes",Premier League (England),€7.1M,€94K,68.0,37.5,65.4,80.1,77,LW,183cm,Left
+764209,Russell,21,Botswana,Young-Dominguez,Parker-Gibson (Cape Verde),€6.9M,€94K,16.1,41.1,79.5,67.9,77,ST,177cm,Left
+969060,C. Tyler,24,Iraq,Petersen-Gomez,Premier League (England),€6.7M,€94K,14.8,66.0,81.3,36.8,77,RM,208cm,Left
+18821,R. Clarke,27,Cape Verde,"Noble, Morton and Francis",Mcclure PLC (Chad),€6.8M,€94K,82.8,58.8,47.5,29.4,77,GK,203cm,Left
+764301,J. Simmons,30,Cape Verde,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€6.9M,€95K,59.3,33.0,82.4,18.5,77,LWB,169cm,Left
+510365,Adams,21,Brazil,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€6.5M,€92K,47.4,22.7,86.8,27.2,77,CB,168cm,Left
+846392,Noah Jr.,20,Saint Kitts and Nevis,Gonzalez-Sparks,Williams-Smith (El Salvador),€6.5M,€93K,76.5,19.4,76.9,62.0,77,CDM,174cm,Left
+961144,R. Ritter,34,Comoros,FC Bayern München,Premier League (England),€6.9M,€93K,81.0,63.2,63.3,48.0,77,GK,158cm,Left
+289987,K. Mueller,22,Saint Kitts and Nevis,FC Barcelona,Parker-Gibson (Cape Verde),€6.6M,€93K,44.9,61.9,82.2,48.5,77,ST,192cm,Right
+413449,M. Watkins,30,Cape Verde,Salazar and Sons,Cochran LLC (Comoros),€6.3M,€92K,68.4,19.4,79.4,34.6,77,LWB,150cm,Left
+470871,C. Guerrero,30,Cape Verde,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€6.3M,€92K,77.5,75.0,51.0,42.9,77,CF,159cm,Right
+696419,W. Thomas,43,Comoros,Gonzalez-Sparks,Williams-Smith (El Salvador),€6.5M,€92K,48.1,80.4,31.6,64.4,76,CDM,185cm,Right
+417940,Michael Coleman,38,Yemen,"Durham, Villa and Hudson",Premier League (England),€6.5M,€93K,36.1,85.8,39.8,46.9,76,CDM,165cm,Right
+958624,D. Bautista,22,Yemen,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€6.2M,€91K,82.8,42.0,56.6,45.4,76,RW,186cm,Left
+352438,Jared Reynolds,25,Iraq,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€5.9M,€92K,39.2,77.6,72.3,33.8,76,CF,157cm,Left
+852154,I. Williams,53,Comoros,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€6.1M,€92K,21.7,66.2,79.6,39.1,76,RM,208cm,Left
+158023,J. Kim,25,Comoros,Young-Dominguez,Parker-Gibson (Cape Verde),€6.6M,€91K,83.0,53.9,31.7,51.9,76,LM,163cm,Left
+156141,B. Hunter,26,El Salvador,Wilson Inc,Premier League (England),€5.8M,€91K,77.5,67.5,44.6,70.9,76,RWB,180cm,Left
+721702,C. Thompson,53,Botswana,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€6.2M,€92K,30.9,46.8,86.1,41.5,76,RM,204cm,Left
+566160,D. Williams,34,Sierra Leone,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€5.8M,€91K,70.9,78.1,26.3,46.9,76,RWB,182cm,Left
+164829,Wesley Jr.,26,Iraq,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€5.8M,€91K,62.2,76.0,37.0,75.4,76,RWB,180cm,Left
+132200,J. Johnson,21,Saint Kitts and Nevis,Miller Ltd,Premier League (England),€5.7M,€90K,63.7,16.5,79.6,48.4,76,CDM,178cm,Left
+689381,Cox,33,Yemen,"Reyes, Gray and Jenkins",Premier League (England),€5.7M,€90K,79.0,33.0,46.9,68.3,76,CDM,165cm,Left
+132367,A. Roberts,23,Yemen,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€5.5M,€90K,15.7,82.9,56.3,39.6,76,CB,198cm,Right
+206147,D. Thompson,17,Iraq,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€5.6M,€90K,62.2,45.2,54.5,80.8,76,LW,188cm,Left
+845142,Parrish,20,Botswana,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€5.4M,€90K,66.0,45.6,79.2,38.2,76,CDM,197cm,Left
+493368,D. Patrick,23,Botswana,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€5.4M,€90K,57.8,82.4,50.4,17.7,76,LB,168cm,Left
+354327,B. Huynh,43,Yemen,Hughes Group,Williams-Smith (El Salvador),€5.5M,€90K,69.0,77.3,71.6,66.5,76,RWB,151cm,Right
+985156,Reginald Jr.,32,Chile,Smith-Sweeney,Mcclure PLC (Chad),€5.4M,€90K,50.2,49.7,84.9,25.8,76,RM,180cm,Left
+329830,R. Brown,20,Sierra Leone,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€5.1M,€89K,48.6,84.6,9.4,23.9,76,LB,167cm,Right
+297081,P. Thomas,27,Chad,FC Bayern München,Premier League (England),€5.3M,€89K,74.7,76.3,36.7,43.3,76,RWB,173cm,Left
+321662,M. Wells,54,Comoros,Adams-Day,Parker-Gibson (Cape Verde),€5.3M,€90K,20.9,86.7,44.8,33.3,76,LB,209cm,Right
+198784,Raymond Jr.,21,Iraq,Fitzgerald and Sons,Premier League (England),€5.2M,€90K,74.2,37.4,53.9,77.2,76,LW,165cm,Left
+92409,D. Horn,24,Sierra Leone,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€5.1M,€91K,11.0,79.6,60.9,63.2,76,RM,198cm,Right
+986199,D. Carter,35,Iraq,Wilson Inc,Premier League (England),€4.9M,€89K,27.8,84.3,50.4,37.2,76,RM,166cm,Right
+838746,T. Savage,25,Comoros,Schwartz PLC,Cochran LLC (Comoros),€5M,€89K,11.7,37.9,79.6,66.2,76,ST,188cm,Left
+544280,R. Walker,30,Sierra Leone,"Miller, Parks and Thomas",Premier League (England),€5M,€89K,44.9,24.5,86.6,36.0,76,CB,209cm,Left
+216685,J. Gallagher,32,Chad,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€4.7M,€89K,43.5,83.5,52.7,27.4,76,LB,161cm,Left
+364255,R. Russell,20,Saint Kitts and Nevis,"Rivera, Lambert and Ramirez",Premier League (England),€4.8M,€88K,79.1,42.6,55.3,66.1,76,CDM,174cm,Left
+257954,Luis Jr.,26,El Salvador,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€4.7M,€88K,78.1,68.9,53.7,28.5,76,RWB,196cm,Right
+32771,J. Chang,33,Comoros,"Noble, Morton and Francis",Mcclure PLC (Chad),€5.1M,€88K,78.0,15.2,65.1,17.7,75,RW,175cm,Left
+319658,C. Spencer,28,Brazil,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€4.7M,€88K,77.2,10.5,64.1,69.2,75,LW,156cm,Left
+828073,J. Pierce,32,Botswana,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€4.8M,€88K,79.7,60.7,31.3,49.5,75,RWB,178cm,Left
+99153,Brady Jr.,21,Cape Verde,"Rivera, Lambert and Ramirez",Premier League (England),€4.6M,€88K,49.3,80.3,44.2,58.5,75,RWB,151cm,Right
+205674,J. Hill,28,Cape Verde,Salazar and Sons,Cochran LLC (Comoros),€4.5M,€89K,56.5,81.8,37.1,37.5,75,LB,186cm,Left
+787353,J. Hall,21,Saint Kitts and Nevis,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€4.3M,€87K,32.5,64.2,78.3,37.7,75,RM,156cm,Left
+762843,Logan Jr.,31,Brazil,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€4.5M,€87K,80.3,45.0,25.2,60.9,75,LM,173cm,Left
+861314,S. Smith,30,Sierra Leone,Swanson-Foster,Delacruz LLC (Sierra Leone),€4.4M,€88K,62.2,30.1,78.7,34.8,75,RW,166cm,Left
+17565,J. Shepard,25,Brazil,Petersen-Gomez,Premier League (England),€4.5M,€87K,13.4,82.5,51.6,50.9,75,RM,209cm,Right
+795915,B. Padilla,30,Sierra Leone,Young-Dominguez,Parker-Gibson (Cape Verde),€4M,€87K,10.2,67.1,77.4,31.9,75,ST,170cm,Right
+623885,E. Miller,25,Chile,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€4.3M,€86K,34.7,80.5,43.7,56.8,75,CDM,168cm,Right
+320950,M. Thomas,28,Yemen,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€4.1M,€87K,82.1,50.2,54.6,30.7,75,CB,177cm,Left
+927194,Maurice Jr.,40,Comoros,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€4M,€87K,26.8,85.1,45.6,44.1,75,CDM,189cm,Right
+910919,J. Allen,48,Sierra Leone,Swanson-Foster,Delacruz LLC (Sierra Leone),€4M,€86K,37.5,65.8,26.4,77.5,75,CM,206cm,Left
+517846,Mathew Tanner,30,El Salvador,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€3.9M,€86K,58.8,79.6,26.8,62.1,75,CDM,164cm,Right
+272310,John Jr.,34,Saint Kitts and Nevis,Miller Ltd,Premier League (England),€3.9M,€86K,78.3,31.1,65.5,33.5,75,LWB,173cm,Left
+509911,J. Haynes,24,Botswana,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€3.9M,€86K,29.6,72.2,76.0,29.9,75,ST,159cm,Right
+346116,S. Reynolds,26,Cape Verde,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€3.7M,€85K,82.1,16.3,51.8,31.9,75,CDM,176cm,Left
+534864,C. Murray,32,Yemen,Paris Saint Germain,Brown-Ferguson (Yemen),€3.7M,€85K,39.0,84.3,40.6,48.5,75,RM,181cm,Right
+739697,A. Pineda,27,Brazil,"Noble, Morton and Francis",Mcclure PLC (Chad),€3.8M,€86K,76.0,50.1,70.5,55.3,75,RWB,172cm,Right
+297361,K. Rose,34,El Salvador,Holland Inc,Cochran LLC (Comoros),€3.7M,€86K,14.4,23.6,78.0,64.6,75,ST,185cm,Left
+346600,L. Russell,28,Chile,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€3.3M,€85K,45.9,78.3,45.8,63.7,75,RWB,200cm,Left
+117270,Jonathan Jr.,35,Chile,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€3.5M,€85K,49.2,32.2,84.0,13.1,75,LWB,200cm,Left
+395942,Schwartz,24,Brazil,Young-Dominguez,Parker-Gibson (Cape Verde),€3.6M,€85K,18.9,80.7,59.1,35.0,75,CF,201cm,Left
+797484,G. Turner,55,Brazil,Holland Inc,Cochran LLC (Comoros),€3.7M,€85K,80.7,58.2,31.3,43.4,75,RWB,190cm,Left
+76641,D. Horn,29,El Salvador,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€3.1M,€84K,49.1,80.6,58.4,13.9,75,CB,159cm,Right
+224123,R. Torres,35,Iraq,"Harris, Foster and Fischer",Mcclure PLC (Chad),€3.2M,€85K,57.5,78.0,66.8,15.1,75,CF,168cm,Right
+773287,J. Koch,30,Comoros,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€3.2M,€84K,26.0,76.6,10.2,70.6,75,CDM,195cm,Right
+486574,C. Le,27,Saint Kitts and Nevis,"Durham, Villa and Hudson",Premier League (England),€3.2M,€85K,75.8,39.1,48.6,72.6,75,LW,165cm,Left
+806130,Johns,35,Iraq,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€2.8M,€85K,53.4,79.7,60.7,43.9,75,CB,210cm,Right
+970118,R. Fuentes,25,Sierra Leone,"Galvan, Williams and Joyce",Premier League (England),€3M,€84K,76.7,52.3,51.0,68.6,75,RWB,195cm,Left
+396718,Nicholas Jr.,31,Chad,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€3.3M,€84K,74.9,36.9,74.5,65.3,75,CB,153cm,Left
+937417,Richard Lewis,49,Iraq,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€2.7M,€84K,61.3,77.1,69.3,35.6,75,CAM,160cm,Right
+118257,J. Weiss,55,Sierra Leone,Young-Dominguez,Parker-Gibson (Cape Verde),€2.9M,€83K,49.8,67.4,77.3,62.1,75,RM,190cm,Left
+888688,G. Waters,28,Brazil,Manchester United,Smith-Williams (Saint Kitts and Nevis),€2.6M,€84K,78.9,64.8,35.2,43.7,75,RWB,152cm,Left
+41005,G. Wright,28,Sierra Leone,Romero Ltd,Premier League (England),€2.6M,€84K,71.0,49.6,74.6,59.6,74,CDM,156cm,Left
+819502,M. Price,41,Sierra Leone,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€2.7M,€84K,56.4,78.2,59.7,15.7,74,LB,184cm,Left
+885088,B. Osborn,17,Saint Kitts and Nevis,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€2.5M,€83K,71.8,27.9,74.4,25.2,74,RW,190cm,Left
+557437,B. Lee,30,Comoros,"Galvan, Williams and Joyce",Premier League (England),€2.5M,€83K,29.7,77.1,36.3,63.0,74,CDM,169cm,Right
+770751,George Kelly,35,Sierra Leone,Salazar and Sons,Cochran LLC (Comoros),€2.6M,€83K,37.5,82.7,29.2,49.9,74,CB,172cm,Right
+983928,Lopez,21,Cape Verde,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€2.5M,€84K,67.0,76.9,54.5,17.4,74,GK,178cm,Left
+623519,A. Lowe,31,Botswana,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€2.5M,€82K,63.6,61.4,78.0,43.6,74,RWB,200cm,Right
+206180,Steven Jr.,26,Cape Verde,"Galvan, Williams and Joyce",Premier League (England),€2.4M,€83K,20.2,74.7,72.2,42.5,74,LW,182cm,Right
+386508,Russell Jr.,27,Sierra Leone,Dunn-Savage,Delacruz LLC (Sierra Leone),€2.4M,€83K,73.4,68.7,74.8,62.0,74,RWB,182cm,Right
+370306,Steven Jr.,33,Yemen,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€2.4M,€83K,40.3,80.3,55.8,43.9,74,LW,199cm,Right
+804498,M. Hale,47,Yemen,"Durham, Villa and Hudson",Premier League (England),€2.4M,€82K,53.3,80.5,17.9,9.3,74,LB,153cm,Right
+690023,R. Martinez,25,Chile,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€2.3M,€82K,48.3,81.5,22.4,52.5,74,CDM,205cm,Right
+616587,Jeremiah Miller,31,Iraq,Petersen-Gomez,Premier League (England),€2.4M,€82K,75.3,70.5,40.9,19.8,74,GK,197cm,Left
+321708,Moore,24,El Salvador,"Galvan, Williams and Joyce",Premier League (England),€2.3M,€82K,47.7,18.2,47.3,82.3,74,LW,161cm,Left
+559352,Brian Martin,32,Yemen,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€2.3M,€81K,22.5,58.5,79.2,49.2,74,RM,191cm,Left
+395513,J. Hoffman,33,Cape Verde,"Reyes, Gray and Jenkins",Premier League (England),€2.1M,€81K,77.9,63.7,54.2,51.1,74,GK,172cm,Left
+502165,T. Chapman,22,Cape Verde,Dunn-Savage,Delacruz LLC (Sierra Leone),€2.3M,€81K,77.7,61.2,41.8,32.6,74,CF,186cm,Right
+510554,F. Gould,21,Cape Verde,Leach LLC,Premier League (England),€2.3M,€81K,76.1,26.2,50.8,68.1,74,LW,174cm,Left
+854942,J. Lewis,23,Chile,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€2M,€81K,37.2,55.8,80.7,26.2,74,RM,171cm,Left
+421156,B. Foster,30,Chad,Manchester United,Smith-Williams (Saint Kitts and Nevis),€1.9M,€81K,67.9,36.8,76.3,12.7,74,RW,152cm,Left
+93600,Reynolds,33,El Salvador,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€2.3M,€81K,72.5,74.1,52.7,68.9,74,RWB,172cm,Left
+151364,D. Flynn,34,Cape Verde,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€2M,€81K,82.3,44.4,37.9,48.2,74,LM,198cm,Left
+610230,T. Smith,24,Chad,Paris Saint Germain,Brown-Ferguson (Yemen),€1.6M,€80K,79.5,56.8,37.2,50.6,74,GK,190cm,Left
+94169,T. Walsh,54,Cape Verde,FC Bayern München,Premier League (England),€1.8M,€80K,7.9,80.3,56.0,29.9,74,LW,166cm,Right
+876974,S. Newman,29,Brazil,FC Barcelona,Parker-Gibson (Cape Verde),€1.8M,€81K,59.2,77.2,54.0,53.5,73,GK,196cm,Left
+942541,Miller,31,Saint Kitts and Nevis,Paris Saint Germain,Brown-Ferguson (Yemen),€1.9M,€81K,56.1,25.5,60.1,76.8,73,LW,186cm,Left
+295413,Colin Harris,35,Saint Kitts and Nevis,Salazar and Sons,Cochran LLC (Comoros),€1.5M,€81K,45.1,44.5,73.5,71.0,73,LW,156cm,Left
+66377,D. Landry,31,Cape Verde,Petersen-Gomez,Premier League (England),€1.5M,€80K,30.8,76.2,61.6,43.6,73,RM,202cm,Right
+82815,J. Lopez,30,Yemen,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€1.7M,€80K,29.2,67.6,74.4,37.2,73,CF,210cm,Left
+820096,W. Roberts,46,Chile,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€1.6M,€80K,30.0,45.8,82.0,46.0,73,RM,206cm,Left
+263136,Kevin Gallegos,32,Chile,Wilson Inc,Premier League (England),€1.4M,€80K,42.1,60.0,77.7,37.8,73,LW,171cm,Right
+304356,N. Lozano,21,Cape Verde,Young-Dominguez,Parker-Gibson (Cape Verde),€1.3M,€80K,78.6,55.6,47.7,51.2,73,LM,165cm,Left
+869702,M. Quinn,22,Sierra Leone,Paris Saint Germain,Brown-Ferguson (Yemen),€1.3M,€80K,37.2,80.4,46.7,52.4,73,RM,189cm,Right
+296353,H. Holt,28,Brazil,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€1.3M,€80K,74.1,38.4,69.2,64.3,73,CB,207cm,Left
+828987,M. Lowe,39,Iraq,Paris Saint Germain,Brown-Ferguson (Yemen),€1.2M,€79K,41.0,79.6,51.7,42.9,73,CF,184cm,Right
+640628,C. Robertson,21,Saint Kitts and Nevis,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€1.2M,€79K,23.4,88.8,26.6,24.9,73,LB,184cm,Right
+509742,C. Drake,20,Iraq,"Harris, Foster and Fischer",Mcclure PLC (Chad),€1.3M,€79K,54.0,76.6,60.9,22.8,73,GK,194cm,Left
+935781,M. Vargas,23,Sierra Leone,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€1.1M,€80K,76.4,13.9,62.5,62.7,73,LW,159cm,Left
+706465,Zuniga,30,Sierra Leone,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€999K,€80K,32.2,60.0,77.3,47.5,73,CF,158cm,Left
+780609,C. Wade,28,Botswana,Petersen-Gomez,Premier League (England),€1000K,€79K,51.4,35.9,42.1,80.4,73,CM,151cm,Left
+805204,Walker,19,Cape Verde,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€1.1M,€79K,47.7,81.5,22.7,44.0,73,RWB,176cm,Left
+952752,Nguyen,20,Sierra Leone,"Barrett, Harper and Nguyen",Premier League (England),€1M,€79K,68.9,74.2,59.9,33.6,73,CAM,154cm,Right
+84554,David Jones,32,Sierra Leone,Holland Inc,Cochran LLC (Comoros),€1.2M,€77K,25.0,86.2,26.1,35.0,73,RM,187cm,Right
+207539,M. Rodgers,33,Comoros,"Reyes, Gray and Jenkins",Premier League (England),€995K,€77K,21.6,12.3,75.0,67.3,73,ST,181cm,Left
+355143,C. Price,51,El Salvador,Young-Dominguez,Parker-Gibson (Cape Verde),€997K,€78K,58.9,27.1,63.4,75.8,73,LW,205cm,Left
+158594,Austin,31,Iraq,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€992K,€77K,63.4,76.7,42.2,19.6,73,GK,169cm,Left
+683186,J. Smith,28,Yemen,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€986K,€78K,58.9,75.2,40.5,66.0,73,RWB,160cm,Left
+904451,T. Armstrong,32,Iraq,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€981K,€77K,41.5,24.6,83.5,36.0,73,ST,153cm,Left
+413102,M. Turner,31,Comoros,Young-Dominguez,Parker-Gibson (Cape Verde),€991K,€77K,11.5,28.4,78.2,55.5,73,ST,164cm,Left
+159234,T. Johnson,45,Botswana,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€987K,€77K,50.6,56.9,78.4,39.0,73,RM,176cm,Left
+880185,J. Coleman,52,Saint Kitts and Nevis,King Group,Smith-Williams (Saint Kitts and Nevis),€980K,€76K,28.2,87.9,9.4,11.0,73,LB,169cm,Right
+552515,C. Larson,21,Botswana,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€979K,€76K,62.9,75.9,18.0,38.0,73,LM,188cm,Left
+585313,Todd Jr.,32,Chad,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€980K,€76K,76.6,55.7,61.3,61.4,73,CB,187cm,Left
+618201,C. Wagner,29,Saint Kitts and Nevis,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€979K,€77K,22.4,46.2,81.0,48.6,73,ST,166cm,Right
+233198,J. Thompson,38,Chad,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€977K,€75K,77.5,20.9,51.7,60.0,73,CDM,158cm,Left
+208754,C. Huber,32,Comoros,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€978K,€75K,74.8,66.7,62.6,28.3,73,CF,171cm,Right
+352629,J. Brooks,25,Chad,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€979K,€76K,63.8,73.4,69.8,26.5,72,CAM,169cm,Right
+770633,J. Robbins,22,Chad,"Noble, Morton and Francis",Mcclure PLC (Chad),€985K,€76K,23.1,55.7,77.1,40.9,72,ST,182cm,Right
+819894,K. Morgan,22,Sierra Leone,Miller Ltd,Premier League (England),€966K,€75K,78.9,48.0,51.7,26.8,72,LM,185cm,Left
+320397,Caleb Jr.,30,Iraq,Holland Inc,Cochran LLC (Comoros),€975K,€76K,54.7,75.1,61.2,57.4,72,GK,182cm,Right
+877517,M. Gonzalez,29,Yemen,"Galvan, Williams and Joyce",Premier League (England),€973K,€75K,22.5,45.7,80.6,41.5,72,ST,204cm,Left
+599084,J. Sanders,38,Saint Kitts and Nevis,Leach LLC,Premier League (England),€977K,€75K,79.0,48.6,50.6,44.4,72,CF,192cm,Right
+787566,J. Flores,29,El Salvador,"Rivera, Lambert and Ramirez",Premier League (England),€963K,€75K,58.7,75.5,61.2,28.3,72,CF,179cm,Right
+582896,M. Pennington,43,Iraq,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€965K,€75K,77.9,32.6,55.4,54.3,72,LM,171cm,Right
+795948,D. Jackson,34,Saint Kitts and Nevis,Smith-Sweeney,Mcclure PLC (Chad),€965K,€75K,52.1,78.6,47.6,45.2,72,RWB,174cm,Right
+796355,W. Cannon,29,Comoros,Smith-Sweeney,Mcclure PLC (Chad),€963K,€75K,35.6,39.9,77.0,56.8,72,ST,180cm,Left
+313262,Becker,39,Iraq,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€962K,€74K,31.6,74.4,64.3,55.5,72,ST,181cm,Right
+927697,A. Dunn,21,Chad,Smith-Sweeney,Mcclure PLC (Chad),€972K,€74K,60.5,72.8,36.1,68.5,72,CDM,156cm,Right
+526333,T. Butler,35,Comoros,FC Bayern München,Premier League (England),€963K,€74K,43.0,74.2,60.3,64.4,72,GK,164cm,Right
+583767,Kevin Jr.,35,Botswana,"Reyes, Gray and Jenkins",Premier League (England),€958K,€75K,44.7,36.5,81.7,44.4,72,LWB,150cm,Left
+43353,A. Guerra,18,Brazil,Gonzalez-Sparks,Williams-Smith (El Salvador),€962K,€73K,73.4,69.6,65.1,20.5,72,GK,206cm,Left
+412412,Chad Smith,29,Comoros,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€951K,€74K,54.0,73.5,67.4,8.2,72,CF,156cm,Right
+633694,Brennan,26,Chad,Davis-Franklin,Premier League (England),€953K,€74K,72.0,31.3,71.8,28.0,72,RW,191cm,Left
+85274,J. Whitehead,32,Comoros,Wilson Inc,Premier League (England),€953K,€74K,47.6,53.9,78.3,51.4,72,ST,165cm,Right
+437535,L. Stewart,53,Chad,"Rivera, Lambert and Ramirez",Premier League (England),€949K,€72K,45.4,80.9,44.8,26.4,72,LB,178cm,Right
+806249,A. Martinez,40,Sierra Leone,Schwartz PLC,Cochran LLC (Comoros),€950K,€73K,60.2,14.0,75.6,30.9,72,CDM,191cm,Left
+839225,S. Solomon,17,Cape Verde,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€957K,€73K,26.2,75.7,60.7,37.4,72,CB,161cm,Right
+372322,B. Morales,30,Iraq,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€948K,€74K,37.3,9.8,79.2,51.5,72,ST,183cm,Left
+585329,C. Allen,26,Cape Verde,"Barrett, Harper and Nguyen",Premier League (England),€944K,€72K,77.4,46.0,55.8,29.1,72,RWB,166cm,Right
+118438,G. Blackwell,22,Botswana,"Miller, Parks and Thomas",Premier League (England),€943K,€72K,74.3,51.6,56.6,64.4,72,CDM,164cm,Left
+20323,Jose Villegas,22,Sierra Leone,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€943K,€72K,56.5,43.1,15.2,77.8,72,RB,210cm,Right
+12233,J. Butler,31,Comoros,Romero Ltd,Premier League (England),€946K,€73K,65.0,74.6,24.8,44.2,72,GK,171cm,Right
+991398,C. Joseph,28,Yemen,"Harris, Foster and Fischer",Mcclure PLC (Chad),€948K,€72K,58.3,75.7,40.5,53.2,71,GK,176cm,Left
+868530,Reynolds,33,El Salvador,Hughes Group,Williams-Smith (El Salvador),€936K,€72K,59.1,73.2,63.8,51.6,71,RWB,177cm,Right
+917764,Andrew Brown,29,Botswana,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€939K,€72K,53.2,77.5,23.3,8.8,71,LB,172cm,Right
+524626,Andrew Jr.,53,El Salvador,"Reyes, Gray and Jenkins",Premier League (England),€936K,€72K,44.5,77.0,52.8,42.6,71,LW,192cm,Right
+565621,Bell,29,Botswana,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€936K,€71K,30.2,73.3,38.0,65.1,71,GK,154cm,Right
+246496,Walsh,31,Yemen,"Harris, Foster and Fischer",Mcclure PLC (Chad),€942K,€71K,52.1,54.8,76.7,14.5,71,CF,150cm,Left
+557843,Larsen,35,Saint Kitts and Nevis,Leach LLC,Premier League (England),€935K,€71K,56.7,50.3,75.2,52.3,71,CB,166cm,Left
+918343,J. Aguirre,20,Sierra Leone,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€936K,€71K,21.4,87.2,8.8,16.4,71,LB,175cm,Right
+836532,Reginald Jr.,44,Botswana,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€932K,€71K,61.6,73.8,55.1,55.2,71,RWB,173cm,Left
+664575,A. Smith,21,Brazil,"Durham, Villa and Hudson",Premier League (England),€934K,€71K,14.5,75.5,33.9,58.3,71,RM,157cm,Right
+934968,A. Larson,30,Iraq,"Frye, Gates and Reyes",Premier League (England),€935K,€70K,78.7,41.6,49.2,39.9,71,LM,185cm,Left
+91359,K. Barnes,25,Brazil,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€932K,€72K,76.4,40.6,37.1,56.2,71,GK,162cm,Left
+681218,J. Burton,28,Chad,Romero Ltd,Premier League (England),€929K,€70K,72.2,66.3,50.5,28.6,71,GK,205cm,Left
+664948,P. Jones,26,Comoros,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€931K,€70K,51.7,33.1,29.2,77.3,71,RB,194cm,Right
+615877,J. Little,26,Iraq,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€929K,€70K,38.2,82.5,35.4,27.5,71,LB,159cm,Right
+443900,Johnson,30,Comoros,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€933K,€71K,49.6,59.4,75.3,39.8,71,ST,198cm,Right
+862191,J. Hernandez,23,Iraq,Davis-Franklin,Premier League (England),€931K,€69K,51.6,56.8,75.5,42.9,71,RWB,199cm,Right
+223346,F. Snyder,22,Brazil,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€928K,€70K,9.7,10.9,81.7,38.5,71,ST,154cm,Left
+288957,C. Copeland,24,Sierra Leone,Romero Ltd,Premier League (England),€924K,€69K,33.7,83.1,32.1,18.2,71,LB,163cm,Right
+157944,T. Johns,34,Chile,"Miller, Parks and Thomas",Premier League (England),€925K,€69K,39.7,76.0,45.2,55.8,71,RM,195cm,Right
+108833,M. James,22,Yemen,"Frye, Gates and Reyes",Premier League (England),€917K,€69K,43.1,73.1,63.4,39.7,71,RM,208cm,Left
+879066,Salas,31,Chile,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€917K,€69K,41.7,69.0,71.4,36.5,71,ST,169cm,Right
+469560,Marshall,32,Comoros,"Noble, Morton and Francis",Mcclure PLC (Chad),€917K,€69K,30.5,45.1,79.0,20.0,71,ST,164cm,Right
+478091,Harvey,31,Chad,Dunn-Savage,Delacruz LLC (Sierra Leone),€920K,€69K,68.7,28.1,71.6,10.4,71,LWB,172cm,Left
+298125,A. Sharp,31,Chile,Romero Ltd,Premier League (England),€916K,€68K,68.8,71.2,59.1,44.7,71,CAM,196cm,Right
+380082,J. Anderson,45,Comoros,Gonzalez-Sparks,Williams-Smith (El Salvador),€922K,€69K,76.5,53.6,41.5,52.4,71,RWB,196cm,Left
+233321,Terry,34,El Salvador,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€914K,€69K,10.4,59.1,74.7,19.2,71,LW,160cm,Right
+761908,R. Parker,39,Botswana,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€910K,€69K,73.4,59.3,55.0,28.7,70,CF,159cm,Right
+475291,C. Owens,33,Sierra Leone,Paris Saint Germain,Brown-Ferguson (Yemen),€910K,€68K,40.9,76.8,51.1,43.3,70,CB,181cm,Right
+393376,B. Middleton,26,Iraq,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€909K,€68K,64.9,71.7,61.0,14.9,70,CF,199cm,Right
+762086,I. Ingram,26,Saint Kitts and Nevis,Davis-Franklin,Premier League (England),€908K,€68K,11.2,69.5,69.5,36.3,70,LW,194cm,Right
+876840,Jason Gutierrez,34,El Salvador,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€907K,€68K,35.8,44.3,77.9,39.3,70,RM,209cm,Left
+598384,J. Fitzpatrick,28,Cape Verde,Swanson-Foster,Delacruz LLC (Sierra Leone),€901K,€68K,52.8,45.5,76.0,48.5,70,RM,170cm,Left
+459479,Lewis,30,Chad,"Barrett, Harper and Nguyen",Premier League (England),€912K,€68K,34.5,72.8,63.6,22.0,70,CAM,178cm,Right
+434928,R. Brooks,29,Cape Verde,Gonzalez-Sparks,Williams-Smith (El Salvador),€899K,€67K,76.4,51.9,41.1,29.3,70,CF,176cm,Right
+17257,Dave Jr.,20,El Salvador,King Group,Smith-Williams (Saint Kitts and Nevis),€899K,€68K,18.9,79.3,27.0,41.2,70,CB,169cm,Right
+656308,S. Johnson,34,Iraq,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€897K,€67K,70.1,33.3,70.0,21.7,70,LWB,179cm,Left
+631843,J. Stevens,35,Chile,"Frye, Gates and Reyes",Premier League (England),€906K,€67K,37.5,66.9,71.1,18.3,70,LW,172cm,Right
+689392,J. Lewis,33,Iraq,Holland Inc,Cochran LLC (Comoros),€898K,€67K,76.1,49.8,50.7,35.1,70,CB,202cm,Left
+533826,Andrew Jr.,27,Cape Verde,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€897K,€67K,54.0,53.5,75.2,52.0,70,CB,156cm,Left
+664897,Blackburn,42,Chile,Smith-Sweeney,Mcclure PLC (Chad),€896K,€66K,53.5,58.4,29.7,73.3,70,RWB,210cm,Left
+886278,Jake Jr.,26,Comoros,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€896K,€66K,70.9,68.7,64.6,43.7,70,CF,182cm,Right
+222975,P. Phillips,24,Iraq,"Barrett, Harper and Nguyen",Premier League (England),€894K,€66K,43.5,77.5,44.6,47.4,70,LB,199cm,Left
+296762,D. Cortez,22,Cape Verde,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€893K,€66K,40.4,60.3,72.6,22.5,70,LW,203cm,Right
+157500,M. Woods,39,Botswana,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€893K,€66K,76.0,23.4,40.3,52.9,70,CDM,152cm,Left
+288576,J. Hill,43,Iraq,FC Barcelona,Parker-Gibson (Cape Verde),€891K,€65K,41.9,67.7,70.2,34.1,70,LW,152cm,Right
+559270,R. Dorsey,53,Botswana,Swanson-Foster,Delacruz LLC (Sierra Leone),€892K,€66K,27.2,77.8,44.9,41.4,70,LB,153cm,Left
+878973,David Jr.,38,El Salvador,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€893K,€66K,64.7,46.7,72.3,56.0,70,LW,190cm,Left
+567823,J. Cooper,38,El Salvador,Romero Ltd,Premier League (England),€886K,€65K,52.6,76.0,39.5,27.3,70,LB,196cm,Right
+322075,Johnny Esparza,29,Chile,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€886K,€65K,72.9,10.5,61.2,55.1,70,LW,164cm,Left
+297534,D. Larsen,48,El Salvador,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€888K,€65K,75.1,54.8,32.4,9.1,70,CF,153cm,Right
+322408,L. Reed,32,Sierra Leone,Gonzalez-Sparks,Williams-Smith (El Salvador),€889K,€65K,21.9,85.0,26.1,12.2,70,LB,206cm,Right
+338906,Jason Jr.,43,Yemen,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€880K,€65K,71.1,45.4,65.4,11.1,70,LWB,193cm,Left
+781284,R. Hinton,26,Cape Verde,Swanson-Foster,Delacruz LLC (Sierra Leone),€879K,€64K,51.8,76.1,8.3,25.3,70,LB,177cm,Right
+44100,Mark Jr.,35,Saint Kitts and Nevis,Dunn-Savage,Delacruz LLC (Sierra Leone),€884K,€64K,56.8,63.1,71.7,35.0,70,GK,200cm,Left
+494689,J. Galvan,21,Sierra Leone,FC Bayern München,Premier League (England),€891K,€68K,51.2,76.5,42.5,45.8,70,GK,195cm,Right
+773334,G. Reyes,30,Cape Verde,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€874K,€63K,60.7,72.7,26.8,28.4,70,LM,208cm,Left
+806180,R. Pace,32,Saint Kitts and Nevis,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€877K,€63K,46.7,51.2,76.6,30.6,70,CF,197cm,Left
+412968,K. Moreno,22,Cape Verde,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€870K,€63K,70.0,65.2,68.1,36.8,70,RWB,170cm,Right
+265516,P. Mack,47,El Salvador,"Rivera, Lambert and Ramirez",Premier League (England),€877K,€63K,66.8,59.5,22.6,71.0,70,RWB,203cm,Left
+191804,R. Richardson,21,Chad,Salazar and Sons,Cochran LLC (Comoros),€869K,€63K,22.2,62.5,72.6,39.5,70,ST,197cm,Right
+748894,D. Roberts,32,Comoros,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€864K,€63K,75.2,25.4,52.6,37.9,70,LM,173cm,Right
+626106,B. Johnson,25,Chad,Leach LLC,Premier League (England),€878K,€63K,39.8,62.1,30.5,73.1,70,CDM,186cm,Right
+241090,Matthews,35,El Salvador,Smith-Sweeney,Mcclure PLC (Chad),€870K,€63K,63.4,71.6,47.7,21.6,70,CAM,191cm,Right
+28303,B. Medina,27,Iraq,FC Barcelona,Parker-Gibson (Cape Verde),€862K,€64K,35.5,73.3,60.2,51.3,70,RM,189cm,Left
+905009,B. Scott,41,Brazil,"Harris, Foster and Fischer",Mcclure PLC (Chad),€858K,€62K,70.0,52.3,68.3,55.4,70,CB,160cm,Left
+282441,C. Padilla,26,Botswana,Fitzgerald and Sons,Premier League (England),€861K,€62K,48.8,60.8,73.7,56.8,70,GK,179cm,Left
+368648,M. Dennis,30,Saint Kitts and Nevis,Petersen-Gomez,Premier League (England),€862K,€62K,73.8,54.4,50.1,46.7,69,RWB,156cm,Right
+204906,Gordon,34,Brazil,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€856K,€62K,68.9,69.2,62.4,62.9,69,RWB,157cm,Right
+729224,A. Bell,27,Comoros,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€852K,€62K,56.6,30.3,73.7,33.6,69,RW,151cm,Left
+336259,D. Dickson,27,Comoros,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€853K,€62K,47.3,70.6,62.8,44.2,69,CB,171cm,Right
+991742,John Jr.,33,Botswana,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€860K,€61K,49.3,47.7,75.1,51.7,69,RWB,208cm,Right
+623138,J. Patton,34,Cape Verde,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€844K,€61K,43.3,15.6,47.7,75.7,69,RB,168cm,Right
+615173,Beck,24,Sierra Leone,Salazar and Sons,Cochran LLC (Comoros),€854K,€61K,47.8,73.2,56.7,36.0,69,RM,203cm,Left
+140319,Luis Stephens,31,Comoros,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€850K,€61K,28.3,80.7,34.8,10.8,69,LB,191cm,Right
+246878,Day,33,Saint Kitts and Nevis,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€848K,€61K,75.1,44.6,37.8,52.6,69,LM,174cm,Right
+861457,Kenneth Jr.,34,Yemen,"Barrett, Harper and Nguyen",Premier League (England),€829K,€60K,30.2,71.5,60.4,45.9,69,RM,154cm,Right
+796134,J. Gonzalez,24,El Salvador,"Miller, Parks and Thomas",Premier League (England),€831K,€61K,72.2,28.5,51.8,61.2,69,CDM,176cm,Left
+665172,Anthony Jr.,31,Comoros,Gonzalez-Sparks,Williams-Smith (El Salvador),€830K,€60K,49.5,72.5,57.5,47.8,69,CF,172cm,Left
+460428,Michael Jr.,24,Chile,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€833K,€61K,23.4,70.6,63.4,25.9,69,LB,174cm,Left
+50831,T. Walker,27,El Salvador,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€829K,€60K,47.9,69.3,47.5,66.6,69,GK,156cm,Right
+493451,Michael Jr.,23,Chile,"Barrett, Harper and Nguyen",Premier League (England),€828K,€61K,53.2,71.3,24.1,63.8,69,RWB,185cm,Left
+870489,Andrew Jr.,34,Chile,FC Bayern München,Premier League (England),€828K,€60K,35.6,55.2,73.0,27.0,69,LW,162cm,Right
+412132,Rodriguez,21,Comoros,Fitzgerald and Sons,Premier League (England),€833K,€60K,53.9,36.1,45.0,74.1,69,LW,173cm,Left
+494222,M. Duncan,21,Comoros,FC Bayern München,Premier League (England),€825K,€60K,13.0,72.0,58.6,34.7,69,ST,192cm,Right
+215766,Rivera,25,Sierra Leone,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€826K,€60K,52.8,53.4,40.6,73.7,69,CDM,178cm,Right
+690921,V. Wright,24,Comoros,"Barrett, Harper and Nguyen",Premier League (England),€825K,€60K,55.2,66.0,70.0,45.5,69,GK,206cm,Left
+158493,P. Torres,30,Iraq,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€825K,€60K,30.0,67.9,69.6,45.7,69,ST,157cm,Right
+387967,J. Burton,21,Comoros,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€825K,€60K,71.6,30.7,37.6,61.7,69,CM,185cm,Left
+183444,Christopher Jr.,39,Brazil,"Barrett, Harper and Nguyen",Premier League (England),€829K,€59K,27.7,73.9,17.7,54.3,69,CDM,175cm,Right
+519318,J. Manning,38,Comoros,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€823K,€59K,39.4,64.5,70.0,64.6,69,RM,166cm,Left
+159190,P. Jordan,25,Chile,"Frye, Gates and Reyes",Premier League (England),€818K,€59K,47.1,74.2,50.6,55.2,69,GK,196cm,Right
+454138,J. Tucker,26,Iraq,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€820K,€59K,71.6,45.8,61.4,27.6,69,RW,152cm,Left
+609887,G. Reyes,33,Chile,Salazar and Sons,Cochran LLC (Comoros),€816K,€60K,71.5,60.4,13.6,34.1,69,RB,208cm,Left
+233065,Walsh,35,Chile,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€815K,€58K,79.0,38.5,40.6,39.0,69,LM,208cm,Left
+200321,C. James,33,Chad,Paris Saint Germain,Brown-Ferguson (Yemen),€816K,€58K,25.3,70.0,23.6,67.2,69,CDM,182cm,Right
+347809,W. Bolton,31,El Salvador,Fitzgerald and Sons,Premier League (England),€810K,€58K,49.0,74.5,53.6,36.3,69,CF,209cm,Right
+241332,T. Palmer,33,Chile,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€817K,€58K,72.9,57.2,34.4,41.0,69,CF,185cm,Right
+225106,M. Burns,22,Brazil,"Rivera, Lambert and Ramirez",Premier League (England),€815K,€58K,63.3,70.9,46.8,56.9,69,RWB,168cm,Right
+278695,K. Burnett,41,Sierra Leone,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€811K,€58K,45.4,71.3,57.5,42.8,68,RM,155cm,Left
+606502,A. Hess,36,Chad,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€807K,€57K,45.9,71.6,56.2,24.7,68,CB,179cm,Right
+836022,C. Estrada,28,Cape Verde,Hughes Group,Williams-Smith (El Salvador),€815K,€57K,55.1,72.8,55.6,54.6,68,RWB,168cm,Right
+328202,M. Kent,30,Cape Verde,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€805K,€57K,67.7,68.5,27.1,46.5,68,RWB,153cm,Left
+598561,Ethan Chambers,49,Saint Kitts and Nevis,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€806K,€57K,50.4,41.9,40.6,73.9,68,RB,189cm,Right
+361030,Alexander Rangel,33,Yemen,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€804K,€57K,12.1,69.2,66.0,25.1,68,ST,174cm,Right
+418694,J. Brock,36,Saint Kitts and Nevis,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€806K,€57K,67.5,68.3,42.8,21.8,68,CAM,200cm,Right
+418817,Timothy Blevins,34,Iraq,"Rivera, Lambert and Ramirez",Premier League (England),€803K,€57K,42.7,74.4,29.7,46.8,68,GK,203cm,Right
+74756,Thomas Perez,22,Brazil,FC Barcelona,Parker-Gibson (Cape Verde),€803K,€57K,28.6,78.1,35.6,36.6,68,LB,204cm,Right
+681579,Christopher Hall,23,Yemen,"Frye, Gates and Reyes",Premier League (England),€800K,€56K,27.2,37.3,77.8,28.8,68,ST,183cm,Right
+255689,J. West,34,Comoros,King Group,Smith-Williams (Saint Kitts and Nevis),€802K,€56K,64.0,69.0,54.3,24.5,68,CAM,186cm,Right
+689963,R. Harrison,21,El Salvador,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€804K,€56K,72.8,36.0,49.2,54.9,68,CDM,169cm,Left
+689975,N. Morgan,22,Iraq,"Miller, Parks and Thomas",Premier League (England),€802K,€58K,13.1,65.6,69.3,18.6,68,ST,203cm,Right
+796511,S. Richards,30,Cape Verde,FC Bayern München,Premier League (England),€790K,€55K,40.6,76.0,26.4,43.5,68,LB,199cm,Right
+534621,D. Daniels,29,Cape Verde,"Durham, Villa and Hudson",Premier League (England),€781K,€56K,46.1,37.8,72.6,55.9,68,RM,180cm,Left
+739447,K. Sanchez,23,Botswana,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€796K,€55K,72.1,47.6,48.2,54.6,68,GK,156cm,Left
+116862,William Sanders,29,Comoros,"Rivera, Lambert and Ramirez",Premier League (England),€787K,€55K,64.5,52.0,69.4,47.3,68,RWB,185cm,Right
+854180,Todd,28,Brazil,King Group,Smith-Williams (Saint Kitts and Nevis),€796K,€55K,31.8,76.3,42.0,40.0,68,RM,190cm,Right
+534725,J. Beck,35,Chile,"Noble, Morton and Francis",Mcclure PLC (Chad),€780K,€56K,69.3,63.5,55.8,32.2,68,GK,186cm,Left
+116953,D. Wilson,39,Iraq,"Harris, Foster and Fischer",Mcclure PLC (Chad),€777K,€55K,77.8,38.3,32.0,27.0,68,LM,167cm,Right
+141736,C. Park,25,Sierra Leone,FC Bayern München,Premier League (England),€776K,€55K,72.6,41.9,38.0,54.6,68,LM,162cm,Right
+641473,T. Watkins,29,Yemen,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€774K,€54K,32.9,80.2,24.0,25.0,68,LB,162cm,Right
+895453,M. Smith,27,Saint Kitts and Nevis,"Frye, Gates and Reyes",Premier League (England),€774K,€54K,36.2,60.2,8.1,70.7,68,CDM,154cm,Right
+870989,S. Baker,35,Sierra Leone,"Frye, Gates and Reyes",Premier League (England),€773K,€54K,57.9,46.9,69.5,61.5,68,LW,155cm,Left
+707254,A. Glass,28,Iraq,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€775K,€54K,25.7,67.8,36.7,68.5,68,RM,207cm,Right
+887698,J. Rodriguez,27,Comoros,Manchester United,Smith-Williams (Saint Kitts and Nevis),€770K,€53K,68.4,40.6,67.0,20.6,68,GK,159cm,Left
+19393,R. Martinez,25,Chad,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€765K,€52K,33.3,49.0,74.6,20.9,68,ST,198cm,Right
+216012,Donald Coleman,30,Botswana,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€776K,€52K,41.5,28.2,32.7,77.3,68,RB,180cm,Right
+576480,W. Jackson,35,El Salvador,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€765K,€52K,51.9,32.4,39.9,73.7,68,RB,196cm,Right
+44077,M. Moyer,55,Chile,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€764K,€52K,22.0,67.7,53.2,68.1,68,RM,164cm,Right
+502875,R. Weiss,19,Chile,"Durham, Villa and Hudson",Premier League (England),€772K,€54K,49.7,23.1,19.5,73.7,68,RB,186cm,Right
+175436,M. Kelly,29,Sierra Leone,Wilson Inc,Premier League (England),€764K,€52K,73.4,47.8,49.3,50.9,68,RWB,201cm,Right
+789884,Ward,26,Botswana,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€763K,€51K,33.4,24.0,70.3,60.3,68,ST,188cm,Left
+142728,C. Anderson,27,Chad,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€760K,€52K,60.3,49.0,55.5,70.2,68,LW,184cm,Left
+151196,Kevin Gross,35,Brazil,Fitzgerald and Sons,Premier League (England),€764K,€51K,34.1,72.8,29.3,51.8,68,GK,209cm,Right
+704537,Bernard Jr.,28,Botswana,Romero Ltd,Premier League (England),€758K,€51K,60.5,52.8,69.7,38.5,67,RWB,160cm,Right
+598089,Jones,47,Saint Kitts and Nevis,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€756K,€51K,52.6,53.9,71.6,33.6,67,GK,201cm,Left
+483436,Watson,34,Chad,Davis-Franklin,Premier League (England),€753K,€51K,70.1,58.8,46.1,50.1,67,RWB,179cm,Left
+368769,R. Scott,26,Botswana,"Durham, Villa and Hudson",Premier League (England),€755K,€51K,70.4,53.5,38.0,56.0,67,LM,170cm,Left
+442801,D. Figueroa,23,Chad,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€758K,€51K,70.8,37.2,56.4,35.9,67,CDM,158cm,Left
+827896,C. Patterson,30,Brazil,"Galvan, Williams and Joyce",Premier League (England),€754K,€51K,18.9,69.4,59.5,45.4,67,CF,169cm,Left
+500312,P. Johnston,23,Saint Kitts and Nevis,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€746K,€51K,70.2,21.9,57.5,40.0,67,CDM,161cm,Left
+17006,R. Burke,47,Chad,Petersen-Gomez,Premier League (England),€750K,€50K,67.6,38.5,63.3,62.3,67,CDM,160cm,Left
+25318,C. Miller,35,Cape Verde,Holland Inc,Cochran LLC (Comoros),€745K,€51K,19.0,77.7,30.4,33.8,67,CB,203cm,Right
+295719,J. Wolf,28,Iraq,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€746K,€51K,63.2,21.2,44.5,67.9,67,CDM,179cm,Left
+402355,J. Shaw,29,Chile,FC Barcelona,Parker-Gibson (Cape Verde),€742K,€50K,22.9,65.8,67.8,58.1,67,RM,162cm,Left
+58326,L. Ramos,32,Sierra Leone,Davis-Franklin,Premier League (England),€745K,€51K,12.5,57.9,70.0,41.5,67,ST,188cm,Right
+435291,Ryan Jr.,25,Cape Verde,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€746K,€50K,35.4,77.8,19.6,10.6,67,LB,192cm,Right
+91360,Louis Jr.,31,Brazil,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€745K,€50K,27.9,66.4,50.5,66.8,67,RM,152cm,Right
+976339,Holt,35,Iraq,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€739K,€49K,53.8,22.9,71.7,31.9,67,CAM,168cm,Left
+607761,T. Rivera,28,Botswana,Smith-Sweeney,Mcclure PLC (Chad),€739K,€50K,38.2,75.3,43.3,38.0,67,GK,209cm,Right
+763572,B. Castillo,39,El Salvador,Hughes Group,Williams-Smith (El Salvador),€739K,€49K,32.5,73.6,46.6,42.2,67,LB,200cm,Left
+42722,J. Allen,20,Cape Verde,Davis-Franklin,Premier League (England),€741K,€49K,62.8,37.9,41.3,68.0,67,CDM,152cm,Left
+501490,Blankenship,21,El Salvador,Smith-Sweeney,Mcclure PLC (Chad),€741K,€48K,62.3,69.2,53.2,47.7,67,GK,196cm,Left
+460748,A. Rogers,26,Comoros,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€738K,€48K,58.4,36.1,63.5,67.8,67,LW,183cm,Left
+715207,C. Scott,43,Chile,Paris Saint Germain,Brown-Ferguson (Yemen),€735K,€48K,53.6,71.2,42.9,14.3,67,CF,170cm,Right
+993890,D. Green,27,Saint Kitts and Nevis,King Group,Smith-Williams (Saint Kitts and Nevis),€730K,€49K,77.5,20.0,36.2,23.1,67,LM,164cm,Right
+789298,J. Barrett,21,Comoros,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€727K,€48K,39.8,69.6,59.4,33.9,67,RM,194cm,Left
+650069,S. Martinez,22,Iraq,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€727K,€48K,29.7,71.1,56.3,36.3,67,RM,186cm,Right
+846703,George,26,Chile,Salazar and Sons,Cochran LLC (Comoros),€726K,€48K,54.5,71.0,48.6,30.7,67,CF,205cm,Right
+658371,J. Leon,28,Cape Verde,"Durham, Villa and Hudson",Premier League (England),€728K,€48K,18.1,72.0,51.9,11.7,67,CB,199cm,Right
+732477,Farley,28,El Salvador,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€722K,€48K,27.4,31.9,59.0,69.2,67,RW,210cm,Right
+912759,S. Zhang,22,Yemen,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€733K,€47K,11.3,67.7,65.3,40.0,67,LW,183cm,Right
+257589,J. Decker,27,Saint Kitts and Nevis,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€726K,€48K,68.1,46.3,43.9,65.1,67,CDM,160cm,Left
+814650,G. Murphy,29,Cape Verde,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€723K,€48K,37.2,72.3,51.8,18.7,67,CB,187cm,Right
+478869,T. Ruiz,33,El Salvador,"Durham, Villa and Hudson",Premier League (England),€720K,€47K,69.2,30.5,61.9,15.4,67,RW,195cm,Left
+831215,M. Sanchez,45,Chad,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€718K,€48K,51.3,72.8,31.6,7.2,67,LB,182cm,Right
+831282,W. Gonzalez,35,Iraq,Young-Dominguez,Parker-Gibson (Cape Verde),€715K,€47K,68.5,62.8,34.7,52.5,67,RB,206cm,Left
+679941,Martin Ingram,29,Yemen,"Rivera, Lambert and Ramirez",Premier League (England),€720K,€47K,71.2,40.4,17.2,50.6,66,RB,190cm,Left
+65738,Christian Hall,29,Brazil,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€713K,€46K,45.1,42.1,72.5,38.8,66,CB,191cm,Left
+115014,J. Hinton,24,Iraq,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€709K,€47K,23.3,44.8,67.1,64.7,66,RM,190cm,Left
+131541,M. Armstrong,35,Iraq,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€708K,€46K,62.9,48.6,67.6,37.1,66,RW,173cm,Left
+90795,M. Wells,26,Comoros,Davis-Franklin,Premier League (England),€725K,€46K,58.2,34.2,53.5,68.4,66,CM,165cm,Left
+254679,V. Sullivan,34,Chile,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€705K,€47K,56.4,6.5,69.2,27.2,66,LWB,194cm,Left
+869238,A. Simmons,25,Chad,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€706K,€45K,64.6,66.4,30.7,49.8,66,RB,170cm,Left
+140304,J. Hoffman,37,Cape Verde,Leach LLC,Premier League (England),€707K,€45K,64.3,53.9,67.1,38.6,66,CAM,178cm,Right
+435292,R. Davis,23,Saint Kitts and Nevis,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€706K,€45K,61.1,66.3,59.3,66.5,66,GK,165cm,Right
+902376,M. Lindsey,28,Comoros,"Barrett, Harper and Nguyen",Premier League (England),€703K,€45K,66.9,58.4,51.2,63.0,66,LM,153cm,Left
+247289,J. Cox,33,Brazil,"Barrett, Harper and Nguyen",Premier League (England),€711K,€45K,34.7,64.1,33.6,67.3,66,GK,169cm,Right
+517716,Garcia,36,Brazil,Manchester United,Smith-Williams (Saint Kitts and Nevis),€700K,€45K,62.9,50.1,66.4,12.5,66,CF,162cm,Right
+329342,B. Silva,41,Brazil,Schwartz PLC,Cochran LLC (Comoros),€704K,€45K,70.9,25.2,50.5,46.5,66,RB,156cm,Right
+411274,B. Romero,15,Saint Kitts and Nevis,"Harris, Foster and Fischer",Mcclure PLC (Chad),€698K,€45K,64.9,24.6,66.7,42.8,66,CDM,161cm,Left
+632507,A. Acosta,32,Chad,Petersen-Gomez,Premier League (England),€696K,€45K,40.1,67.7,59.9,39.4,66,GK,204cm,Right
+190401,F. Jackson,20,Botswana,"Barrett, Harper and Nguyen",Premier League (England),€698K,€45K,53.3,66.2,65.4,30.2,66,LB,195cm,Left
+706539,J. Bell,23,Chad,Romero Ltd,Premier League (England),€695K,€44K,71.0,50.3,35.2,42.5,66,CM,187cm,Left
+591908,Caleb Jr.,23,Cape Verde,King Group,Smith-Williams (Saint Kitts and Nevis),€693K,€45K,70.3,26.4,38.0,53.8,66,RB,201cm,Right
+133647,K. Warren,50,Botswana,Manchester United,Smith-Williams (Saint Kitts and Nevis),€693K,€44K,45.0,54.1,13.6,70.4,66,CDM,202cm,Right
+543278,C. Mathis,29,Sierra Leone,"Harris, Foster and Fischer",Mcclure PLC (Chad),€692K,€44K,34.4,10.1,67.6,60.8,66,ST,178cm,Left
+199374,Jeremy Jr.,21,Brazil,"Frye, Gates and Reyes",Premier League (England),€699K,€44K,35.3,71.1,32.8,51.5,66,RM,198cm,Right
+35741,B. Thomas,50,Sierra Leone,"Barrett, Harper and Nguyen",Premier League (England),€691K,€44K,68.1,58.6,14.1,35.1,66,RB,168cm,Left
+437200,N. Carey,23,Iraq,"Rivera, Lambert and Ramirez",Premier League (England),€689K,€43K,66.0,41.8,29.7,64.6,66,RB,204cm,Right
+584737,Nathan Jr.,24,Chile,Petersen-Gomez,Premier League (England),€687K,€43K,47.5,59.8,36.9,68.7,66,GK,183cm,Right
+117960,R. Mcintosh,26,Yemen,Adams-Day,Parker-Gibson (Cape Verde),€694K,€44K,37.8,67.1,62.3,46.9,66,CF,183cm,Left
+699999,C. Lopez,34,El Salvador,Young-Dominguez,Parker-Gibson (Cape Verde),€689K,€43K,15.8,68.2,59.0,42.3,66,RM,158cm,Left
+503516,Miller,24,Chile,Young-Dominguez,Parker-Gibson (Cape Verde),€686K,€44K,39.1,63.5,67.0,52.0,66,CAM,203cm,Right
+659211,J. Martinez,33,El Salvador,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€685K,€43K,55.0,27.7,69.5,35.1,66,CB,158cm,Left
+249738,S. Dunlap,25,Brazil,Holland Inc,Cochran LLC (Comoros),€682K,€43K,49.9,70.7,24.7,27.3,66,LB,156cm,Right
+720918,Tyler Johnson,23,Iraq,Hughes Group,Williams-Smith (El Salvador),€682K,€43K,54.2,17.8,68.2,31.8,65,CDM,171cm,Left
+188672,R. Morrow,33,Yemen,"Barrett, Harper and Nguyen",Premier League (England),€678K,€43K,44.7,53.1,36.3,69.4,65,GK,189cm,Right
+262527,M. Odonnell,35,Iraq,Gonzalez-Sparks,Williams-Smith (El Salvador),€685K,€42K,34.3,65.0,26.9,63.8,65,CM,209cm,Left
+819635,S. Smith,29,Iraq,"Noble, Morton and Francis",Mcclure PLC (Chad),€676K,€43K,33.1,63.9,65.4,23.6,65,LB,199cm,Left
+33314,R. Hale,26,Comoros,Davis-Franklin,Premier League (England),€674K,€42K,62.0,66.3,62.3,41.6,65,CF,154cm,Right
+623178,G. Conway,27,El Salvador,Miller Ltd,Premier League (England),€679K,€42K,67.7,58.8,34.0,54.7,65,RWB,161cm,Left
+361110,Darrell Jr.,32,Sierra Leone,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€673K,€42K,33.7,30.3,70.7,48.3,65,CAM,196cm,Left
+678,William Jr.,33,Chad,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€673K,€42K,47.5,37.4,41.1,70.3,65,GK,163cm,Right
+410582,J. Mcpherson,22,Cape Verde,Romero Ltd,Premier League (England),€668K,€41K,69.5,41.2,38.6,52.7,65,LM,189cm,Left
+656409,Brown,28,Saint Kitts and Nevis,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€672K,€41K,60.6,49.4,66.6,28.8,65,GK,157cm,Left
+500773,J. Ortega,23,Botswana,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€669K,€42K,15.5,67.1,57.5,37.5,65,RM,152cm,Right
+943238,G. Nelson,28,Yemen,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€676K,€41K,48.7,65.9,59.2,61.8,65,CM,169cm,Left
+886200,B. Dixon,33,Chile,"Durham, Villa and Hudson",Premier League (England),€669K,€41K,68.8,41.0,54.6,24.8,65,CAM,169cm,Right
+321025,R. Yang,26,Chile,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€666K,€41K,24.2,65.8,61.7,43.3,65,RM,196cm,Left
+157197,J. Vaughn,22,Sierra Leone,"Miller, Parks and Thomas",Premier League (England),€664K,€41K,72.3,42.4,29.7,17.5,65,CF,159cm,Right
+853578,Andrew Jr.,55,Brazil,"Rivera, Lambert and Ramirez",Premier League (England),€667K,€40K,35.5,38.4,68.2,55.3,65,ST,182cm,Right
+272096,Jay Booth,24,El Salvador,"Rivera, Lambert and Ramirez",Premier League (England),€660K,€39K,65.2,52.1,64.1,51.2,65,LWB,191cm,Right
+632548,C. Shields,34,Botswana,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€660K,€40K,54.1,58.0,59.3,66.5,65,CB,185cm,Left
+698210,T. Gordon,28,Comoros,"Reyes, Gray and Jenkins",Premier League (England),€659K,€40K,54.8,29.1,68.8,43.6,65,CB,167cm,Left
+943980,S. Jackson,28,Iraq,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€664K,€41K,48.2,57.0,67.7,41.8,65,CAM,189cm,Right
+280684,Williams,32,Yemen,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€654K,€39K,24.7,46.6,70.6,24.9,65,ST,176cm,Right
+76208,J. Ward,29,Sierra Leone,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€657K,€39K,21.3,47.6,67.1,58.8,65,ST,179cm,Left
+748180,S. Mason,24,Brazil,Leach LLC,Premier League (England),€662K,€39K,29.7,76.2,27.0,10.8,65,LB,173cm,Right
+740002,J. Smith,33,Cape Verde,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€651K,€39K,44.6,67.7,55.6,14.7,65,LW,195cm,Right
+43847,Jay Jr.,31,Chad,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€641K,€39K,59.3,56.3,36.4,67.0,65,RWB,154cm,Left
+330572,B. Brown,23,Chile,"Barrett, Harper and Nguyen",Premier League (England),€640K,€38K,67.1,58.7,49.8,51.9,65,CM,175cm,Left
+167015,R. Phillips,28,Botswana,King Group,Smith-Williams (Saint Kitts and Nevis),€645K,€38K,21.3,52.7,69.3,48.3,65,ST,153cm,Right
+986243,Marshall,23,Chile,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€647K,€38K,22.2,50.1,69.8,42.3,65,ST,176cm,Right
+281856,A. Jones,21,Iraq,Swanson-Foster,Delacruz LLC (Sierra Leone),€635K,€38K,39.1,29.0,59.4,66.3,65,ST,208cm,Left
+347759,M. Murphy,23,Botswana,Schwartz PLC,Cochran LLC (Comoros),€637K,€38K,19.6,76.1,33.6,12.7,65,LB,156cm,Right
+372426,C. Johnson,24,Botswana,FC Bayern München,Premier League (England),€659K,€38K,48.7,65.5,61.6,30.7,65,RWB,203cm,Right
+598029,N. Gutierrez,29,Brazil,"Noble, Morton and Francis",Mcclure PLC (Chad),€636K,€38K,37.7,66.1,55.7,40.5,64,LW,205cm,Right
+835838,C. Taylor,24,Yemen,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€633K,€37K,59.1,33.3,65.9,47.9,64,LWB,196cm,Right
+852235,J. Smith,27,Yemen,Smith-Sweeney,Mcclure PLC (Chad),€635K,€37K,59.4,66.2,35.1,43.2,64,RB,163cm,Left
+606600,Estrada,30,Comoros,FC Barcelona,Parker-Gibson (Cape Verde),€635K,€38K,28.3,53.4,67.8,27.0,64,CF,160cm,Left
+451038,G. Shaw,29,Iraq,Wilson Inc,Premier League (England),€635K,€37K,62.8,47.8,25.1,64.0,64,CM,182cm,Left
+352838,J. Moore,26,Brazil,"Harris, Foster and Fischer",Mcclure PLC (Chad),€625K,€37K,52.6,26.3,68.3,44.7,64,LWB,153cm,Right
+279182,R. Day,28,Chad,"Miller, Parks and Thomas",Premier League (England),€637K,€38K,30.3,43.3,60.2,65.3,64,ST,176cm,Left
+304152,Victor Smith,35,Sierra Leone,Dunn-Savage,Delacruz LLC (Sierra Leone),€622K,€37K,43.9,32.9,35.9,70.7,64,RB,192cm,Right
+17462,J. Phelps,20,Saint Kitts and Nevis,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€624K,€37K,53.9,43.9,51.9,67.3,64,LW,160cm,Left
+738414,Flores,31,Chad,Fitzgerald and Sons,Premier League (England),€625K,€36K,65.0,62.5,63.0,55.5,64,CM,186cm,Left
+738444,B. Fritz,34,El Salvador,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€618K,€37K,57.4,14.6,66.5,33.0,64,RW,202cm,Left
+33951,D. Davila,47,Comoros,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€618K,€37K,41.8,60.1,65.6,35.4,64,RM,166cm,Right
+280079,Ronald Jr.,34,Botswana,Paris Saint Germain,Brown-Ferguson (Yemen),€617K,€36K,22.3,69.1,33.1,48.3,64,CDM,154cm,Right
+697978,X. Martin,31,Botswana,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€613K,€36K,41.8,55.8,24.5,67.0,64,CDM,168cm,Right
+992951,C. Thomas,29,Yemen,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€615K,€35K,39.5,39.0,49.8,68.3,64,GK,188cm,Right
+222932,Parker,20,Chile,Hughes Group,Williams-Smith (El Salvador),€611K,€37K,70.3,32.4,23.2,46.9,64,RB,206cm,Right
+780271,M. Day,23,El Salvador,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€622K,€35K,24.3,41.2,71.1,39.9,64,CAM,206cm,Left
+75808,David Jr.,34,Iraq,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€605K,€35K,54.5,67.0,47.5,41.6,64,GK,172cm,Right
+469081,Shannon Jr.,23,Saint Kitts and Nevis,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€607K,€35K,55.2,59.9,65.5,34.4,64,CB,183cm,Left
+714852,Blake,22,Chile,"Harris, Foster and Fischer",Mcclure PLC (Chad),€616K,€35K,48.3,58.0,51.5,65.8,64,CB,154cm,Left
+608649,R. Jennings,21,Chile,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€610K,€36K,67.7,54.1,41.5,17.9,64,CF,164cm,Right
+256498,D. Santana,54,Saint Kitts and Nevis,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€599K,€34K,59.8,64.8,38.2,17.3,64,GK,173cm,Left
+19357,George Lucas,31,Brazil,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€607K,€35K,67.5,43.3,55.5,30.1,64,CDM,160cm,Left
+43934,M. Rice,27,Chad,"Miller, Parks and Thomas",Premier League (England),€602K,€34K,52.6,58.9,65.2,50.1,64,RM,200cm,Left
+27678,C. Phillips,53,Brazil,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€605K,€34K,38.5,66.3,34.1,57.8,64,CM,168cm,Left
+765012,J. Martin,26,Chile,Petersen-Gomez,Premier League (England),€598K,€34K,67.4,32.5,55.8,14.8,64,RW,181cm,Left
+748690,N. Armstrong,32,Iraq,Adams-Day,Parker-Gibson (Cape Verde),€598K,€34K,60.4,44.5,65.2,13.4,64,CF,202cm,Right
+707756,R. Rodriguez,25,Yemen,Smith-Sweeney,Mcclure PLC (Chad),€604K,€34K,68.4,46.1,50.3,50.0,64,LM,195cm,Right
+298329,J. Abbott,42,Comoros,Leach LLC,Premier League (England),€599K,€34K,40.7,53.7,67.5,50.2,64,CAM,189cm,Right
+159162,D. Benitez,32,Comoros,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€591K,€34K,68.6,20.2,49.3,42.4,64,RB,181cm,Right
+331218,C. Lucero,22,Iraq,"Reyes, Gray and Jenkins",Premier League (England),€594K,€33K,45.0,11.1,61.8,64.7,64,ST,167cm,Left
+167407,Brooks,28,Yemen,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€596K,€34K,40.7,46.4,67.0,56.0,64,LWB,154cm,Right
+192111,M. Ferguson,45,Chad,Petersen-Gomez,Premier League (England),€593K,€34K,48.2,68.6,21.7,39.5,64,RB,159cm,Left
+183921,A. Lynch,35,Iraq,"Galvan, Williams and Joyce",Premier League (England),€587K,€33K,42.3,71.5,23.3,11.9,64,CB,169cm,Right
+995039,R. Krause,25,Cape Verde,FC Bayern München,Premier League (England),€587K,€33K,69.0,41.6,18.0,48.2,64,RB,189cm,Left
+356210,D. Johnston,22,El Salvador,Fitzgerald and Sons,Premier League (England),€587K,€33K,30.9,61.9,64.6,47.0,64,LW,151cm,Right
+49389,B. Stephens,36,Yemen,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€587K,€34K,22.3,40.7,66.9,53.0,63,CAM,193cm,Left
+270721,D. Day,29,Comoros,Adams-Day,Parker-Gibson (Cape Verde),€587K,€33K,37.2,9.5,43.8,68.9,63,RB,195cm,Right
+172424,J. Gonzales,39,Chad,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€577K,€32K,66.6,24.9,51.9,31.5,63,CDM,158cm,Left
+549458,A. Leonard,45,Cape Verde,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€589K,€33K,51.9,49.9,67.2,39.5,63,CB,167cm,Left
+467701,H. Martin,29,Yemen,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€581K,€32K,32.6,41.0,69.9,43.8,63,ST,203cm,Right
+50240,N. Coleman,23,Comoros,"Miller, Parks and Thomas",Premier League (England),€578K,€32K,75.8,18.0,26.0,17.8,63,LM,210cm,Right
+656470,J. Carter,29,Brazil,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€574K,€32K,51.7,65.2,57.3,49.8,63,GK,153cm,Right
+845000,T. Bautista,25,Brazil,Paris Saint Germain,Brown-Ferguson (Yemen),€571K,€32K,61.1,53.2,63.2,49.4,63,LWB,172cm,Right
+468454,J. Lee,18,Comoros,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€574K,€32K,49.2,47.3,57.9,64.5,63,GK,184cm,Right
+345909,S. Robbins,23,Yemen,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€572K,€31K,48.6,67.9,24.2,46.1,63,GK,197cm,Right
+133000,Jesus Lewis,25,Chad,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€568K,€31K,20.8,38.0,67.1,50.1,63,ST,163cm,Left
+731017,P. Rivera,24,Sierra Leone,"Rivera, Lambert and Ramirez",Premier League (England),€570K,€31K,56.1,59.1,31.7,63.9,63,RW,181cm,Right
+559215,B. Hartman,23,Sierra Leone,"Frye, Gates and Reyes",Premier League (England),€569K,€32K,66.1,42.3,55.4,18.3,63,GK,181cm,Left
+26755,S. Williams,25,Botswana,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€570K,€32K,23.0,64.2,59.4,47.8,63,LW,151cm,Right
+526946,M. Martinez,40,Brazil,Leach LLC,Premier League (England),€560K,€31K,26.9,69.9,40.4,15.2,63,LB,208cm,Right
+936556,P. Davis,20,Yemen,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€565K,€31K,63.0,62.5,54.2,36.2,63,GK,178cm,Left
+281407,P. Solomon,24,Comoros,Paris Saint Germain,Brown-Ferguson (Yemen),€566K,€31K,62.2,39.7,63.8,35.3,63,RW,207cm,Left
+568142,Miller,28,Chad,Manchester United,Smith-Williams (Saint Kitts and Nevis),€556K,€30K,57.2,63.8,41.3,59.4,63,LM,185cm,Left
+19286,J. Davis,35,Yemen,King Group,Smith-Williams (Saint Kitts and Nevis),€566K,€31K,55.5,37.3,42.7,65.3,63,RW,164cm,Right
+994176,D. Carter,35,Comoros,Petersen-Gomez,Premier League (England),€551K,€31K,52.7,29.1,66.3,16.7,63,LWB,202cm,Left
+371644,Parker,30,El Salvador,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€557K,€30K,39.2,64.6,28.4,58.2,63,GK,199cm,Right
+887750,Robert Huang,55,Yemen,Dunn-Savage,Delacruz LLC (Sierra Leone),€550K,€29K,53.6,63.9,40.2,61.7,63,RWB,208cm,Left
+740401,Cameron Henderson,27,Chile,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€545K,€30K,45.1,68.8,40.6,34.7,63,LB,156cm,Right
+134195,M. Lee,22,Botswana,Adams-Day,Parker-Gibson (Cape Verde),€551K,€29K,30.7,69.5,44.1,27.2,63,LB,186cm,Right
+494803,Faulkner,29,El Salvador,Fitzgerald and Sons,Premier League (England),€542K,€29K,49.1,48.2,68.2,38.6,63,CB,178cm,Left
+732747,Nathan Jr.,27,Chile,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€537K,€30K,42.1,69.0,25.7,45.2,63,CDM,177cm,Right
+708243,Henry Jr.,23,Botswana,Dunn-Savage,Delacruz LLC (Sierra Leone),€538K,€29K,65.7,54.5,56.8,20.2,63,LWB,154cm,Right
+593674,Jeremiah Little,25,Botswana,"Galvan, Williams and Joyce",Premier League (England),€537K,€29K,62.9,62.4,50.2,39.2,63,RWB,195cm,Right
+708493,J. Sawyer,25,Iraq,Wilson Inc,Premier League (England),€560K,€29K,28.1,50.0,67.8,43.0,63,ST,159cm,Right
+606272,Tyler Jr.,25,Yemen,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€538K,€28K,53.6,30.3,63.9,54.7,62,CB,210cm,Left
+745687,E. Mann,35,Botswana,"Galvan, Williams and Joyce",Premier League (England),€534K,€28K,64.6,42.8,51.0,55.2,62,LWB,161cm,Right
+123260,D. Wilson,22,Chile,"Reyes, Gray and Jenkins",Premier League (England),€534K,€28K,30.9,40.2,24.5,69.8,62,GK,199cm,Right
+876926,G. Ortiz,25,Sierra Leone,"Durham, Villa and Hudson",Premier League (England),€536K,€29K,72.3,18.0,30.8,29.1,62,LM,202cm,Right
+213431,Jacob Jr.,46,Botswana,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€533K,€28K,69.0,36.7,34.5,41.9,62,CM,208cm,Left
+189030,Manuel Torres,27,Iraq,Salazar and Sons,Cochran LLC (Comoros),€533K,€27K,32.9,62.6,60.2,56.0,62,ST,200cm,Right
+213610,C. Thomas,26,Botswana,Holland Inc,Cochran LLC (Comoros),€531K,€28K,63.8,56.8,45.9,41.9,62,LM,191cm,Left
+156354,D. Mitchell,54,Cape Verde,Petersen-Gomez,Premier League (England),€532K,€28K,50.1,52.0,65.1,34.0,62,LWB,164cm,Right
+574174,K. Wright,31,Cape Verde,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€530K,€28K,58.4,62.7,40.4,16.4,62,CF,165cm,Right
+926673,T. Carroll,25,Chad,"Reyes, Gray and Jenkins",Premier League (England),€530K,€27K,19.4,63.7,55.4,18.5,62,CF,172cm,Left
+885733,B. Kirk,26,Brazil,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€528K,€27K,11.0,66.6,36.0,49.1,62,RM,164cm,Right
+443381,R. Hampton,22,Botswana,"Galvan, Williams and Joyce",Premier League (England),€535K,€27K,45.4,63.3,56.7,32.1,62,CF,180cm,Left
+230437,R. Johnson,53,Brazil,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€519K,€27K,61.4,45.0,57.7,62.1,62,LW,197cm,Left
+263447,Edward Goodman,27,Saint Kitts and Nevis,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€523K,€27K,55.4,51.0,64.5,35.5,62,RWB,197cm,Right
+427319,J. Martinez,29,Yemen,Paris Saint Germain,Brown-Ferguson (Yemen),€528K,€27K,45.0,67.1,39.0,41.0,62,CF,160cm,Right
+894540,K. Smith,32,Comoros,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€523K,€26K,34.7,70.5,29.5,32.5,62,LB,153cm,Right
+780023,James Morris,16,Sierra Leone,Schwartz PLC,Cochran LLC (Comoros),€518K,€27K,55.4,53.3,63.6,57.2,62,CB,196cm,Left
+133007,M. Smith,34,El Salvador,Petersen-Gomez,Premier League (England),€522K,€26K,18.7,66.4,49.4,48.3,62,RM,201cm,Right
+894898,R. Rodriguez,53,Iraq,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€515K,€26K,41.7,61.7,30.2,61.1,62,CDM,198cm,Right
+944187,D. Ponce,30,Brazil,"Rivera, Lambert and Ramirez",Premier League (England),€517K,€26K,32.6,65.8,52.4,31.3,62,ST,184cm,Right
+452761,D. Mcgrath,29,Chad,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€515K,€26K,64.3,56.2,32.9,26.7,62,LM,153cm,Left
+354699,M. Beck,31,Chad,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€510K,€26K,62.7,25.7,61.0,39.4,62,RW,163cm,Left
+510446,D. Williamson,26,Sierra Leone,FC Bayern München,Premier League (England),€504K,€25K,54.8,61.0,32.5,62.4,62,LM,183cm,Left
+182935,Jared Duncan,28,Yemen,Petersen-Gomez,Premier League (England),€511K,€25K,62.6,59.2,21.4,49.8,62,RWB,206cm,Left
+682701,Robert Haynes,23,Comoros,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€499K,€25K,37.4,63.5,48.8,57.4,62,GK,200cm,Right
+453449,C. Marshall,36,Chile,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€502K,€26K,34.5,71.7,5.4,23.2,62,LB,151cm,Right
+879468,A. Hodges,32,Botswana,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€511K,€25K,33.9,32.4,65.4,50.0,62,LWB,196cm,Right
+838531,J. Ray,17,Sierra Leone,"Barrett, Harper and Nguyen",Premier League (England),€502K,€25K,52.2,62.2,61.3,38.6,62,RWB,194cm,Right
+52140,D. Mccarthy,45,Chile,"Noble, Morton and Francis",Mcclure PLC (Chad),€502K,€23K,60.9,62.2,47.0,55.0,62,RWB,179cm,Right
+27684,A. Davis,36,Comoros,FC Barcelona,Parker-Gibson (Cape Verde),€490K,€23K,45.4,57.9,62.9,52.2,62,CB,199cm,Left
+3130,S. Gray,43,Chad,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€490K,€24K,28.7,59.9,62.9,34.9,62,LW,189cm,Right
+52358,G. Mendoza,30,Sierra Leone,"Noble, Morton and Francis",Mcclure PLC (Chad),€499K,€23K,44.5,65.5,53.2,13.4,62,CB,199cm,Right
+986395,S. Anderson,19,Cape Verde,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€480K,€23K,31.9,59.7,62.8,22.4,62,CB,208cm,Right
+781715,Robert Cooke,28,Chad,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€481K,€23K,65.2,38.3,39.1,50.5,62,LM,205cm,Left
+683631,Steven Wang,21,Brazil,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€483K,€23K,28.1,68.5,31.8,41.2,62,RM,150cm,Right
+757420,Garcia,40,Yemen,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€490K,€23K,23.4,45.9,67.4,37.3,62,CAM,166cm,Left
+241519,L. Bauer,25,Saint Kitts and Nevis,"Noble, Morton and Francis",Mcclure PLC (Chad),€477K,€22K,31.3,22.9,65.9,50.6,62,CAM,199cm,Left
+798663,M. Hayes,41,Yemen,"Rivera, Lambert and Ramirez",Premier League (England),€472K,€22K,31.4,42.0,50.3,66.3,62,GK,209cm,Right
+483596,E. Wright,22,Cape Verde,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€470K,€22K,43.1,60.1,57.1,61.4,61,RM,187cm,Left
+49434,C. Donaldson,48,Sierra Leone,Holland Inc,Cochran LLC (Comoros),€479K,€22K,63.4,28.7,22.2,52.1,61,RW,206cm,Right
+57743,C. Fernandez,30,El Salvador,Young-Dominguez,Parker-Gibson (Cape Verde),€492K,€25K,53.4,31.3,61.3,59.0,61,CDM,200cm,Left
+893382,B. Humphrey,31,Botswana,Hughes Group,Williams-Smith (El Salvador),€468K,€21K,64.6,39.7,50.5,45.3,61,CAM,177cm,Right
+33243,R. Moon,40,Chile,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€465K,€21K,36.4,35.2,22.3,68.6,61,RB,177cm,Right
+598687,K. Nguyen,31,Saint Kitts and Nevis,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€468K,€21K,46.7,66.2,33.3,38.7,61,LB,183cm,Right
+738025,Webster,23,Sierra Leone,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€460K,€21K,32.2,70.6,26.2,17.7,61,LB,189cm,Right
+377867,A. Malone,53,Comoros,FC Bayern München,Premier League (England),€458K,€22K,43.5,61.1,60.6,50.0,61,ST,176cm,Right
+779284,C. Guzman,21,Cape Verde,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€468K,€21K,50.2,48.8,64.2,32.2,61,CF,174cm,Right
+795910,Anthony Jr.,48,Yemen,Swanson-Foster,Delacruz LLC (Sierra Leone),€465K,€21K,25.8,61.9,57.2,38.1,61,CF,197cm,Left
+656682,Evan Wheeler,23,Chad,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€462K,€21K,61.3,42.1,58.2,25.0,61,RW,203cm,Left
+714068,W. Williams,28,Cape Verde,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€455K,€20K,48.5,38.4,24.9,65.0,61,GK,186cm,Right
+583007,Bruce,26,Cape Verde,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€457K,€20K,63.4,44.4,53.4,42.3,61,CB,176cm,Left
+837058,L. Willis,25,Saint Kitts and Nevis,Leach LLC,Premier League (England),€457K,€21K,64.0,50.8,46.4,40.7,61,CDM,181cm,Left
+312810,D. Kemp,25,Saint Kitts and Nevis,FC Bayern München,Premier League (England),€449K,€20K,64.1,50.8,22.4,43.9,61,GK,188cm,Right
+337805,D. Mccann,22,Chad,"Miller, Parks and Thomas",Premier League (England),€457K,€20K,34.7,62.6,46.2,54.3,61,CAM,202cm,Right
+174201,Alex Jr.,31,Botswana,FC Bayern München,Premier League (England),€448K,€20K,32.1,62.3,58.2,26.5,61,LW,185cm,Right
+944360,Herrera,27,Sierra Leone,"Barrett, Harper and Nguyen",Premier League (England),€454K,€20K,51.0,61.2,61.4,50.6,61,GK,155cm,Right
+813444,R. Blankenship,21,Sierra Leone,Paris Saint Germain,Brown-Ferguson (Yemen),€439K,€20K,39.8,63.5,52.6,44.2,61,LB,157cm,Left
+395915,A. Evans,54,Chad,"Durham, Villa and Hudson",Premier League (England),€435K,€19K,60.3,61.0,27.3,42.7,61,RW,197cm,Right
+789299,D. Meadows,36,Botswana,Miller Ltd,Premier League (England),€448K,€20K,22.3,47.5,65.8,27.9,61,CAM,201cm,Left
+117559,D. Porter,20,Chad,Manchester United,Smith-Williams (Saint Kitts and Nevis),€440K,€19K,44.7,58.0,61.5,55.6,61,CAM,168cm,Right
+347453,A. Green,27,Saint Kitts and Nevis,"Galvan, Williams and Joyce",Premier League (England),€429K,€19K,64.2,51.8,44.2,25.8,61,LWB,166cm,Right
+159082,E. Gonzalez,32,Iraq,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€434K,€20K,62.1,28.6,23.4,58.7,61,RB,202cm,Right
+110033,G. Grant,25,Cape Verde,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€442K,€19K,34.7,56.2,62.4,34.6,61,ST,162cm,Right
+560706,D. Ingram,32,Chad,Gonzalez-Sparks,Williams-Smith (El Salvador),€428K,€19K,47.9,49.9,64.5,47.1,61,ST,151cm,Right
+581697,E. Weeks,21,El Salvador,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€429K,€19K,63.0,50.4,49.4,20.6,60,RW,205cm,Left
+671902,B. Poole,25,Cape Verde,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€424K,€19K,62.5,52.7,53.4,34.0,60,GK,159cm,Left
+123265,Rios,24,Cape Verde,Smith-Sweeney,Mcclure PLC (Chad),€421K,€19K,62.2,52.2,46.2,15.6,60,RB,150cm,Left
+254405,Greg Bridges,45,Chad,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€424K,€19K,23.1,33.4,66.8,40.7,60,CAM,171cm,Left
+516712,Combs,33,Cape Verde,Paris Saint Germain,Brown-Ferguson (Yemen),€426K,€18K,40.7,40.9,66.8,33.5,60,CAM,161cm,Right
+820127,J. Howe,23,Chile,Smith-Sweeney,Mcclure PLC (Chad),€419K,€19K,49.5,41.7,62.9,45.5,60,CM,150cm,Left
+377819,M. Gonzales,31,Sierra Leone,FC Barcelona,Parker-Gibson (Cape Verde),€416K,€18K,64.6,45.5,45.2,36.4,60,CF,160cm,Right
+894060,Russell,27,Cape Verde,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€421K,€19K,40.3,36.3,37.0,66.7,60,RW,181cm,Right
+590961,A. Jackson,33,Yemen,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€411K,€19K,29.0,59.0,60.7,40.8,60,RM,209cm,Left
+394363,C. Jimenez,33,Chad,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€419K,€18K,65.4,42.8,44.3,44.0,60,LM,209cm,Left
+67166,J. Collins,46,Brazil,"Miller, Parks and Thomas",Premier League (England),€415K,€18K,37.9,22.4,67.4,31.4,60,LWB,161cm,Right
+534131,C. Taylor,20,Iraq,Salazar and Sons,Cochran LLC (Comoros),€414K,€18K,40.5,66.1,32.1,10.9,60,LB,209cm,Right
+493322,E. Vaughan,19,Botswana,Manchester United,Smith-Williams (Saint Kitts and Nevis),€408K,€17K,31.3,52.4,62.8,35.3,60,CB,180cm,Right
+264023,B. Willis,35,Yemen,Fitzgerald and Sons,Premier League (England),€406K,€17K,41.8,65.4,38.7,22.9,60,LB,194cm,Right
+550919,M. Davis,32,Brazil,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€412K,€18K,55.6,55.4,61.8,20.9,60,GK,208cm,Left
+878877,B. Gallegos,25,Iraq,Smith-Sweeney,Mcclure PLC (Chad),€409K,€18K,17.6,64.5,39.0,47.4,60,RM,166cm,Right
+609226,Dale Jr.,27,Brazil,Holland Inc,Cochran LLC (Comoros),€403K,€17K,55.7,34.1,60.9,43.3,60,LWB,204cm,Left
+494575,A. Juarez,25,Botswana,"Rivera, Lambert and Ramirez",Premier League (England),€403K,€18K,48.3,57.5,57.7,60.3,60,CB,178cm,Left
+470133,J. Mccall,20,Brazil,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€402K,€17K,21.6,33.7,66.7,38.1,60,ST,152cm,Left
+560586,S. Bell,27,El Salvador,Manchester United,Smith-Williams (Saint Kitts and Nevis),€403K,€17K,57.7,17.9,49.3,60.4,60,CDM,157cm,Left
+650750,E. Villa,28,Cape Verde,"Harris, Foster and Fischer",Mcclure PLC (Chad),€400K,€17K,44.0,65.4,28.8,36.8,60,LB,151cm,Right
+85562,C. Hoffman,17,Sierra Leone,"Barrett, Harper and Nguyen",Premier League (England),€400K,€17K,37.7,55.2,62.2,34.9,60,LB,179cm,Left
+454463,M. Sherman,25,Chile,Adams-Day,Parker-Gibson (Cape Verde),€399K,€17K,61.0,57.4,28.4,55.0,60,CM,184cm,Left
+307042,D. Williams,32,Sierra Leone,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€402K,€16K,33.2,64.2,18.7,49.3,60,CDM,153cm,Right
+724899,J. Bennett,37,Cape Verde,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€397K,€16K,55.3,61.4,33.8,21.5,60,LB,163cm,Left
+806830,Thomas Jr.,32,Iraq,"Rivera, Lambert and Ramirez",Premier League (England),€393K,€16K,20.5,54.9,62.0,41.1,60,CAM,207cm,Left
+311308,K. Davis,24,Chad,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€400K,€16K,60.4,46.3,55.3,32.7,59,GK,152cm,Left
+680190,Joshua Brewer,48,Comoros,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€393K,€17K,33.4,59.7,39.4,58.4,59,CM,195cm,Right
+90403,B. Cruz,27,Brazil,Manchester United,Smith-Williams (Saint Kitts and Nevis),€391K,€15K,34.1,52.8,61.1,34.1,59,CAM,198cm,Right
+90519,K. Jackson,24,Sierra Leone,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€388K,€16K,49.6,50.2,62.0,47.5,59,CAM,154cm,Right
+123306,Henderson,22,Brazil,Petersen-Gomez,Premier League (England),€387K,€16K,52.9,60.7,23.7,48.2,59,RW,196cm,Right
+33209,B. Hodge,24,Botswana,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€396K,€16K,38.9,54.5,58.3,58.6,59,RM,176cm,Left
+811527,D. White,33,Chad,"Barrett, Harper and Nguyen",Premier League (England),€375K,€15K,54.9,60.5,51.2,46.4,59,RWB,154cm,Left
+336424,C. Bryant,26,El Salvador,Manchester United,Smith-Williams (Saint Kitts and Nevis),€378K,€16K,62.3,47.3,31.1,49.5,59,LM,161cm,Left
+992117,E. Hayes,27,Chad,Fitzgerald and Sons,Premier League (England),€386K,€15K,50.3,61.1,51.5,25.1,59,GK,184cm,Left
+124099,W. Hill,27,Cape Verde,Romero Ltd,Premier League (England),€377K,€15K,57.5,17.6,60.1,28.1,59,RW,154cm,Left
+927045,Juan Ramirez,27,Botswana,FC Barcelona,Parker-Gibson (Cape Verde),€373K,€14K,50.0,32.6,61.8,44.3,59,CM,176cm,Left
+460184,Jason Jr.,31,El Salvador,FC Barcelona,Parker-Gibson (Cape Verde),€365K,€15K,38.1,60.2,51.4,53.4,59,CM,186cm,Left
+550317,B. Miranda,22,Botswana,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€370K,€15K,32.9,67.9,27.3,25.4,59,LB,176cm,Right
+779698,T. Beck,24,Cape Verde,Wilson Inc,Premier League (England),€372K,€15K,64.5,36.4,41.7,22.5,59,RB,167cm,Left
+91771,S. Garrett,23,Iraq,Hughes Group,Williams-Smith (El Salvador),€368K,€15K,60.3,55.2,30.8,48.7,59,RWB,151cm,Left
+263911,B. Bennett,32,Saint Kitts and Nevis,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€362K,€14K,58.5,59.5,18.2,31.1,59,RB,197cm,Left
+894731,J. Soto,16,Comoros,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€364K,€14K,42.2,59.8,56.6,20.6,59,CB,156cm,Right
+485240,Mcmahon,35,Sierra Leone,Fitzgerald and Sons,Premier League (England),€360K,€14K,61.2,46.1,43.1,52.4,59,CM,168cm,Left
+944084,P. Wright,38,Brazil,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€363K,€14K,19.6,61.8,26.2,48.8,59,CB,159cm,Right
+788564,Eric Walker,47,Chad,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€358K,€13K,55.7,49.6,60.3,10.7,59,CF,172cm,Right
+403708,F. Ford,21,Botswana,Manchester United,Smith-Williams (Saint Kitts and Nevis),€354K,€14K,58.9,22.0,59.5,33.6,59,LM,164cm,Right
+969062,R. Oconnor,33,Comoros,Hughes Group,Williams-Smith (El Salvador),€357K,€13K,50.9,44.8,61.4,19.1,59,CAM,150cm,Left
+428481,L. Jones,27,Iraq,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€351K,€13K,25.6,14.7,63.2,45.8,59,ST,175cm,Left
+444974,D. Thompson,30,Chad,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€354K,€13K,37.4,64.8,41.2,27.3,59,RB,208cm,Left
+592436,P. Frost,20,Sierra Leone,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€352K,€13K,47.9,45.3,62.9,40.2,59,CB,184cm,Right
+682559,J. Clark,24,Yemen,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€354K,€13K,52.1,42.5,61.0,54.7,59,CB,154cm,Left
+715498,M. Gonzalez,28,El Salvador,Manchester United,Smith-Williams (Saint Kitts and Nevis),€348K,€13K,35.1,66.6,30.7,37.3,59,RM,198cm,Right
+126037,Turner,44,Chile,Gonzalez-Sparks,Williams-Smith (El Salvador),€357K,€12K,40.4,37.0,62.1,50.8,59,CAM,198cm,Left
+421079,Mclaughlin,48,El Salvador,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€347K,€12K,39.8,35.8,65.0,31.7,59,CAM,187cm,Left
+372028,J. Miller,22,El Salvador,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€349K,€13K,63.5,28.0,47.4,31.6,59,LWB,151cm,Right
+732909,J. Melendez,27,Saint Kitts and Nevis,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€346K,€11K,41.9,59.8,26.0,58.0,59,CDM,206cm,Right
+893004,K. Newman,21,Chad,Dunn-Savage,Delacruz LLC (Sierra Leone),€346K,€11K,58.6,10.3,30.7,55.6,58,LM,204cm,Right
+639073,Ryan Marshall,27,Chile,Smith-Sweeney,Mcclure PLC (Chad),€341K,€12K,13.2,59.2,55.0,44.3,58,ST,180cm,Right
+188542,Kevin Jr.,29,Chad,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€348K,€11K,44.4,25.2,62.7,36.7,58,ST,199cm,Left
+32918,J. Liu,33,Sierra Leone,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€334K,€10K,41.1,58.3,23.7,57.3,58,GK,201cm,Right
+467435,C. Weber,34,Iraq,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€334K,€12K,54.0,24.7,42.9,59.7,58,CDM,181cm,Left
+713240,J. Blake,29,Botswana,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€340K,€11K,43.5,52.4,59.7,40.3,58,RM,189cm,Left
+344622,S. Jarvis,22,Chad,"Reyes, Gray and Jenkins",Premier League (England),€337K,€11K,27.4,52.5,38.0,59.2,58,RM,158cm,Right
+631504,C. Chan,30,Chile,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€325K,€11K,18.5,54.1,58.8,25.4,58,ST,170cm,Right
+123674,J. Thomas,53,Comoros,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€327K,€10K,30.1,61.1,45.7,49.4,58,RM,187cm,Right
+664377,D. Johnson,34,Sierra Leone,Young-Dominguez,Parker-Gibson (Cape Verde),€333K,€10K,28.9,58.5,57.5,22.1,58,CB,188cm,Right
+951211,R. Richardson,20,Sierra Leone,Schwartz PLC,Cochran LLC (Comoros),€337K,€10K,60.6,34.6,50.7,51.2,58,RB,154cm,Right
+181195,I. Paul,28,Comoros,Romero Ltd,Premier League (England),€323K,€10K,14.2,58.0,58.4,31.9,58,CM,156cm,Right
+222342,E. Meyers,23,Chile,Schwartz PLC,Cochran LLC (Comoros),€318K,€10K,32.2,38.3,55.4,59.2,58,GK,198cm,Right
+107752,J. Atkins,20,Botswana,Young-Dominguez,Parker-Gibson (Cape Verde),€314K,€9K,52.1,38.6,59.5,41.5,58,LWB,166cm,Left
+640378,S. Boyd,26,Iraq,Hughes Group,Williams-Smith (El Salvador),€320K,€9K,43.8,10.2,33.8,63.1,58,RB,158cm,Right
+992881,J. Smith,24,Yemen,"Durham, Villa and Hudson",Premier League (England),€321K,€9K,22.6,58.0,25.5,57.3,58,CDM,151cm,Right
+624252,T. Brooks,38,Sierra Leone,FC Bayern München,Premier League (England),€309K,€8K,41.0,42.6,52.2,59.7,58,RW,195cm,Right
+272037,G. Wagner,31,Chad,"Frye, Gates and Reyes",Premier League (England),€299K,€9K,30.8,38.9,58.8,56.8,58,RM,207cm,Left
+460485,B. Garcia,24,Chile,FC Bayern München,Premier League (England),€313K,€9K,45.8,47.6,55.4,59.2,58,CB,198cm,Left
+894994,Larry Jr.,35,Chile,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€292K,€8K,39.6,60.9,47.4,39.6,58,CF,173cm,Right
+952648,Hayes,31,Brazil,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€290K,€8K,59.5,49.6,40.5,54.7,58,CM,165cm,Left
+846286,L. Norris,21,Sierra Leone,Wilson Inc,Premier League (England),€297K,€8K,35.6,45.9,61.8,29.7,58,RM,193cm,Left
+535211,B. Whitaker,30,Brazil,Salazar and Sons,Cochran LLC (Comoros),€312K,€9K,46.5,62.2,41.3,44.6,58,CAM,183cm,Right
+912158,Bradley Richard,20,Iraq,FC Barcelona,Parker-Gibson (Cape Verde),€287K,€8K,63.5,39.7,21.3,33.8,58,LM,173cm,Right
+600885,Steven Jr.,29,Cape Verde,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€291K,€8K,54.9,46.3,58.4,48.3,58,CM,164cm,Left
+887605,Bates,34,El Salvador,Gonzalez-Sparks,Williams-Smith (El Salvador),€290K,€8K,49.9,20.8,61.3,32.9,58,LWB,193cm,Left
+560055,D. Spencer,33,Yemen,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€288K,€8K,59.4,39.6,53.3,36.9,58,LWB,174cm,Left
+503079,Maxwell Jr.,21,Comoros,Fitzgerald and Sons,Premier League (England),€286K,€8K,52.6,60.1,50.7,51.7,58,CAM,181cm,Right
+675131,Cody Whitaker,24,Chile,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€287K,€8K,40.9,61.6,48.8,32.3,58,CF,188cm,Right
+11779,Isaiah Jr.,22,Chile,Fitzgerald and Sons,Premier League (England),€284K,€7K,28.7,58.6,22.5,57.8,58,CDM,169cm,Right
+650762,G. Maldonado,31,Chile,Holland Inc,Cochran LLC (Comoros),€286K,€8K,51.0,60.1,52.3,14.5,58,CF,202cm,Right
+962214,Gary Jr.,25,Iraq,Wilson Inc,Premier League (England),€279K,€6K,23.5,55.8,59.4,24.9,58,CAM,181cm,Left
+786467,C. Jimenez,33,Botswana,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€283K,€6K,34.3,55.4,31.7,57.2,57,GK,161cm,Right
+860590,B. Brown,34,Chad,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€287K,€7K,52.0,43.7,58.3,41.7,57,CF,197cm,Right
+287177,Haynes,28,Saint Kitts and Nevis,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€275K,€7K,45.8,10.5,60.7,16.8,57,LWB,181cm,Left
+401887,T. Martin,31,Comoros,"Reyes, Gray and Jenkins",Premier League (England),€271K,€6K,45.6,46.0,60.6,25.0,57,CB,151cm,Right
+279055,T. Smith,30,Botswana,FC Barcelona,Parker-Gibson (Cape Verde),€272K,€5K,39.4,28.1,45.5,60.8,57,LW,190cm,Left
+180843,E. Reynolds,31,Brazil,Fitzgerald and Sons,Premier League (England),€273K,€7K,44.3,61.1,33.9,34.0,57,RB,168cm,Left
+574081,Joshua Jr.,37,El Salvador,Holland Inc,Cochran LLC (Comoros),€275K,€6K,41.4,53.5,57.6,16.3,57,CB,180cm,Right
+426822,S. Davis,33,Chile,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€267K,€6K,46.3,60.8,40.9,38.5,57,CB,181cm,Right
+820165,S. Figueroa,33,Chile,King Group,Smith-Williams (Saint Kitts and Nevis),€276K,€5K,16.1,62.8,31.0,39.4,57,RM,202cm,Right
+623618,White,46,Iraq,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€269K,€5K,50.1,42.6,59.4,32.0,57,CAM,169cm,Right
+705712,Tyler Jr.,35,El Salvador,FC Barcelona,Parker-Gibson (Cape Verde),€270K,€5K,60.6,43.3,10.6,46.4,57,RB,153cm,Left
+591119,M. Porter,34,Iraq,Dunn-Savage,Delacruz LLC (Sierra Leone),€256K,€5K,47.9,59.8,44.3,24.0,57,GK,153cm,Left
+754973,Roy Jr.,25,Chile,FC Barcelona,Parker-Gibson (Cape Verde),€260K,€5K,62.4,27.5,40.4,32.7,57,LWB,192cm,Right
+771479,Peter Jr.,32,El Salvador,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€267K,€5K,26.7,58.9,32.0,52.8,57,RM,175cm,Right
+419244,Eric Jr.,25,Cape Verde,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€255K,€5K,29.1,39.4,57.2,57.4,57,RM,194cm,Left
+476608,E. Nielsen,26,Chad,"Frye, Gates and Reyes",Premier League (England),€254K,€5K,69.4,18.8,21.7,16.5,57,LM,190cm,Right
+26412,C. Smith,39,Saint Kitts and Nevis,King Group,Smith-Williams (Saint Kitts and Nevis),€252K,€5K,57.0,55.3,25.1,46.6,57,RB,158cm,Left
+354133,A. Brady,30,Botswana,Miller Ltd,Premier League (England),€263K,€5K,52.6,44.3,58.1,24.9,57,LWB,197cm,Right
+927577,Frederick,23,Cape Verde,"Mccann, Bailey and Oliver",Parker-Gibson (Cape Verde),€250K,€5K,58.4,42.8,52.3,33.1,57,CDM,193cm,Left
+551553,J. Garrett,26,Saint Kitts and Nevis,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€245K,€4K,31.6,50.4,59.7,31.2,57,LB,180cm,Left
+469758,Rodriguez,28,Chad,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€249K,€4K,57.4,55.4,53.0,54.2,57,CAM,183cm,Right
+338694,J. Mccormick,30,Botswana,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€243K,€5K,31.3,35.1,40.6,63.1,57,RW,165cm,Right
+838544,D. Fowler,35,Saint Kitts and Nevis,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€250K,€4K,60.8,44.1,43.5,31.2,57,CAM,175cm,Right
+904164,J. Campbell,22,Brazil,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€243K,€4K,28.3,62.3,37.3,41.7,57,GK,159cm,Right
+76903,D. Garcia,16,Chile,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€242K,€4K,37.9,57.4,32.7,56.5,57,CDM,161cm,Right
+994436,Jonathan Jr.,30,Saint Kitts and Nevis,King Group,Smith-Williams (Saint Kitts and Nevis),€235K,€4K,17.4,46.6,58.0,53.3,57,ST,164cm,Left
+27934,Taylor,22,Sierra Leone,"Galvan, Williams and Joyce",Premier League (England),€240K,€5K,60.5,39.2,44.7,43.7,57,CAM,150cm,Right
+937425,Michael Jr.,30,Sierra Leone,FC Bayern München,Premier League (England),€229K,€4K,32.2,23.2,59.8,49.4,57,ST,171cm,Left
+77352,Ryan Gordon,30,Chile,Wilson Inc,Premier League (England),€241K,€4K,45.2,38.8,55.7,56.9,57,CB,161cm,Left
+585498,S. Sanders,28,Comoros,"Reyes, Gray and Jenkins",Premier League (England),€223K,€2K,55.2,57.9,23.4,52.4,57,RWB,207cm,Left
+503579,J. Davis,32,Chad,Smith-Sweeney,Mcclure PLC (Chad),€229K,€3K,61.4,40.6,43.9,18.9,57,GK,150cm,Left
+560936,R. Mckenzie,22,Brazil,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€222K,€2K,60.5,22.0,46.0,42.1,57,LM,179cm,Right
+393250,W. Hernandez,18,Saint Kitts and Nevis,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€217K,€3K,55.8,56.6,55.4,31.0,56,LWB,167cm,Right
+581881,J. Juarez,43,Chile,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€218K,€2K,37.7,39.5,62.1,23.2,56,CAM,158cm,Left
+508518,S. Davis,22,El Salvador,Dunn-Savage,Delacruz LLC (Sierra Leone),€221K,€2K,56.7,46.7,55.1,38.1,56,CDM,175cm,Left
+115517,B. Lopez,29,Yemen,Wilson Inc,Premier League (England),€210K,€1K,31.9,48.9,58.9,24.9,56,LWB,201cm,Right
+295826,T. Greene,54,Sierra Leone,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€216K,€2K,18.2,58.1,28.8,49.3,56,CM,206cm,Right
+99391,Antonio Jr.,25,El Salvador,Paris Saint Germain,Brown-Ferguson (Yemen),€214K,€1K,60.6,43.4,37.1,24.4,56,RB,209cm,Left
+369755,Ryan Jr.,34,Brazil,Gonzalez-Sparks,Williams-Smith (El Salvador),€225K,€1K,12.8,58.1,51.3,31.5,56,CM,172cm,Right
+976027,M. Norman,26,Chile,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€209K,€0,33.4,57.0,52.8,44.2,56,CAM,154cm,Right
+91303,Thomas Jr.,21,Chile,King Group,Smith-Williams (Saint Kitts and Nevis),€206K,€1K,17.9,59.7,46.6,29.7,56,RM,170cm,Right
+738508,Z. Murphy,24,Yemen,"Galvan, Williams and Joyce",Premier League (England),€210K,€2K,25.8,58.1,50.3,21.2,56,CAM,156cm,Left
+124337,Jacob Kelly,22,Cape Verde,Davis-Franklin,Premier League (England),€205K,€1K,53.7,56.2,41.1,38.1,56,LB,152cm,Left
+435716,R. Thomas,22,Sierra Leone,"Reyes, Gray and Jenkins",Premier League (England),€197K,€0,48.6,58.2,46.0,44.2,56,CDM,201cm,Right
+468820,E. Collins,45,Cape Verde,"Reyes, Gray and Jenkins",Premier League (England),€215K,€0,54.3,48.4,56.1,31.0,56,RWB,176cm,Right
+190673,D. Davis,31,Saint Kitts and Nevis,FC Bayern München,Premier League (England),€205K,€0,54.3,51.9,57.2,33.0,56,GK,162cm,Left
+829883,N. Lara,23,Brazil,Adams-Day,Parker-Gibson (Cape Verde),€202K,€0,52.8,30.3,56.5,49.1,56,CB,168cm,Left
+838396,Petersen,22,Comoros,Petersen-Gomez,Premier League (England),€187K,€0,55.7,55.8,40.9,36.9,56,CF,159cm,Right
+518936,Mayer,27,Yemen,FC Bayern München,Premier League (England),€196K,€0,46.6,20.2,59.1,34.1,56,CAM,200cm,Left
+879555,C. Harris,24,Sierra Leone,Hughes Group,Williams-Smith (El Salvador),€190K,€0,53.4,16.7,56.7,13.1,56,LWB,193cm,Left
+93452,J. Ward,22,Chad,Dunn-Savage,Delacruz LLC (Sierra Leone),€200K,€0,24.9,57.8,50.0,39.3,56,ST,163cm,Right
+954250,Jeremiah Cole,22,Iraq,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€190K,€0,55.3,55.9,31.9,44.1,56,LM,150cm,Left
+872340,Zachary Jr.,25,Brazil,"Barrett, Harper and Nguyen",Premier League (England),€187K,€0,43.4,42.1,57.6,51.6,56,ST,155cm,Left
+790461,Matthew Jr.,19,Chile,Manchester United,Smith-Williams (Saint Kitts and Nevis),€186K,€0,56.0,55.2,42.5,47.7,56,RW,193cm,Right
+434257,D. Bradley,30,Chile,King Group,Smith-Williams (Saint Kitts and Nevis),€179K,€0,57.9,45.2,43.2,35.7,55,GK,185cm,Right
+958569,Johnny Jr.,29,Botswana,Manchester United,Smith-Williams (Saint Kitts and Nevis),€174K,€0,55.6,45.5,34.8,54.4,55,CM,204cm,Left
+918119,Lambert,33,Chile,Young-Dominguez,Parker-Gibson (Cape Verde),€186K,€0,35.0,57.3,19.1,49.0,55,CDM,200cm,Right
+934863,K. Kline,42,Saint Kitts and Nevis,FC Barcelona,Parker-Gibson (Cape Verde),€171K,€0,41.3,52.0,56.1,32.2,55,CF,194cm,Right
+926840,A. Rojas,23,Chile,Manchester United,Smith-Williams (Saint Kitts and Nevis),€175K,€0,11.0,15.1,54.5,55.6,55,ST,170cm,Left
+713851,T. Johnson,23,Chile,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€171K,€0,46.9,32.0,57.8,40.0,55,RW,184cm,Right
+722126,R. Woodward,20,Botswana,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€162K,€0,35.1,48.4,57.4,47.2,55,CB,178cm,Right
+345409,R. Patrick,21,Comoros,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€171K,€0,51.0,56.6,30.5,26.0,55,LB,194cm,Left
+984497,B. Andrews,18,Chile,"Rivera, Lambert and Ramirez",Premier League (England),€161K,€0,32.9,38.3,59.8,40.3,55,ST,183cm,Left
+206424,James Bonilla,32,Iraq,"Noble, Morton and Francis",Mcclure PLC (Chad),€160K,€0,32.0,55.8,32.3,50.7,55,CDM,155cm,Right
+1763,J. Reyes,21,Saint Kitts and Nevis,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€157K,€0,13.6,47.3,58.2,45.9,55,ST,179cm,Right
+296685,A. Green,32,Comoros,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€158K,€0,59.0,30.7,17.6,43.0,55,RB,150cm,Left
+558887,Williams,22,Saint Kitts and Nevis,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€174K,€0,41.8,39.3,59.9,25.2,55,LWB,163cm,Right
+485174,Harmon,29,Botswana,"Frye, Gates and Reyes",Premier League (England),€153K,€0,23.6,61.8,35.0,16.3,55,LB,156cm,Right
+845798,N. Rice,22,Brazil,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€153K,€0,53.9,27.5,34.4,55.9,55,LWB,158cm,Right
+682152,T. Tate,30,Sierra Leone,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€154K,€0,54.3,55.6,12.7,23.2,55,LB,151cm,Right
+928150,K. Kaufman,31,El Salvador,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€152K,€0,49.2,56.8,39.5,26.9,55,LWB,174cm,Right
+731705,T. Doyle,28,Yemen,Swanson-Foster,Delacruz LLC (Sierra Leone),€155K,€0,35.0,46.1,15.6,57.5,55,RB,156cm,Right
+781312,L. Leach,23,Chile,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€148K,€0,34.7,51.3,56.8,33.6,55,CF,159cm,Left
+35877,J. Esparza,32,Comoros,Paris Saint Germain,Brown-Ferguson (Yemen),€150K,€0,55.6,39.2,52.0,40.5,55,RB,177cm,Right
+150749,Max Jr.,29,Saint Kitts and Nevis,Schwartz PLC,Cochran LLC (Comoros),€151K,€0,15.5,54.1,55.7,47.6,55,RM,207cm,Left
+634119,Robert Johnston,23,Saint Kitts and Nevis,Manchester United,Smith-Williams (Saint Kitts and Nevis),€142K,€0,58.2,41.1,45.0,22.9,55,CAM,171cm,Right
+196749,J. Hernandez,47,Sierra Leone,FC Bayern München,Premier League (England),€142K,€0,55.2,16.0,51.7,15.0,54,LWB,186cm,Left
+123044,Fields,20,El Salvador,Young-Dominguez,Parker-Gibson (Cape Verde),€151K,€0,54.9,36.1,27.3,50.8,54,CM,192cm,Left
+409838,M. Mcdonald,35,Botswana,"Durham, Villa and Hudson",Premier League (England),€147K,€0,24.5,60.5,33.9,12.7,54,LB,178cm,Left
+319896,S. Bowman,22,Yemen,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€145K,€0,34.1,21.3,52.3,54.0,54,ST,152cm,Left
+221857,Todd Perez,28,Iraq,"Galvan, Williams and Joyce",Premier League (England),€138K,€0,52.1,20.0,54.3,43.0,54,CAM,206cm,Left
+279265,A. Burgess,23,Sierra Leone,Davis-Franklin,Premier League (England),€141K,€0,39.9,25.6,33.2,58.9,54,RW,179cm,Right
+255108,R. Hughes,29,Chad,Davis-Franklin,Premier League (England),€141K,€0,16.2,54.1,49.6,52.8,54,ST,152cm,Right
+877955,G. Downs,36,El Salvador,Young-Dominguez,Parker-Gibson (Cape Verde),€138K,€0,18.8,52.3,37.5,54.0,54,CAM,162cm,Left
+525704,M. Torres,38,Cape Verde,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€137K,€0,26.7,60.2,36.3,26.3,54,LB,151cm,Left
+239704,R. Lamb,25,Botswana,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€135K,€0,41.8,46.8,54.0,54.6,54,CM,150cm,Left
+346258,A. Brown,34,Brazil,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€137K,€0,39.7,43.0,57.4,38.1,54,CF,195cm,Right
+330072,Aaron Jr.,29,El Salvador,Salazar and Sons,Cochran LLC (Comoros),€132K,€0,54.8,53.2,52.7,22.8,54,CAM,161cm,Left
+739689,J. Harris,35,Iraq,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€131K,€0,48.9,24.0,13.9,56.0,54,RB,159cm,Right
+682363,Clark,25,Botswana,Leach LLC,Premier League (England),€130K,€0,23.2,56.1,46.2,38.9,54,CM,164cm,Right
+108960,James Blankenship,22,Iraq,"Noble, Morton and Francis",Mcclure PLC (Chad),€142K,€0,32.8,51.5,31.2,55.5,54,CM,204cm,Right
+199331,Timothy Jr.,15,El Salvador,King Group,Smith-Williams (Saint Kitts and Nevis),€116K,€0,54.8,37.8,44.8,49.8,54,CM,189cm,Left
+748235,E. Butler,32,Cape Verde,"Miller, Parks and Thomas",Premier League (England),€134K,€0,30.5,57.1,20.2,44.7,54,LB,159cm,Right
+248573,C. May,28,Chad,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€117K,€0,44.9,41.4,20.8,56.8,54,CM,177cm,Right
+256881,C. Wright,35,Chile,Davis-Franklin,Premier League (England),€129K,€0,54.1,47.1,36.3,53.6,54,RW,192cm,Right
+167060,N. Torres,34,Cape Verde,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€114K,€0,51.4,55.0,40.8,52.1,54,LWB,197cm,Right
+904781,Floyd,30,Botswana,Gonzalez-Sparks,Williams-Smith (El Salvador),€115K,€0,40.1,36.1,58.4,28.0,54,CAM,192cm,Left
+356006,T. Schmidt,32,Comoros,Schwartz PLC,Cochran LLC (Comoros),€113K,€0,45.4,15.8,56.3,25.1,54,LWB,173cm,Left
+454554,S. Hansen,30,El Salvador,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€116K,€0,41.3,38.9,21.7,58.5,54,RW,202cm,Right
+426091,D. Thomas,34,Brazil,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€113K,€0,58.3,29.0,36.1,24.0,53,LWB,165cm,Right
+90467,C. Miller,28,Botswana,Adams-Day,Parker-Gibson (Cape Verde),€107K,€0,52.2,33.7,44.4,52.7,53,RB,196cm,Right
+361041,J. English,25,Brazil,King Group,Smith-Williams (Saint Kitts and Nevis),€128K,€0,13.7,53.9,42.9,49.0,53,CM,167cm,Right
+918130,R. Hobbs,15,Iraq,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€111K,€0,23.8,55.4,36.1,45.0,53,CAM,186cm,Left
+205438,Tony Jr.,29,Comoros,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€105K,€0,33.5,55.1,45.3,34.0,53,RM,191cm,Right
+164862,T. Kelley,50,Cape Verde,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€105K,€0,38.3,56.3,39.1,41.3,53,CAM,176cm,Right
+672916,R. Pierce,25,Chile,Schwartz PLC,Cochran LLC (Comoros),€107K,€0,33.5,55.7,46.0,29.2,53,LWB,152cm,Right
+591368,M. Ortiz,33,Saint Kitts and Nevis,FC Barcelona,Parker-Gibson (Cape Verde),€102K,€0,35.0,11.1,27.0,59.5,53,RB,167cm,Right
+714480,A. Jones,48,Chile,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€98K,€0,45.9,37.5,39.8,54.9,53,CM,203cm,Left
+239367,Parker Jr.,25,Sierra Leone,Gonzalez-Sparks,Williams-Smith (El Salvador),€98K,€0,57.7,29.0,23.2,38.1,53,RB,152cm,Right
+444344,Michael Williams,21,Chile,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€99K,€0,56.2,16.5,44.3,35.6,53,CDM,187cm,Left
+461083,R. Wood,24,Chad,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€99K,€0,53.6,47.2,25.9,49.5,53,GK,174cm,Right
+231812,B. Frost,43,Cape Verde,FC Barcelona,Parker-Gibson (Cape Verde),€96K,€0,33.9,48.6,54.8,26.4,53,CM,178cm,Right
+387810,J. King,41,Brazil,Romero Ltd,Premier League (England),€108K,€0,34.5,32.7,57.8,40.3,53,CAM,200cm,Left
+895748,M. Miranda,23,El Salvador,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€98K,€0,35.5,45.9,33.3,55.5,53,CM,192cm,Left
+765325,Jeremy Beasley,27,Cape Verde,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€96K,€0,31.9,56.7,43.7,36.2,53,LWB,205cm,Right
+200174,Joseph,29,Brazil,Dunn-Savage,Delacruz LLC (Sierra Leone),€95K,€0,15.9,25.8,56.2,44.7,53,CM,173cm,Right
+937618,Turner,21,Yemen,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€95K,€0,24.3,50.1,54.2,47.0,53,CM,181cm,Right
+372623,J. Cruz,46,Chile,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€93K,€0,11.6,35.1,58.4,35.6,53,ST,183cm,Right
+552855,J. Stuart,54,Chad,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€92K,€0,35.3,54.1,48.4,51.2,53,CM,173cm,Left
+508109,B. Lam,31,Cape Verde,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€90K,€0,54.0,34.0,16.0,46.8,52,RB,209cm,Left
+434568,T. Bryant,36,Iraq,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€96K,€0,38.5,56.6,8.6,15.0,52,LB,182cm,Right
+393751,P. Fuentes,25,Botswana,"Rivera, Lambert and Ramirez",Premier League (England),€89K,€0,56.3,37.4,20.8,38.5,52,LM,191cm,Left
+173254,S. Wagner,33,Yemen,"Harris, Foster and Fischer",Mcclure PLC (Chad),€88K,€0,54.0,46.2,40.0,29.0,52,CF,162cm,Right
+214476,M. Compton,20,Yemen,Hughes Group,Williams-Smith (El Salvador),€78K,€0,45.8,42.7,53.0,47.4,52,CM,181cm,Left
+542225,David Jr.,34,Sierra Leone,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€84K,€0,47.7,30.6,27.8,53.6,52,CM,200cm,Left
+534716,Smith,29,Saint Kitts and Nevis,"Galvan, Williams and Joyce",Premier League (England),€80K,€0,45.2,52.8,50.0,11.1,52,CF,179cm,Right
+650300,Roger Jr.,32,Saint Kitts and Nevis,FC Bayern München,Premier League (England),€84K,€0,19.5,37.5,53.0,47.8,52,CM,195cm,Right
+77259,Timothy Vargas,53,Chile,Ross Inc,Smith-Williams (Saint Kitts and Nevis),€67K,€0,41.8,53.8,32.3,45.4,52,CB,210cm,Right
+388565,Michael Barber,20,El Salvador,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€78K,€0,20.8,32.4,41.8,55.6,52,CM,187cm,Right
+495104,E. Romero,35,Saint Kitts and Nevis,Fitzgerald and Sons,Premier League (England),€70K,€0,39.9,34.1,34.6,56.6,52,RB,173cm,Right
+355951,Ruiz,25,Botswana,"Galvan, Williams and Joyce",Premier League (England),€76K,€0,52.5,19.6,52.2,52.3,52,CDM,170cm,Left
+421559,D. Washington,33,Chile,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€73K,€0,52.6,48.2,40.6,46.2,52,CF,204cm,Right
+806655,Merritt,23,Chad,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€58K,€0,51.3,45.0,49.4,52.2,52,LWB,191cm,Right
+151477,M. Russell,35,Iraq,King Group,Smith-Williams (Saint Kitts and Nevis),€60K,€0,44.3,53.1,46.2,50.1,52,RB,154cm,Left
+221374,Colin Young,27,Chad,Jones Group,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€57K,€0,36.3,40.3,35.1,54.4,51,CM,179cm,Left
+286918,Charles Jr.,35,Sierra Leone,Gonzalez-Sparks,Williams-Smith (El Salvador),€55K,€0,56.0,31.7,22.1,34.5,51,RW,173cm,Right
+442659,J. Montgomery,22,Iraq,"Galvan, Williams and Joyce",Premier League (England),€57K,€0,50.9,49.7,37.7,48.8,51,RB,163cm,Left
+582120,W. Nguyen,23,Brazil,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€54K,€0,40.4,37.5,54.5,38.9,51,ST,202cm,Right
+631940,R. Reed,34,Botswana,"Noble, Morton and Francis",Mcclure PLC (Chad),€50K,€0,40.5,32.9,55.0,28.5,51,LM,162cm,Right
+66905,J. Johnson,28,Yemen,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€47K,€0,47.0,43.4,52.1,44.7,51,GK,188cm,Right
+689795,J. Mueller,20,Saint Kitts and Nevis,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€45K,€0,24.5,46.9,51.8,38.6,51,CB,203cm,Right
+550837,C. Garcia,33,Yemen,Young-Dominguez,Parker-Gibson (Cape Verde),€42K,€0,38.8,44.2,52.7,44.3,51,LM,198cm,Right
+911730,R. Clark,27,Yemen,"Harris, Foster and Fischer",Mcclure PLC (Chad),€46K,€0,14.0,55.0,30.7,38.4,51,CM,206cm,Right
+158131,M. Floyd,32,Brazil,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€41K,€0,42.0,45.3,52.1,48.7,51,CM,176cm,Left
+764396,Gary Garcia,25,Yemen,"Campbell, Davis and Austin",Smith-Williams (Saint Kitts and Nevis),€40K,€0,44.0,33.5,41.1,52.7,51,RW,162cm,Right
+19161,Williams,29,Comoros,Dunn-Savage,Delacruz LLC (Sierra Leone),€45K,€0,40.5,39.1,35.9,55.0,51,CM,203cm,Left
+584490,S. Nelson,29,Chad,"Noble, Morton and Francis",Mcclure PLC (Chad),€35K,€0,18.8,40.0,55.1,33.9,51,CM,169cm,Right
+256906,C. Novak,32,Chile,Manchester United,Smith-Williams (Saint Kitts and Nevis),€39K,€0,53.0,44.2,16.3,46.7,51,RB,207cm,Left
+789569,Robert Chang,30,Comoros,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€29K,€0,44.6,28.7,50.2,50.8,51,LWB,191cm,Right
+69065,A. Lewis,51,El Salvador,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€30K,€0,45.1,53.6,35.9,30.3,51,LB,210cm,Right
+770158,C. Small,34,Botswana,King Group,Smith-Williams (Saint Kitts and Nevis),€28K,€0,52.9,42.1,37.4,18.1,50,LM,186cm,Right
+573694,D. Dean,22,Chile,Romero Ltd,Premier League (England),€23K,€0,31.2,29.6,56.5,32.1,50,LWB,191cm,Right
+991566,H. Taylor,29,Chad,Smith-Sweeney,Mcclure PLC (Chad),€21K,€0,48.8,33.2,50.3,48.6,50,CM,206cm,Left
+148129,D. Larson,28,Comoros,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€23K,€0,24.6,44.0,52.3,38.4,50,CAM,172cm,Left
+50301,B. Harrison,34,Chad,Gonzalez-Sparks,Williams-Smith (El Salvador),€23K,€0,54.4,23.1,34.6,35.5,50,RW,175cm,Right
+902501,K. Robinson,29,Chile,FC Bayern München,Premier League (England),€13K,€0,35.4,43.8,33.2,52.0,50,CAM,172cm,Left
+124602,R. Murray,50,Brazil,"Rivera, Lambert and Ramirez",Premier League (England),€11K,€0,26.5,55.2,28.7,35.0,50,CB,184cm,Right
+640907,P. Bell,21,Cape Verde,"Galvan, Williams and Joyce",Premier League (England),€22K,€0,54.2,26.1,23.7,37.5,50,RW,171cm,Right
+125049,J. Peterson,30,Yemen,"Rodriguez, Pugh and Matthews",Delacruz LLC (Sierra Leone),€17K,€0,33.6,45.7,50.9,22.1,50,CAM,192cm,Left
+157911,M. Chase,15,El Salvador,Petersen-Gomez,Premier League (England),€15K,€0,22.6,38.1,53.2,39.2,50,CAM,192cm,Left
+330069,S. Grant,30,Comoros,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€9K,€0,52.3,15.6,43.8,17.4,50,LM,180cm,Right
+182924,Oscar Jr.,31,Brazil,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€10K,€0,54.4,27.9,27.8,38.5,50,LM,178cm,Right
+756670,T. Morgan,26,Comoros,Paris Saint Germain,Brown-Ferguson (Yemen),€6K,€0,16.2,44.5,52.2,33.0,50,CB,190cm,Right
+364247,Christopher Jr.,32,Chad,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€750,€0,47.1,42.3,51.5,33.8,50,CAM,204cm,Left
+94113,Gutierrez,33,Brazil,Petersen-Gomez,Premier League (England),€4K,€0,45.8,45.5,51.4,38.5,50,CB,150cm,Right
+765897,S. Bentley,23,El Salvador,Hughes Group,Williams-Smith (El Salvador),€2K,€0,28.1,51.5,46.7,42.8,50,CAM,171cm,Left
+704643,J. Mahoney,27,Yemen,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€2K,€0,30.7,38.1,52.5,28.6,49,LWB,152cm,Right
+942234,Michael Peters,25,Saint Kitts and Nevis,"Reyes, Gray and Jenkins",Premier League (England),€750,€0,33.2,22.8,41.8,51.2,49,LWB,206cm,Right
+82322,Dillon Patterson,32,Brazil,Leach LLC,Premier League (England),€750,€0,43.3,51.1,13.0,15.3,49,LB,176cm,Right
+623158,J. Cox,26,Chile,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€750,€0,51.4,42.4,33.3,30.5,49,RB,183cm,Left
+500409,Adam Fritz,24,Sierra Leone,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€750,€0,40.1,18.1,21.0,52.0,49,LM,155cm,Right
+435090,Zachary Jr.,22,Botswana,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€750,€0,32.1,53.7,11.7,35.0,49,LB,188cm,Right
+927671,E. Reed,27,Cape Verde,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€750,€0,26.3,49.6,47.5,25.5,49,CAM,192cm,Left
+116679,J. Jones,22,Chad,Schwartz PLC,Cochran LLC (Comoros),€750,€0,32.2,32.8,52.2,38.9,49,CM,171cm,Right
+10476,J. Smith,22,Sierra Leone,Gonzalez-Sparks,Williams-Smith (El Salvador),€750,€0,24.4,32.8,54.3,15.9,49,CAM,160cm,Left
+27448,J. Hunter,33,Cape Verde,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€750,€0,53.5,32.6,34.2,20.4,49,RB,197cm,Left
+232270,Wayne Jr.,20,Comoros,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€750,€0,47.3,49.0,12.4,20.2,49,LB,173cm,Right
+723881,Tyler Jr.,49,Comoros,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€750,€0,31.8,54.3,20.4,12.4,49,LB,168cm,Right
+707787,P. Wolf,36,Sierra Leone,Mcdaniel-Hurley,Smith-Williams (Saint Kitts and Nevis),€750,€0,50.1,44.6,33.0,20.6,49,LWB,154cm,Right
+265888,D. Williams,38,Sierra Leone,Holland Inc,Cochran LLC (Comoros),€750,€0,44.1,50.0,38.3,30.2,49,CAM,207cm,Right
+642744,H. Douglas,35,El Salvador,"Pollard, Moore and Hood","Carter, Jacobson and Parker (Sierra Leone)",€750,€0,47.1,49.6,36.6,38.0,49,CF,168cm,Right
+945974,Beltran,23,Sierra Leone,Petersen-Gomez,Premier League (England),€750,€0,26.4,52.0,28.1,41.0,49,CB,205cm,Right
+278844,J. Skinner,32,Iraq,"Rivera, Lambert and Ramirez",Premier League (England),€1K,€0,48.8,41.7,34.5,47.3,48,LM,169cm,Right
+246203,T. Decker,35,El Salvador,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€750,€0,43.4,36.0,12.7,49.8,48,RB,206cm,Left
+606780,Eric Barnett,40,Botswana,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€750,€0,19.7,57.6,5.5,16.7,48,LB,153cm,Right
+328581,B. Young,24,Comoros,Fitzgerald and Sons,Premier League (England),€750,€0,38.0,41.7,50.4,35.1,48,LWB,198cm,Right
+967906,W. Ingram,26,Saint Kitts and Nevis,"Salas, Thomas and Kelly",Delacruz LLC (Sierra Leone),€750,€0,23.1,52.1,9.7,35.3,48,LB,186cm,Right
+165132,M. Barnes,43,Comoros,"Harris, Foster and Fischer",Mcclure PLC (Chad),€500,€0,45.4,8.4,20.4,48.9,48,LM,188cm,Right
+836949,Taylor,46,Brazil,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€750,€0,51.3,31.4,40.1,35.7,48,LWB,198cm,Right
+599390,J. Glass,26,Botswana,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€500,€0,40.2,25.6,50.4,33.9,48,LM,160cm,Right
+787907,M. Pierce,32,Cape Verde,"Reyes, Gray and Jenkins",Premier League (England),€500,€0,37.6,51.0,40.6,32.6,48,CB,202cm,Right
+976476,Jason Jr.,35,Brazil,"Hawkins, Garcia and Fritz",Williams-Smith (El Salvador),€500,€0,47.8,36.1,47.3,14.1,48,RB,166cm,Left
+894822,D. Williams,23,Sierra Leone,FC Barcelona,Parker-Gibson (Cape Verde),€500,€0,51.1,20.9,37.6,40.4,48,LWB,159cm,Right
+772865,P. Frye,15,Cape Verde,"Frye, Gates and Reyes",Premier League (England),€500,€0,31.7,29.6,41.9,49.5,48,LWB,159cm,Right
+249062,Z. Escobar,32,Chad,"Harris, Foster and Fischer",Mcclure PLC (Chad),€500,€0,9.9,24.8,54.9,26.0,48,CM,188cm,Right
+699892,Robert Huerta,34,Brazil,Young-Dominguez,Parker-Gibson (Cape Verde),€500,€0,18.6,44.9,42.7,49.2,48,CM,159cm,Right
+634362,Z. Lindsey,30,Chad,Davis-Franklin,Premier League (England),€500,€0,36.2,10.7,49.2,44.1,48,RB,157cm,Right
+565822,Craig Torres,31,Cape Verde,FC Bayern München,Premier League (England),€500,€0,29.8,48.1,45.6,34.6,47,LB,152cm,Left
+229999,M. Sellers,35,Yemen,Gonzalez-Sparks,Williams-Smith (El Salvador),€500,€0,32.9,46.4,36.9,47.6,47,RB,164cm,Right
+246815,J. Thompson,45,Brazil,"Frye, Gates and Reyes",Premier League (England),€500,€0,40.8,13.9,19.1,48.8,47,RB,152cm,Right
+517522,Leroy Lane,25,Comoros,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€500,€0,48.7,16.6,24.9,42.4,47,LM,195cm,Right
+19059,J. Thomas,23,Comoros,Young-Dominguez,Parker-Gibson (Cape Verde),€500,€0,47.7,46.5,35.3,42.3,47,RW,156cm,Right
+729207,P. Walker,25,Chad,"Reyes, Gray and Jenkins",Premier League (England),€500,€0,38.6,30.1,43.3,46.8,46,RW,183cm,Right
+614892,Kyle Jr.,34,Chile,"Durham, Villa and Hudson",Premier League (England),€500,€0,48.0,40.3,37.2,33.8,46,LWB,189cm,Right
+500462,C. Wells,22,El Salvador,FC Bayern München,Premier League (England),€500,€0,50.9,30.2,21.8,17.1,46,RB,207cm,Left
+942974,T. Richards,24,Yemen,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€500,€0,31.5,11.7,18.5,50.6,46,RB,209cm,Right
+91128,L. Phelps,50,Chile,Wilson Inc,Premier League (England),€500,€0,46.5,45.5,40.0,17.3,46,GK,181cm,Left
+477243,S. Oliver,15,Comoros,FC Bayern München,Premier League (England),€500,€0,39.0,29.4,47.7,34.9,46,LM,159cm,Right
+133641,S. Clark,34,Yemen,FC Barcelona,Parker-Gibson (Cape Verde),€500,€0,46.4,37.8,34.7,44.1,46,RB,207cm,Left
+780836,G. Peterson,34,Sierra Leone,Scott-Patton,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€500,€0,34.1,22.6,47.0,44.5,46,LWB,199cm,Right
+273649,C. Ruiz,32,Chile,King Group,Smith-Williams (Saint Kitts and Nevis),€500,€0,46.0,35.3,44.2,44.5,46,RB,187cm,Right
+85903,Dennis Hodges,26,Botswana,"Durham, Villa and Hudson",Premier League (England),€250,€0,45.4,26.3,46.4,28.8,46,CAM,195cm,Left
+237605,Barry Jr.,24,Yemen,Miller Ltd,Premier League (England),€250,€0,38.4,46.9,39.0,33.7,45,LWB,174cm,Right
+565344,Rivera,31,Botswana,Salazar and Sons,Cochran LLC (Comoros),€250,€0,44.1,22.6,45.6,33.0,45,CAM,152cm,Left
+877669,B. Williams,27,Iraq,"Harris, Foster and Fischer",Mcclure PLC (Chad),€250,€0,31.2,47.8,21.9,37.4,45,CM,195cm,Right
+558870,S. Colon,26,Cape Verde,Smith-Sweeney,Mcclure PLC (Chad),€250,€0,45.7,41.2,23.2,44.8,45,CM,184cm,Right
+673909,C. Morgan,43,Iraq,FC Bayern München,Premier League (England),€250,€0,37.6,48.1,31.9,14.9,45,CB,191cm,Right
+182609,Salas,30,Chad,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€250,€0,30.0,38.0,46.8,35.2,45,CM,174cm,Right
+101855,G. Taylor,33,El Salvador,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€250,€0,46.5,37.5,41.1,24.6,45,LM,167cm,Right
+699887,Brett Sweeney,24,Yemen,Paris Saint Germain,Brown-Ferguson (Yemen),€250,€0,47.9,23.6,35.2,28.4,45,LWB,183cm,Right
+568869,M. Davis,24,El Salvador,"Noble, Morton and Francis",Mcclure PLC (Chad),€250,€0,33.8,47.8,38.4,36.0,45,RW,174cm,Right
+90266,T. Harper,26,Botswana,Hughes Group,Williams-Smith (El Salvador),€250,€0,35.8,46.2,35.3,18.0,44,CB,191cm,Right
+844182,David Smith,18,Brazil,Romero Ltd,Premier League (England),€250,€0,44.8,42.6,29.1,34.4,44,RB,171cm,Left
+648414,K. Hartman,27,Chad,Leach LLC,Premier League (England),€250,€0,11.3,32.2,22.9,48.6,44,CM,175cm,Right
+468758,J. Hall,24,Iraq,Riley-Strickland,"Smith, Rowland and Moreno (Saint Kitts and Nevis)",€250,€0,31.4,41.1,30.9,44.9,44,RB,184cm,Right
+657213,James Jr.,30,Iraq,Davis-Franklin,Premier League (England),€250,€0,43.3,43.3,30.7,44.2,44,RB,176cm,Right
+452426,A. Weber,30,Brazil,King Group,Smith-Williams (Saint Kitts and Nevis),€250,€0,37.9,33.6,41.5,44.5,44,RW,208cm,Right
+100203,P. Fuller,23,El Salvador,FC Barcelona,Parker-Gibson (Cape Verde),€0,€0,42.8,40.1,44.4,39.0,44,RB,176cm,Right
+345974,A. Hodge,19,Sierra Leone,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€250,€0,40.3,32.3,24.9,45.8,44,RB,169cm,Left
+281547,W. Garcia,31,Botswana,"Proctor, Weiss and Moody","Smith, Rowland and Moreno (Saint Kitts and Nevis)",€250,€0,46.6,31.0,34.9,16.4,44,LM,193cm,Right
+576534,Ritter,29,Iraq,Liverpool,"Carter, Jacobson and Parker (Sierra Leone)",€250,€0,24.5,45.8,39.6,12.4,44,LB,166cm,Left
+822408,D. Cook,46,Saint Kitts and Nevis,Swanson-Foster,Delacruz LLC (Sierra Leone),€0,€0,30.6,29.5,36.8,45.8,44,LWB,186cm,Right
+986915,Jon Hughes,16,Brazil,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€0,€0,7.1,40.0,24.2,44.8,44,CM,186cm,Right
+847688,S. Soto,25,Comoros,Fitzgerald and Sons,Premier League (England),€0,€0,43.3,23.1,42.0,39.7,43,RW,194cm,Right
+532695,A. Morales,32,El Salvador,Young-Dominguez,Parker-Gibson (Cape Verde),€250,€0,10.8,43.7,25.3,37.9,42,CM,197cm,Right
+647814,R. James,34,Comoros,"Green, Dominguez and Porter","Carter, Jacobson and Parker (Sierra Leone)",€0,€0,42.2,28.1,39.8,17.8,42,CAM,209cm,Left
+9712,D. Mccullough,24,Botswana,"Rivera, Lambert and Ramirez",Premier League (England),€0,€0,35.0,28.3,36.7,43.4,42,LWB,183cm,Right
+91721,Miller,27,Brazil,Ponce-Jimenez,"Carter, Jacobson and Parker (Sierra Leone)",€0,€0,28.4,33.1,44.9,32.4,42,CAM,164cm,Left
+363352,S. Higgins,29,Chad,"Garza, Watson and Tucker",Kane-Smith (Cape Verde),€0,€0,39.7,23.3,42.5,21.6,42,CM,191cm,Right
+156530,C. Jones,31,Chile,"Barrett, Harper and Nguyen",Premier League (England),€0,€0,20.7,29.7,41.1,40.2,41,CAM,153cm,Left
+254779,D. Wallace,27,Iraq,FC Bayern München,Premier League (England),€0,€0,35.9,21.1,41.4,25.4,40,CAM,206cm,Left
+879617,D. Leach,32,Sierra Leone,Roberts-Powell,Smith-Williams (Saint Kitts and Nevis),€0,€0,23.2,37.3,39.8,28.5,39,CAM,188cm,Left
+902260,C. Pitts,32,Chad,"Navarro, Robinson and Pena",Parker-Gibson (Cape Verde),€0,€0,39.0,29.0,35.2,22.8,38,LM,171cm,Right
+552779,T. Kim,25,Yemen,Walton Ltd,"Carter, Jacobson and Parker (Sierra Leone)",€0,€0,31.1,22.9,24.1,36.7,35,CM,164cm,Right
+893404,B. Bryant,33,Brazil,Miller Ltd,Premier League (England),€0,€0,17.1,23.5,35.8,29.7,34,CAM,197cm,Left
+673371,Webster,32,Botswana,"Hampton, Santiago and Powell",Smith-Williams (Saint Kitts and Nevis),€0,€0,21.2,33.1,34.2,32.3,34,CAM,207cm,Left
+35790,Paul Jr.,21,Iraq,Gonzalez-Sparks,Williams-Smith (El Salvador),€0,€0,20.4,31.7,32.4,28.4,32,CM,155cm,Right

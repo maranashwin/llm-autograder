@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+771512,D. Stuart,34,Venezuela,Munoz-Harris,Fox LLC (United States Virgin Islands),€199.1M,€539K,37.1,62.5,90.5,90.7,91,GK,154cm,Right
+164366,J. Walker,32,Cameroon,"Evans, Webster and Young",Graham-Harper (Namibia),€249.3M,€450K,43.7,81.0,92.5,80.3,90,LW,185cm,Right
+961395,C. Carroll,25,Brunei Darussalam,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€199.1M,€466K,40.4,89.2,90.6,48.3,90,LW,201cm,Right
+52885,M. Miller,34,North Macedonia,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€198.8M,€479K,28.5,86.4,91.6,45.0,90,LW,166cm,Right
+565724,A. May,28,Venezuela,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€193M,€468K,29.8,61.0,93.3,76.1,89,GK,172cm,Right
+149865,J. Miller,19,Azerbaijan,Valdez-Jackson,Pitts LLC (Congo),€196.5M,€442K,63.9,92.2,79.6,16.7,89,LM,151cm,Left
+150628,M. Melendez,35,Dominica,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€193.8M,€449K,10.8,31.1,89.7,88.8,89,GK,181cm,Left
+190136,A. Sanchez,25,Cameroon,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€196.9M,€444K,68.7,50.3,33.1,93.8,88,RM,161cm,Left
+902964,D. Reed,27,Brunei Darussalam,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€195.6M,€435K,49.1,78.0,88.5,86.4,88,GK,177cm,Right
+722818,Joe Vega,31,Dominica,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€190.5M,€440K,42.5,57.4,91.6,77.5,88,LW,182cm,Right
+763215,S. Hobbs,23,Dominica,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€192.7M,€439K,89.6,78.7,37.9,58.2,87,LM,182cm,Right
+26298,G. Morris,26,Venezuela,Hanson Inc,Thompson and Sons (Brunei Darussalam),€192.3M,€438K,57.3,89.8,79.3,77.9,87,LW,159cm,Right
+395023,C. Thomas,20,Cameroon,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€187.5M,€425K,58.5,74.2,91.4,48.4,87,LW,179cm,Right
+174319,Clayton,31,Namibia,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€183.6M,€401K,50.3,56.2,89.5,78.2,87,GK,208cm,Right
+929212,J. Rivers,26,United States Virgin Islands,"Evans, Webster and Young",Graham-Harper (Namibia),€188.1M,€388K,41.5,77.2,90.4,61.1,87,GK,178cm,Right
+348035,R. Goodwin,22,United States Virgin Islands,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€189.5M,€410K,89.7,80.3,21.9,50.9,87,LM,168cm,Right
+271896,F. Mendez,25,Congo,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€175.9M,€357K,55.6,74.8,89.8,48.5,86,LW,152cm,Right
+214910,Patel,22,Namibia,Taylor-Jones,Hawkins Ltd (Guadeloupe),€174.5M,€399K,21.6,32.8,84.7,87.1,86,GK,199cm,Left
+354249,D. Nielsen,38,Congo,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€179.3M,€388K,8.3,64.0,93.3,36.2,86,CF,176cm,Left
+354725,N. Wade,30,Brunei Darussalam,Paris Saint Germain,Premier League (England),€175.4M,€386K,21.2,72.6,90.0,44.0,86,LW,164cm,Left
+207757,V. Moore,21,Cameroon,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€173.1M,€353K,64.5,34.4,93.7,63.0,86,RWB,170cm,Right
+699305,J. Brown,28,Venezuela,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€166.6M,€340K,33.7,49.2,72.6,90.1,86,GK,168cm,Right
+213079,M. Doyle,53,Dominica,"Brown, Mcintosh and Jones",Premier League (England),€182.9M,€368K,74.9,88.5,45.3,67.4,85,RM,171cm,Right
+418843,P. Houston,35,Venezuela,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€169.4M,€344K,43.1,90.2,62.5,69.4,85,LW,203cm,Right
+165091,Richard Jr.,32,Dominica,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€166.2M,€325K,41.3,88.3,73.2,36.8,85,LM,171cm,Left
+591761,G. Roth,22,Namibia,Mills Ltd,Graham-Harper (Namibia),€160M,€327K,54.4,41.4,67.8,91.1,85,GK,210cm,Right
+305215,B. Mayo,24,Cameroon,Lewis LLC,Premier League (England),€160.4M,€330K,24.0,40.8,74.5,88.1,85,GK,179cm,Right
+674185,K. Carter,20,Brunei Darussalam,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€168.2M,€340K,40.0,71.8,57.4,89.9,85,GK,174cm,Right
+396800,A. Williams,25,Australia,Sandoval Ltd,Premier League (England),€153.2M,€321K,38.8,49.1,74.9,88.0,85,GK,164cm,Left
+704710,Timothy Hickman,27,Guadeloupe,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€147.9M,€316K,90.2,54.8,19.3,67.0,84,LM,196cm,Right
+278781,Walter Jr.,32,Brunei Darussalam,Hanson Inc,Thompson and Sons (Brunei Darussalam),€153.3M,€323K,54.8,90.6,62.3,46.8,84,LW,152cm,Right
+99212,S. Michael,29,Australia,Mason-Smith,Premier League (England),€159M,€321K,51.2,87.3,72.2,58.9,84,LW,186cm,Right
+558262,J. Martin,21,Dominica,FC Bayern München,Premier League (England),€147.4M,€346K,53.9,34.5,94.1,39.6,84,RWB,170cm,Right
+509688,J. Solis,22,Brunei Darussalam,Munoz-Harris,Fox LLC (United States Virgin Islands),€141.8M,€299K,15.1,67.6,88.8,32.5,84,CF,172cm,Left
+133225,J. Mitchell,28,Namibia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€142.6M,€309K,41.5,85.8,51.2,77.2,84,RM,207cm,Right
+870636,Stanley Jr.,24,Australia,Mills Ltd,Graham-Harper (Namibia),€147.4M,€301K,71.5,87.5,47.8,67.0,84,RM,197cm,Right
+257132,D. Brady,27,Venezuela,"Smith, Beasley and Cox",Premier League (England),€141.4M,€285K,65.1,90.9,55.1,53.5,84,LM,177cm,Left
+625886,M. Nguyen,32,Namibia,Young-Smith,Hawkins Ltd (Guadeloupe),€133.4M,€314K,60.7,57.4,92.2,45.8,84,RWB,150cm,Right
+51939,P. Garcia,27,Guadeloupe,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€141.2M,€285K,32.9,51.5,93.4,47.6,84,CDM,168cm,Left
+762286,M. Mcclure,29,Congo,Hanson Inc,Thompson and Sons (Brunei Darussalam),€134M,€299K,36.1,34.3,88.8,65.9,83,GK,199cm,Left
+123526,J. Diaz,16,Dominica,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€119.8M,€275K,48.8,59.4,91.2,60.1,83,LW,168cm,Right
+902405,Eugene Jackson,21,Guadeloupe,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€132.3M,€277K,69.4,41.1,87.2,32.5,83,RWB,171cm,Right
+99767,Gould,31,Guadeloupe,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€127.9M,€284K,48.3,69.4,81.5,83.6,83,GK,188cm,Right
+214840,Nicolas Jr.,21,Congo,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€111.4M,€296K,54.2,67.9,88.2,60.1,83,GK,181cm,Right
+182134,A. Dean,33,Cameroon,Hanson Inc,Thompson and Sons (Brunei Darussalam),€123.6M,€264K,52.3,48.5,85.4,77.7,83,GK,175cm,Right
+239493,V. Woods,32,United States Virgin Islands,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€106.5M,€257K,32.0,87.0,69.1,45.3,83,LW,164cm,Right
+895040,R. Roberts,45,Brunei Darussalam,"Brown, Mcintosh and Jones",Premier League (England),€109.5M,€258K,56.5,68.0,58.4,88.2,83,GK,151cm,Right
+264442,R. Morris,23,Namibia,"Kline, Vance and Paul",Pitts LLC (Congo),€103.5M,€273K,57.4,25.0,91.0,33.4,83,RWB,150cm,Right
+625026,Scott Jr.,20,Azerbaijan,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€101.2M,€261K,53.5,46.5,68.3,87.3,83,CM,162cm,Right
+641415,J. Pollard,24,Guadeloupe,"Brown, Mcintosh and Jones",Premier League (England),€101.5M,€248K,61.1,89.8,60.9,27.3,83,LM,160cm,Left
+461445,C. Mathews,24,Azerbaijan,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€103.3M,€251K,9.3,31.7,82.5,83.5,83,GK,163cm,Left
+953630,D. Craig,23,Dominica,Wallace LLC,Premier League (England),€102.2M,€236K,59.7,76.9,83.9,82.0,83,LW,197cm,Right
+806392,Montoya,35,Azerbaijan,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€97M,€226K,51.9,90.7,29.3,61.4,83,RM,187cm,Right
+273913,Wood,24,Cameroon,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€101.9M,€230K,51.8,89.5,64.4,17.3,83,LM,174cm,Left
+786885,T. Lucas,20,Azerbaijan,"Smith, Beasley and Cox",Premier League (England),€96.3M,€244K,28.1,37.7,87.8,64.1,82,GK,186cm,Left
+107099,P. Scott,20,Guadeloupe,Munoz-Harris,Fox LLC (United States Virgin Islands),€95.5M,€226K,56.2,46.0,30.2,90.5,82,RM,175cm,Left
+811819,C. Cook,23,Dominica,FC Barcelona,Graham-Harper (Namibia),€93.7M,€215K,62.6,87.8,59.4,39.3,82,LM,195cm,Left
+828271,M. Hudson,30,Guadeloupe,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€93.9M,€217K,67.7,42.5,87.2,64.9,82,RWB,190cm,Right
+861045,Joseph Armstrong,27,Cameroon,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€94.1M,€224K,53.0,76.1,65.8,84.6,82,RM,193cm,Right
+386421,Timothy Jr.,24,Venezuela,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€92.4M,€220K,62.0,88.6,47.8,37.9,82,LM,200cm,Left
+91701,S. Castillo,37,Venezuela,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€86.3M,€201K,40.0,82.7,81.3,50.5,82,LW,177cm,Right
+978233,R. Rivers,23,United States Virgin Islands,"Pearson, Rivas and Taylor",Premier League (England),€87.1M,€203K,83.4,25.9,49.5,76.4,82,CM,191cm,Left
+814966,D. Carter,34,Guadeloupe,Munoz-Harris,Fox LLC (United States Virgin Islands),€88.5M,€233K,38.7,40.2,54.4,91.4,82,RM,198cm,Left
+74140,T. Brown,24,Venezuela,Hernandez-Patterson,Premier League (England),€90.2M,€199K,83.3,34.5,30.5,72.8,81,CAM,166cm,Right
+369155,D. Smith,20,United States Virgin Islands,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€86.1M,€175K,31.4,70.7,83.9,37.7,81,LW,197cm,Left
+287275,Steven Carrillo,27,Venezuela,"Brown, Mcintosh and Jones",Premier League (England),€84.7M,€196K,33.8,82.7,76.7,52.1,81,LM,167cm,Left
+270942,R. Morris,31,Australia,"Kline, Vance and Paul",Pitts LLC (Congo),€85M,€202K,31.7,51.8,59.5,87.8,81,GK,158cm,Left
+484029,E. Bishop,33,Dominica,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€96.4M,€196K,17.9,47.0,91.8,25.7,81,CF,199cm,Left
+295737,James Jr.,20,Dominica,Nelson-Freeman,Premier League (England),€77.6M,€187K,71.6,58.2,57.8,84.5,81,RM,150cm,Left
+205804,Lane,21,Namibia,"Smith, Beasley and Cox",Premier League (England),€74.4M,€172K,46.6,42.5,65.5,85.8,81,GK,207cm,Left
+189603,D. Mullins,43,Guadeloupe,"Smith, Beasley and Cox",Premier League (England),€81.5M,€163K,82.1,68.5,14.4,79.0,81,LM,187cm,Right
+17683,M. Best,24,Dominica,Nelson-Freeman,Premier League (England),€80.3M,€172K,87.9,59.0,46.7,59.1,81,LM,191cm,Right
+149072,G. Parker,53,Guadeloupe,Hernandez-Patterson,Premier League (England),€65.6M,€144K,9.5,28.7,86.5,65.7,81,GK,188cm,Left
+387155,J. Adams,47,Dominica,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€79.8M,€159K,33.7,25.1,74.1,83.3,81,CM,155cm,Right
+690525,K. Caldwell,29,North Macedonia,Nelson-Freeman,Premier League (England),€72.4M,€170K,38.5,60.4,86.4,63.0,81,LW,155cm,Right
+207704,J. Smith,33,Australia,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€70.9M,€151K,49.0,86.8,47.7,64.0,81,CB,158cm,Right
+93318,Tony Lynn,23,Congo,Paris Saint Germain,Premier League (England),€65M,€131K,38.5,74.1,83.7,33.2,81,LW,173cm,Left
+327953,A. Lee,21,United States Virgin Islands,Hernandez-Patterson,Premier League (England),€63.8M,€144K,40.4,45.1,30.1,91.7,80,RM,174cm,Left
+57820,Jonathan Jr.,24,Azerbaijan,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€60.8M,€146K,28.8,48.3,61.5,86.1,80,GK,182cm,Left
+165132,E. Perez,32,Venezuela,Lewis LLC,Premier League (England),€65.4M,€137K,55.8,84.1,62.1,69.4,80,RM,174cm,Right
+648667,Christopher Jr.,30,Cameroon,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€57.4M,€111K,32.7,35.7,93.4,40.2,80,CF,195cm,Left
+157269,Steven Cameron,32,Congo,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€65.4M,€112K,71.3,82.4,47.6,70.4,80,LM,152cm,Right
+968404,R. Boyd,31,North Macedonia,Lewis LLC,Premier League (England),€58.4M,€112K,88.2,43.5,9.7,57.4,80,CB,195cm,Left
+387044,S. Barrett,22,Australia,Hanson Inc,Thompson and Sons (Brunei Darussalam),€60.1M,€112K,58.3,61.3,70.4,83.8,80,LW,190cm,Right
+468979,J. Floyd,32,Cameroon,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€59.4M,€100K,23.8,41.5,63.5,85.3,80,GK,163cm,Right
+878753,B. Eaton,33,Namibia,Mills Ltd,Graham-Harper (Namibia),€50.1M,€100K,69.9,27.2,83.1,21.6,80,ST,161cm,Left
+75958,Johnny Jr.,34,Congo,Lewis LLC,Premier League (England),€55.7M,€102K,85.1,66.1,41.9,53.7,80,CAM,163cm,Right
+698704,J. Ray,21,Congo,Paris Saint Germain,Premier League (England),€55M,€123K,66.4,81.6,74.1,42.7,80,LM,191cm,Left
+371768,W. Harris,23,Congo,"Kline, Vance and Paul",Pitts LLC (Congo),€55.3M,€100K,31.2,68.0,83.9,54.3,80,GK,181cm,Right
+364060,R. Shaw,29,Dominica,Wallace LLC,Premier League (England),€50M,€100K,28.1,39.8,83.7,70.2,80,GK,174cm,Left
+593750,B. Graves,33,Guadeloupe,Sandoval Ltd,Premier League (England),€48.5M,€100K,55.5,84.9,46.5,65.2,80,CB,167cm,Right
+723054,N. Wilson,23,Congo,Liverpool,Premier League (England),€49M,€100K,44.5,89.9,43.7,44.2,80,RW,207cm,Left
+761858,Thomas Miller,51,United States Virgin Islands,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€44.9M,€99K,87.3,51.8,21.3,52.3,79,LM,168cm,Right
+335877,Jordan Jr.,32,Namibia,"Bennett, Welch and Brown",Premier League (England),€37.4M,€99K,71.7,48.2,53.5,80.9,79,RM,195cm,Left
+483542,Z. Maxwell,20,Cameroon,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€46M,€99K,66.7,76.5,80.1,28.1,79,LM,162cm,Left
+401988,V. Rodriguez,23,Venezuela,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€41.6M,€100K,55.6,64.8,58.0,83.6,79,GK,181cm,Right
+115865,K. Robertson,28,Namibia,Sandoval Ltd,Premier League (England),€30.9M,€99K,79.5,35.4,10.9,75.8,79,CM,192cm,Left
+34203,W. Gonzalez,21,Namibia,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€36M,€98K,47.7,84.4,60.9,46.2,79,LM,193cm,Left
+812455,Corey Jr.,21,Azerbaijan,"Evans, Webster and Young",Graham-Harper (Namibia),€37M,€98K,34.3,61.3,85.4,51.5,79,CF,186cm,Left
+796091,Andrew Gray,35,Venezuela,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€33.8M,€99K,35.4,79.9,77.4,44.9,79,LM,175cm,Left
+722590,R. Cooper,32,Congo,"Young, Moore and Richardson",Premier League (England),€25.1M,€98K,83.8,49.2,47.7,63.1,79,LM,188cm,Right
+747373,T. Morris,31,North Macedonia,"Smith, Beasley and Cox",Premier League (England),€27.3M,€98K,45.0,79.0,61.7,79.3,79,RM,203cm,Right
+59299,Thomas Jr.,33,North Macedonia,Valdez-Jackson,Pitts LLC (Congo),€26.3M,€98K,31.5,38.4,83.2,64.7,79,CF,182cm,Right
+739375,S. Rojas,26,Congo,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€42.5M,€97K,84.5,48.6,39.1,63.4,79,RB,154cm,Left
+838089,P. Kemp,15,Guadeloupe,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€29M,€99K,87.9,35.9,46.4,53.9,79,CB,207cm,Left
+568052,Keith Mullins,23,Dominica,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€25.1M,€97K,83.8,66.1,37.8,63.6,79,LM,202cm,Right
+257369,J. Smith,23,Congo,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€13.9M,€97K,62.3,85.1,57.7,52.8,79,RB,170cm,Left
+372363,William Jr.,33,Namibia,Valdez-Jackson,Pitts LLC (Congo),€19M,€97K,54.7,62.3,83.0,65.8,79,LW,169cm,Right
+364192,G. Mccormick,28,Cameroon,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€11.9M,€97K,44.0,68.4,82.3,66.6,79,GK,193cm,Right
+139496,P. Marshall,32,North Macedonia,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€10M,€97K,78.3,76.1,64.1,69.3,78,RM,203cm,Right
+655769,S. Franklin,20,Guadeloupe,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€21.6M,€97K,82.8,48.6,13.2,61.8,78,CM,202cm,Left
+393634,T. Gray,23,Guadeloupe,Hanson Inc,Thompson and Sons (Brunei Darussalam),€10M,€97K,33.6,72.6,79.7,34.2,78,LM,180cm,Left
+582206,M. Gregory,24,Venezuela,FC Bayern München,Premier League (England),€12.7M,€96K,41.0,39.1,69.9,80.5,78,CF,175cm,Right
+451150,R. Johnson,21,Australia,Lewis LLC,Premier League (England),€9.9M,€97K,11.8,67.4,81.4,48.0,78,CF,182cm,Left
+189030,S. Reyes,26,Guadeloupe,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€9.8M,€96K,87.3,5.5,35.6,52.0,78,CB,179cm,Left
+844586,R. Green,27,Namibia,"Evans, Webster and Young",Graham-Harper (Namibia),€9.9M,€97K,52.3,13.8,61.7,83.9,78,CM,157cm,Right
+869875,Santana,23,Australia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€9.9M,€96K,24.8,51.8,87.2,34.2,78,CF,165cm,Left
+58926,V. Ramirez,28,Namibia,"Kline, Vance and Paul",Pitts LLC (Congo),€9.7M,€96K,45.2,57.2,78.2,78.1,78,GK,180cm,Right
+18465,R. Dawson,26,Guadeloupe,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€9.8M,€95K,26.5,71.5,79.7,49.7,78,LW,159cm,Right
+428163,Jeffery Palmer,21,Guadeloupe,Black Group,Premier League (England),€9.8M,€96K,34.5,41.0,86.1,54.7,78,LW,208cm,Left
+207020,Boone,27,Australia,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€9.7M,€95K,62.3,46.9,56.0,83.7,78,RM,198cm,Left
+231741,G. Flynn,30,Dominica,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€9.7M,€95K,82.6,44.0,12.4,62.8,78,CB,191cm,Left
+371110,D. Lopez,27,Venezuela,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€9.7M,€96K,58.0,52.9,81.2,68.5,78,RWB,192cm,Right
+346728,W. Prince,20,Brunei Darussalam,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€9.7M,€95K,63.3,59.2,82.3,50.1,78,LB,194cm,Right
+936610,Edwin Walker,30,Venezuela,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€9.6M,€95K,79.9,43.1,63.0,72.3,78,CAM,206cm,Right
+862925,T. Wyatt,16,North Macedonia,"Bennett, Welch and Brown",Premier League (England),€9.5M,€94K,51.6,83.0,61.6,40.0,78,CDM,171cm,Right
+101076,J. Kramer,28,Cameroon,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€9.5M,€94K,57.8,84.8,56.2,53.0,78,RM,157cm,Right
+961308,Michael Jr.,22,Guadeloupe,Paris Saint Germain,Premier League (England),€9.6M,€94K,61.8,83.3,25.2,62.9,78,CB,155cm,Right
+224094,B. Wheeler,31,Cameroon,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€9.7M,€94K,30.9,46.8,88.8,27.9,78,CF,163cm,Left
+839101,C. Rodriguez,34,Azerbaijan,Sandoval Ltd,Premier League (England),€9.4M,€94K,88.6,28.6,47.8,37.2,78,CB,161cm,Left
+974878,Tyler Houston,26,United States Virgin Islands,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€9.4M,€93K,37.8,89.0,42.2,15.9,77,LM,196cm,Left
+434244,A. Gonzalez,55,Brunei Darussalam,Hanson Inc,Thompson and Sons (Brunei Darussalam),€9.3M,€93K,11.8,33.9,72.5,78.9,77,CF,156cm,Right
+671825,C. Cook,25,Congo,Nelson-Freeman,Premier League (England),€9.4M,€93K,76.5,76.9,24.4,42.4,77,LM,193cm,Right
+172513,Matthew Jr.,37,United States Virgin Islands,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€9.2M,€93K,46.8,55.8,80.1,67.9,77,LW,164cm,Right
+467551,R. Craig,18,United States Virgin Islands,Wallace LLC,Premier League (England),€9.2M,€93K,44.0,81.3,20.3,64.3,77,RW,170cm,Left
+344820,J. Wilson,28,Namibia,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€9.2M,€94K,37.6,69.6,78.6,72.7,77,GK,202cm,Right
+901885,E. Tran,34,Cameroon,"Brown, Mcintosh and Jones",Premier League (England),€9M,€91K,68.8,79.4,25.4,52.4,77,RW,154cm,Left
+901922,Hill,28,Venezuela,Paris Saint Germain,Premier League (England),€9M,€92K,28.5,64.7,81.6,48.8,77,CF,188cm,Left
+639929,J. Phillips,29,Dominica,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€9.2M,€93K,47.7,77.8,73.6,60.4,77,LW,153cm,Right
+312349,L. Nichols,22,Namibia,Young-Smith,Hawkins Ltd (Guadeloupe),€9.2M,€92K,43.4,39.5,86.3,48.7,77,CF,154cm,Right
+869472,S. Singleton,34,Venezuela,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€8.9M,€91K,30.0,46.6,66.7,80.7,77,CM,189cm,Right
+238761,T. Barker,53,Guadeloupe,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€8.9M,€93K,13.6,24.0,86.9,45.5,77,CF,173cm,Right
+533798,S. Lee,21,Dominica,"Pearson, Rivas and Taylor",Premier League (England),€8.9M,€91K,30.4,72.1,78.9,71.7,77,LW,193cm,Right
+935215,M. Diaz,27,Cameroon,"Young, Moore and Richardson",Premier League (England),€8.9M,€91K,84.2,32.5,18.2,56.4,77,CM,200cm,Left
+992725,Jason Jr.,48,Dominica,"Kline, Vance and Paul",Pitts LLC (Congo),€8.8M,€91K,47.2,67.4,80.6,64.9,77,GK,180cm,Right
+247935,J. Carroll,29,Namibia,"Brown, Mcintosh and Jones",Premier League (England),€8.8M,€91K,42.7,39.1,84.5,55.7,77,GK,171cm,Left
+813463,J. Wright,29,Guadeloupe,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€8.7M,€91K,63.6,81.4,44.7,48.8,77,RW,186cm,Left
+895489,S. Davis,23,Dominica,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€8.9M,€91K,58.2,69.2,79.0,57.8,77,GK,200cm,Right
+608798,Jay Spencer,23,Azerbaijan,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€8.5M,€90K,47.5,84.8,54.0,47.8,77,CB,157cm,Right
+871151,A. Palmer,25,Australia,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€8.6M,€91K,62.4,82.1,49.5,48.5,77,CDM,190cm,Right
+68751,N. Byrd,26,Congo,Foster-Miller,Fox LLC (United States Virgin Islands),€8.7M,€90K,77.9,75.3,30.2,44.0,77,RB,154cm,Left
+585152,Z. Ford,46,Australia,Lewis LLC,Premier League (England),€8.7M,€90K,75.9,76.9,46.8,59.8,77,RM,179cm,Right
+450896,J. Sellers,26,Brunei Darussalam,FC Barcelona,Graham-Harper (Namibia),€8.2M,€90K,62.3,81.1,44.8,37.4,76,RB,203cm,Right
+311657,Aguirre,32,Australia,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€8.1M,€90K,63.9,79.5,60.8,54.4,76,RB,192cm,Left
+451194,J. Reese,21,Congo,Hernandez-Patterson,Premier League (England),€8.3M,€89K,54.1,81.8,21.4,57.3,76,CB,157cm,Right
+721542,R. Cochran,30,Brunei Darussalam,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€8.5M,€90K,83.1,32.6,43.4,55.5,76,CAM,204cm,Right
+647817,G. Morrison,27,Guadeloupe,"Bennett, Welch and Brown",Premier League (England),€8.3M,€88K,46.6,67.2,39.5,79.4,76,RM,197cm,Right
+942742,C. Matthews,26,Australia,Nelson-Freeman,Premier League (England),€8M,€89K,64.9,74.8,46.9,75.8,76,LM,197cm,Right
+213719,S. Hensley,23,North Macedonia,Taylor-Jones,Hawkins Ltd (Guadeloupe),€8M,€89K,25.6,81.4,44.9,61.7,76,RB,194cm,Right
+443195,Sanchez,48,North Macedonia,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€8M,€90K,81.0,61.9,59.2,51.2,76,RB,152cm,Left
+934733,Kevin Jr.,35,Azerbaijan,Munoz-Harris,Fox LLC (United States Virgin Islands),€7.9M,€88K,65.7,53.3,54.8,78.9,76,RM,171cm,Right
+729990,Russell Jr.,27,North Macedonia,Mills Ltd,Graham-Harper (Namibia),€7.9M,€88K,28.6,81.4,58.1,48.2,76,CDM,205cm,Right
+607344,D. Hicks,24,North Macedonia,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€7.9M,€88K,38.9,47.0,83.0,54.8,76,CF,153cm,Right
+803959,J. Barnes,22,Azerbaijan,"Young, Moore and Richardson",Premier League (England),€7.9M,€89K,37.5,16.2,62.5,80.3,76,CM,163cm,Right
+844999,A. Welch,26,Dominica,Munoz-Harris,Fox LLC (United States Virgin Islands),€7.8M,€88K,46.7,41.2,85.5,43.3,76,LW,193cm,Left
+378072,C. Hutchinson,47,Cameroon,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€7.7M,€88K,33.5,39.9,87.3,43.5,76,RWB,206cm,Right
+386378,Michael Martin,34,Cameroon,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€7.7M,€88K,56.8,41.3,82.1,44.1,76,LB,210cm,Right
+230832,J. Lopez,27,Cameroon,Hanson Inc,Thompson and Sons (Brunei Darussalam),€7.8M,€88K,78.8,66.5,34.8,60.5,76,LM,158cm,Right
+231800,R. Carlson,30,Cameroon,"Kline, Vance and Paul",Pitts LLC (Congo),€7.6M,€88K,13.6,70.9,77.8,56.7,76,LW,159cm,Left
+256635,T. Kelly,55,Namibia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€7.8M,€88K,69.5,78.2,43.0,20.2,76,LM,169cm,Left
+379707,K. Fry,29,North Macedonia,Hanson Inc,Thompson and Sons (Brunei Darussalam),€7.6M,€88K,64.7,32.5,79.3,26.9,76,RWB,204cm,Left
+806073,K. Moody,21,Australia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€7.5M,€88K,36.2,26.3,79.5,64.1,76,GK,161cm,Left
+609670,Schneider,27,Brunei Darussalam,Liverpool,Premier League (England),€7.5M,€88K,32.9,50.0,84.5,38.9,76,LB,176cm,Right
+60867,K. Wright,20,Namibia,Valdez-Jackson,Pitts LLC (Congo),€7.5M,€87K,14.2,47.1,69.3,78.9,76,GK,206cm,Left
+200202,C. Cook,30,United States Virgin Islands,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€7.5M,€87K,72.0,77.6,35.2,64.1,76,RB,184cm,Left
+126569,L. Allen,32,United States Virgin Islands,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€7.5M,€87K,85.5,45.2,29.3,46.3,76,CAM,199cm,Right
+601833,A. Reynolds,24,Dominica,FC Barcelona,Graham-Harper (Namibia),€7.3M,€86K,32.9,58.8,71.8,76.8,76,GK,196cm,Right
+864120,R. Thomas,27,United States Virgin Islands,Hanson Inc,Thompson and Sons (Brunei Darussalam),€7.5M,€86K,43.1,82.3,29.7,56.7,76,RM,156cm,Right
+499823,P. Maldonado,20,Dominica,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€7.4M,€86K,48.8,23.7,84.1,19.3,75,LB,209cm,Right
+270470,R. Ortiz,25,Cameroon,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€7.3M,€86K,59.7,23.4,78.2,65.4,75,RWB,176cm,Right
+270720,Hopkins,19,Azerbaijan,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€7.4M,€86K,50.5,76.9,69.4,22.7,75,LW,165cm,Left
+713141,E. Hall,35,Venezuela,"Pearson, Rivas and Taylor",Premier League (England),€7.1M,€86K,63.2,51.2,78.5,28.1,75,ST,178cm,Left
+205427,K. Blake,28,Brunei Darussalam,Munoz-Harris,Fox LLC (United States Virgin Islands),€7.2M,€86K,79.6,61.7,15.9,43.4,75,LM,155cm,Right
+254783,M. Castaneda,34,Namibia,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€7.1M,€86K,28.3,68.9,76.6,35.0,75,LW,172cm,Left
+713675,John Calderon,28,Dominica,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€6.9M,€86K,10.7,63.2,71.9,75.6,75,GK,184cm,Left
+295924,D. Adams,26,Congo,"Smith, Beasley and Cox",Premier League (England),€6.9M,€85K,61.0,79.8,58.0,46.9,75,CDM,166cm,Right
+17690,S. Richards,32,Azerbaijan,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€6.9M,€85K,31.6,58.3,79.3,61.8,75,LW,183cm,Right
+550216,C. Robbins,21,United States Virgin Islands,FC Barcelona,Graham-Harper (Namibia),€7.1M,€85K,30.3,38.6,80.9,57.3,75,GK,154cm,Right
+673163,M. Mcdonald,30,Australia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€6.8M,€86K,35.3,50.8,62.8,79.3,75,GK,198cm,Left
+75505,M. Medina,45,Dominica,Hernandez-Patterson,Premier League (England),€6.9M,€85K,28.6,60.5,75.4,73.8,75,GK,178cm,Right
+894810,Ramirez,23,Guadeloupe,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€6.8M,€84K,19.4,58.0,66.2,78.2,75,CF,193cm,Right
+641191,D. Jenkins,25,United States Virgin Islands,"Young, Moore and Richardson",Premier League (England),€6.7M,€84K,24.0,47.6,76.0,70.3,75,CF,153cm,Right
+379192,Stevens,20,Australia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€6.4M,€84K,48.2,36.1,83.7,28.8,75,LB,161cm,Right
+314059,W. Molina,31,North Macedonia,"Kline, Vance and Paul",Pitts LLC (Congo),€6.5M,€84K,57.9,74.5,75.5,69.7,75,LW,178cm,Right
+658131,J. Baker,27,Australia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€6.5M,€84K,79.7,45.0,29.8,61.4,75,CM,150cm,Left
+150351,M. Potts,31,United States Virgin Islands,Mason-Smith,Premier League (England),€6.8M,€84K,41.3,43.4,86.1,39.8,75,CF,195cm,Left
+871363,J. Elliott,55,Cameroon,Hernandez-Patterson,Premier League (England),€6.6M,€83K,70.4,65.4,75.9,54.5,75,LM,154cm,Left
+584915,L. Rice,32,Brunei Darussalam,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€6.3M,€84K,9.3,27.0,67.9,77.4,75,GK,206cm,Left
+576964,D. Potter,26,North Macedonia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€6.3M,€83K,55.7,43.0,71.4,76.2,75,CM,164cm,Right
+77677,Robert Taylor,30,Namibia,"Smith, Beasley and Cox",Premier League (England),€6.4M,€83K,32.9,85.5,45.0,37.4,75,CB,168cm,Right
+200621,K. Levine,20,Australia,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€6.3M,€82K,35.1,81.6,45.5,55.3,75,CAM,169cm,Left
+282558,F. Olson,25,Namibia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€6.4M,€82K,56.8,81.7,34.0,30.5,75,RB,155cm,Right
+573468,D. Johnson,31,Australia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€6.3M,€82K,38.3,58.6,35.5,79.5,74,CDM,155cm,Left
+860296,J. Gonzalez,20,Venezuela,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€6.3M,€84K,33.3,35.6,48.4,82.5,74,CM,152cm,Right
+704894,Bruce Wilkins,27,Azerbaijan,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€6.2M,€82K,75.2,44.1,70.2,28.3,74,ST,179cm,Left
+910405,Gerald Strong,33,Australia,"Smith, Beasley and Cox",Premier League (England),€6.2M,€81K,39.5,41.5,79.7,57.1,74,GK,179cm,Right
+689275,M. Gutierrez,30,United States Virgin Islands,Wallace LLC,Premier League (England),€6.2M,€82K,75.9,38.9,61.8,69.0,74,CAM,166cm,Right
+386295,T. Morgan,35,North Macedonia,Hernandez-Patterson,Premier League (England),€6.3M,€81K,38.5,29.9,78.9,59.6,74,RWB,150cm,Right
+976184,D. Bridges,32,Cameroon,Mason-Smith,Premier League (England),€6.2M,€81K,32.6,80.9,26.9,55.1,74,RB,168cm,Right
+591257,Juan Jr.,28,Cameroon,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€6.1M,€81K,72.6,38.5,46.3,74.1,74,CM,178cm,Left
+730532,Michael Jr.,26,Guadeloupe,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€6.2M,€81K,36.5,84.4,43.0,34.7,74,CB,195cm,Right
+337325,D. Woods,48,Namibia,Hernandez-Patterson,Premier League (England),€6.1M,€82K,56.1,80.5,33.4,30.0,74,CDM,185cm,Right
+312812,M. Baldwin,45,Brunei Darussalam,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€5.9M,€81K,46.4,82.8,44.9,49.6,74,LM,156cm,Left
+567008,Bennett,32,Venezuela,"Evans, Webster and Young",Graham-Harper (Namibia),€6M,€81K,41.1,52.0,81.0,33.7,74,ST,206cm,Left
+460584,N. Livingston,29,Guadeloupe,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€6M,€81K,36.8,82.9,46.0,20.3,74,LM,171cm,Left
+517973,David Jr.,34,North Macedonia,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€6M,€81K,24.9,48.8,46.3,82.7,74,CM,207cm,Right
+18425,Thomas Padilla,35,Dominica,"Pearson, Rivas and Taylor",Premier League (England),€6M,€81K,71.9,26.8,74.2,57.0,74,ST,207cm,Left
+493597,Blankenship,20,Venezuela,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€5.9M,€81K,75.7,69.5,43.3,39.9,74,RB,157cm,Left
+387115,B. King,29,Australia,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€5.8M,€80K,65.7,76.9,36.7,60.1,74,CAM,175cm,Left
+657586,James Barry,26,Namibia,Black Group,Premier League (England),€5.9M,€80K,30.7,54.2,73.6,73.6,74,GK,207cm,Left
+567553,Gonzalez,20,Australia,Lewis LLC,Premier League (England),€5.9M,€80K,56.5,54.5,80.0,19.3,74,ST,172cm,Left
+387332,B. Navarro,40,Australia,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€5.6M,€80K,78.4,61.6,59.1,55.4,74,RM,165cm,Right
+477575,T. Boyd,30,Cameroon,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€5.7M,€80K,45.0,59.3,79.3,35.4,74,LWB,203cm,Right
+182696,B. Ford,30,Cameroon,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€5.6M,€80K,80.3,43.6,11.1,54.7,74,CB,189cm,Left
+453035,E. Miller,23,United States Virgin Islands,Sandoval Ltd,Premier League (England),€5.5M,€80K,48.9,47.7,55.2,80.9,74,CDM,190cm,Left
+273025,Z. Brewer,32,North Macedonia,Mason-Smith,Premier League (England),€5.5M,€79K,57.3,17.7,79.2,29.8,74,ST,156cm,Left
+84816,Robert Martin,20,Venezuela,Paris Saint Germain,Premier League (England),€5.5M,€80K,21.6,29.9,79.4,59.7,74,LWB,210cm,Right
+912544,B. Harris,32,Dominica,"Evans, Webster and Young",Graham-Harper (Namibia),€5.6M,€79K,54.3,80.9,46.9,42.9,74,LM,206cm,Right
+552327,S. Brewer,20,North Macedonia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€5.5M,€79K,48.0,69.1,75.9,33.5,74,LW,201cm,Left
+814533,C. Young,47,Azerbaijan,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€5.5M,€79K,61.5,78.7,47.1,51.0,74,RM,153cm,Right
+52783,J. Friedman,22,Venezuela,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€5.2M,€79K,30.0,42.8,59.7,78.2,74,GK,188cm,Right
+929487,T. Moore,38,United States Virgin Islands,"Young, Moore and Richardson",Premier League (England),€5.4M,€79K,32.0,80.6,48.5,54.9,74,CB,193cm,Right
+904937,Clayton Mason,21,Namibia,Liverpool,Premier League (England),€5.3M,€79K,37.2,59.7,78.4,57.1,74,GK,184cm,Left
+8309,C. Davis,34,North Macedonia,"Pearson, Rivas and Taylor",Premier League (England),€5.1M,€78K,26.8,36.4,42.2,83.3,73,CM,162cm,Right
+245963,R. Flowers,28,Guadeloupe,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€5.1M,€78K,69.9,27.5,74.3,25.1,73,ST,163cm,Left
+451000,P. Richardson,35,United States Virgin Islands,Mason-Smith,Premier League (England),€5.1M,€78K,39.3,80.2,51.5,45.9,73,CB,171cm,Right
+565748,D. Caldwell,28,Australia,Sandoval Ltd,Premier League (England),€5M,€78K,59.6,76.9,47.9,35.8,73,CAM,161cm,Left
+287635,J. Hughes,26,Azerbaijan,"Pearson, Rivas and Taylor",Premier League (England),€4.9M,€78K,78.8,57.0,39.4,43.8,73,LM,155cm,Right
+558091,K. Robbins,20,Cameroon,"Young, Moore and Richardson",Premier League (England),€5.2M,€78K,42.7,53.9,79.4,46.3,73,RWB,154cm,Right
+541793,A. Garcia,28,Venezuela,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€5M,€78K,81.0,36.9,13.9,48.9,73,CB,171cm,Left
+9377,T. Torres,27,United States Virgin Islands,Paris Saint Germain,Premier League (England),€4.9M,€79K,45.5,80.3,53.0,44.4,73,RB,198cm,Right
+853161,D. Hernandez,44,Venezuela,FC Barcelona,Graham-Harper (Namibia),€4.8M,€78K,63.1,75.9,35.8,51.8,73,LM,159cm,Right
+984239,C. Goodwin,18,Cameroon,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€4.7M,€77K,32.7,35.2,55.0,78.8,73,CM,155cm,Right
+566651,T. Palmer,26,Namibia,Black Group,Premier League (England),€4.8M,€78K,71.5,54.5,73.3,33.5,73,LM,176cm,Left
+509342,E. Smith,23,North Macedonia,Hernandez-Patterson,Premier League (England),€4.3M,€77K,11.6,37.4,80.0,50.8,73,LWB,165cm,Right
+165289,C. Simmons,28,Azerbaijan,Wallace LLC,Premier League (England),€4.7M,€77K,33.1,76.1,55.4,63.0,73,CAM,181cm,Left
+861752,J. Li,34,Dominica,"Young, Moore and Richardson",Premier League (England),€4.6M,€76K,36.2,80.8,47.8,31.3,73,RW,157cm,Left
+141229,D. Jones,27,North Macedonia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€4.7M,€77K,30.7,40.1,68.4,74.1,73,CM,152cm,Right
+944170,R. Brown,32,Guadeloupe,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€4.3M,€76K,31.1,53.2,79.0,17.7,73,LB,158cm,Right
+485424,Brandon Jr.,26,Cameroon,FC Bayern München,Premier League (England),€4.3M,€76K,61.6,54.0,77.2,24.4,73,ST,183cm,Left
+149714,I. Owens,38,Venezuela,Hanson Inc,Thompson and Sons (Brunei Darussalam),€4.2M,€76K,40.4,80.3,49.7,51.8,73,LM,208cm,Left
+838068,Kevin Mcdonald,25,Congo,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€4.6M,€76K,22.8,12.6,80.9,50.2,73,CM,205cm,Right
+420436,S. Lawrence,22,Congo,FC Barcelona,Graham-Harper (Namibia),€4.2M,€75K,48.8,13.2,78.4,56.3,73,CM,158cm,Right
+461482,A. Delacruz,21,Australia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€4.1M,€75K,73.3,51.2,10.4,70.9,73,CM,201cm,Left
+101045,West,28,Australia,Wallace LLC,Premier League (England),€4.2M,€75K,77.5,58.2,35.9,55.9,73,CM,204cm,Left
+478016,C. Vargas,24,Brunei Darussalam,Munoz-Harris,Fox LLC (United States Virgin Islands),€4.2M,€76K,49.1,56.5,78.5,36.2,73,RWB,199cm,Right
+445380,K. Moore,27,Namibia,Munoz-Harris,Fox LLC (United States Virgin Islands),€4M,€75K,55.3,78.7,42.6,28.5,73,RW,169cm,Left
+43981,Jeffrey Jr.,31,Guadeloupe,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€4.1M,€75K,23.5,49.9,62.7,76.9,73,CM,155cm,Right
+117742,E. Davis,32,North Macedonia,Mason-Smith,Premier League (England),€4.1M,€75K,67.5,74.3,29.2,46.5,73,CDM,182cm,Right
+486394,J. Rose,26,Congo,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€4.1M,€75K,54.8,48.5,42.0,78.6,73,RM,164cm,Left
+314575,Gary Jr.,38,Azerbaijan,Munoz-Harris,Fox LLC (United States Virgin Islands),€4.1M,€75K,45.5,52.1,79.5,32.2,73,RWB,201cm,Left
+36059,B. Rivera,35,Brunei Darussalam,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€3.8M,€75K,46.0,39.5,74.1,69.4,73,CM,167cm,Right
+298557,E. Nelson,32,Brunei Darussalam,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€4M,€75K,55.9,69.2,56.8,73.7,73,RM,168cm,Right
+585298,J. Rivers,33,Brunei Darussalam,Young-Smith,Hawkins Ltd (Guadeloupe),€3.9M,€75K,71.3,74.2,42.7,48.3,73,LM,206cm,Left
+945938,Blankenship,34,Australia,Mason-Smith,Premier League (England),€3.9M,€74K,27.9,29.7,60.5,77.0,73,CM,167cm,Right
+503610,D. Ponce,23,Congo,Mills Ltd,Graham-Harper (Namibia),€3.5M,€75K,59.7,52.8,39.6,77.2,73,CAM,172cm,Right
+303155,S. Washington,29,Azerbaijan,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€3.6M,€75K,65.4,32.0,51.8,74.4,72,CAM,195cm,Right
+663963,David Solis,33,United States Virgin Islands,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€3.7M,€74K,63.8,20.1,74.4,24.7,72,LB,199cm,Left
+606683,R. White,20,Guadeloupe,Black Group,Premier League (England),€3.7M,€73K,18.0,37.0,68.3,73.2,72,GK,210cm,Left
+533069,R. Moon,28,Guadeloupe,"Pearson, Rivas and Taylor",Premier League (England),€3.3M,€75K,52.9,73.5,16.6,67.1,72,LM,155cm,Right
+778924,R. Young,41,Guadeloupe,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€3.4M,€74K,72.0,32.6,71.9,21.0,72,ST,198cm,Left
+844496,M. Burns,27,Guadeloupe,Young-Smith,Hawkins Ltd (Guadeloupe),€3.4M,€73K,63.8,74.7,41.7,52.4,72,CAM,155cm,Left
+213780,R. Elliott,28,North Macedonia,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€3.3M,€72K,66.3,73.3,57.9,26.8,72,LM,185cm,Left
+484190,S. Rich,39,Namibia,"Brown, Mcintosh and Jones",Premier League (England),€3.2M,€72K,75.2,62.1,55.1,50.4,72,CAM,178cm,Right
+230281,G. Wright,51,Venezuela,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€3.3M,€72K,27.1,67.9,29.4,73.5,72,CDM,185cm,Left
+598993,Z. Hammond,43,Azerbaijan,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€3.4M,€74K,75.2,22.8,26.5,64.3,72,CM,172cm,Left
+517159,P. Morales,28,Cameroon,"Kline, Vance and Paul",Pitts LLC (Congo),€3M,€73K,24.8,41.2,64.0,74.9,72,GK,195cm,Left
+762996,R. Higgins,31,Congo,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€3.2M,€71K,52.0,78.3,31.0,48.8,72,RB,161cm,Left
+115950,D. Bishop,24,Dominica,Hanson Inc,Thompson and Sons (Brunei Darussalam),€3.1M,€72K,64.4,24.2,75.0,42.1,72,RWB,207cm,Left
+492797,D. Brown,49,United States Virgin Islands,Nelson-Freeman,Premier League (England),€3.2M,€71K,65.3,25.6,73.7,49.3,72,LB,208cm,Right
+140584,Gerald Mccormick,20,Cameroon,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€2.9M,€71K,74.1,34.2,65.2,25.8,72,LB,196cm,Left
+50557,J. Lee,23,Venezuela,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€3M,€71K,34.6,58.5,77.1,47.0,72,LWB,202cm,Right
+681960,D. Ibarra,31,Brunei Darussalam,Hanson Inc,Thompson and Sons (Brunei Darussalam),€3.2M,€71K,24.5,64.2,74.5,48.7,72,LW,186cm,Right
+477349,Juan Jr.,32,Venezuela,Mills Ltd,Graham-Harper (Namibia),€2.9M,€72K,65.8,32.9,25.3,73.4,72,CAM,164cm,Right
+755980,Joe Reed,20,Venezuela,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€2.8M,€70K,44.2,48.0,80.2,32.6,72,LB,157cm,Right
+76048,James Garcia,28,United States Virgin Islands,Munoz-Harris,Fox LLC (United States Virgin Islands),€2.6M,€70K,31.5,62.3,75.8,41.0,72,CF,210cm,Left
+813528,Sullivan,32,Venezuela,"Young, Moore and Richardson",Premier League (England),€3M,€70K,32.0,74.8,18.9,65.4,72,RW,152cm,Left
+166366,J. Jones,35,Guadeloupe,Nelson-Freeman,Premier League (England),€2.5M,€70K,50.8,25.2,75.3,60.4,72,RWB,186cm,Right
+993904,D. Wood,52,North Macedonia,FC Barcelona,Graham-Harper (Namibia),€2.2M,€70K,57.5,59.8,76.5,57.9,72,LW,188cm,Right
+576343,Henry Mills,22,United States Virgin Islands,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€2.4M,€70K,56.9,54.9,29.4,76.5,72,CM,185cm,Left
+904069,Huang,34,North Macedonia,"Young, Moore and Richardson",Premier League (England),€2.2M,€69K,72.7,54.0,68.3,23.0,72,ST,152cm,Left
+609252,D. Osborne,28,Dominica,Hernandez-Patterson,Premier League (England),€2.3M,€69K,50.5,12.0,53.0,78.2,72,CM,178cm,Right
+453806,B. Wise,32,United States Virgin Islands,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€2.1M,€69K,31.0,79.7,42.0,46.9,72,CB,209cm,Right
+339249,D. Horne,23,Azerbaijan,Paris Saint Germain,Premier League (England),€2.5M,€70K,55.5,76.9,26.8,54.9,72,RW,161cm,Left
+675324,Merritt,17,United States Virgin Islands,Wallace LLC,Premier League (England),€2.2M,€69K,15.4,59.0,76.2,36.9,72,CF,181cm,Left
+823040,A. Norris,31,Venezuela,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€2M,€69K,65.5,74.6,22.0,53.6,72,RW,206cm,Left
+286876,M. Mason,22,Brunei Darussalam,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€1.9M,€69K,75.9,38.7,25.3,57.5,71,CAM,209cm,Right
+164042,Charles Jr.,28,Dominica,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€1.8M,€69K,46.5,37.1,61.9,74.6,71,RM,189cm,Left
+737543,J. Brown,50,Cameroon,"Pearson, Rivas and Taylor",Premier League (England),€1.7M,€68K,84.3,18.4,15.6,31.3,71,CB,201cm,Left
+123273,J. Wise,48,United States Virgin Islands,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€1.7M,€68K,33.5,34.3,79.1,47.6,71,RWB,199cm,Right
+123606,Johnson,39,United States Virgin Islands,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€1.6M,€68K,19.4,60.4,74.3,59.5,71,LWB,193cm,Right
+328498,B. Young,28,Congo,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€1.8M,€68K,57.8,43.4,75.2,17.0,71,LB,202cm,Right
+467886,D. Davis,33,Namibia,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€1.7M,€68K,34.7,29.0,54.9,76.0,71,CM,176cm,Right
+918451,William Mcconnell,31,Dominica,"Pearson, Rivas and Taylor",Premier League (England),€1.7M,€69K,71.6,69.2,51.4,70.6,71,RM,197cm,Left
+517103,J. Thornton,29,Guadeloupe,Munoz-Harris,Fox LLC (United States Virgin Islands),€1.7M,€68K,63.1,20.0,73.9,33.2,71,ST,154cm,Left
+803867,P. Terry,32,Namibia,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€1.5M,€68K,20.0,38.1,66.1,72.8,71,RW,194cm,Right
+763255,S. Gomez,39,Namibia,Sandoval Ltd,Premier League (England),€1.4M,€68K,53.6,76.0,54.6,37.8,71,CDM,186cm,Right
+910742,J. Lee,32,Brunei Darussalam,"Kline, Vance and Paul",Pitts LLC (Congo),€1.4M,€68K,68.7,72.2,36.4,32.8,71,RW,210cm,Left
+771623,R. Ramos,34,Namibia,Black Group,Premier League (England),€1.6M,€68K,77.6,26.8,31.9,52.2,71,CM,201cm,Left
+190364,Gregory Giles,29,Azerbaijan,"Kline, Vance and Paul",Pitts LLC (Congo),€1.4M,€67K,51.5,37.7,51.2,77.2,71,CM,153cm,Right
+911323,Gould,30,Namibia,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€1.2M,€68K,59.9,53.7,71.6,69.6,71,GK,169cm,Right
+845830,William Jr.,30,Venezuela,Foster-Miller,Fox LLC (United States Virgin Islands),€1.2M,€67K,39.5,73.5,56.0,64.4,71,CAM,181cm,Left
+2142,Alejandro Jr.,22,North Macedonia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€1.2M,€67K,63.9,73.5,61.1,39.2,71,LM,165cm,Left
+452714,Valencia,24,Namibia,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€1.4M,€67K,48.4,18.4,45.0,78.0,71,CM,168cm,Right
+125252,Craig Jr.,50,United States Virgin Islands,Mason-Smith,Premier League (England),€1M,€67K,57.5,73.4,64.0,59.0,71,RM,164cm,Right
+240198,K. Roach,24,Dominica,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€1.2M,€68K,71.6,40.8,20.8,68.6,71,CB,158cm,Left
+265138,M. Christensen,25,Brunei Darussalam,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€998K,€67K,33.7,74.3,61.3,58.1,71,LW,198cm,Left
+371658,Mark Wade,28,Dominica,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€999K,€67K,70.7,70.3,50.5,39.5,71,CAM,169cm,Right
+846979,C. Pineda,49,Brunei Darussalam,FC Bayern München,Premier League (England),€1M,€67K,34.0,40.6,75.7,55.0,71,CF,192cm,Right
+421056,Mike Jr.,24,North Macedonia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€1M,€67K,8.8,28.7,77.0,53.7,71,GK,157cm,Left
+486612,K. Stevenson,27,Dominica,FC Barcelona,Graham-Harper (Namibia),€998K,€67K,38.1,19.8,75.6,58.0,71,ST,152cm,Right
+617837,Jacob Jr.,21,United States Virgin Islands,"Pearson, Rivas and Taylor",Premier League (England),€1.2M,€66K,61.5,74.6,54.6,42.2,71,CAM,182cm,Left
+880248,J. Gomez,30,United States Virgin Islands,Wallace LLC,Premier League (England),€992K,€66K,66.1,30.5,73.1,22.1,71,LB,169cm,Left
+69254,J. Wilkins,28,Azerbaijan,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€995K,€66K,75.1,44.5,58.0,26.4,71,ST,207cm,Left
+405154,P. Bautista,32,Dominica,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€998K,€66K,64.6,73.2,52.7,57.6,71,RM,205cm,Right
+69371,Scott Livingston,29,Dominica,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€990K,€66K,77.6,32.6,38.3,51.8,71,CAM,204cm,Right
+118657,J. Henderson,30,Azerbaijan,"Kline, Vance and Paul",Pitts LLC (Congo),€991K,€66K,63.5,74.0,39.6,27.3,71,CB,201cm,Right
+536454,C. Smith,30,Congo,Valdez-Jackson,Pitts LLC (Congo),€992K,€67K,48.2,73.8,61.6,48.4,71,RB,183cm,Left
+868442,N. Austin,52,Australia,Foster-Miller,Fox LLC (United States Virgin Islands),€988K,€65K,57.1,74.6,48.3,46.0,70,LM,185cm,Left
+295073,T. Vazquez,42,Congo,"Brown, Mcintosh and Jones",Premier League (England),€984K,€65K,41.2,77.8,48.1,48.6,70,LM,162cm,Left
+188702,Andre Jr.,45,Congo,Sandoval Ltd,Premier League (England),€990K,€66K,42.4,78.0,46.8,46.4,70,CDM,151cm,Right
+827695,W. Ware,43,Namibia,Liverpool,Premier League (England),€988K,€66K,35.4,74.6,55.4,32.8,70,LW,206cm,Left
+49552,K. Jordan,20,Venezuela,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€981K,€64K,57.0,56.8,74.7,51.4,70,LB,208cm,Right
+631329,Brandon Jr.,26,Brunei Darussalam,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€980K,€65K,54.7,38.1,42.9,75.0,70,CM,171cm,Left
+361018,J. Davis,27,Australia,Paris Saint Germain,Premier League (England),€978K,€65K,75.7,53.2,51.9,28.2,70,LB,159cm,Left
+803394,D. Salinas,22,Australia,"Smith, Beasley and Cox",Premier League (England),€979K,€65K,31.8,59.8,73.3,42.5,70,LB,178cm,Right
+885422,P. Glover,35,Dominica,Valdez-Jackson,Pitts LLC (Congo),€976K,€64K,39.7,48.7,74.6,55.2,70,RWB,202cm,Left
+934602,C. Mack,47,Brunei Darussalam,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€977K,€64K,70.6,68.5,32.4,57.5,70,LM,152cm,Right
+369398,L. Meyer,21,Congo,Liverpool,Premier League (England),€977K,€66K,15.3,25.1,53.2,75.8,70,CF,190cm,Right
+17294,Harrison,22,Azerbaijan,Paris Saint Germain,Premier League (England),€974K,€63K,51.7,35.6,60.0,73.4,70,RM,198cm,Left
+254945,A. Richard,29,Azerbaijan,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€975K,€63K,67.7,70.7,30.4,49.4,70,RB,189cm,Left
+279622,A. Morrison,38,Cameroon,Liverpool,Premier League (England),€974K,€63K,41.0,25.6,77.1,47.5,70,LWB,195cm,Right
+124112,Christopher Jr.,26,Guadeloupe,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€971K,€63K,26.8,59.8,60.1,73.1,70,CDM,171cm,Left
+820543,Dougherty,33,Namibia,Mason-Smith,Premier League (England),€970K,€63K,74.9,20.9,47.4,53.3,70,CB,166cm,Left
+910684,J. Townsend,28,North Macedonia,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€966K,€62K,50.0,77.3,30.5,41.2,70,CAM,185cm,Left
+509363,M. Holt,28,Dominica,"Brown, Mcintosh and Jones",Premier League (England),€967K,€63K,41.4,75.1,51.7,52.9,70,RM,175cm,Right
+927391,P. Perez,36,United States Virgin Islands,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€967K,€63K,60.8,35.4,20.7,72.6,70,CM,201cm,Left
+739017,Martinez,24,Guadeloupe,"Brown, Mcintosh and Jones",Premier League (England),€966K,€62K,73.6,59.5,31.9,54.5,70,RB,177cm,Left
+665527,T. Johnson,30,Brunei Darussalam,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€956K,€61K,62.4,31.8,72.1,43.5,70,LB,158cm,Left
+919739,M. Jones,23,Guadeloupe,"Young, Moore and Richardson",Premier League (England),€962K,€61K,36.1,41.5,54.7,75.2,70,CF,169cm,Right
+837851,D. Anderson,35,Dominica,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€960K,€62K,21.4,38.7,69.7,70.7,70,GK,209cm,Right
+510296,J. Hammond,31,Australia,"Brown, Mcintosh and Jones",Premier League (England),€961K,€61K,60.6,71.2,68.1,24.9,70,LM,181cm,Left
+772584,J. Chung,27,Dominica,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€956K,€61K,78.1,25.2,8.3,46.0,70,CB,210cm,Left
+2935,I. Reynolds,22,Azerbaijan,Sandoval Ltd,Premier League (England),€956K,€61K,73.3,60.5,25.8,35.7,70,RB,187cm,Left
+871294,I. Foster,31,Venezuela,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€953K,€61K,49.9,77.0,49.1,45.2,70,RB,181cm,Right
+510850,Gaines,32,Brunei Darussalam,Young-Smith,Hawkins Ltd (Guadeloupe),€955K,€61K,62.5,56.3,22.0,72.5,70,RM,187cm,Left
+846806,Anthony Jr.,51,Congo,Liverpool,Premier League (England),€953K,€61K,41.8,75.0,42.3,54.9,70,RM,200cm,Right
+920715,J. Wood,28,Venezuela,"Pearson, Rivas and Taylor",Premier League (England),€951K,€60K,82.7,24.7,13.5,32.0,70,CB,208cm,Left
+912632,Jones,17,Venezuela,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€955K,€61K,22.9,65.1,72.1,20.6,70,CF,191cm,Left
+986497,Stevens,29,Azerbaijan,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€946K,€61K,36.7,58.6,74.2,45.1,70,CF,172cm,Right
+454104,R. Nicholson,31,North Macedonia,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€936K,€60K,34.1,45.5,78.2,27.1,70,RWB,164cm,Left
+732696,David Jr.,22,Brunei Darussalam,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€948K,€60K,55.5,75.0,48.4,35.1,70,RB,197cm,Left
+872074,William Jr.,30,Congo,Valdez-Jackson,Pitts LLC (Congo),€946K,€61K,26.1,79.4,40.9,23.0,70,RB,184cm,Right
+806638,M. Christian,27,Congo,Taylor-Jones,Hawkins Ltd (Guadeloupe),€929K,€60K,53.4,72.6,38.7,61.0,70,RM,153cm,Right
+765873,W. Patel,20,Brunei Darussalam,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€929K,€60K,11.8,50.8,76.5,18.6,70,CF,160cm,Left
+581679,Travis Acosta,20,Namibia,"Young, Moore and Richardson",Premier League (England),€928K,€59K,15.5,64.5,60.3,70.3,69,CDM,186cm,Left
+401457,Lopez,55,Brunei Darussalam,"Brown, Mcintosh and Jones",Premier League (England),€927K,€60K,21.3,61.7,69.8,67.9,69,CF,203cm,Right
+754023,E. Phelps,25,Azerbaijan,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€936K,€59K,78.8,7.5,10.4,39.3,69,CB,165cm,Left
+311847,E. Frank,24,Guadeloupe,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€926K,€59K,46.6,34.3,50.5,74.6,69,CF,174cm,Right
+410281,Kevin Jr.,30,Azerbaijan,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€922K,€59K,64.8,55.5,70.9,37.6,69,ST,156cm,Left
+729881,Duncan,20,Cameroon,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€928K,€59K,57.0,62.3,71.3,20.7,69,LM,155cm,Left
+279389,J. Wu,30,Venezuela,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€921K,€59K,38.3,53.1,74.6,19.5,69,LM,181cm,Left
+17343,James Jr.,27,Dominica,Black Group,Premier League (England),€916K,€58K,49.3,66.4,69.6,53.6,69,LM,210cm,Left
+467964,Yu,33,North Macedonia,Mills Ltd,Graham-Harper (Namibia),€917K,€58K,76.8,44.8,27.9,40.3,69,CM,181cm,Left
+369754,R. Vasquez,25,Namibia,Wallace LLC,Premier League (England),€918K,€58K,64.2,49.3,70.1,56.6,69,ST,153cm,Left
+459955,A. Merritt,21,United States Virgin Islands,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€923K,€59K,24.4,70.1,67.0,57.8,69,GK,152cm,Right
+476369,Warren,22,Dominica,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€916K,€57K,43.1,77.3,26.5,41.9,69,RB,180cm,Right
+836892,D. Cox,26,Namibia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€915K,€58K,19.0,34.2,75.4,51.2,69,ST,201cm,Right
+754981,A. Sheppard,24,Brunei Darussalam,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€912K,€58K,75.4,23.2,38.6,49.4,69,CB,151cm,Left
+378310,T. Long,23,Guadeloupe,"Brown, Mcintosh and Jones",Premier League (England),€914K,€57K,15.1,7.5,75.9,50.2,69,ST,209cm,Right
+665094,Shawn Jr.,19,Venezuela,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€908K,€56K,80.4,20.8,30.3,34.1,69,CB,171cm,Left
+485025,Cohen,25,Azerbaijan,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€909K,€57K,28.9,50.9,71.3,63.7,69,GK,154cm,Right
+444111,J. Kline,30,Azerbaijan,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€912K,€56K,29.0,62.4,64.3,70.3,69,GK,153cm,Left
+526285,B. Wheeler,31,Guadeloupe,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€911K,€56K,69.7,60.3,40.7,67.6,69,CAM,156cm,Right
+231383,Kenneth Black,29,Dominica,Mason-Smith,Premier League (England),€908K,€55K,40.2,48.5,75.7,44.7,69,RWB,188cm,Right
+559249,Caldwell,24,North Macedonia,Wallace LLC,Premier League (England),€902K,€59K,34.4,36.4,73.0,55.9,69,CM,160cm,Right
+370844,Peter Green,27,Cameroon,"Smith, Beasley and Cox",Premier League (England),€906K,€55K,49.3,70.1,60.4,67.6,69,RM,152cm,Right
+846206,Ward,31,Guadeloupe,"Kline, Vance and Paul",Pitts LLC (Congo),€904K,€55K,58.3,71.9,40.6,58.6,69,RB,165cm,Right
+887222,J. Hughes,15,Australia,FC Barcelona,Graham-Harper (Namibia),€899K,€55K,69.9,67.7,59.1,57.7,69,CAM,199cm,Right
+412163,Matthew Ochoa,50,Dominica,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€898K,€55K,75.6,37.3,48.1,42.6,69,ST,152cm,Left
+788998,J. Herrera,20,Dominica,Taylor-Jones,Hawkins Ltd (Guadeloupe),€914K,€55K,20.8,63.9,70.1,51.7,69,LW,195cm,Left
+600629,R. Lewis,35,Dominica,FC Barcelona,Graham-Harper (Namibia),€892K,€55K,70.8,49.9,33.7,61.9,69,CAM,154cm,Right
+707153,T. Smith,33,Guadeloupe,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€890K,€55K,44.1,75.5,37.4,49.4,69,CDM,158cm,Right
+666212,R. Foster,28,Azerbaijan,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€902K,€55K,60.3,72.0,48.9,32.4,69,RW,170cm,Left
+994171,Jones,33,Cameroon,"Young, Moore and Richardson",Premier League (England),€891K,€55K,39.4,78.8,37.2,32.3,69,RB,155cm,Right
+781187,Nathaniel Riggs,23,Venezuela,"Pearson, Rivas and Taylor",Premier League (England),€890K,€55K,60.2,29.3,71.8,31.8,69,LB,195cm,Right
+928747,T. Mcguire,29,Australia,Liverpool,Premier League (England),€883K,€54K,38.5,29.1,79.2,35.2,69,RWB,201cm,Left
+461822,J. Harrison,32,Guadeloupe,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€879K,€54K,43.1,48.6,53.0,74.9,69,CM,166cm,Right
+413006,A. Tapia,20,Brunei Darussalam,Hernandez-Patterson,Premier League (England),€891K,€54K,38.7,79.2,34.1,25.0,69,CDM,188cm,Right
+142741,R. Sullivan,52,Cameroon,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€885K,€54K,66.4,26.1,69.9,50.5,69,ST,165cm,Left
+970165,C. Bennett,20,Dominica,Mason-Smith,Premier League (England),€873K,€54K,74.6,29.2,53.8,29.8,69,ST,203cm,Left
+331426,B. Wang,39,North Macedonia,Liverpool,Premier League (England),€875K,€54K,22.1,45.4,28.6,77.1,69,CDM,200cm,Left
+200365,Joseph Jr.,38,United States Virgin Islands,Liverpool,Premier League (England),€888K,€53K,62.6,71.0,32.5,43.8,69,RW,188cm,Left
+683974,D. Jones,22,Brunei Darussalam,Liverpool,Premier League (England),€872K,€53K,41.6,77.3,43.9,15.8,69,CDM,210cm,Right
+647283,L. Warner,33,Namibia,Black Group,Premier League (England),€871K,€55K,57.9,71.2,29.4,40.9,68,RB,164cm,Right
+958721,Miller,38,Cameroon,"Pearson, Rivas and Taylor",Premier League (England),€864K,€53K,40.1,53.9,59.4,70.9,68,RM,178cm,Left
+123358,Michael Jr.,31,United States Virgin Islands,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€869K,€53K,55.7,12.5,72.6,51.1,68,CM,201cm,Right
+655922,A. Meyer,25,Guadeloupe,Hernandez-Patterson,Premier League (England),€869K,€53K,25.6,62.2,27.1,70.3,68,CDM,195cm,Left
+369292,Robert Jr.,21,Guadeloupe,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€861K,€53K,28.9,32.2,49.7,73.8,68,CM,155cm,Right
+222058,B. Robbins,32,Dominica,"Bennett, Welch and Brown",Premier League (England),€857K,€52K,41.0,67.8,40.4,68.7,68,CAM,170cm,Left
+107480,S. West,20,Brunei Darussalam,"Kline, Vance and Paul",Pitts LLC (Congo),€861K,€52K,59.6,23.8,71.4,58.2,68,RWB,178cm,Right
+599134,R. Lopez,31,Namibia,"Brown, Mcintosh and Jones",Premier League (England),€859K,€52K,64.8,69.7,28.7,43.6,68,LM,167cm,Right
+697450,N. Reid,35,United States Virgin Islands,"Kline, Vance and Paul",Pitts LLC (Congo),€854K,€51K,43.9,38.0,51.5,72.9,68,CDM,165cm,Left
+443509,P. Kim,30,Venezuela,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€854K,€52K,22.1,68.5,68.4,66.2,68,LW,200cm,Right
+672947,M. Medina,28,Brunei Darussalam,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€855K,€52K,39.7,74.3,50.3,28.2,68,RB,195cm,Right
+451838,R. Hoffman,30,Guadeloupe,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€875K,€52K,43.0,44.9,65.2,69.3,68,RW,163cm,Right
+58705,S. King,22,Congo,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€846K,€51K,55.0,70.6,61.2,27.4,68,CDM,163cm,Right
+697705,R. Jensen,20,Australia,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€850K,€51K,71.5,57.4,19.1,55.4,68,CM,157cm,Left
+632189,M. Carter,34,Azerbaijan,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€851K,€51K,69.4,39.9,61.4,64.9,68,RWB,189cm,Right
+943564,A. Lynch,49,Namibia,Taylor-Jones,Hawkins Ltd (Guadeloupe),€854K,€51K,34.8,75.2,47.8,35.4,68,LM,201cm,Left
+722446,C. Hamilton,24,Namibia,Paris Saint Germain,Premier League (England),€845K,€51K,76.3,7.6,28.2,44.6,68,CB,195cm,Left
+558625,R. Carlson,32,United States Virgin Islands,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€837K,€50K,34.0,69.2,64.5,47.7,68,LM,150cm,Left
+214617,C. Briggs,22,Guadeloupe,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€850K,€51K,60.0,70.6,27.7,37.1,68,RB,202cm,Right
+542303,B. Moody,42,Namibia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€837K,€50K,57.3,70.3,24.2,61.4,68,RW,153cm,Left
+779896,P. Spencer,26,United States Virgin Islands,Mills Ltd,Graham-Harper (Namibia),€834K,€50K,76.6,20.2,21.1,42.2,68,CM,195cm,Left
+493225,F. Richardson,22,Congo,Mills Ltd,Graham-Harper (Namibia),€834K,€50K,29.6,56.7,72.2,27.2,68,LWB,177cm,Right
+460475,Noah Boyd,35,North Macedonia,"Young, Moore and Richardson",Premier League (England),€828K,€50K,77.4,6.2,18.8,38.0,68,CB,170cm,Left
+575211,W. Hale,23,Venezuela,Sandoval Ltd,Premier League (England),€836K,€50K,54.1,51.6,67.4,68.4,68,RWB,181cm,Right
+575278,Patrick Jr.,15,Brunei Darussalam,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€822K,€50K,65.8,67.9,31.2,67.7,68,LM,199cm,Right
+370591,T. Gray,29,Dominica,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€822K,€49K,26.8,59.5,71.3,52.0,68,LW,200cm,Left
+960488,Andrew Greer,33,Congo,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€837K,€49K,73.7,50.6,38.2,46.0,68,LM,200cm,Right
+493556,J. Long,33,Venezuela,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€821K,€49K,42.3,73.4,30.7,51.6,68,RW,192cm,Left
+125136,J. Goodman,29,North Macedonia,FC Bayern München,Premier League (England),€820K,€49K,52.0,40.5,73.6,45.4,68,LB,172cm,Right
+452906,J. Shea,20,United States Virgin Islands,FC Barcelona,Graham-Harper (Namibia),€821K,€49K,18.1,41.4,57.0,71.6,68,GK,150cm,Left
+780595,L. Jimenez,25,Guadeloupe,Wallace LLC,Premier League (England),€819K,€49K,70.8,24.6,36.5,59.9,68,CM,195cm,Left
+936254,P. Martinez,30,Cameroon,FC Barcelona,Graham-Harper (Namibia),€818K,€49K,71.6,49.0,57.6,20.5,68,LB,200cm,Left
+592202,M. Butler,19,Brunei Darussalam,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€816K,€48K,30.8,52.9,28.0,72.8,68,CDM,195cm,Left
+256348,Harris,23,Azerbaijan,Liverpool,Premier League (England),€814K,€49K,53.9,42.5,72.1,56.7,68,CM,187cm,Right
+248274,I. Garcia,20,Azerbaijan,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€813K,€49K,48.2,73.3,25.6,50.3,68,CDM,160cm,Right
+346944,J. Brooks,27,Brunei Darussalam,Young-Smith,Hawkins Ltd (Guadeloupe),€815K,€50K,42.3,32.5,68.5,67.9,68,CM,182cm,Right
+191427,Oscar King,21,Venezuela,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€804K,€48K,7.6,45.1,69.8,60.9,68,LWB,170cm,Right
+158663,J. Mcpherson,22,Namibia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€806K,€48K,54.9,54.7,28.0,72.2,68,RM,163cm,Left
+265296,J. Vaughan,24,Namibia,Hanson Inc,Thompson and Sons (Brunei Darussalam),€808K,€49K,40.9,47.6,74.9,33.1,68,LB,179cm,Right
+773205,Marvin Jr.,33,United States Virgin Islands,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€812K,€48K,50.8,66.9,56.4,68.6,68,LW,177cm,Right
+667041,Tracy Clayton,24,Venezuela,"Brown, Mcintosh and Jones",Premier League (England),€798K,€47K,63.0,38.1,69.6,21.5,68,ST,172cm,Left
+798213,Jose Jr.,27,Brunei Darussalam,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€803K,€47K,69.7,63.8,21.1,31.2,68,RW,193cm,Left
+314889,R. Santos,32,Namibia,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€802K,€48K,38.4,77.8,31.1,39.6,68,CDM,182cm,Right
+642589,J. Williams,21,Dominica,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€820K,€47K,17.0,42.2,48.9,74.2,68,CDM,154cm,Left
+176033,G. Dunn,23,Guadeloupe,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€789K,€47K,49.5,38.5,60.2,70.0,68,RM,158cm,Left
+692161,Dalton Jr.,33,Congo,Hernandez-Patterson,Premier League (England),€801K,€47K,68.7,48.0,22.3,65.4,68,CAM,172cm,Left
+557111,J. Lambert,25,North Macedonia,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€790K,€47K,57.5,44.2,22.2,69.6,67,RM,158cm,Left
+90273,J. Butler,51,Australia,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€792K,€47K,59.7,29.2,14.0,68.9,67,CB,156cm,Left
+524483,Walker,23,Congo,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€795K,€47K,34.1,40.7,70.8,54.1,67,CM,167cm,Right
+319723,Aaron Jr.,31,Venezuela,"Evans, Webster and Young",Graham-Harper (Namibia),€785K,€46K,64.0,68.3,27.8,63.5,67,CB,157cm,Right
+794992,M. Burnett,35,Brunei Darussalam,Foster-Miller,Fox LLC (United States Virgin Islands),€779K,€47K,54.5,71.2,31.9,51.5,67,RW,181cm,Left
+33407,Christian Jr.,20,Guadeloupe,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€778K,€46K,26.7,38.4,72.4,50.3,67,LB,206cm,Right
+271040,S. Jackson,32,Cameroon,Hanson Inc,Thompson and Sons (Brunei Darussalam),€771K,€46K,50.4,70.5,48.1,58.3,67,RM,203cm,Left
+410381,R. Mcdonald,23,Namibia,"Evans, Webster and Young",Graham-Harper (Namibia),€776K,€46K,63.6,45.6,16.4,67.8,67,LM,203cm,Right
+525122,M. Harris,30,Namibia,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€779K,€46K,39.6,68.2,58.5,63.1,67,GK,208cm,Right
+934900,C. Williams,17,Cameroon,"Young, Moore and Richardson",Premier League (England),€770K,€46K,53.2,35.6,71.5,20.0,67,LB,201cm,Left
+173067,M. Wall,29,United States Virgin Islands,Hernandez-Patterson,Premier League (England),€763K,€45K,73.9,36.0,46.6,32.8,67,CB,180cm,Left
+935143,D. Lyons,24,Guadeloupe,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€766K,€45K,69.2,34.9,61.3,31.1,67,ST,177cm,Left
+132340,S. Martinez,24,Congo,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€769K,€45K,48.7,69.0,52.0,62.6,67,CB,210cm,Right
+525572,Powell,32,Dominica,Sandoval Ltd,Premier League (England),€767K,€45K,56.4,70.0,56.0,53.7,67,RB,189cm,Left
+836942,George Jr.,16,Guadeloupe,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€754K,€45K,36.9,33.3,76.9,23.5,67,LB,185cm,Right
+50921,K. Stewart,22,Guadeloupe,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€763K,€45K,48.7,26.5,73.5,19.2,67,LB,153cm,Right
+575420,M. Rowe,21,Azerbaijan,Lewis LLC,Premier League (England),€761K,€45K,37.2,34.8,71.1,56.0,67,ST,172cm,Right
+165832,Gordon,22,Dominica,Young-Smith,Hawkins Ltd (Guadeloupe),€758K,€46K,69.2,27.2,61.0,14.0,67,LB,201cm,Left
+215066,Raymond Avery,29,United States Virgin Islands,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€752K,€45K,42.2,31.5,48.8,73.0,67,RW,206cm,Right
+665635,H. Hernandez,27,Venezuela,Sandoval Ltd,Premier League (England),€758K,€44K,14.4,63.8,67.7,51.7,67,GK,151cm,Left
+190681,K. Jones,22,Azerbaijan,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€753K,€44K,54.5,71.3,18.2,54.7,67,RW,155cm,Left
+788804,Eric Jr.,30,Cameroon,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€751K,€45K,50.8,71.1,45.1,55.3,67,RW,194cm,Left
+2534,Cole,46,Brunei Darussalam,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€750K,€44K,52.4,68.6,61.6,61.5,67,RM,157cm,Right
+797458,Michael Lindsey,37,Azerbaijan,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€748K,€43K,35.8,71.4,53.2,27.9,67,LM,198cm,Left
+166690,S. Chavez,22,North Macedonia,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€753K,€44K,67.9,32.4,64.1,65.0,67,CAM,208cm,Right
+707561,C. Watson,26,Australia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€748K,€44K,71.6,25.2,51.5,19.5,67,ST,193cm,Left
+469994,G. Miller,18,United States Virgin Islands,FC Barcelona,Graham-Harper (Namibia),€746K,€43K,65.0,37.6,68.1,28.4,67,LB,202cm,Left
+273514,A. Swanson,26,Cameroon,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€744K,€44K,59.9,69.0,45.3,55.7,67,RB,203cm,Left
+167153,M. Middleton,34,Australia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€742K,€43K,34.8,69.6,48.3,57.5,67,RM,192cm,Left
+216397,J. Silva,17,Cameroon,"Brown, Mcintosh and Jones",Premier League (England),€749K,€43K,64.8,53.7,52.8,68.1,67,CAM,207cm,Left
+413040,Daniel Jr.,35,Venezuela,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€739K,€42K,70.3,57.3,51.3,47.3,67,LM,188cm,Right
+781836,G. Martinez,31,Dominica,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€743K,€42K,69.9,5.3,22.1,59.3,67,CB,200cm,Left
+724504,A. White,30,Congo,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€741K,€43K,45.6,74.7,34.3,35.2,67,RB,193cm,Right
+945823,R. Saunders,23,Azerbaijan,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€742K,€43K,19.7,51.7,72.2,44.5,67,CF,152cm,Left
+962236,C. Boyd,23,Congo,"Brown, Mcintosh and Jones",Premier League (England),€734K,€42K,67.5,65.8,51.6,46.3,67,LM,210cm,Right
+470856,Philip Jr.,26,Congo,Valdez-Jackson,Pitts LLC (Congo),€731K,€42K,57.7,38.2,31.0,69.5,67,RW,152cm,Right
+614427,Richardson,32,Brunei Darussalam,Hernandez-Patterson,Premier League (England),€730K,€42K,44.2,59.8,68.7,29.6,66,LB,166cm,Right
+958773,G. Smith,41,Cameroon,Sandoval Ltd,Premier League (England),€739K,€42K,46.7,24.6,40.7,72.7,66,RW,196cm,Right
+33108,W. Fox,31,Venezuela,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€730K,€41K,67.9,48.6,51.4,61.7,66,CAM,165cm,Left
+557679,L. Bush,35,Cameroon,"Kline, Vance and Paul",Pitts LLC (Congo),€732K,€41K,75.2,34.7,28.0,37.1,66,CB,169cm,Left
+606883,E. Kirk,34,Brunei Darussalam,Mason-Smith,Premier League (England),€726K,€41K,23.7,66.4,45.5,63.9,66,CDM,151cm,Left
+369328,W. Parker,25,Australia,Sandoval Ltd,Premier League (England),€728K,€42K,31.7,55.7,70.0,38.9,66,LWB,172cm,Right
+615219,Armstrong,21,United States Virgin Islands,Taylor-Jones,Hawkins Ltd (Guadeloupe),€720K,€41K,30.2,10.8,50.0,70.7,66,RW,168cm,Right
+443231,Gill,34,Azerbaijan,Wallace LLC,Premier League (England),€721K,€41K,37.5,61.6,67.0,48.8,66,LWB,171cm,Right
+557938,P. Douglas,33,Namibia,Black Group,Premier League (England),€723K,€41K,49.9,64.2,66.6,51.6,66,LW,198cm,Left
+975,J. Davis,32,Congo,Mills Ltd,Graham-Harper (Namibia),€728K,€41K,53.2,22.0,47.0,70.5,66,CM,207cm,Left
+255021,Darren Mcconnell,30,Dominica,Mills Ltd,Graham-Harper (Namibia),€710K,€40K,28.8,56.3,69.5,54.5,66,GK,181cm,Left
+787677,Matthew Robinson,17,Brunei Darussalam,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€715K,€40K,54.5,50.5,26.3,70.1,66,CM,191cm,Left
+714242,Booker,27,Cameroon,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€710K,€41K,51.5,58.3,27.3,69.0,66,CDM,200cm,Left
+812975,D. Bishop,18,United States Virgin Islands,FC Barcelona,Graham-Harper (Namibia),€720K,€40K,35.2,66.4,64.6,25.7,66,CDM,150cm,Right
+911293,C. Ochoa,19,Namibia,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€707K,€40K,73.1,20.6,46.6,22.0,66,LB,152cm,Left
+526300,Michael Jr.,20,Venezuela,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€706K,€40K,68.7,57.2,31.8,43.4,66,RB,174cm,Left
+354293,T. Hall,31,United States Virgin Islands,Munoz-Harris,Fox LLC (United States Virgin Islands),€709K,€40K,22.7,32.6,71.5,50.5,66,CM,155cm,Right
+231464,Nicholas Sanders,31,Venezuela,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€715K,€40K,25.1,66.7,29.5,64.6,66,CB,164cm,Right
+428113,S. Brown,23,United States Virgin Islands,Mason-Smith,Premier League (England),€702K,€39K,57.9,65.6,53.0,66.3,66,RB,190cm,Left
+821485,Lowery,33,United States Virgin Islands,Liverpool,Premier League (England),€691K,€39K,70.8,46.9,31.0,50.7,66,CM,163cm,Left
+977174,D. Higgins,31,Namibia,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€689K,€40K,21.0,52.3,43.2,71.0,66,CDM,200cm,Left
+977280,Reeves,42,Guadeloupe,Wallace LLC,Premier League (England),€687K,€39K,65.3,41.6,66.7,42.7,66,LB,182cm,Left
+84526,S. Duarte,29,Brunei Darussalam,"Kline, Vance and Paul",Pitts LLC (Congo),€682K,€39K,24.7,23.6,63.3,66.5,66,CM,201cm,Right
+223866,Williamson,21,United States Virgin Islands,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€685K,€39K,43.4,46.5,61.9,67.1,66,GK,157cm,Left
+985738,B. Burgess,35,Cameroon,Valdez-Jackson,Pitts LLC (Congo),€685K,€39K,53.9,32.5,69.7,38.1,66,ST,175cm,Left
+494297,M. Little,34,Brunei Darussalam,Valdez-Jackson,Pitts LLC (Congo),€678K,€39K,43.4,18.9,44.2,73.5,66,CM,184cm,Right
+994055,J. Moore,46,Cameroon,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€677K,€38K,23.7,49.8,70.9,26.6,66,LW,198cm,Left
+715561,James Jr.,22,Namibia,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€678K,€39K,53.5,25.4,69.9,33.0,66,ST,178cm,Left
+306235,Jason Nolan,32,Australia,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€675K,€39K,33.2,28.5,70.5,52.7,66,RWB,153cm,Right
+445582,C. Flores,27,Brunei Darussalam,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€678K,€38K,59.7,68.4,45.0,33.0,66,RB,171cm,Right
+642294,Ryan Wood,32,Venezuela,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€670K,€38K,50.1,71.3,39.3,48.8,66,RW,179cm,Left
+986403,D. Thomas,17,Guadeloupe,Sandoval Ltd,Premier League (England),€669K,€37K,63.0,66.7,49.8,48.6,66,LM,170cm,Left
+191790,J. Farmer,27,North Macedonia,FC Barcelona,Graham-Harper (Namibia),€668K,€37K,34.5,55.7,69.1,52.6,66,LW,163cm,Right
+683412,A. Haas,30,Venezuela,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€678K,€38K,66.1,28.6,31.0,63.7,66,CM,168cm,Left
+36270,Mendez,24,Namibia,"Bennett, Welch and Brown",Premier League (England),€664K,€37K,52.1,59.8,26.0,68.3,66,RB,175cm,Left
+912835,P. Roy,34,Azerbaijan,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€667K,€37K,44.1,54.6,57.7,69.1,66,GK,154cm,Right
+503259,James,23,Congo,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€664K,€37K,28.7,75.3,26.3,38.2,66,CB,174cm,Right
+28252,K. Jones,30,Guadeloupe,Munoz-Harris,Fox LLC (United States Virgin Islands),€663K,€37K,30.7,66.6,62.5,55.9,66,GK,187cm,Right
+683697,W. Harris,30,Congo,Liverpool,Premier League (England),€662K,€36K,47.3,41.8,71.6,48.4,66,CF,158cm,Right
+724820,K. Paul,35,Namibia,Valdez-Jackson,Pitts LLC (Congo),€658K,€36K,43.0,71.3,49.6,23.2,66,CDM,205cm,Right
+180312,Cory Johnson,23,Dominica,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€671K,€37K,39.4,46.8,71.4,26.4,65,ST,198cm,Left
+475235,Vincent Jr.,25,United States Virgin Islands,Hanson Inc,Thompson and Sons (Brunei Darussalam),€660K,€36K,19.5,38.3,38.0,73.8,65,CDM,162cm,Left
+729392,J. Martin,20,North Macedonia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€654K,€36K,65.7,54.0,61.7,52.2,65,RWB,196cm,Left
+66077,L. Rivera,29,North Macedonia,FC Barcelona,Graham-Harper (Namibia),€654K,€36K,31.4,57.8,67.9,46.9,65,LW,190cm,Right
+697002,P. Hooper,28,Brunei Darussalam,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€654K,€36K,49.0,58.4,67.5,49.5,65,LW,193cm,Right
+484037,Friedman,17,North Macedonia,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€660K,€36K,68.1,56.1,29.5,39.8,65,RB,182cm,Left
+451374,C. Jones,44,Dominica,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€651K,€36K,39.3,22.4,72.7,40.6,65,LB,177cm,Right
+336689,Jamie Johnson,28,Namibia,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€647K,€36K,36.9,69.6,49.7,32.6,65,CDM,167cm,Right
+484152,Nathan Jr.,44,Australia,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€652K,€37K,27.2,23.6,77.1,19.8,65,RWB,174cm,Left
+959319,John White,35,Guadeloupe,Hanson Inc,Thompson and Sons (Brunei Darussalam),€647K,€35K,46.2,62.1,61.8,66.2,65,RM,165cm,Left
+959471,W. Gomez,35,Namibia,"Evans, Webster and Young",Graham-Harper (Namibia),€645K,€35K,18.0,42.6,73.1,27.1,65,LW,196cm,Left
+467953,Michael Jr.,43,Guadeloupe,Black Group,Premier League (England),€646K,€35K,51.9,68.2,56.7,48.6,65,RB,204cm,Left
+459998,J. Gonzalez,35,United States Virgin Islands,Mason-Smith,Premier League (England),€651K,€35K,43.0,69.9,48.6,39.4,65,LM,162cm,Left
+648437,C. King,18,Cameroon,FC Barcelona,Graham-Harper (Namibia),€645K,€36K,50.8,70.1,34.3,43.8,65,CDM,182cm,Right
+533809,G. Wu,27,Dominica,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€642K,€35K,33.6,69.2,51.2,40.6,65,CB,176cm,Right
+599356,Austin Jr.,33,Congo,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€626K,€34K,65.8,34.6,36.8,62.2,65,CB,199cm,Left
+632252,James Hahn,22,Congo,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€636K,€35K,66.0,51.4,43.4,63.9,65,CAM,169cm,Left
+861812,E. Burns,24,Brunei Darussalam,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€644K,€35K,51.2,7.6,69.3,41.0,65,ST,187cm,Right
+272288,S. James,22,Brunei Darussalam,Valdez-Jackson,Pitts LLC (Congo),€614K,€34K,57.8,52.9,42.9,67.8,65,RM,152cm,Left
+436236,T. Thompson,30,Guadeloupe,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€646K,€34K,57.1,67.9,28.8,56.7,65,RM,153cm,Left
+297278,J. Berger,21,Namibia,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€626K,€35K,36.5,47.5,31.8,70.5,65,CDM,196cm,Left
+305651,Evan Morris,45,Namibia,Wallace LLC,Premier League (England),€619K,€34K,62.2,65.4,52.8,55.3,65,CB,154cm,Right
+961164,R. Mercado,25,Congo,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€610K,€34K,10.7,57.6,67.7,48.3,65,CF,150cm,Right
+592554,J. Boone,28,Venezuela,Paris Saint Germain,Premier League (England),€612K,€33K,26.3,38.2,73.7,39.0,65,CF,178cm,Left
+265290,Angel Macdonald,28,Guadeloupe,"Bennett, Welch and Brown",Premier League (England),€613K,€34K,60.7,63.5,57.4,66.0,65,GK,176cm,Right
+355404,J. Frost,25,Guadeloupe,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€623K,€34K,63.3,55.7,18.9,65.1,65,RW,154cm,Left
+650414,A. Liu,50,Cameroon,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€608K,€34K,23.7,44.5,71.8,28.2,65,ST,204cm,Right
+822803,C. Roberts,33,Australia,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€608K,€33K,36.8,23.0,74.3,29.4,65,LWB,180cm,Right
+249507,R. Cruz,22,Guadeloupe,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€601K,€33K,38.8,51.5,69.0,47.3,65,ST,185cm,Left
+134903,B. Jones,22,Dominica,Taylor-Jones,Hawkins Ltd (Guadeloupe),€608K,€33K,32.8,49.6,42.9,70.4,65,CDM,198cm,Left
+225039,B. Flores,27,Dominica,Paris Saint Germain,Premier League (England),€611K,€33K,59.0,45.1,67.0,60.3,65,RWB,187cm,Right
+123124,Christopher Jr.,24,Congo,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€594K,€33K,31.2,47.0,69.8,34.1,64,RWB,177cm,Right
+360706,M. Howell,31,Guadeloupe,"Evans, Webster and Young",Graham-Harper (Namibia),€591K,€33K,59.3,65.7,44.5,30.8,64,CDM,204cm,Right
+811339,J. Norris,23,Azerbaijan,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€598K,€33K,48.4,55.5,66.8,54.1,64,LW,191cm,Left
+868693,J. Perez,26,Australia,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€584K,€32K,28.3,22.5,66.3,56.9,64,ST,197cm,Right
+778725,K. Rocha,29,United States Virgin Islands,Black Group,Premier League (England),€586K,€32K,23.2,23.5,56.4,66.1,64,RW,165cm,Right
+926397,R. Rivera,43,Dominica,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€582K,€33K,10.4,51.8,68.3,17.4,64,CF,203cm,Left
+369418,R. Riley,29,Dominica,Valdez-Jackson,Pitts LLC (Congo),€596K,€33K,64.6,51.1,40.0,61.2,64,RM,177cm,Right
+541485,Barton,31,Australia,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€569K,€31K,53.2,25.3,9.5,67.1,64,CB,154cm,Left
+410534,Daniel Jr.,30,Azerbaijan,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€578K,€32K,41.4,22.8,54.5,66.6,64,RW,159cm,Right
+812223,A. Morris,55,Australia,"Bennett, Welch and Brown",Premier League (England),€577K,€32K,64.4,28.8,47.1,61.0,64,CB,161cm,Left
+296209,M. Anderson,26,Brunei Darussalam,Paris Saint Germain,Premier League (England),€573K,€31K,67.0,56.5,56.0,44.4,64,CAM,169cm,Right
+435473,Alexander,41,North Macedonia,"Pearson, Rivas and Taylor",Premier League (England),€568K,€31K,54.3,66.9,47.6,28.3,64,RB,179cm,Right
+984574,J. Lee,45,Australia,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€567K,€31K,61.7,59.3,45.0,65.2,64,RW,176cm,Left
+714543,S. Conner,33,Guadeloupe,FC Bayern München,Premier League (England),€564K,€31K,30.0,49.9,68.4,18.2,64,CF,164cm,Left
+370671,Nicholas Glass,30,Venezuela,Sandoval Ltd,Premier League (England),€563K,€31K,61.7,8.7,11.3,64.6,64,CB,163cm,Left
+313394,John Mccarty,50,Australia,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€563K,€31K,27.3,57.9,66.6,51.8,64,LW,184cm,Right
+551024,S. Krause,26,Azerbaijan,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€571K,€31K,39.3,38.9,72.4,36.0,64,RWB,194cm,Left
+477331,W. Martin,24,North Macedonia,"Smith, Beasley and Cox",Premier League (England),€560K,€31K,33.0,65.3,56.7,60.0,64,CAM,207cm,Left
+280814,J. Garcia,35,Brunei Darussalam,Wallace LLC,Premier League (England),€560K,€32K,67.9,52.5,28.0,40.6,64,RW,162cm,Left
+35055,James Jr.,31,North Macedonia,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€558K,€30K,29.3,51.5,49.1,68.5,64,CDM,158cm,Left
+158017,Nelson,33,Venezuela,Foster-Miller,Fox LLC (United States Virgin Islands),€555K,€31K,14.1,7.1,70.9,44.9,64,ST,154cm,Right
+600774,Francisco Jr.,35,Dominica,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€561K,€30K,60.3,55.2,34.8,65.8,64,CB,154cm,Right
+297829,D. Ramirez,34,Cameroon,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€557K,€31K,17.0,49.0,58.3,66.1,64,CDM,188cm,Left
+633754,Haynes,26,Congo,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€550K,€30K,48.3,64.4,63.7,28.3,64,LM,161cm,Left
+691363,K. Clark,26,North Macedonia,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€549K,€30K,65.5,57.5,24.3,56.2,64,RM,180cm,Left
+216449,Wayne Jr.,48,Brunei Darussalam,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€559K,€30K,72.7,38.5,21.4,38.0,64,CB,166cm,Left
+355774,C. Schroeder,27,Venezuela,"Brown, Mcintosh and Jones",Premier League (England),€554K,€30K,65.1,24.4,59.9,38.6,64,LB,191cm,Left
+839117,Barry Ward,29,Brunei Darussalam,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€545K,€30K,63.7,60.8,37.6,63.3,64,RW,207cm,Left
+601580,Robert Mercado,21,Dominica,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€544K,€30K,63.9,64.2,53.2,60.3,64,CAM,171cm,Right
+77362,J. Richardson,21,Venezuela,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€552K,€29K,66.3,56.1,33.9,22.1,64,CDM,180cm,Right
+880224,J. Anderson,24,Brunei Darussalam,FC Barcelona,Graham-Harper (Namibia),€547K,€30K,41.3,49.8,42.6,69.1,64,CDM,165cm,Left
+53035,J. Allen,35,Brunei Darussalam,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€546K,€29K,38.6,25.0,30.8,72.5,64,RW,170cm,Right
+884890,Robert Jr.,32,Brunei Darussalam,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€535K,€29K,62.8,51.6,63.7,36.4,63,CDM,195cm,Right
+336063,J. Bennett,24,Cameroon,Hernandez-Patterson,Premier League (England),€540K,€29K,56.4,65.4,55.2,55.7,63,RM,200cm,Left
+123083,M. Kelley,23,Azerbaijan,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€540K,€30K,49.8,53.0,66.6,42.0,63,LW,190cm,Left
+819476,T. Sloan,21,Venezuela,"Pearson, Rivas and Taylor",Premier League (England),€528K,€28K,63.4,60.5,22.9,49.3,63,CAM,155cm,Left
+827762,James Jr.,21,United States Virgin Islands,Young-Smith,Hawkins Ltd (Guadeloupe),€524K,€29K,42.3,60.2,42.0,63.9,63,CB,161cm,Right
+303785,H. Ford,33,North Macedonia,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€533K,€29K,51.2,57.7,64.6,35.9,63,LB,158cm,Right
+951097,J. Andersen,27,North Macedonia,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€534K,€29K,55.2,20.6,65.5,46.2,63,RW,156cm,Right
+230224,Eric Cameron,30,Venezuela,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€522K,€28K,52.7,18.3,66.3,26.5,63,ST,156cm,Right
+992131,B. Wells,16,Dominica,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€523K,€28K,51.2,55.9,27.3,65.1,63,RM,197cm,Right
+74961,N. Mccarthy,26,Azerbaijan,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€524K,€28K,38.0,71.0,20.3,39.7,63,CB,150cm,Right
+451849,Alejandro Jr.,31,Venezuela,"Evans, Webster and Young",Graham-Harper (Namibia),€518K,€28K,61.9,30.9,63.2,17.8,63,LB,184cm,Left
+337205,S. Carter,26,Brunei Darussalam,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€500K,€28K,29.9,56.3,65.6,47.0,63,LB,195cm,Right
+894437,J. Rodriguez,20,Cameroon,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€535K,€28K,53.8,65.5,21.6,46.8,63,CAM,201cm,Left
+697854,K. Thomas,30,Dominica,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€504K,€28K,69.1,24.1,28.5,45.9,63,CB,208cm,Left
+173618,Z. Ray,21,North Macedonia,Hernandez-Patterson,Premier League (England),€506K,€28K,56.6,63.0,59.0,63.4,63,RM,183cm,Right
+812626,David Jr.,24,Dominica,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€506K,€28K,39.0,50.8,54.4,66.1,63,RM,166cm,Left
+427701,K. Golden,28,Guadeloupe,Wallace LLC,Premier League (England),€495K,€27K,57.9,64.7,33.0,40.7,63,RB,154cm,Left
+239386,W. Nash,34,Cameroon,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€495K,€27K,64.6,46.3,55.1,59.9,63,RWB,163cm,Right
+378857,M. Guerra,29,Namibia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€496K,€27K,50.0,40.3,67.9,34.6,63,RW,165cm,Right
+255989,R. Greene,31,United States Virgin Islands,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€492K,€28K,34.4,65.7,43.0,54.4,63,RB,196cm,Right
+845890,Wolfe,23,United States Virgin Islands,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€500K,€27K,59.2,59.6,63.9,59.4,63,RB,160cm,Right
+584146,B. Zamora,34,Brunei Darussalam,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€491K,€27K,7.1,48.3,67.3,41.3,63,LWB,202cm,Right
+100970,J. Smith,26,Congo,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€492K,€26K,58.3,64.7,36.4,36.9,63,CAM,172cm,Left
+109169,Robert Jr.,52,North Macedonia,"Pearson, Rivas and Taylor",Premier League (England),€485K,€26K,45.9,34.9,66.9,51.2,63,RWB,171cm,Right
+68231,William Jr.,31,Namibia,"Smith, Beasley and Cox",Premier League (England),€489K,€26K,46.5,67.9,44.0,49.3,63,LM,186cm,Left
+543400,C. Garcia,21,Congo,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€493K,€26K,40.3,57.7,57.6,64.4,63,GK,210cm,Left
+355114,C. Rice,34,Namibia,Black Group,Premier League (England),€488K,€26K,50.9,66.7,13.0,29.6,63,RW,151cm,Left
+977827,T. Clark,29,United States Virgin Islands,Foster-Miller,Fox LLC (United States Virgin Islands),€479K,€26K,45.2,21.0,64.7,56.0,63,RW,176cm,Right
+347197,Sanchez,29,Venezuela,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€479K,€27K,63.4,63.3,46.2,62.4,63,RW,208cm,Left
+715871,Richard Jr.,24,United States Virgin Islands,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€481K,€26K,22.6,41.9,57.1,65.1,63,CF,210cm,Right
+249199,P. Berry,18,Dominica,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€488K,€26K,65.3,56.2,36.0,30.1,63,RB,201cm,Left
+339474,Flores,26,Australia,"Smith, Beasley and Cox",Premier League (England),€471K,€26K,58.5,51.1,64.5,24.3,63,ST,206cm,Left
+454257,Jonathan Olson,20,Namibia,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€479K,€25K,25.5,31.7,55.6,65.3,63,CM,160cm,Right
+200326,T. Hanson,21,Namibia,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€471K,€26K,64.2,52.0,22.6,57.6,63,RM,204cm,Left
+945907,C. Schneider,20,Cameroon,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€473K,€26K,62.1,51.5,63.5,41.8,63,LB,166cm,Right
+470898,S. Sims,25,Namibia,Lewis LLC,Premier League (England),€476K,€25K,40.0,71.0,37.2,39.5,63,CB,160cm,Right
+442381,A. Bennett,40,Australia,FC Barcelona,Graham-Harper (Namibia),€462K,€25K,21.6,16.7,64.5,53.0,62,CM,157cm,Right
+172056,Brian Jr.,42,Australia,Paris Saint Germain,Premier League (England),€462K,€25K,51.3,19.6,66.0,22.2,62,LB,180cm,Left
+442613,Drew Jr.,21,Australia,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€464K,€25K,36.3,58.2,63.4,35.2,62,LM,156cm,Left
+287196,D. Wong,33,Namibia,"Evans, Webster and Young",Graham-Harper (Namibia),€460K,€24K,53.8,58.6,21.3,62.5,62,CAM,177cm,Left
+532996,C. Paul,27,North Macedonia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€460K,€26K,68.0,22.5,43.3,34.4,62,LB,164cm,Left
+401948,Bryant,28,Cameroon,Munoz-Harris,Fox LLC (United States Virgin Islands),€461K,€24K,14.4,31.1,65.6,51.1,62,CF,203cm,Right
+500263,A. Petty,34,United States Virgin Islands,Mills Ltd,Graham-Harper (Namibia),€470K,€24K,64.0,57.1,25.1,42.5,62,CAM,206cm,Left
+721883,J. Mcdonald,35,Namibia,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€455K,€24K,63.3,58.9,58.6,48.1,62,LM,172cm,Left
+295980,Harding,53,Dominica,Mills Ltd,Graham-Harper (Namibia),€460K,€24K,36.1,65.8,33.4,52.3,62,RB,192cm,Right
+66693,A. Jenkins,33,Congo,Black Group,Premier League (England),€457K,€24K,51.2,48.3,24.8,65.9,62,RM,155cm,Left
+329069,J. Riggs,25,United States Virgin Islands,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€458K,€24K,46.2,36.1,62.9,58.9,62,CM,198cm,Right
+173453,B. Carter,29,Congo,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€452K,€24K,63.9,24.0,18.6,58.2,62,CB,190cm,Left
+910764,M. Rogers,28,Brunei Darussalam,Hanson Inc,Thompson and Sons (Brunei Darussalam),€446K,€23K,43.2,46.2,66.6,43.3,62,RWB,173cm,Left
+820666,D. Marquez,15,Azerbaijan,"Smith, Beasley and Cox",Premier League (England),€456K,€23K,33.4,65.9,51.8,45.8,62,CDM,174cm,Right
+378316,S. Greene,24,North Macedonia,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€453K,€23K,50.4,65.2,32.9,44.4,62,RB,176cm,Right
+493031,Torres,34,North Macedonia,Young-Smith,Hawkins Ltd (Guadeloupe),€436K,€22K,68.6,43.7,37.8,32.4,62,RW,208cm,Left
+263656,Brown,31,Dominica,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€445K,€23K,55.7,38.0,46.6,64.3,62,CM,193cm,Right
+50758,Douglas Wilson,35,Australia,Munoz-Harris,Fox LLC (United States Virgin Islands),€444K,€22K,62.5,53.2,62.2,58.2,62,RWB,207cm,Right
+657120,Flores,35,Azerbaijan,Mason-Smith,Premier League (England),€438K,€23K,16.0,64.2,53.8,41.1,62,LW,180cm,Left
+575234,Jonathan Jr.,25,Congo,Liverpool,Premier League (England),€425K,€22K,46.4,37.3,67.7,21.5,62,RWB,194cm,Left
+878417,C. Edwards,22,Brunei Darussalam,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€422K,€23K,20.6,48.8,65.1,51.1,62,GK,179cm,Left
+984945,J. Rodriguez,15,Guadeloupe,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€435K,€22K,38.7,42.0,57.4,63.8,62,ST,190cm,Right
+247743,Jesse Jr.,43,Namibia,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€427K,€22K,52.8,23.9,64.9,50.3,62,RWB,191cm,Right
+378934,K. Blanchard,44,United States Virgin Islands,"Bennett, Welch and Brown",Premier League (England),€417K,€21K,52.7,64.9,52.7,24.5,62,CDM,210cm,Right
+993419,C. Liu,32,Brunei Darussalam,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€414K,€21K,40.5,61.9,61.2,54.8,62,CF,171cm,Right
+641186,J. Larson,45,Congo,"Kline, Vance and Paul",Pitts LLC (Congo),€427K,€22K,10.6,55.6,61.0,61.8,62,GK,178cm,Left
+501972,G. Navarro,32,Australia,"Bennett, Welch and Brown",Premier League (England),€412K,€21K,54.7,12.5,47.1,63.8,62,CM,204cm,Right
+51664,Terry Stevens,35,Venezuela,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€406K,€21K,58.3,36.5,55.6,63.3,62,RWB,150cm,Right
+60040,J. Scott,34,United States Virgin Islands,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€404K,€21K,35.6,59.8,62.6,35.9,62,RB,193cm,Right
+43730,M. Garcia,26,Venezuela,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€406K,€21K,40.2,32.8,66.1,50.2,62,LB,157cm,Right
+649989,William Martin,26,Namibia,Wallace LLC,Premier League (England),€410K,€21K,40.7,47.9,66.6,35.6,62,CF,160cm,Left
+101396,J. Grimes,22,Australia,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€398K,€21K,39.4,66.7,39.1,49.4,62,CAM,170cm,Left
+404559,Ayers,24,Dominica,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€400K,€21K,68.0,33.4,27.6,45.6,62,CAM,187cm,Right
+781557,Harry Wyatt,22,North Macedonia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€400K,€21K,20.9,46.2,62.3,62.4,62,RW,205cm,Right
+576761,M. Anderson,48,Guadeloupe,FC Barcelona,Graham-Harper (Namibia),€398K,€21K,59.5,50.4,63.1,43.1,62,RWB,157cm,Left
+200106,B. Taylor,27,Cameroon,Munoz-Harris,Fox LLC (United States Virgin Islands),€395K,€22K,52.7,65.3,45.2,17.3,62,LM,156cm,Left
+585437,Jason Potter,25,Brunei Darussalam,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€401K,€20K,58.3,38.2,62.6,28.1,62,LB,204cm,Left
+610160,M. Rodriguez,32,Congo,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€395K,€20K,54.1,39.7,16.0,65.1,62,CM,154cm,Left
+692104,John Owens,24,Azerbaijan,Black Group,Premier League (England),€393K,€20K,35.9,60.2,62.1,23.8,62,LB,204cm,Right
+975018,J. Miller,27,Dominica,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€393K,€19K,62.1,59.2,26.6,58.3,61,RB,152cm,Left
+65907,W. Coleman,35,Australia,FC Bayern München,Premier League (England),€389K,€20K,64.5,51.6,48.4,47.6,61,CDM,175cm,Right
+49641,Cohen,28,Australia,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€389K,€20K,44.8,48.2,56.3,62.9,61,CF,181cm,Right
+180859,A. Santiago,28,United States Virgin Islands,Paris Saint Germain,Premier League (England),€396K,€20K,47.2,38.8,66.1,29.3,61,RWB,181cm,Left
+975498,M. Wheeler,35,Dominica,"Kline, Vance and Paul",Pitts LLC (Congo),€386K,€19K,47.1,61.5,12.3,58.0,61,RW,168cm,Left
+566459,J. Fowler,32,Venezuela,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€383K,€19K,46.9,42.2,65.2,34.5,61,RWB,186cm,Right
+460230,C. Harper,23,Guadeloupe,"Kline, Vance and Paul",Pitts LLC (Congo),€383K,€19K,51.4,63.8,53.7,24.8,61,RB,175cm,Right
+869853,J. Lynch,22,Australia,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€388K,€19K,62.5,30.0,41.6,58.3,61,CB,150cm,Left
+640741,S. Jones,20,United States Virgin Islands,Hernandez-Patterson,Premier League (England),€382K,€19K,28.8,37.9,69.0,35.4,61,LWB,162cm,Right
+911252,B. Hill,26,Guadeloupe,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€377K,€19K,45.7,36.5,57.8,61.6,61,ST,159cm,Right
+485535,W. Ramirez,27,Cameroon,Taylor-Jones,Hawkins Ltd (Guadeloupe),€392K,€19K,64.3,49.9,29.3,41.0,61,LM,185cm,Right
+444625,C. Cooper,31,Cameroon,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€379K,€19K,15.6,24.3,61.8,57.6,61,LWB,175cm,Right
+461068,E. Anderson,35,North Macedonia,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€377K,€18K,39.3,62.2,32.5,56.9,61,RM,193cm,Right
+387365,T. Fletcher,39,North Macedonia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€374K,€19K,35.7,66.7,34.6,45.4,61,RW,199cm,Left
+780647,A. Rowe,26,Cameroon,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€378K,€19K,43.3,13.5,41.5,67.3,61,RW,188cm,Right
+461376,Shea,30,Venezuela,Hernandez-Patterson,Premier League (England),€374K,€18K,45.8,55.8,62.6,39.3,61,CDM,183cm,Right
+543297,F. Adams,35,Dominica,Nelson-Freeman,Premier League (England),€368K,€18K,57.7,50.8,29.4,62.3,61,RW,207cm,Left
+158468,J. Miller,31,Guadeloupe,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€372K,€17K,13.6,61.8,58.1,58.9,61,LWB,154cm,Right
+813945,G. Torres,20,Guadeloupe,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€369K,€17K,10.7,61.5,49.4,59.2,61,CF,156cm,Right
+289662,Smith,29,Dominica,"Young, Moore and Richardson",Premier League (England),€370K,€18K,34.4,68.2,28.6,40.7,61,CDM,202cm,Right
+420868,C. Wright,27,Congo,Sandoval Ltd,Premier League (England),€371K,€17K,54.9,16.1,59.8,61.5,61,RW,209cm,Right
+633937,M. Brown,25,Cameroon,"Evans, Webster and Young",Graham-Harper (Namibia),€363K,€17K,66.7,43.3,44.9,20.2,61,CDM,190cm,Right
+757011,Arthur Crawford,20,Australia,Sandoval Ltd,Premier League (England),€364K,€17K,40.8,27.3,67.5,42.5,61,ST,196cm,Right
+929067,C. Hogan,30,Congo,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€361K,€17K,67.1,25.4,43.3,28.3,61,LB,199cm,Left
+642395,B. Curtis,32,Dominica,Paris Saint Germain,Premier League (England),€352K,€15K,38.6,35.6,65.6,46.2,61,LB,158cm,Right
+437867,K. Castillo,50,Congo,Hernandez-Patterson,Premier League (England),€352K,€16K,25.9,37.7,69.4,31.8,61,CF,178cm,Left
+216857,E. Campbell,30,Brunei Darussalam,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€353K,€16K,67.2,35.4,26.5,43.7,61,CB,186cm,Left
+167722,G. Grant,32,Guadeloupe,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€365K,€17K,62.9,47.3,34.9,55.6,61,CAM,162cm,Left
+499965,A. Cook,25,Azerbaijan,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€351K,€15K,49.9,25.6,62.8,39.3,60,RWB,163cm,Right
+123312,R. Alvarado,27,Venezuela,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€351K,€15K,61.3,55.5,47.4,44.8,60,RB,197cm,Left
+90612,G. Willis,48,Venezuela,Lewis LLC,Premier League (England),€355K,€15K,48.6,27.1,63.5,48.2,60,ST,184cm,Right
+189117,J. Mclean,23,Namibia,"Young, Moore and Richardson",Premier League (England),€348K,€15K,61.0,49.5,24.2,57.8,60,RW,164cm,Left
+140278,R. Welch,20,North Macedonia,FC Barcelona,Graham-Harper (Namibia),€347K,€14K,32.0,59.2,60.8,20.6,60,LW,200cm,Left
+934949,B. Willis,32,Congo,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€344K,€14K,13.9,54.1,62.4,31.0,60,LW,153cm,Left
+255223,Shawn Jacobs,29,Venezuela,Hernandez-Patterson,Premier League (England),€347K,€15K,35.3,52.2,62.9,13.7,60,LB,160cm,Right
+894205,Austin Jr.,23,Australia,Lewis LLC,Premier League (England),€346K,€16K,62.4,51.2,32.2,44.1,60,CAM,191cm,Left
+263452,C. Stuart,33,Congo,Hanson Inc,Thompson and Sons (Brunei Darussalam),€338K,€14K,64.4,26.9,15.3,47.4,60,CB,155cm,Left
+738660,R. Case,34,Namibia,Nelson-Freeman,Premier League (England),€337K,€14K,60.0,55.2,59.1,54.4,60,RWB,166cm,Right
+755096,K. Hogan,32,Namibia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€335K,€14K,49.3,60.5,27.3,59.0,60,CAM,175cm,Left
+443856,Timothy Thomas,30,Venezuela,Foster-Miller,Fox LLC (United States Virgin Islands),€349K,€14K,60.1,44.8,56.5,59.5,60,GK,182cm,Right
+476670,Sanders,49,Venezuela,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€330K,€13K,28.8,44.7,65.5,34.3,60,LWB,168cm,Right
+575150,W. Miller,34,Brunei Darussalam,"Young, Moore and Richardson",Premier League (England),€337K,€13K,55.9,21.9,61.2,31.4,60,ST,160cm,Left
+878605,E. Cook,21,Dominica,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€333K,€13K,34.5,22.7,68.1,13.9,60,LB,171cm,Right
+452684,Jordan Jr.,29,Namibia,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€328K,€13K,62.5,23.9,47.6,51.4,60,LB,175cm,Left
+878720,M. Hernandez,30,Congo,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€325K,€13K,58.7,50.2,60.3,49.7,60,RWB,204cm,Left
+92318,Martinez,22,Azerbaijan,"Young, Moore and Richardson",Premier League (England),€320K,€13K,62.0,43.8,55.5,23.4,60,ST,184cm,Left
+575740,William Barnes,31,Azerbaijan,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€329K,€13K,56.4,32.0,51.3,60.8,60,CM,193cm,Right
+625242,D. Newman,31,Cameroon,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€324K,€13K,47.1,64.1,27.2,46.1,60,CAM,201cm,Right
+797470,M. Thompson,32,Dominica,"Kline, Vance and Paul",Pitts LLC (Congo),€324K,€13K,26.4,38.6,67.8,19.2,60,CF,193cm,Left
+797533,A. Allen,22,Dominica,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€312K,€12K,37.2,58.0,22.3,60.7,60,RW,182cm,Left
+191631,Jeffrey Jones,31,Venezuela,Nelson-Freeman,Premier League (England),€318K,€12K,19.9,35.4,68.1,27.1,60,LWB,168cm,Right
+445709,Christopher Rhodes,31,Namibia,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€311K,€13K,60.7,58.9,59.6,34.6,60,RB,184cm,Right
+666938,J. Taylor,18,Australia,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€303K,€12K,20.1,35.8,68.7,14.8,60,CF,201cm,Left
+814413,Justin Castro,35,Guadeloupe,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€306K,€13K,40.3,61.2,56.1,31.9,60,CDM,174cm,Right
+200143,Kyle Clay,25,Azerbaijan,Young-Smith,Hawkins Ltd (Guadeloupe),€311K,€12K,34.6,59.1,60.2,27.8,60,RB,188cm,Right
+831305,C. Fowler,21,Australia,Foster-Miller,Fox LLC (United States Virgin Islands),€304K,€12K,31.0,61.8,27.8,56.2,60,CB,179cm,Right
+782171,D. Gonzalez,20,United States Virgin Islands,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€298K,€12K,48.5,62.3,27.8,53.1,60,CAM,187cm,Left
+937920,Stevenson,21,Venezuela,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€301K,€12K,52.4,53.2,29.2,62.9,60,RM,151cm,Right
+434308,J. Li,34,Guadeloupe,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€312K,€12K,32.5,62.4,30.6,49.4,59,CDM,207cm,Right
+802985,M. Johnston,21,Venezuela,"Pearson, Rivas and Taylor",Premier League (England),€302K,€12K,49.6,23.8,34.3,62.8,59,CB,194cm,Left
+360696,M. Black,28,Cameroon,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€295K,€11K,62.5,48.0,18.4,36.1,59,RW,171cm,Left
+459011,A. Cook,30,United States Virgin Islands,FC Barcelona,Graham-Harper (Namibia),€293K,€11K,57.8,60.0,55.9,33.5,59,RB,150cm,Right
+131504,J. Nichols,33,North Macedonia,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€296K,€12K,25.0,59.4,49.6,57.9,59,CF,152cm,Right
+221738,Chavez,22,North Macedonia,Taylor-Jones,Hawkins Ltd (Guadeloupe),€298K,€12K,51.0,61.2,52.0,41.0,59,RW,161cm,Left
+82562,D. Mcguire,33,Dominica,"Evans, Webster and Young",Graham-Harper (Namibia),€287K,€11K,53.0,54.3,50.5,60.2,59,RB,183cm,Right
+991943,M. Moses,32,Azerbaijan,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€287K,€11K,52.5,18.9,50.5,60.9,59,RW,170cm,Right
+66381,Todd Jordan,28,Dominica,Hernandez-Patterson,Premier League (England),€288K,€11K,39.3,37.8,63.9,43.2,59,RWB,167cm,Right
+156512,Corey Jr.,33,United States Virgin Islands,Nelson-Freeman,Premier League (England),€291K,€11K,61.2,50.8,38.8,48.9,59,RB,152cm,Left
+205936,Mike Jr.,28,Australia,"Brown, Mcintosh and Jones",Premier League (England),€295K,€11K,36.8,56.5,60.3,21.7,59,CDM,160cm,Right
+844960,J. Hanson,28,United States Virgin Islands,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€287K,€11K,56.1,40.0,32.4,59.6,59,RM,152cm,Left
+836958,N. Vance,23,Venezuela,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€282K,€11K,57.2,58.4,15.9,59.0,59,CM,182cm,Left
+984451,T. Diaz,20,Congo,Lewis LLC,Premier League (England),€282K,€11K,29.9,57.2,59.2,32.3,59,LB,168cm,Right
+927261,Rice,29,Australia,Wallace LLC,Premier League (England),€277K,€10K,34.8,30.9,62.5,48.9,59,RWB,163cm,Left
+18075,K. Lewis,35,Brunei Darussalam,Sandoval Ltd,Premier League (England),€277K,€10K,59.1,57.2,25.8,26.7,59,RB,188cm,Right
+9890,T. Foster,30,Venezuela,Mills Ltd,Graham-Harper (Namibia),€276K,€11K,42.2,39.2,61.1,50.8,59,RWB,177cm,Left
+903107,W. Perkins,33,Brunei Darussalam,"Brown, Mcintosh and Jones",Premier League (England),€275K,€10K,14.9,60.4,54.3,30.0,59,LW,164cm,Left
+436220,J. Rodriguez,24,Azerbaijan,"Young, Moore and Richardson",Premier League (England),€264K,€10K,40.9,24.7,64.6,32.5,59,ST,154cm,Left
+280732,Thomas Powell,23,North Macedonia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€271K,€11K,59.7,44.9,40.5,58.6,59,CAM,160cm,Right
+919784,J. Smith,33,North Macedonia,Black Group,Premier League (England),€264K,€9K,63.0,25.7,46.8,34.2,59,LB,193cm,Left
+280823,M. Taylor,21,United States Virgin Islands,Wallace LLC,Premier League (England),€278K,€10K,33.2,66.6,35.0,14.8,59,CDM,193cm,Right
+322117,T. Coleman,44,Namibia,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€256K,€9K,24.6,61.4,35.7,52.9,59,LWB,202cm,Left
+133824,A. Williams,34,Cameroon,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€254K,€9K,60.5,53.1,46.4,49.7,59,LB,159cm,Right
+330534,W. Wright,22,Congo,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€263K,€10K,60.8,53.9,27.5,46.9,59,CAM,170cm,Right
+707655,D. Castillo,22,North Macedonia,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€262K,€9K,45.0,33.1,63.2,16.0,59,CF,182cm,Left
+44174,John Hobbs,24,Guadeloupe,FC Bayern München,Premier League (England),€262K,€9K,51.5,38.2,42.2,61.2,59,CM,205cm,Right
+380066,Mitchell Garcia,21,Australia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€250K,€9K,58.9,19.8,56.2,57.8,59,ST,187cm,Left
+978129,John Jr.,24,Azerbaijan,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€251K,€9K,39.7,61.8,14.4,49.9,59,RW,193cm,Left
+863794,E. Mendoza,26,Dominica,Taylor-Jones,Hawkins Ltd (Guadeloupe),€250K,€9K,56.6,29.6,59.3,35.0,59,ST,164cm,Left
+290362,B. Cook,22,United States Virgin Islands,"Smith, Beasley and Cox",Premier League (England),€244K,€8K,32.8,67.9,33.5,26.5,59,RW,181cm,Left
+110488,Alexander Holloway,22,Venezuela,"Kline, Vance and Paul",Pitts LLC (Congo),€253K,€8K,23.1,43.0,31.9,63.8,59,RW,200cm,Right
+352316,J. Martinez,26,Dominica,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€244K,€8K,31.2,52.5,51.9,60.3,58,LWB,194cm,Right
+98573,Robert Turner,44,North Macedonia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€243K,€8K,34.3,51.4,60.0,52.3,58,RB,191cm,Right
+754061,Scott Chavez,21,Cameroon,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€240K,€8K,58.0,27.6,41.7,58.5,58,CB,160cm,Left
+33182,Alexander Lin,34,Namibia,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€241K,€8K,37.6,40.4,57.8,58.7,58,ST,193cm,Right
+164271,James Doyle,28,Cameroon,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€236K,€8K,39.3,29.9,64.9,37.3,58,RWB,187cm,Right
+655816,G. Smith,28,Namibia,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€243K,€8K,60.4,35.0,51.7,20.3,58,LB,188cm,Right
+565920,L. Martinez,20,Dominica,"Pearson, Rivas and Taylor",Premier League (England),€228K,€8K,45.8,57.3,58.7,35.3,58,LB,169cm,Right
+17129,J. Flores,29,United States Virgin Islands,"Young, Moore and Richardson",Premier League (England),€234K,€8K,57.0,57.9,37.2,30.6,58,CDM,167cm,Right
+377594,Hess,24,Venezuela,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€231K,€8K,22.3,60.0,32.7,51.1,58,CDM,193cm,Left
+549668,J. Martinez,29,Namibia,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€226K,€7K,39.9,51.0,60.3,46.3,58,LB,210cm,Left
+58161,Derrick Welch,30,Namibia,FC Barcelona,Graham-Harper (Namibia),€223K,€7K,48.3,12.2,61.4,27.1,58,ST,163cm,Right
+852977,J. Kennedy,25,North Macedonia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€225K,€7K,59.9,49.1,38.8,51.9,58,LB,162cm,Left
+844894,T. Young,15,Guadeloupe,Hanson Inc,Thompson and Sons (Brunei Darussalam),€222K,€8K,40.6,60.1,52.5,22.3,58,LWB,175cm,Right
+902575,A. Duran,22,Guadeloupe,Mason-Smith,Premier League (England),€225K,€7K,57.8,45.0,57.4,26.4,58,RWB,194cm,Left
+755322,C. Blair,25,Congo,Sandoval Ltd,Premier League (England),€219K,€7K,15.3,60.8,44.9,50.7,58,LWB,185cm,Right
+34614,D. Bell,27,Australia,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€225K,€7K,63.7,40.4,17.8,42.4,58,CB,199cm,Left
+141112,C. Cervantes,33,North Macedonia,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€219K,€7K,58.6,47.2,57.1,44.3,58,CAM,162cm,Right
+632720,N. Johnson,26,Congo,"Bennett, Welch and Brown",Premier League (England),€217K,€6K,46.2,32.3,54.8,58.5,58,CM,156cm,Right
+518308,Nguyen,23,Australia,Mills Ltd,Graham-Harper (Namibia),€208K,€6K,61.0,50.1,28.3,44.7,58,CAM,203cm,Left
+624843,Alec Jr.,27,Guadeloupe,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€210K,€6K,43.5,20.1,62.6,40.2,58,LB,190cm,Left
+190908,R. Patterson,28,North Macedonia,Valdez-Jackson,Pitts LLC (Congo),€208K,€6K,39.7,41.4,62.9,44.1,58,RWB,188cm,Right
+281064,Pitts,25,Namibia,"Evans, Webster and Young",Graham-Harper (Namibia),€207K,€7K,58.8,9.3,51.6,55.1,58,RW,158cm,Right
+846481,Howard,32,Venezuela,Munoz-Harris,Fox LLC (United States Virgin Islands),€194K,€6K,54.8,59.3,54.0,46.0,58,CAM,189cm,Left
+797350,J. Delacruz,29,United States Virgin Islands,King-Ramirez,Alvarez-Flores (Brunei Darussalam),€203K,€6K,65.3,21.8,38.1,37.9,58,LB,195cm,Left
+847039,M. Hanson,32,Brunei Darussalam,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€200K,€6K,50.5,59.7,51.3,37.3,58,LB,160cm,Right
+355803,J. Boyd,23,Guadeloupe,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€219K,€6K,32.0,54.8,55.8,59.3,58,LW,171cm,Right
+508339,D. Coleman,32,Venezuela,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€192K,€5K,44.3,30.4,60.6,28.2,57,ST,165cm,Left
+16902,D. Baker,29,Brunei Darussalam,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€207K,€5K,56.9,55.4,47.6,23.6,57,ST,160cm,Left
+33377,Marc Jr.,34,Namibia,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€187K,€5K,48.4,41.0,36.4,59.2,57,RW,152cm,Right
+959352,D. Rosario,21,Guadeloupe,Foster-Miller,Fox LLC (United States Virgin Islands),€194K,€5K,36.5,59.7,49.9,25.5,57,RB,190cm,Right
+66432,A. Coleman,35,Brunei Darussalam,"Kline, Vance and Paul",Pitts LLC (Congo),€186K,€5K,59.0,22.6,52.2,42.7,57,LB,160cm,Right
+140286,Jacob Jr.,20,Congo,Wallace LLC,Premier League (England),€179K,€4K,7.2,30.9,65.6,33.0,57,CF,152cm,Left
+508960,M. Williams,26,Dominica,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€188K,€5K,57.2,57.4,43.1,46.8,57,LM,151cm,Left
+353396,J. Richards,23,United States Virgin Islands,Lewis LLC,Premier League (England),€179K,€6K,14.3,30.9,64.3,36.2,57,CF,157cm,Left
+714190,R. Quinn,25,Guadeloupe,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€173K,€4K,48.0,60.3,25.4,45.3,57,CB,199cm,Right
+157316,M. Jackson,24,Guadeloupe,Taylor-Jones,Hawkins Ltd (Guadeloupe),€177K,€4K,14.6,41.6,59.2,51.9,57,CF,180cm,Left
+739046,James Jr.,24,Venezuela,"Bennett, Welch and Brown",Premier League (England),€174K,€5K,46.2,57.2,55.8,43.5,57,CF,194cm,Left
+419663,Michael Jr.,42,Azerbaijan,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€176K,€4K,53.5,57.5,55.3,45.7,57,CAM,165cm,Left
+567217,Russell,22,Australia,Paris Saint Germain,Premier League (England),€173K,€3K,57.3,57.0,29.6,33.0,57,RB,188cm,Left
+501726,B. Butler,32,Brunei Darussalam,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€186K,€3K,46.6,18.2,60.0,14.0,57,LB,160cm,Left
+772173,Daniel Miller,24,Venezuela,FC Bayern München,Premier League (England),€172K,€3K,60.8,47.4,37.3,33.6,57,CDM,187cm,Right
+936306,J. Anderson,34,Congo,"Pearson, Rivas and Taylor",Premier League (England),€172K,€3K,21.1,55.0,57.8,55.4,57,CDM,170cm,Left
+543214,M. Davis,42,Namibia,"Kline, Vance and Paul",Pitts LLC (Congo),€172K,€3K,32.1,33.4,40.1,62.8,57,RW,176cm,Right
+608793,A. Brown,32,Brunei Darussalam,Munoz-Harris,Fox LLC (United States Virgin Islands),€169K,€2K,35.9,53.4,57.9,42.7,57,CF,182cm,Left
+830143,M. Harding,28,Dominica,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€165K,€4K,24.7,48.6,58.6,52.8,57,LW,182cm,Left
+322927,R. Powell,33,United States Virgin Islands,Paris Saint Germain,Premier League (England),€168K,€2K,55.4,57.2,21.1,39.0,57,CB,180cm,Right
+757166,S. Jensen,26,United States Virgin Islands,Sandoval Ltd,Premier League (England),€158K,€2K,47.2,58.6,53.4,19.2,57,CDM,179cm,Right
+192018,P. Torres,55,Namibia,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€161K,€2K,44.3,42.2,56.3,56.9,57,CDM,172cm,Left
+77354,J. Barnett,35,Guadeloupe,Young-Smith,Hawkins Ltd (Guadeloupe),€161K,€2K,9.0,34.6,46.1,60.1,57,LWB,180cm,Right
+3884,Michael Jr.,20,Dominica,Young-Smith,Hawkins Ltd (Guadeloupe),€171K,€2K,36.2,45.9,60.6,37.2,57,ST,196cm,Right
+516375,R. Chambers,28,Azerbaijan,Foster-Miller,Fox LLC (United States Virgin Islands),€156K,€2K,53.0,27.5,56.7,50.6,56,LB,190cm,Left
+262736,M. Holder,28,North Macedonia,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€153K,€2K,22.2,58.9,23.6,45.9,56,LWB,191cm,Left
+615337,G. Harris,32,Congo,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€157K,€1K,57.1,51.4,49.2,31.4,56,RWB,166cm,Left
+238513,T. Stevens,41,Guadeloupe,FC Barcelona,Graham-Harper (Namibia),€152K,€2K,36.5,53.8,56.3,53.2,56,LM,151cm,Left
+33845,S. Gonzalez,28,Azerbaijan,FC Bayern München,Premier League (England),€151K,€2K,36.4,51.3,57.4,21.2,56,RWB,182cm,Left
+66677,M. Smith,32,Azerbaijan,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€147K,€1K,28.9,31.9,53.1,56.4,56,RWB,179cm,Left
+75100,H. Williams,21,North Macedonia,"Kline, Vance and Paul",Pitts LLC (Congo),€142K,€1K,43.1,52.8,56.1,55.2,56,CB,190cm,Right
+870059,K. Joseph,28,Congo,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€156K,€1K,31.6,59.1,40.1,48.3,56,CDM,173cm,Left
+837328,R. Martinez,31,Australia,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€138K,€0,36.8,46.7,55.9,55.0,56,LW,188cm,Left
+198438,R. Rowe,55,United States Virgin Islands,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€135K,€0,56.6,54.2,41.7,32.6,56,RW,173cm,Left
+141118,C. Jones,34,Guadeloupe,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€134K,€0,36.3,61.0,40.8,28.0,56,LWB,156cm,Left
+51115,J. Chavez,28,Azerbaijan,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€143K,€0,44.7,59.7,40.3,30.6,56,LWB,192cm,Left
+280528,Michael Jr.,35,Australia,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€131K,€0,26.3,56.7,49.1,53.4,56,CF,195cm,Right
+10370,C. Leon,33,Australia,Lewis LLC,Premier League (England),€133K,€0,35.2,34.5,30.8,62.7,56,RM,176cm,Left
+960766,H. Farmer,43,United States Virgin Islands,Nelson-Freeman,Premier League (England),€130K,€0,45.2,36.2,59.6,33.6,56,LB,160cm,Left
+928172,N. Martin,27,Guadeloupe,Wallace LLC,Premier League (England),€140K,€1K,56.4,32.8,44.0,52.8,56,CM,207cm,Left
+420389,E. Baker,25,Cameroon,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€127K,€0,56.9,54.2,48.3,51.7,56,CM,159cm,Left
+936875,Larson,22,United States Virgin Islands,Hernandez-Patterson,Premier League (England),€129K,€0,57.3,40.5,50.7,45.3,56,LB,163cm,Left
+396381,Nelson,29,Namibia,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€127K,€0,39.7,32.1,58.6,47.4,56,LWB,169cm,Right
+339046,R. Hernandez,24,Namibia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€127K,€0,42.0,44.0,60.4,19.2,56,LB,177cm,Right
+257171,Charles Nelson,21,United States Virgin Islands,Mason-Smith,Premier League (England),€126K,€0,49.1,57.4,14.3,50.0,56,RW,172cm,Left
+298312,B. Mejia,22,Brunei Darussalam,Nelson-Freeman,Premier League (England),€124K,€0,33.2,63.6,27.9,33.2,56,CB,205cm,Right
+446058,Knight,26,Cameroon,Reed-Nichols,"Saunders, Dixon and Willis (North Macedonia)",€123K,€0,60.0,45.5,29.4,34.6,56,CDM,181cm,Right
+298822,B. Lee,22,Cameroon,FC Bayern München,Premier League (England),€124K,€0,25.1,29.6,54.6,55.9,56,ST,177cm,Right
+151406,D. Bautista,35,Cameroon,"Bennett, Welch and Brown",Premier League (England),€114K,€0,52.6,48.0,57.4,35.4,56,RWB,156cm,Left
+921546,Paul Jr.,32,Brunei Darussalam,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€119K,€0,54.0,56.9,54.1,26.1,56,CDM,180cm,Right
+475807,D. Howe,52,Dominica,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€118K,€0,38.3,47.2,57.6,34.4,55,ST,190cm,Left
+74517,A. Salazar,34,Dominica,Mills Ltd,Graham-Harper (Namibia),€130K,€0,57.2,44.3,28.9,47.0,55,CAM,165cm,Right
+959498,J. Jones,30,Guadeloupe,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€111K,€0,22.7,35.9,48.2,56.8,55,LWB,165cm,Right
+386364,S. Smith,23,United States Virgin Islands,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€123K,€0,35.8,41.8,49.4,57.2,55,CM,175cm,Right
+492946,R. Smith,20,Australia,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€112K,€0,32.2,54.2,55.6,27.9,55,LW,176cm,Left
+427565,S. Villa,23,Guadeloupe,"Kline, Vance and Paul",Pitts LLC (Congo),€113K,€0,20.4,47.8,34.0,56.9,55,CDM,167cm,Left
+870323,Benjamin Jr.,33,Namibia,Liverpool,Premier League (England),€108K,€0,53.0,55.7,10.6,49.0,55,CM,150cm,Left
+788564,J. Neal,30,Brunei Darussalam,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€107K,€0,41.3,42.9,55.2,54.9,55,RW,198cm,Right
+591987,J. Vasquez,32,Cameroon,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€111K,€0,55.5,55.2,33.6,38.0,55,RW,208cm,Left
+616779,A. Costa,29,Azerbaijan,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€107K,€0,41.9,31.9,59.5,40.9,55,CF,156cm,Left
+952656,R. Rocha,23,Dominica,"Brown, Mcintosh and Jones",Premier League (England),€106K,€0,55.9,32.9,50.9,21.2,55,ST,203cm,Left
+117093,G. Green,35,Venezuela,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€106K,€0,34.8,59.0,41.8,21.8,55,RWB,168cm,Left
+84418,E. Pierce,21,Brunei Darussalam,"Kline, Vance and Paul",Pitts LLC (Congo),€108K,€0,38.2,52.1,43.6,56.3,55,RM,178cm,Left
+428490,J. West,24,Azerbaijan,Nelson-Freeman,Premier League (England),€106K,€0,51.3,55.8,47.3,24.0,55,LM,205cm,Left
+174819,Williams,23,Venezuela,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€102K,€0,35.0,60.8,25.2,39.3,55,LWB,198cm,Left
+658261,J. Bell,32,Congo,Liverpool,Premier League (England),€103K,€0,20.0,16.9,58.2,45.7,55,RW,184cm,Right
+977997,Ian Jr.,55,Dominica,Nelson-Freeman,Premier League (England),€103K,€0,38.9,29.8,60.3,18.6,55,LB,182cm,Left
+806078,C. Bishop,31,Australia,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€104K,€0,40.3,55.5,52.1,42.8,55,LM,209cm,Left
+920827,D. Bates,35,Congo,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€90K,€0,35.9,57.9,41.5,44.6,55,LWB,201cm,Left
+470386,Luna,34,United States Virgin Islands,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€90K,€0,58.7,45.0,42.6,36.7,55,RB,195cm,Right
+994777,D. Miller,35,Dominica,Taylor-Jones,Hawkins Ltd (Guadeloupe),€96K,€0,27.9,55.3,37.4,55.5,55,CDM,160cm,Left
+323228,C. Medina,25,United States Virgin Islands,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€89K,€0,53.9,55.9,47.0,21.9,55,ST,185cm,Left
+847568,A. Ortiz,30,Dominica,Valdez-Jackson,Pitts LLC (Congo),€82K,€0,52.4,53.3,55.2,54.2,55,RM,181cm,Left
+782048,T. Johnson,28,Azerbaijan,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€89K,€0,41.3,53.8,44.7,56.0,55,CAM,152cm,Left
+311385,R. Smith,31,North Macedonia,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€79K,€0,50.4,55.2,35.0,50.2,54,CAM,185cm,Right
+450824,Brooks,21,Dominica,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€101K,€0,30.5,41.5,58.1,32.8,54,LW,157cm,Left
+229759,S. Berry,29,Australia,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€74K,€0,39.1,27.8,37.9,59.3,54,ST,209cm,Right
+959062,T. Hodge,25,North Macedonia,Mason-Smith,Premier League (England),€78K,€0,55.0,52.7,26.7,47.3,54,LM,195cm,Right
+352975,D. Fuller,34,Namibia,Mason-Smith,Premier League (England),€73K,€0,52.4,54.2,35.1,36.4,54,CAM,209cm,Left
+451387,J. Moon,33,Dominica,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€78K,€0,9.1,55.1,18.1,50.4,54,LWB,196cm,Left
+377702,K. Hanson,30,United States Virgin Islands,"Evans, Webster and Young",Graham-Harper (Namibia),€69K,€0,55.3,36.3,49.2,21.2,54,LB,201cm,Left
+476436,M. Morrison,25,Australia,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€71K,€0,51.1,54.8,46.3,35.2,54,RB,154cm,Left
+247351,J. Thompson,23,United States Virgin Islands,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€72K,€0,42.9,45.7,56.7,43.1,54,LB,182cm,Right
+247432,Jesse Dean,34,Namibia,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€74K,€0,51.0,44.2,38.5,54.5,54,RB,198cm,Right
+968721,Adam Garcia,26,United States Virgin Islands,Taylor-Jones,Hawkins Ltd (Guadeloupe),€58K,€0,55.0,52.0,27.5,26.5,54,RW,150cm,Left
+510242,G. Thomas,34,Venezuela,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€61K,€0,20.2,33.1,60.6,25.9,54,ST,151cm,Right
+313686,R. Kidd,20,Azerbaijan,Munoz-Harris,Fox LLC (United States Virgin Islands),€66K,€0,54.7,36.8,51.9,49.6,54,CAM,154cm,Right
+248162,D. Lawrence,52,North Macedonia,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€68K,€0,56.6,46.1,33.4,32.9,54,CAM,208cm,Left
+2554,Joshua Anderson,36,Congo,FC Bayern München,Premier League (England),€54K,€0,49.5,42.1,55.2,29.1,54,ST,157cm,Right
+133633,Rodriguez,35,Brunei Darussalam,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€59K,€0,58.0,33.3,26.6,40.5,54,CB,191cm,Left
+568122,M. Davis,30,Cameroon,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€57K,€0,12.4,52.3,35.6,55.1,54,LWB,207cm,Left
+781179,M. Bennett,25,Azerbaijan,Wallace LLC,Premier League (England),€56K,€0,13.1,46.2,55.0,50.1,54,GK,154cm,Left
+568304,W. Brooks,29,Namibia,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€47K,€0,58.7,27.7,27.8,41.3,54,CM,190cm,Left
+576754,A. Rhodes,33,Azerbaijan,Liverpool,Premier League (England),€48K,€0,35.8,58.7,39.0,29.8,54,LWB,182cm,Left
+675106,Samuel Wright,54,Cameroon,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€50K,€0,49.2,33.6,55.5,51.3,54,LB,179cm,Left
+397222,J. Sanchez,48,Dominica,"Evans, Webster and Young",Graham-Harper (Namibia),€49K,€0,54.3,51.4,34.7,28.8,54,RB,172cm,Right
+565301,Eddie Ballard,21,Dominica,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€42K,€0,32.9,47.1,55.3,43.3,53,RWB,156cm,Left
+327804,Thomas Hill,36,North Macedonia,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€41K,€0,16.1,27.8,53.1,51.4,53,CF,181cm,Right
+107448,S. Sanchez,21,Guadeloupe,"Smith, Beasley and Cox",Premier League (England),€39K,€0,38.7,50.0,36.5,54.2,53,RW,204cm,Left
+796073,S. Hayden,27,Brunei Darussalam,Paris Saint Germain,Premier League (England),€47K,€0,26.3,35.9,28.9,58.3,53,RW,172cm,Right
+853878,J. Stafford,26,North Macedonia,Valdez-Jackson,Pitts LLC (Congo),€36K,€0,54.5,48.6,41.8,13.9,53,CDM,207cm,Right
+297066,Justin Smith,29,United States Virgin Islands,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€28K,€0,45.3,56.0,40.5,41.5,53,CAM,177cm,Left
+272964,James Clark,23,North Macedonia,"Young, Moore and Richardson",Premier League (England),€55K,€0,47.4,54.2,45.4,46.6,53,CAM,209cm,Left
+691001,Joshua Perez,35,United States Virgin Islands,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€35K,€0,17.6,45.4,55.0,35.2,53,LWB,208cm,Right
+257632,A. Carlson,25,Brunei Darussalam,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€16K,€0,46.4,54.6,41.8,47.4,53,CDM,151cm,Right
+650909,Michael Jr.,30,Azerbaijan,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€18K,€0,54.0,42.1,50.8,47.9,53,RW,177cm,Right
+11975,J. Wright,35,Congo,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€18K,€0,16.1,47.5,35.7,54.4,53,LWB,190cm,Left
+49199,J. Combs,43,North Macedonia,Wallace LLC,Premier League (England),€27K,€0,46.2,37.8,54.3,18.9,52,LB,196cm,Left
+426031,W. Johnson,35,Brunei Darussalam,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€14K,€0,37.9,52.7,44.6,50.9,52,CAM,177cm,Left
+33180,D. Jackson,31,Cameroon,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€11K,€0,27.4,9.8,55.5,42.5,52,RW,177cm,Right
+451593,J. Contreras,23,Guadeloupe,Sandoval Ltd,Premier League (England),€21K,€0,42.6,32.4,54.8,30.9,52,ST,207cm,Right
+82968,D. Burns,40,Namibia,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€15K,€0,48.5,52.5,38.2,41.8,52,CAM,158cm,Left
+566546,Rogers,30,Venezuela,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€6K,€0,52.8,46.9,49.9,37.3,52,RW,190cm,Left
+501486,R. Wright,31,Congo,"Pearson, Rivas and Taylor",Premier League (England),€9K,€0,23.0,33.1,39.6,55.7,52,LWB,150cm,Left
+493880,Allen,40,Venezuela,"Pearson, Rivas and Taylor",Premier League (England),€11K,€0,18.8,24.9,60.7,26.2,52,ST,174cm,Right
+297430,J. Booker,21,Cameroon,Foster-Miller,Fox LLC (United States Virgin Islands),€14K,€0,11.8,47.3,49.8,52.4,52,LWB,204cm,Right
+617093,Donald Jr.,25,United States Virgin Islands,"Wolf, Rodriguez and Boyd","Alvarez, Fields and Evans (Brunei Darussalam)",€3K,€0,47.1,52.9,41.5,50.4,52,RW,197cm,Left
+822052,D. Shaw,23,Guadeloupe,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€8K,€0,46.9,47.2,51.5,51.8,52,LWB,191cm,Right
+52740,J. Lopez,44,North Macedonia,Mills Ltd,Graham-Harper (Namibia),€3K,€0,55.6,29.2,37.2,40.1,52,RW,200cm,Right
+987052,J. Hayden,20,Guadeloupe,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€3K,€0,47.5,12.5,53.9,37.6,52,RW,208cm,Right
+983163,J. Cook,28,Congo,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€750,€0,46.7,51.3,49.9,50.1,51,CDM,196cm,Left
+147790,Stephen Jones,21,Congo,"Freeman, Phillips and Johnston",Alvarez-Flores (Brunei Darussalam),€3K,€0,27.8,41.3,25.4,54.7,51,CDM,197cm,Left
+352684,C. Wagner,29,Congo,Black Group,Premier League (England),€750,€0,47.3,23.9,34.1,52.0,51,LWB,160cm,Left
+328623,J. Oliver,30,Venezuela,Manchester United,"Alvarez, Fields and Evans (Brunei Darussalam)",€2K,€0,24.1,34.3,51.9,47.5,51,ST,153cm,Right
+934872,Patrick Moore,16,United States Virgin Islands,Hernandez-Patterson,Premier League (England),€750,€0,46.2,49.6,51.5,36.6,51,RB,167cm,Right
+25864,King,15,Guadeloupe,Mills Ltd,Graham-Harper (Namibia),€750,€0,36.2,36.6,52.5,47.8,51,RWB,181cm,Left
+394508,E. Meadows,29,North Macedonia,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€750,€0,43.2,28.0,53.7,24.9,51,LWB,200cm,Right
+517447,J. Rollins,23,Cameroon,Young-Smith,Hawkins Ltd (Guadeloupe),€750,€0,31.5,52.1,14.4,47.4,51,RW,203cm,Left
+517522,M. Williams,32,Venezuela,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€750,€0,51.9,47.0,23.0,41.4,51,LM,180cm,Right
+26049,M. Carpenter,23,Azerbaijan,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€750,€0,36.7,55.6,14.9,32.3,51,RW,177cm,Left
+788174,A. Salazar,28,Congo,"Bennett, Welch and Brown",Premier League (England),€750,€0,37.8,55.0,40.7,24.3,51,RB,155cm,Right
+747830,Tommy Williams,28,Australia,Lewis LLC,Premier League (England),€750,€0,39.4,52.3,47.1,37.2,51,LWB,175cm,Right
+150090,B. Martin,27,Australia,Foster-Miller,Fox LLC (United States Virgin Islands),€750,€0,53.5,16.2,43.0,43.3,51,ST,203cm,Right
+887605,Turner,31,Venezuela,Lewis LLC,Premier League (England),€750,€0,33.6,23.1,53.5,44.3,51,RW,171cm,Right
+805954,J. Perez,27,Namibia,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€750,€0,14.7,29.7,57.9,18.0,51,CF,153cm,Left
+937055,B. Duncan,30,United States Virgin Islands,Hanson Inc,Thompson and Sons (Brunei Darussalam),€750,€0,38.8,28.1,44.3,53.4,51,RW,182cm,Right
+511142,T. Gray,15,Dominica,Liverpool,Premier League (England),€750,€0,46.9,52.4,37.6,27.2,51,CDM,154cm,Right
+946048,C. Jones,34,Brunei Darussalam,Munoz-Harris,Fox LLC (United States Virgin Islands),€750,€0,54.3,40.0,16.2,38.7,51,CB,187cm,Left
+479176,John Jr.,23,United States Virgin Islands,"Brown, Mcintosh and Jones",Premier League (England),€750,€0,35.4,14.1,55.3,38.4,51,ST,175cm,Right
+41214,William Mendez,42,Dominica,"Brown, Mcintosh and Jones",Premier League (England),€750,€0,38.3,21.6,44.7,51.6,50,RW,208cm,Right
+836062,K. Hughes,20,North Macedonia,"Smith, Beasley and Cox",Premier League (England),€750,€0,50.6,23.4,37.2,49.6,50,CB,170cm,Left
+131605,K. Finley,26,Cameroon,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€750,€0,11.1,44.1,52.2,41.1,50,LWB,190cm,Right
+557614,Gary Jr.,27,Venezuela,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€750,€0,29.0,46.8,51.4,41.6,50,RWB,159cm,Left
+459339,M. Olsen,27,Namibia,Mason-Smith,Premier League (England),€750,€0,29.1,16.7,51.3,46.0,50,RW,160cm,Right
+509583,J. Chandler,35,Australia,"Gibson, Jones and Shepherd","Johnson, Lam and Chavez (Namibia)",€500,€0,51.5,46.3,38.4,34.7,50,RW,151cm,Left
+403413,Mark Evans,22,Cameroon,Hernandez-Patterson,Premier League (England),€500,€0,48.6,50.2,32.2,40.0,50,CDM,207cm,Right
+239875,Z. Allen,31,Dominica,Mills Ltd,Graham-Harper (Namibia),€750,€0,44.2,52.3,40.7,43.5,50,CDM,202cm,Right
+666102,G. Bowman,26,Azerbaijan,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€500,€0,30.3,56.0,31.7,28.4,50,CB,210cm,Right
+371199,Brent Jr.,53,North Macedonia,"Pearson, Rivas and Taylor",Premier League (England),€500,€0,17.1,8.9,46.3,50.9,50,ST,158cm,Right
+870989,Schneider,28,Congo,Sandoval Ltd,Premier League (England),€750,€0,16.0,28.0,53.6,39.6,50,LWB,180cm,Right
+519515,J. Finley,20,Australia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€500,€0,42.8,52.2,17.1,31.8,50,RW,150cm,Left
+421715,Alexander Jr.,31,Venezuela,"Cooper, Morse and Long",Hawkins Ltd (Guadeloupe),€500,€0,30.7,52.9,39.8,41.7,50,LWB,165cm,Left
+237972,Juan Fowler,50,United States Virgin Islands,Sandoval Ltd,Premier League (England),€500,€0,38.3,32.9,52.4,37.6,49,ST,202cm,Left
+926518,Roberts,20,Congo,"Bennett, Welch and Brown",Premier League (England),€500,€0,45.4,49.6,46.7,44.8,49,CDM,170cm,Left
+198477,R. Perez,32,Congo,"Pearson, Rivas and Taylor",Premier League (England),€500,€0,49.0,45.1,48.9,18.7,49,LB,164cm,Left
+870353,J. Mcdonald,21,Brunei Darussalam,Lewis LLC,Premier League (England),€500,€0,49.3,43.0,48.8,25.6,49,LB,189cm,Left
+444758,Jeffery Hernandez,21,Congo,Lewis LLC,Premier League (England),€500,€0,18.8,28.7,6.4,55.6,49,LWB,156cm,Left
+559530,R. Harris,34,Guadeloupe,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€500,€0,27.6,49.4,47.0,44.5,49,RWB,209cm,Left
+379521,Drew Jr.,28,North Macedonia,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€500,€0,40.7,47.0,39.9,50.3,49,RW,203cm,Right
+150772,J. Lloyd,32,North Macedonia,Mason-Smith,Premier League (England),€500,€0,32.8,49.9,34.2,46.8,49,CDM,179cm,Left
+896295,Zachary Brooks,22,Dominica,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€500,€0,17.3,55.5,13.6,29.4,49,LWB,202cm,Left
+158023,R. Scott,25,Azerbaijan,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€500,€0,43.6,29.2,50.5,27.5,49,RWB,205cm,Left
+582221,Ryan Jr.,23,Dominica,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€500,€0,39.6,45.4,27.2,48.5,48,LWB,188cm,Left
+665368,J. Graham,31,Congo,"Watson, Steele and Benton",Alvarez-Flores (Brunei Darussalam),€500,€0,47.8,48.4,33.5,19.9,48,LWB,165cm,Left
+173921,S. Trujillo,26,Brunei Darussalam,Barnes-Franklin,Hawkins Ltd (Guadeloupe),€500,€0,54.0,11.2,23.4,30.9,48,CB,194cm,Left
+231855,M. Odonnell,33,United States Virgin Islands,"Evans, Webster and Young",Graham-Harper (Namibia),€500,€0,46.1,48.1,39.5,29.6,48,LB,158cm,Left
+838614,E. Smith,31,Cameroon,Paris Saint Germain,Premier League (England),€500,€0,26.7,50.9,38.8,31.3,48,RB,167cm,Right
+355288,I. Lopez,28,Guadeloupe,Hanson Inc,Thompson and Sons (Brunei Darussalam),€500,€0,33.4,29.5,51.2,39.9,48,LWB,209cm,Right
+109593,N. Andrews,26,United States Virgin Islands,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€500,€0,51.2,21.3,36.2,39.3,48,ST,203cm,Right
+122883,T. Mora,18,Azerbaijan,"Brown, Mcintosh and Jones",Premier League (England),€500,€0,17.4,34.4,15.9,51.1,47,LWB,205cm,Left
+549477,Raymond Rodriguez,20,Cameroon,Foster-Miller,Fox LLC (United States Virgin Islands),€500,€0,41.2,43.3,11.3,47.7,47,LWB,160cm,Left
+248298,A. Washington,22,Dominica,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€500,€0,34.8,23.1,6.9,51.5,47,LWB,177cm,Left
+297570,N. Sandoval,22,Australia,Rodgers PLC,"Saunders, Dixon and Willis (North Macedonia)",€500,€0,15.1,26.0,34.6,51.8,47,LWB,184cm,Left
+85021,Anderson,27,United States Virgin Islands,Mills Ltd,Graham-Harper (Namibia),€500,€0,37.8,13.4,49.6,36.1,47,RW,162cm,Right
+814110,Kenneth Bailey,25,Brunei Darussalam,Campos-Crawford,"Alvarez, Fields and Evans (Brunei Darussalam)",€250,€0,48.6,9.9,43.7,43.7,47,RW,183cm,Right
+437437,C. Gill,28,Cameroon,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€250,€0,19.8,40.8,48.5,33.6,47,ST,172cm,Right
+527709,R. Hawkins,31,Azerbaijan,Pierce Ltd,Thompson and Sons (Brunei Darussalam),€500,€0,47.0,42.2,47.1,40.3,47,LWB,193cm,Right
+156529,J. Owens,27,North Macedonia,Hernandez-Patterson,Premier League (England),€250,€0,26.0,29.2,14.5,51.6,46,LWB,194cm,Left
+197502,William Jr.,34,North Macedonia,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€250,€0,24.5,33.8,41.5,47.4,46,RW,194cm,Right
+304057,J. Jones,21,Namibia,Paris Saint Germain,Premier League (England),€250,€0,21.3,49.4,5.1,36.6,46,LWB,203cm,Left
+263829,M. Lee,26,Australia,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€250,€0,49.2,25.2,37.2,36.0,46,LB,172cm,Left
+395176,C. Gentry,29,Namibia,"Brooks, Palmer and Combs",Graham-Harper (Namibia),€250,€0,47.3,40.5,31.0,24.5,46,LWB,172cm,Left
+35390,Kevin Doyle,22,United States Virgin Islands,Valdez-Jackson,Pitts LLC (Congo),€250,€0,11.3,23.0,27.4,52.2,46,LWB,183cm,Left
+158358,Matthew Jr.,26,Brunei Darussalam,Sandoval Ltd,Premier League (England),€250,€0,38.5,24.5,48.1,41.1,46,RWB,189cm,Left
+69246,William Jr.,41,Congo,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€250,€0,30.6,46.5,18.5,44.4,46,LWB,150cm,Left
+722026,M. Gould,31,Brunei Darussalam,FC Bayern München,Premier League (England),€250,€0,27.9,40.7,46.7,18.8,45,RWB,197cm,Left
+828869,D. Mitchell,23,Guadeloupe,Munoz-Harris,Fox LLC (United States Virgin Islands),€250,€0,38.7,47.5,33.3,39.3,45,CDM,157cm,Right
+657187,D. West,30,Guadeloupe,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€250,€0,28.7,26.5,46.4,42.6,45,ST,190cm,Right
+43338,T. Jones,52,Venezuela,Paris Saint Germain,Premier League (England),€250,€0,32.5,45.2,15.3,45.3,45,RW,193cm,Left
+223742,Shaun Wood,32,Cameroon,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€250,€0,44.7,45.6,23.1,30.6,45,RW,203cm,Left
+281410,J. Ruiz,24,Venezuela,Paris Saint Germain,Premier League (England),€250,€0,30.2,43.7,27.1,45.1,45,LWB,197cm,Left
+642106,L. Norton,31,North Macedonia,Mason-Smith,Premier League (England),€250,€0,26.0,38.3,38.1,47.5,45,ST,170cm,Right
+774027,M. Willis,27,Dominica,"Scott, Jenkins and Brown","Alvarez, Fields and Evans (Brunei Darussalam)",€250,€0,47.2,38.5,10.6,24.7,45,LWB,196cm,Left
+385348,B. Walker,21,Guadeloupe,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€250,€0,25.9,46.7,37.4,33.7,44,LWB,150cm,Left
+197444,P. Liu,26,Venezuela,Hart-King,"Saunders, Dixon and Willis (North Macedonia)",€250,€0,19.8,44.3,18.1,41.6,44,LWB,166cm,Left
+328540,W. Trevino,51,Namibia,Collins and Sons,"Kirby, Nichols and Sanchez (Venezuela)",€250,€0,37.3,45.1,42.0,35.6,44,ST,206cm,Right
+313193,J. Atkins,32,Australia,"Brown, Mcintosh and Jones",Premier League (England),€250,€0,38.3,16.1,45.4,32.9,44,LB,168cm,Left
+142788,Valentine,15,Namibia,"Jackson, Bryant and Clements",Hawkins Ltd (Guadeloupe),€0,€0,25.7,45.4,36.9,38.4,44,RW,166cm,Right
+36146,E. Cohen,32,Australia,"Bennett, Welch and Brown",Premier League (England),€250,€0,18.9,40.4,43.6,29.2,43,ST,202cm,Right
+937661,J. Garcia,35,United States Virgin Islands,Kelley Group,"Kirby, Nichols and Sanchez (Venezuela)",€0,€0,31.7,43.5,18.2,40.7,43,LWB,155cm,Left
+542079,J. Rowe,21,Dominica,"Smith, Bright and Klein","Saunders, Dixon and Willis (North Macedonia)",€0,€0,28.1,28.5,46.5,29.2,42,LWB,186cm,Right
+862693,Schultz,23,Brunei Darussalam,Taylor-Jones,Hawkins Ltd (Guadeloupe),€0,€0,32.7,43.0,37.4,33.7,42,LWB,191cm,Left
+592507,J. Bryan,20,Congo,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€0,€0,30.5,10.7,45.5,27.0,42,ST,205cm,Right
+282029,J. Wu,28,Venezuela,Hernandez-Patterson,Premier League (England),€0,€0,28.9,25.9,46.3,26.3,42,LB,199cm,Right
+589879,B. Torres,25,Congo,"Bennett, Welch and Brown",Premier League (England),€0,€0,38.0,16.4,41.9,22.7,41,LB,184cm,Left
+901590,B. Adams,38,Venezuela,Foster-Miller,Fox LLC (United States Virgin Islands),€250,€0,32.3,27.8,10.3,43.4,41,LWB,195cm,Left
+371880,M. Thompson,21,Venezuela,Lopez-Ellis,"Johnson, Lam and Chavez (Namibia)",€0,€0,33.1,41.2,41.5,18.0,41,RWB,203cm,Left
+689392,M. Tran,22,Dominica,"Smith, Beasley and Cox",Premier League (England),€0,€0,11.2,26.4,32.1,42.9,40,LWB,161cm,Left
+214639,Brooks,20,Guadeloupe,"Smith, Beasley and Cox",Premier League (England),€0,€0,13.0,35.1,41.7,22.1,40,LWB,165cm,Left
+43177,Joshua Jr.,29,North Macedonia,Sandoval Ltd,Premier League (England),€0,€0,11.8,25.5,18.2,45.2,40,LWB,170cm,Left
+182076,E. Perry,25,Brunei Darussalam,Munoz-Harris,Fox LLC (United States Virgin Islands),€0,€0,25.1,40.0,35.9,30.6,39,LWB,196cm,Left
+937171,T. Shannon,29,Azerbaijan,"Mendez, Moore and Alvarez","Kirby, Nichols and Sanchez (Venezuela)",€0,€0,34.2,27.1,21.7,40.3,39,LWB,167cm,Left
+904719,Joel Jr.,22,North Macedonia,"Davis, Nelson and Matthews",Alvarez-Flores (Brunei Darussalam),€0,€0,30.2,42.5,19.7,20.8,39,LWB,205cm,Left
+404325,D. Patel,33,United States Virgin Islands,Pierce PLC,"Alvarez, Fields and Evans (Brunei Darussalam)",€0,€0,19.0,26.6,36.6,38.5,38,LWB,159cm,Left
+240538,M. Nelson,52,Namibia,"Pearson, Rivas and Taylor",Premier League (England),€0,€0,17.6,28.0,39.7,33.1,38,LWB,210cm,Left
+297929,J. Jennings,53,Cameroon,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€0,€0,32.6,32.0,39.5,19.6,38,LWB,171cm,Left
+494675,R. Jones,23,North Macedonia,Brandt-Adams,"Kirby, Nichols and Sanchez (Venezuela)",€0,€0,39.4,33.4,35.8,15.9,38,LB,178cm,Left
+426527,Anthony Watts,33,Congo,"Flores, Murray and Mckee",Thompson and Sons (Brunei Darussalam),€0,€0,18.4,29.0,39.0,31.6,37,ST,188cm,Right
+124116,Diaz,29,Congo,Munoz-Harris,Fox LLC (United States Virgin Islands),€0,€0,20.2,34.7,26.9,16.6,33,LWB,207cm,Left
+550050,J. Mcgee,47,Namibia,"Spencer, Mclean and Foster",Thompson and Sons (Brunei Darussalam),€0,€0,30.3,26.7,17.0,25.5,29,LWB,206cm,Left

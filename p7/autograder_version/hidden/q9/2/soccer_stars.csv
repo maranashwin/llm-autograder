@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+852433,K. Drake,32,Rwanda,"Lee, Nguyen and Johnson",Premier League (England),€198.2M,€488K,83.2,56.9,93.5,84.5,91,GKP,188cm,Right
+295296,J. Parker,27,Indonesia,"Hill, Wagner and Watkins",Premier League (England),€186.8M,€496K,78.5,40.4,94.2,40.0,90,WNG,153cm,Left
+821072,R. Garcia,29,Sudan,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€188.9M,€497K,87.2,34.8,89.6,45.9,89,MID,159cm,Right
+223882,D. Dillon,20,Saint Pierre and Miquelon,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€197.2M,€549K,83.4,60.8,90.3,63.7,89,MID,150cm,Right
+117954,J. Banks,27,Saint Pierre and Miquelon,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€248.9M,€483K,14.2,79.4,92.1,33.5,89,FWD,186cm,Left
+118532,T. Juarez,42,Turks and Caicos Islands,"Christian, Wallace and Harding",Premier League (England),€177.5M,€469K,84.7,61.4,90.8,66.7,89,MID,205cm,Right
+477319,Jack Thompson,30,Sudan,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€181.8M,€487K,44.9,69.7,93.8,59.8,88,FWD,164cm,Left
+952527,J. Perkins,47,Sudan,King LLC,Premier League (England),€182.6M,€485K,40.7,47.7,93.6,72.5,88,SPT,181cm,Left
+551366,G. Davis,27,Saint Pierre and Miquelon,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€166.2M,€468K,32.6,82.0,44.1,89.7,88,FWD,207cm,Left
+846385,J. Wright,34,Rwanda,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€185.5M,€458K,20.7,61.1,93.8,69.3,88,DEF,173cm,Left
+740488,James Jr.,28,Tonga,Lopez-Turner,Brown-White (Somalia),€169.2M,€463K,34.9,58.2,94.3,68.8,88,GKP,205cm,Left
+143146,J. Gutierrez,31,Sudan,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€167.4M,€495K,45.6,71.9,92.8,72.3,88,WNG,205cm,Left
+189712,J. Conway,30,Indonesia,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€164.1M,€446K,30.1,88.9,83.1,56.6,87,SPT,172cm,Right
+836905,S. Mullins,23,Sudan,Morris Group,Simmons-Johnson (Indonesia),€164.1M,€446K,62.7,76.1,15.9,90.3,87,GKP,198cm,Left
+870038,M. Kelly,29,Faroe Islands,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€162.8M,€450K,47.6,47.7,89.2,81.7,87,DEF,150cm,Left
+689981,Jay Arroyo,32,Somalia,Bailey Inc,Premier League (England),€166.8M,€448K,92.9,30.5,63.2,68.1,87,GKP,171cm,Left
+985632,Christian Carroll,21,Rwanda,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€162.8M,€422K,93.0,43.6,67.4,16.7,87,SPT,171cm,Right
+133716,V. Silva,34,Indonesia,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€162.7M,€435K,74.1,62.2,91.0,41.6,87,DEF,175cm,Left
+658205,Robinson,33,Indonesia,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€163.8M,€431K,81.6,39.5,88.4,48.1,87,AMF,204cm,Right
+608612,T. Wood,34,Indonesia,Manchester United,Premier League (England),€161.5M,€469K,33.8,82.1,87.8,54.9,87,FWD,201cm,Left
+8389,L. Stevenson,39,Indonesia,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€153.4M,€399K,48.0,71.2,91.0,59.6,86,AMF,199cm,Right
+401768,D. Walters,23,Turks and Caicos Islands,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€160.9M,€419K,39.0,87.1,23.9,83.0,86,AMF,185cm,Left
+124034,J. Jones,30,Thailand,"King, Armstrong and Mack",Premier League (England),€161.3M,€415K,68.0,51.0,91.8,56.5,86,GKP,209cm,Right
+640219,Michael Jr.,25,Faroe Islands,Hendrix-Leonard,Premier League (England),€154.3M,€437K,67.5,30.1,27.3,92.8,86,WNG,171cm,Right
+321214,A. Cortez,24,Indonesia,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€152.4M,€419K,57.5,90.1,74.8,63.1,86,GKP,210cm,Right
+108305,House,26,Saint Pierre and Miquelon,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€150.9M,€393K,43.4,50.0,90.8,71.3,86,SPT,150cm,Left
+861972,J. Kramer,22,Indonesia,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€150.9M,€395K,34.5,74.8,43.1,89.2,86,AMF,179cm,Left
+272326,King,22,Saint Pierre and Miquelon,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€153.1M,€398K,83.6,61.2,41.3,86.3,86,SPT,186cm,Right
+322047,Julian Reynolds,22,Faroe Islands,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€141.5M,€397K,84.7,50.1,86.1,76.6,86,WNG,168cm,Right
+806533,Ethan Jr.,24,South Africa,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€150.2M,€393K,52.7,89.2,74.3,76.9,86,DEF,153cm,Right
+715271,Charles Jr.,26,Liechtenstein,Liverpool,Premier League (England),€144.4M,€383K,58.7,41.0,66.3,91.2,86,GKP,174cm,Left
+753940,Nicholas Carr,21,Faroe Islands,"Lee, Nguyen and Johnson",Premier League (England),€146.1M,€381K,78.8,44.2,87.0,80.9,85,FWD,168cm,Right
+868990,Brad Dean,32,Faroe Islands,Shaffer-Stevens,Premier League (England),€124.1M,€369K,65.8,55.5,20.2,91.2,85,SPT,204cm,Left
+697603,T. Joseph,22,Turks and Caicos Islands,Lopez-Turner,Brown-White (Somalia),€143.4M,€370K,70.6,47.3,89.0,72.9,85,FWD,190cm,Right
+83436,J. Middleton,26,Faroe Islands,"Christian, Wallace and Harding",Premier League (England),€136.4M,€363K,74.9,33.0,88.8,47.1,85,DMF,169cm,Left
+75794,J. Sanchez,23,Indonesia,"Hill, Wagner and Watkins",Premier League (England),€131.6M,€379K,72.2,29.3,89.5,12.4,85,GKP,151cm,Left
+772406,Richard Leonard,27,Liechtenstein,Lopez-Turner,Brown-White (Somalia),€115.6M,€342K,19.3,85.2,82.9,19.8,85,SPT,199cm,Left
+215360,Shawn Jr.,42,South Africa,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€120.1M,€355K,77.5,24.5,87.2,20.0,85,FWD,183cm,Left
+134165,C. Turner,27,Liechtenstein,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€115.5M,€342K,48.2,65.1,34.8,91.7,85,DMF,177cm,Left
+437695,M. Lewis,31,Indonesia,White-Holland,Lowery-Vasquez (South Africa),€118.7M,€349K,90.5,41.2,35.8,68.0,85,FWD,210cm,Left
+577088,Z. King,26,Turks and Caicos Islands,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€111.2M,€312K,47.2,91.6,67.0,28.4,85,MID,170cm,Right
+552646,M. Price,20,South Africa,Morse Group,Premier League (England),€114.4M,€315K,67.6,38.6,50.0,90.2,85,FWD,163cm,Right
+552664,James Jr.,34,Liechtenstein,"Henderson, Nichols and Cochran",Premier League (England),€112.2M,€336K,50.1,43.4,92.7,60.0,85,MID,168cm,Right
+41261,R. Miller,31,Saint Pierre and Miquelon,Lopez-Turner,Brown-White (Somalia),€135.7M,€319K,55.8,42.5,42.0,92.8,84,FWD,193cm,Right
+278918,J. Young,26,Sudan,"Freeman, Burns and Curtis",Premier League (England),€110.5M,€297K,51.5,68.9,89.2,55.5,84,SPT,186cm,Right
+844938,Fletcher,23,Faroe Islands,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€111.1M,€304K,64.3,62.1,90.9,26.4,84,DMF,205cm,Left
+959999,Cochran,35,Rwanda,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€110M,€363K,81.0,58.0,27.8,85.1,84,DMF,205cm,Right
+656954,Bailey,31,Sudan,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€113.5M,€308K,88.2,23.5,58.8,70.7,84,MID,199cm,Left
+345736,B. Stone,22,Tonga,Walker Group,Brown-White (Somalia),€108.1M,€292K,66.8,59.9,85.8,78.4,84,WNG,191cm,Right
+976924,Cantrell,24,Thailand,"Willis, Williams and Smith",Hernandez-White (Thailand),€106.4M,€292K,27.2,88.8,54.4,71.2,84,AMF,173cm,Right
+723040,T. Harper,22,Faroe Islands,Morse Group,Premier League (England),€110.8M,€270K,53.5,56.2,53.7,93.4,84,SPT,168cm,Left
+436478,Ortega,32,Rwanda,Hendrix-Leonard,Premier League (England),€105.3M,€285K,85.9,66.5,77.4,49.3,84,FWD,205cm,Right
+518413,T. Dougherty,25,Somalia,"Willis, Williams and Smith",Hernandez-White (Thailand),€91.3M,€262K,17.2,50.0,94.9,44.2,84,SPT,203cm,Left
+879788,J. Watts,23,Turks and Caicos Islands,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€103.3M,€303K,91.8,62.1,57.5,12.5,84,SPT,208cm,Right
+322825,J. Payne,29,Thailand,Jones-Snyder,Premier League (England),€108.1M,€267K,73.4,53.8,64.6,87.3,84,GKP,178cm,Left
+388505,T. Hodge,34,Turks and Caicos Islands,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€104.3M,€259K,37.1,72.0,88.2,47.5,84,SPT,150cm,Left
+159530,K. Garrett,30,Turks and Caicos Islands,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€88.2M,€248K,18.8,89.9,67.3,26.4,84,WNG,191cm,Right
+593753,Adam Jr.,22,Turks and Caicos Islands,King LLC,Premier League (England),€90.2M,€259K,54.4,80.6,85.1,50.4,84,AMF,162cm,Right
+454547,B. Wallace,20,Saint Pierre and Miquelon,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€96.6M,€259K,86.6,49.5,74.3,11.7,84,AMF,176cm,Right
+683997,Brian Avery,27,Rwanda,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€90M,€254K,75.3,27.8,86.8,15.4,84,DMF,166cm,Left
+696744,E. Hatfield,51,Faroe Islands,Jones-Snyder,Premier League (England),€83.4M,€241K,43.7,53.1,93.6,21.5,83,AMF,190cm,Left
+188912,S. Jones,25,Thailand,White-Holland,Lowery-Vasquez (South Africa),€89.4M,€243K,54.2,69.7,27.5,88.1,83,MID,170cm,Left
+705205,Daniel Jones,26,Sudan,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€82.2M,€235K,43.0,63.0,89.7,55.3,83,DMF,158cm,Right
+598920,T. Cohen,28,Sudan,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€84.5M,€239K,12.0,73.6,86.0,32.5,83,DEF,158cm,Left
+746911,W. Lamb,27,Faroe Islands,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€85.3M,€219K,48.5,43.3,94.2,50.6,83,SPT,185cm,Left
+943815,Willie Jr.,54,Turks and Caicos Islands,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€78.8M,€217K,77.7,28.6,85.3,24.5,83,WNG,197cm,Right
+158670,Mark Jr.,20,Saint Pierre and Miquelon,Morse Group,Premier League (England),€80.3M,€234K,51.1,43.5,45.1,93.8,83,AMF,194cm,Left
+724201,B. Edwards,27,Sudan,"Freeman, Burns and Curtis",Premier League (England),€78M,€235K,61.2,58.0,90.4,32.7,83,GKP,190cm,Left
+494881,Ian Jr.,31,Tonga,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€78.9M,€216K,41.0,59.9,84.8,76.7,83,GKP,186cm,Left
+814990,Joshua Weber,35,Indonesia,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€69.4M,€214K,65.6,38.4,88.9,40.8,83,AMF,209cm,Left
+958907,J. Delacruz,33,Rwanda,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€73M,€209K,77.8,83.7,54.7,64.2,82,MID,196cm,Right
+885382,N. Combs,34,Liechtenstein,Bailey Inc,Premier League (England),€72.8M,€218K,45.6,86.6,66.5,40.2,82,DMF,161cm,Right
+230231,R. Palmer,27,Indonesia,King LLC,Premier League (England),€65.9M,€207K,46.0,69.5,85.5,70.3,82,DMF,180cm,Left
+83310,Randall Jr.,52,Indonesia,Manchester United,Premier League (England),€62.4M,€206K,18.2,54.9,91.3,47.8,82,WNG,170cm,Left
+165389,B. Figueroa,21,Somalia,Rios Ltd,Premier League (England),€60.4M,€208K,84.1,54.2,76.5,27.2,82,FWD,185cm,Right
+116260,Robert Wagner,33,Rwanda,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€63.2M,€207K,18.0,52.3,50.0,91.5,82,AMF,172cm,Right
+403110,J. Hale,34,Sudan,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€47M,€200K,48.2,48.3,31.8,93.2,82,DEF,208cm,Left
+174098,J. Simon,23,Turks and Caicos Islands,Liverpool,Premier League (England),€56M,€198K,86.2,36.6,41.5,70.6,82,DEF,163cm,Left
+288897,D. Rush,34,Somalia,Liverpool,Premier League (England),€55.2M,€192K,44.9,73.2,36.9,84.6,82,FWD,191cm,Left
+747702,C. Mcintosh,25,Faroe Islands,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€59.9M,€213K,25.6,85.7,70.6,37.8,82,DEF,200cm,Left
+739592,T. Dixon,21,Liechtenstein,Shaffer-Stevens,Premier League (England),€39.6M,€188K,91.1,54.6,36.9,50.6,82,MID,163cm,Left
+666172,N. Steele,28,Turks and Caicos Islands,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€43.7M,€180K,47.8,61.9,89.1,60.0,82,GKP,200cm,Left
+977770,J. Carter,26,Rwanda,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€47M,€188K,33.6,43.4,86.8,66.2,82,GKP,151cm,Left
+215933,Collin Jr.,33,Saint Pierre and Miquelon,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€55.5M,€194K,65.7,35.2,38.6,88.0,82,SPT,154cm,Left
+789378,G. Perez,34,Faroe Islands,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€46.8M,€180K,49.1,66.7,33.0,86.8,82,MID,166cm,Left
+855216,M. Robinson,47,Sudan,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€39.5M,€171K,66.8,53.2,87.2,34.5,82,AMF,158cm,Left
+404665,C. Green,35,Rwanda,Liverpool,Premier League (England),€35.7M,€172K,57.9,85.3,62.0,70.5,82,DMF,178cm,Right
+617836,T. Edwards,24,Faroe Islands,Lopez-Turner,Brown-White (Somalia),€36.8M,€179K,48.3,49.3,92.6,35.6,82,WNG,163cm,Left
+478598,J. Benjamin,34,Faroe Islands,Manchester United,Premier League (England),€35.5M,€165K,50.1,24.3,50.0,93.3,82,GKP,187cm,Right
+962084,Z. House,21,Saint Pierre and Miquelon,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€29M,€170K,24.5,50.3,89.7,57.1,82,AMF,157cm,Left
+233045,Martin,35,South Africa,Walker Group,Brown-White (Somalia),€29.9M,€185K,41.2,82.2,82.1,29.4,82,DMF,188cm,Left
+724569,B. Miller,24,Tonga,"Foster, Zimmerman and Mason",Premier League (England),€33.9M,€170K,34.4,85.2,62.0,71.0,82,DEF,150cm,Right
+656974,K. Campbell,22,Tonga,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€37.3M,€158K,33.4,87.9,63.8,55.2,82,DEF,193cm,Right
+872385,J. Griffin,32,Rwanda,"Hill, Wagner and Watkins",Premier League (England),€17.6M,€146K,49.2,32.1,23.7,92.7,82,GKP,177cm,Right
+385589,Mark Curtis,31,South Africa,Jones-Snyder,Premier League (England),€19.3M,€152K,63.6,61.0,46.6,86.9,81,FWD,166cm,Left
+575228,Perez,33,Tonga,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€22.2M,€149K,66.2,31.2,86.1,23.8,81,MID,169cm,Left
+141373,Watts,28,Somalia,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€14M,€164K,53.6,30.6,90.0,47.0,81,DMF,205cm,Right
+551317,Wilson,25,Somalia,FC Barcelona,Hernandez-White (Thailand),€14.1M,€136K,58.1,88.7,51.8,20.5,81,MID,199cm,Left
+436726,A. Brown,29,Saint Pierre and Miquelon,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€13.4M,€139K,88.0,28.8,39.4,60.8,81,DMF,174cm,Left
+289385,Richard Baker,33,Tonga,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€15.6M,€142K,44.4,68.3,84.8,58.5,81,MID,155cm,Left
+961713,G. Barker,41,Rwanda,"Foster, Zimmerman and Mason",Premier League (England),€10.3M,€122K,69.2,62.4,71.8,83.9,81,DMF,151cm,Right
+871704,J. Oconnell,32,Saint Pierre and Miquelon,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€11.1M,€121K,70.4,38.9,84.0,53.5,81,MID,157cm,Left
+740815,C. Pena,24,Faroe Islands,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€23.9M,€129K,61.3,45.5,87.0,46.5,81,AMF,204cm,Right
+224895,Cole Thomas,31,Tonga,"King, Armstrong and Mack",Premier League (England),€10M,€134K,72.5,62.2,84.0,30.9,81,MID,173cm,Left
+921298,Berry,35,Turks and Caicos Islands,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€11.1M,€112K,41.3,58.6,88.0,46.2,81,AMF,206cm,Left
+3971,E. Walton,26,South Africa,Walker Group,Brown-White (Somalia),€9.9M,€111K,41.5,46.1,86.4,64.9,81,DMF,181cm,Left
+208898,M. Fisher,35,Indonesia,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€9.9M,€119K,76.9,82.2,60.6,75.4,81,DEF,170cm,Right
+82124,Moreno,25,Somalia,King LLC,Premier League (England),€9.8M,€121K,25.4,44.7,91.4,37.0,80,FWD,151cm,Left
+606431,Peter Jr.,36,Indonesia,King LLC,Premier League (England),€9.7M,€100K,57.6,42.1,88.0,54.0,80,FWD,191cm,Right
+590227,C. Taylor,35,Faroe Islands,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€9.7M,€105K,48.4,81.8,74.2,36.6,80,FWD,163cm,Right
+66001,B. Jones,34,Turks and Caicos Islands,Manchester United,Premier League (England),€9.7M,€100K,72.6,36.4,82.2,31.0,80,SPT,190cm,Left
+410170,Thomas Johnson,55,Liechtenstein,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€9.5M,€118K,34.6,22.6,56.2,87.9,80,DEF,190cm,Right
+680798,D. Williams,23,Tonga,Hendrix-Leonard,Premier League (England),€9.4M,€99K,62.1,28.3,85.8,44.2,80,DEF,198cm,Left
+615335,D. Johnson,21,Faroe Islands,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€9.3M,€100K,74.8,34.7,82.3,43.3,80,DEF,188cm,Left
+74896,David Stone,21,Somalia,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€9.2M,€99K,44.1,72.3,82.9,55.5,80,DMF,152cm,Left
+714026,N. Kaufman,32,Saint Pierre and Miquelon,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€9.8M,€99K,30.3,48.8,58.6,87.1,80,GKP,189cm,Right
+58803,D. Nichols,31,South Africa,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€9.4M,€99K,44.6,81.3,76.0,43.7,80,FWD,160cm,Right
+132607,A. Solomon,22,Indonesia,Rios Ltd,Premier League (England),€9.1M,€99K,71.8,62.3,82.4,47.5,80,GKP,173cm,Left
+861769,C. Copeland,21,Tonga,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€9.1M,€99K,43.5,30.0,39.7,91.6,80,MID,175cm,Right
+239306,Justin Jr.,51,Indonesia,"Henderson, Nichols and Cochran",Premier League (England),€9.1M,€99K,94.3,36.9,18.5,37.3,80,WNG,152cm,Left
+190173,G. Rivera,22,Rwanda,Morse Group,Premier League (England),€8.8M,€99K,81.8,56.3,76.6,55.9,80,DEF,157cm,Right
+894845,M. Green,24,South Africa,Morse Group,Premier League (England),€8.9M,€98K,85.4,57.2,62.4,28.6,80,SPT,157cm,Right
+837606,S. Yang,31,Turks and Caicos Islands,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€9M,€98K,44.7,69.8,83.9,18.0,80,FWD,172cm,Left
+674262,J. Chambers,50,Indonesia,Lopez-Turner,Brown-White (Somalia),€8.9M,€99K,82.2,34.3,30.8,71.6,80,DMF,160cm,Left
+428618,J. Henson,26,Saint Pierre and Miquelon,"King, Armstrong and Mack",Premier League (England),€8.7M,€97K,44.7,58.0,86.8,22.8,80,WNG,184cm,Left
+461410,S. Bailey,35,Thailand,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€8.6M,€97K,77.9,59.9,81.3,77.6,80,MID,151cm,Right
+609940,J. Guerra,41,Faroe Islands,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€8.5M,€98K,58.3,86.7,60.0,29.5,80,WNG,153cm,Left
+134846,Wheeler,24,Faroe Islands,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€8.5M,€98K,49.8,29.9,90.7,30.9,80,DEF,171cm,Left
+118467,G. Nicholson,32,Sudan,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€8.2M,€97K,37.3,74.3,81.3,55.4,80,DEF,163cm,Left
+3838,R. Walker,24,Tonga,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€9M,€98K,67.1,47.2,38.6,84.2,80,DEF,163cm,Left
+61240,J. Hodges,29,Liechtenstein,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€8.3M,€97K,20.4,50.9,43.5,89.4,80,GKP,203cm,Right
+557116,D. Bishop,23,Somalia,"Foster, Zimmerman and Mason",Premier League (England),€8.4M,€97K,61.0,31.9,84.9,44.6,79,WNG,158cm,Right
+876626,C. Rivera,32,Liechtenstein,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€8.1M,€97K,70.6,66.4,15.3,81.2,79,GKP,196cm,Right
+450765,T. Reed,39,Turks and Caicos Islands,Hendrix-Leonard,Premier League (England),€8M,€97K,78.8,76.0,78.7,59.4,79,WNG,159cm,Right
+614671,T. Bush,24,South Africa,Bailey Inc,Premier League (England),€8.1M,€96K,71.2,61.4,48.1,81.8,79,AMF,200cm,Right
+98706,Joseph Boyd,20,South Africa,"Christian, Wallace and Harding",Premier League (England),€8.1M,€97K,26.4,16.0,51.4,87.7,79,MID,209cm,Right
+377470,M. Morris,21,Somalia,"Lee, Nguyen and Johnson",Premier League (England),€8.5M,€96K,82.0,20.3,25.4,69.6,79,AMF,192cm,Left
+787166,E. Williams,25,Indonesia,"Henderson, Nichols and Cochran",Premier League (England),€8M,€97K,64.3,45.9,20.4,83.6,79,DEF,195cm,Right
+230357,D. Roberts,32,Indonesia,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€7.8M,€96K,69.6,81.5,58.1,59.7,79,DMF,172cm,Right
+263131,T. Bender,30,Indonesia,Jones-Snyder,Premier League (England),€7.9M,€96K,47.5,41.7,90.1,47.3,79,MID,209cm,Left
+721976,M. Harvey,34,Indonesia,Shaffer-Stevens,Premier League (England),€8M,€96K,25.8,54.5,84.5,63.7,79,AMF,176cm,Left
+664791,B. Harris,32,Liechtenstein,Sparks-White,Premier League (England),€7.6M,€95K,79.7,49.5,77.3,9.6,79,MID,183cm,Left
+279771,J. Griffin,25,Rwanda,Morse Group,Premier League (England),€7.6M,€95K,48.6,44.9,89.7,10.2,79,DMF,199cm,Right
+83217,S. Oconnor,22,Saint Pierre and Miquelon,FC Barcelona,Hernandez-White (Thailand),€7.7M,€95K,80.9,28.2,75.1,42.6,79,GKP,169cm,Right
+410910,R. Randall,26,Indonesia,King LLC,Premier League (England),€7.7M,€95K,66.0,28.7,44.0,83.1,79,DEF,201cm,Right
+525649,T. Williamson,20,Turks and Caicos Islands,King LLC,Premier League (England),€7.5M,€95K,73.4,64.4,81.0,64.5,79,FWD,173cm,Right
+361882,I. Sandoval,26,Indonesia,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€7.6M,€95K,85.8,13.2,54.8,60.5,79,DEF,193cm,Left
+722355,David Richardson,43,Faroe Islands,"Hill, Wagner and Watkins",Premier League (England),€7.5M,€94K,71.1,58.8,81.5,60.4,79,AMF,200cm,Left
+656897,Richard Jr.,24,Rwanda,"Freeman, Burns and Curtis",Premier League (England),€7.6M,€94K,64.6,65.1,83.1,12.0,79,DEF,150cm,Right
+812560,A. Ramos,49,Rwanda,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€7.2M,€94K,33.3,73.2,80.9,24.8,79,WNG,179cm,Left
+779889,B. Williams,23,Saint Pierre and Miquelon,"Henderson, Nichols and Cochran",Premier League (England),€7.5M,€94K,65.9,48.1,84.0,31.9,79,DEF,157cm,Right
+18095,J. Dixon,22,Tonga,Schneider Inc,Premier League (England),€7.3M,€96K,81.0,52.0,73.2,23.8,79,DEF,200cm,Right
+329415,A. Ortiz,29,Thailand,"King, Armstrong and Mack",Premier League (England),€7.2M,€93K,37.6,39.1,36.2,92.3,79,FWD,157cm,Right
+698125,Morris,30,Turks and Caicos Islands,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€7.2M,€93K,56.0,48.5,47.6,86.5,79,MID,150cm,Left
+239401,K. Miller,44,South Africa,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€7.2M,€93K,39.2,60.6,85.3,26.8,79,DMF,178cm,Left
+862232,Jose Rodriguez,34,Rwanda,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€7.2M,€93K,52.2,43.0,66.8,82.5,79,GKP,189cm,Left
+26671,Adams,21,Rwanda,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€6.9M,€93K,82.6,69.6,54.6,13.2,79,GKP,169cm,Right
+493811,Watson,28,Rwanda,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€7.1M,€93K,10.3,34.3,60.8,85.5,79,DMF,158cm,Right
+297208,Alexander Mccormick,35,South Africa,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€7.1M,€94K,68.1,47.6,82.5,31.0,79,AMF,197cm,Left
+321927,Christopher Jr.,44,Saint Pierre and Miquelon,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€7.5M,€92K,67.5,39.8,82.8,42.7,79,DEF,195cm,Left
+813456,Adam Dean,22,Sudan,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€6.8M,€92K,54.0,57.8,82.8,65.8,79,SPT,209cm,Right
+510619,E. Kelley,32,Faroe Islands,Bailey Inc,Premier League (England),€7M,€92K,41.6,44.7,51.7,88.7,79,SPT,152cm,Right
+600799,Garcia,20,Tonga,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€6.8M,€92K,82.3,64.8,49.2,68.6,79,DEF,195cm,Right
+322826,D. Drake,35,Indonesia,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€6.9M,€92K,80.7,34.1,49.7,75.8,79,DEF,182cm,Right
+863986,A. Aguilar,31,Somalia,Shaffer-Stevens,Premier League (England),€6.8M,€92K,15.2,41.6,89.3,49.1,79,DMF,157cm,Left
+421711,J. Walter,22,Turks and Caicos Islands,Sparks-White,Premier League (England),€6.6M,€91K,20.7,78.6,79.6,53.6,79,GKP,173cm,Right
+692157,G. Hernandez,29,Indonesia,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€6.8M,€92K,37.0,28.1,92.9,37.6,79,GKP,156cm,Right
+712721,Darrell Jr.,35,Somalia,Bailey Inc,Premier League (England),€6.7M,€92K,57.1,55.8,85.3,55.2,78,WNG,172cm,Left
+884758,B. Day,18,Thailand,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€6.6M,€91K,42.8,49.7,23.9,88.1,78,DEF,167cm,Left
+975254,T. Mayo,24,Faroe Islands,Lopez-Turner,Brown-White (Somalia),€6.5M,€91K,24.2,61.5,84.1,46.9,78,DEF,159cm,Left
+181172,D. Knight,53,Liechtenstein,Bailey Inc,Premier League (England),€6.5M,€91K,47.2,69.6,80.9,64.0,78,GKP,200cm,Right
+205800,S. Mccarty,31,South Africa,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€6.7M,€92K,60.8,83.3,50.8,20.9,78,DMF,190cm,Left
+115864,B. Garcia,35,Saint Pierre and Miquelon,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€6.4M,€90K,60.9,83.5,29.5,45.7,78,DEF,180cm,Left
+845011,Stanton,26,Sudan,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€6.4M,€90K,74.4,37.1,78.8,17.7,78,DMF,173cm,Right
+165113,D. Bowman,27,Faroe Islands,FC Barcelona,Hernandez-White (Thailand),€6.5M,€91K,77.8,40.1,53.3,78.4,78,WNG,153cm,Left
+804222,R. Wilcox,23,Indonesia,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€6.5M,€91K,26.2,78.6,38.1,74.9,78,GKP,191cm,Right
+722392,J. Thomas,23,Indonesia,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€6.3M,€91K,51.9,28.8,86.4,41.9,78,AMF,197cm,Right
+99924,M. Mclean,22,South Africa,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€6.4M,€90K,45.7,61.7,79.3,75.6,78,SPT,208cm,Right
+558757,M. Miller,23,Liechtenstein,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€6.1M,€90K,66.2,78.9,71.0,76.2,78,DMF,166cm,Right
+493341,D. Davis,31,Turks and Caicos Islands,Hendrix-Leonard,Premier League (England),€6.1M,€90K,81.0,46.1,67.0,37.0,78,GKP,192cm,Right
+198661,Petersen,27,South Africa,Jones-Snyder,Premier League (England),€5.9M,€90K,36.7,41.6,90.3,36.3,78,MID,196cm,Left
+878646,Jonathon Vargas,33,Saint Pierre and Miquelon,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€5.8M,€89K,56.3,83.4,60.9,57.4,78,SPT,185cm,Right
+100461,A. Cruz,21,Liechtenstein,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€6.3M,€90K,59.9,40.6,83.6,47.7,78,FWD,181cm,Left
+575690,J. Williams,35,Thailand,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€6M,€90K,65.3,58.1,64.2,82.5,78,MID,178cm,Right
+84332,Cody Hull,29,Liechtenstein,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€5.8M,€90K,44.5,25.0,86.8,49.8,78,AMF,169cm,Right
+461401,C. Thompson,30,Thailand,"Freeman, Burns and Curtis",Premier League (England),€6.1M,€89K,71.7,30.7,80.3,42.1,78,GKP,159cm,Left
+879198,G. Hoffman,35,Sudan,White-Holland,Lowery-Vasquez (South Africa),€5.8M,€89K,57.1,30.8,85.2,36.4,78,FWD,184cm,Right
+797314,G. Taylor,34,Indonesia,Hendrix-Leonard,Premier League (England),€5.7M,€89K,65.4,26.8,82.3,46.1,78,GKP,168cm,Left
+215889,A. Phillips,26,Somalia,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€5.6M,€89K,77.3,60.0,77.8,53.8,78,SPT,185cm,Left
+19495,K. Parker,24,Tonga,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€5.7M,€89K,59.4,83.3,41.6,62.4,78,GKP,183cm,Right
+642254,Matthew Estes,17,Liechtenstein,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€5.6M,€89K,51.6,86.7,28.1,26.6,78,DMF,171cm,Left
+896236,S. Greer,30,Turks and Caicos Islands,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€5.6M,€89K,87.9,33.3,36.4,48.6,78,GKP,205cm,Left
+257361,M. Clark,20,Somalia,"Foster, Zimmerman and Mason",Premier League (England),€5.5M,€88K,18.7,71.7,63.7,80.2,78,MID,208cm,Left
+52567,Thomas Jr.,28,Somalia,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€5.2M,€89K,81.5,67.5,67.7,16.8,78,MID,197cm,Right
+773604,Jose Jr.,24,Liechtenstein,"Christian, Wallace and Harding",Premier League (England),€5.4M,€88K,60.9,61.8,57.6,83.2,78,FWD,194cm,Right
+536406,A. Taylor,41,Sudan,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€5.2M,€88K,29.2,40.4,90.9,34.3,78,WNG,182cm,Right
+470876,M. Harding,22,Liechtenstein,Bailey Inc,Premier League (England),€5.1M,€88K,11.6,17.9,46.4,88.4,78,DMF,177cm,Right
+610192,T. Miles,25,Thailand,"Freeman, Burns and Curtis",Premier League (England),€5.6M,€88K,32.7,83.1,10.2,64.6,78,DMF,205cm,Left
+626668,K. Frey,47,Rwanda,Walker Group,Brown-White (Somalia),€5.1M,€88K,60.5,81.9,39.1,64.6,78,SPT,153cm,Right
+991782,Hernandez,20,Turks and Caicos Islands,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€5.1M,€88K,88.4,43.3,36.8,35.6,77,DMF,183cm,Left
+156462,D. Caldwell,54,Sudan,Rios Ltd,Premier League (England),€5.2M,€88K,80.0,42.5,66.3,45.7,77,GKP,184cm,Right
+279521,A. Davis,31,Tonga,"Christian, Wallace and Harding",Premier League (England),€5M,€87K,88.5,41.6,30.0,40.2,77,WNG,200cm,Left
+419045,Caleb Gutierrez,26,Thailand,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€5M,€87K,81.0,65.9,65.4,62.3,77,FWD,199cm,Right
+476460,Wright,30,Thailand,"Willis, Williams and Smith",Hernandez-White (Thailand),€4.8M,€88K,51.4,79.6,68.8,30.4,77,MID,175cm,Right
+304605,G. Goodwin,27,Tonga,Morris Group,Simmons-Johnson (Indonesia),€4.7M,€87K,83.6,32.4,51.6,56.2,77,GKP,188cm,Left
+108135,Zachary Simmons,28,Thailand,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€4.6M,€87K,16.6,81.2,64.8,47.2,77,AMF,168cm,Left
+157601,B. Macdonald,27,Turks and Caicos Islands,"Hill, Wagner and Watkins",Premier League (England),€4.7M,€87K,82.4,45.4,45.1,62.7,77,MID,208cm,Left
+190385,E. Moore,20,Somalia,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€4.7M,€87K,51.6,53.0,84.5,28.5,77,DEF,176cm,Right
+673841,J. Hayes,25,Somalia,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€4.5M,€86K,57.8,47.2,78.9,72.2,77,WNG,176cm,Right
+108620,Darrell Jr.,25,Sudan,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€4.5M,€86K,81.0,64.4,48.3,46.9,77,GKP,176cm,Right
+75858,J. Obrien,35,Indonesia,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€4.5M,€86K,12.9,16.6,57.2,83.4,77,MID,187cm,Right
+419962,J. Morales,32,Turks and Caicos Islands,Manchester United,Premier League (England),€4.5M,€88K,56.3,40.4,83.4,44.5,77,MID,208cm,Left
+157979,J. Smith,28,Indonesia,Shaffer-Stevens,Premier League (England),€4.4M,€85K,80.4,57.6,66.3,62.0,77,MID,183cm,Right
+526843,M. Johnson,31,South Africa,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€4.4M,€86K,58.4,33.2,57.1,82.9,77,SPT,174cm,Left
+616971,Greene,24,Rwanda,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€4.4M,€86K,47.4,83.9,55.5,42.0,77,WNG,161cm,Left
+707219,D. Bell,27,Sudan,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€4.7M,€86K,29.2,80.4,61.2,66.7,77,WNG,187cm,Left
+2799,J. Goodman,35,Turks and Caicos Islands,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€4.4M,€85K,55.1,52.0,81.4,62.5,77,DEF,176cm,Left
+158467,K. Jimenez,31,Rwanda,"King, Armstrong and Mack",Premier League (England),€4.3M,€86K,86.0,51.5,51.9,11.7,77,GKP,150cm,Right
+174852,Ricardo Jr.,24,Sudan,Sparks-White,Premier League (England),€4.3M,€85K,10.8,68.7,79.6,19.2,77,MID,210cm,Left
+215881,C. Jackson,28,Thailand,Schneider Inc,Premier League (England),€4.3M,€85K,70.8,26.0,79.7,40.2,77,AMF,154cm,Right
+174935,J. Chapman,33,Sudan,"Henderson, Nichols and Cochran",Premier League (England),€4.2M,€84K,23.0,73.0,77.7,46.2,77,AMF,168cm,Left
+183194,Taylor,34,Turks and Caicos Islands,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€4.4M,€84K,36.3,51.0,80.3,68.5,77,AMF,163cm,Left
+723885,N. Carpenter,21,Liechtenstein,FC Barcelona,Hernandez-White (Thailand),€4M,€83K,34.4,12.6,88.5,44.2,77,GKP,153cm,Right
+445410,H. Ford,24,South Africa,"Willis, Williams and Smith",Hernandez-White (Thailand),€4M,€84K,79.0,50.2,72.0,66.5,77,AMF,206cm,Right
+126093,T. Holder,33,Faroe Islands,"Freeman, Burns and Curtis",Premier League (England),€4.2M,€83K,72.5,48.3,79.0,40.3,77,AMF,174cm,Left
+470216,James Jr.,27,Thailand,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€3.9M,€83K,66.1,31.9,80.9,28.9,77,WNG,164cm,Left
+142780,Brooks,23,Faroe Islands,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€3.9M,€83K,82.4,34.5,50.3,62.1,77,MID,168cm,Left
+413397,N. Barnes,28,South Africa,Lopez-Turner,Brown-White (Somalia),€3.7M,€83K,35.1,84.4,44.5,55.7,77,FWD,208cm,Right
+462641,Russell Jr.,31,Tonga,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€3.7M,€83K,79.0,70.2,69.3,25.4,77,SPT,189cm,Right
+135093,Christopher Jr.,28,Saint Pierre and Miquelon,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€3.7M,€83K,61.2,82.7,39.8,42.5,77,MID,191cm,Left
+94166,Michael Jr.,23,Somalia,"Hill, Wagner and Watkins",Premier League (England),€3.7M,€82K,52.3,21.2,85.5,15.8,77,FWD,209cm,Right
+692237,Paul Jr.,27,Somalia,"Willis, Williams and Smith",Hernandez-White (Thailand),€3.9M,€82K,61.9,71.2,37.2,78.9,77,DMF,161cm,Left
+33147,Ethan Morris,27,Sudan,"Christian, Wallace and Harding",Premier League (England),€3.4M,€81K,50.1,59.0,63.9,79.6,76,MID,181cm,Right
+311726,C. Smith,29,Faroe Islands,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€3.6M,€81K,81.4,55.1,23.2,58.8,76,FWD,192cm,Right
+549378,Z. Smith,27,Faroe Islands,Rios Ltd,Premier League (England),€3.6M,€81K,81.8,41.9,48.3,58.5,76,SPT,169cm,Left
+361037,M. Parker,29,Somalia,Shaffer-Stevens,Premier League (England),€3.3M,€82K,65.1,79.6,14.3,55.2,76,AMF,165cm,Left
+664308,Albert Gonzalez,20,Thailand,FC Barcelona,Hernandez-White (Thailand),€3.3M,€81K,78.8,61.6,60.8,67.1,76,DMF,196cm,Left
+820414,E. Ray,20,Liechtenstein,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€3.3M,€81K,77.4,32.4,73.6,19.5,76,SPT,172cm,Left
+158023,K. Allen,49,South Africa,King LLC,Premier League (England),€3.2M,€81K,63.9,80.0,29.6,16.6,76,DMF,206cm,Left
+419415,D. Barnes,32,Sudan,"King, Armstrong and Mack",Premier League (England),€3.5M,€81K,37.6,73.6,76.9,58.7,76,DEF,188cm,Left
+116523,Chan,22,Somalia,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€3M,€80K,54.7,77.9,69.8,41.8,76,DEF,167cm,Right
+91951,D. Lin,25,South Africa,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€3M,€81K,77.0,27.9,71.6,55.4,76,WNG,189cm,Right
+878618,S. Horton,33,Thailand,Bailey Inc,Premier League (England),€3.3M,€80K,20.6,82.2,58.3,40.4,76,FWD,172cm,Right
+92242,Z. Bell,37,Faroe Islands,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€3.1M,€81K,25.3,67.8,79.4,55.1,76,SPT,157cm,Left
+501923,J. Wolf,38,Indonesia,Sparks-White,Premier League (England),€2.9M,€80K,61.2,60.3,42.3,80.5,76,DMF,194cm,Left
+485958,L. Quinn,27,Indonesia,Hendrix-Leonard,Premier League (England),€3M,€80K,30.8,7.0,88.4,40.2,76,MID,150cm,Right
+608963,D. Johnson,26,South Africa,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€3M,€80K,57.0,69.8,78.4,62.2,76,WNG,189cm,Right
+953197,Andrew Jr.,26,Somalia,"Willis, Williams and Smith",Hernandez-White (Thailand),€2.9M,€80K,73.0,53.6,77.0,20.7,76,FWD,164cm,Left
+142818,M. Murray,35,Rwanda,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€2.9M,€79K,47.5,48.8,73.2,77.6,76,GKP,205cm,Right
+192160,William Thompson,46,Indonesia,"Christian, Wallace and Harding",Premier League (England),€2.8M,€79K,70.6,49.9,66.2,77.9,76,MID,152cm,Right
+856055,S. Smith,35,South Africa,Schneider Inc,Premier League (England),€3M,€80K,25.6,56.9,64.0,80.0,76,SPT,188cm,Right
+262509,Jacob Erickson,35,Sudan,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€2.9M,€80K,45.9,37.6,66.2,77.3,75,DMF,167cm,Right
+156014,J. Johnson,21,Indonesia,"Henderson, Nichols and Cochran",Premier League (England),€2.7M,€79K,54.4,46.9,75.4,72.3,75,SPT,173cm,Right
+745860,C. French,39,Thailand,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€2.7M,€79K,83.4,51.5,16.6,32.9,75,FWD,155cm,Left
+647560,Bowen,39,Liechtenstein,Schneider Inc,Premier League (England),€2.8M,€79K,76.7,55.5,30.1,69.1,75,AMF,199cm,Left
+737751,Gary Jr.,20,Liechtenstein,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€2.9M,€79K,43.5,80.2,43.4,58.1,75,DEF,164cm,Left
+156215,J. Jackson,30,Somalia,King LLC,Premier League (England),€2.6M,€78K,59.7,48.7,80.0,33.9,75,MID,152cm,Right
+336758,M. Smith,44,Sudan,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€2.8M,€79K,83.6,34.2,50.1,26.5,75,DEF,162cm,Left
+770957,Larry Jr.,51,Saint Pierre and Miquelon,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€2.7M,€78K,47.9,28.8,83.8,32.9,75,MID,172cm,Right
+623522,M. Andrade,35,Saint Pierre and Miquelon,"King, Armstrong and Mack",Premier League (England),€2.7M,€79K,50.6,79.5,63.1,56.6,75,GKP,189cm,Right
+894029,Erik Jr.,31,Sudan,Lopez-Turner,Brown-White (Somalia),€2.4M,€78K,63.7,40.4,42.1,78.6,75,WNG,160cm,Right
+509065,Young,29,Sudan,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€2.5M,€78K,54.2,72.7,76.0,54.3,75,WNG,172cm,Left
+427268,M. Wilson,43,Sudan,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€2.4M,€78K,55.5,48.1,81.7,52.4,75,DEF,178cm,Right
+394591,J. Smith,34,Tonga,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€2.4M,€78K,79.2,63.3,55.9,37.8,75,MID,200cm,Right
+533866,Avery,23,Faroe Islands,Rios Ltd,Premier League (England),€2.3M,€78K,34.7,73.2,75.5,50.5,75,AMF,170cm,Right
+714283,G. Moody,27,Somalia,King LLC,Premier League (England),€2.5M,€77K,51.1,77.3,12.7,68.1,75,MID,161cm,Left
+271920,R. Castro,31,Thailand,"Christian, Wallace and Harding",Premier League (England),€2.3M,€77K,30.7,81.5,53.7,50.0,75,SPT,158cm,Right
+738895,J. Ellis,30,Thailand,"Henderson, Nichols and Cochran",Premier League (England),€2.3M,€77K,65.2,71.7,76.1,55.7,75,FWD,161cm,Right
+673586,J. Soto,29,Somalia,"Christian, Wallace and Harding",Premier League (England),€2.1M,€77K,81.2,39.5,57.9,30.9,75,WNG,190cm,Right
+919358,C. Duran,28,Rwanda,Morris Group,Simmons-Johnson (Indonesia),€2.2M,€77K,38.6,52.4,79.8,60.8,75,SPT,173cm,Left
+731107,N. Henry,33,Faroe Islands,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€2.1M,€77K,80.2,14.4,35.5,61.3,75,WNG,191cm,Left
+665936,J. Gates,32,Liechtenstein,"Henderson, Nichols and Cochran",Premier League (England),€2.1M,€77K,35.4,82.1,55.6,19.2,75,MID,167cm,Left
+878940,Schaefer,28,Tonga,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€2M,€77K,26.0,75.8,73.6,52.1,75,MID,150cm,Right
+281009,Frey,26,Indonesia,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€2.2M,€77K,37.9,37.3,32.6,86.9,75,SPT,166cm,Right
+174641,P. Franklin,32,Sudan,Walker Group,Brown-White (Somalia),€2.1M,€76K,76.0,29.4,71.1,45.3,75,AMF,171cm,Left
+797297,S. Fischer,35,Saint Pierre and Miquelon,White-Holland,Lowery-Vasquez (South Africa),€1.9M,€76K,25.6,82.1,54.0,42.1,75,WNG,207cm,Right
+3076,R. Page,37,Liechtenstein,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€1.6M,€76K,56.4,44.7,68.7,77.7,75,DMF,183cm,Right
+855085,K. Nelson,30,Liechtenstein,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€1.8M,€76K,19.7,77.0,67.6,64.4,75,AMF,154cm,Right
+453757,J. Jenkins,40,Thailand,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€1.7M,€76K,81.9,15.4,40.0,56.2,75,WNG,186cm,Left
+429191,J. Garcia,34,Thailand,Walker Group,Brown-White (Somalia),€1.6M,€76K,35.3,79.3,63.2,60.9,75,DEF,205cm,Left
+208108,A. Malone,52,Thailand,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€1.4M,€76K,68.2,59.4,64.3,77.0,75,DMF,201cm,Right
+781866,C. Vasquez,27,Tonga,"Henderson, Nichols and Cochran",Premier League (England),€1.4M,€76K,79.5,53.4,57.8,62.2,75,SPT,194cm,Left
+323454,J. Clay,28,Indonesia,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€1.6M,€76K,57.6,46.6,81.1,30.3,75,WNG,199cm,Left
+647182,S. Smith,35,Indonesia,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€2M,€75K,44.6,54.4,80.6,50.9,74,DMF,174cm,Right
+598081,J. Ross,20,Liechtenstein,King LLC,Premier League (England),€1.3M,€75K,48.2,60.2,79.2,9.0,74,WNG,183cm,Right
+934135,M. Nguyen,21,Saint Pierre and Miquelon,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€1.3M,€75K,76.9,41.6,67.2,42.9,74,WNG,174cm,Right
+876975,D. Oconnor,45,Faroe Islands,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€1.6M,€75K,26.0,68.4,76.0,46.2,74,DMF,183cm,Left
+754110,J. Gill,32,South Africa,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€1.3M,€75K,67.9,46.5,36.6,75.5,74,SPT,181cm,Left
+401890,M. Downs,33,Liechtenstein,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€1M,€74K,62.4,43.1,23.2,78.4,74,GKP,180cm,Right
+369486,Andre Jr.,20,Turks and Caicos Islands,"Henderson, Nichols and Cochran",Premier League (England),€1.1M,€74K,43.2,77.9,61.8,30.5,74,GKP,210cm,Right
+762872,Zachary Williamson,48,Thailand,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€1.4M,€74K,60.4,71.1,74.1,72.7,74,GKP,201cm,Right
+975979,T. Miller,32,Tonga,Sparks-White,Premier League (England),€1.1M,€75K,50.8,77.4,23.4,64.3,74,MID,186cm,Left
+279824,J. Miller,51,Rwanda,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€1.2M,€74K,75.6,68.5,55.4,13.5,74,DMF,191cm,Right
+198389,J. Mcmahon,20,Sudan,Jones-Snyder,Premier League (England),€997K,€74K,39.8,38.6,32.7,85.1,74,SPT,186cm,Right
+263961,Contreras,23,Tonga,Sparks-White,Premier League (England),€1000K,€74K,39.1,75.4,70.4,42.5,74,GKP,161cm,Left
+337979,J. Sanders,20,Rwanda,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€999K,€74K,60.2,48.2,21.8,79.0,74,FWD,202cm,Right
+903301,M. Savage,26,Indonesia,Sparks-White,Premier League (England),€986K,€74K,76.6,57.3,41.1,67.5,74,DEF,159cm,Left
+821714,C. Travis,24,Saint Pierre and Miquelon,FC Barcelona,Hernandez-White (Thailand),€985K,€73K,41.2,80.5,56.3,46.1,74,SPT,157cm,Right
+707102,J. Pena,33,Indonesia,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€992K,€73K,84.0,31.3,42.5,24.5,74,GKP,173cm,Right
+985762,P. Ellis,21,Thailand,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€994K,€74K,47.2,64.7,77.5,47.3,74,DEF,201cm,Left
+461560,B. Coleman,24,Indonesia,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€980K,€73K,69.4,49.7,75.1,45.6,74,SPT,200cm,Right
+584651,Brett Clark,49,Turks and Caicos Islands,Rios Ltd,Premier League (England),€979K,€73K,80.7,55.6,54.2,23.3,74,DMF,180cm,Right
+650243,T. Booker,32,Liechtenstein,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€980K,€73K,33.7,27.6,65.8,77.3,74,DEF,151cm,Right
+150584,A. Sherman,28,Saint Pierre and Miquelon,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€982K,€73K,57.2,19.1,50.6,80.0,74,MID,188cm,Right
+175188,Carroll,43,South Africa,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€995K,€74K,78.5,62.4,42.3,28.5,74,MID,204cm,Left
+724218,T. Little,25,Rwanda,Jones-Snyder,Premier League (England),€978K,€72K,40.9,57.0,34.2,80.3,74,GKP,191cm,Left
+798028,J. Kelly,24,Faroe Islands,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€978K,€72K,52.2,30.0,26.5,80.7,74,DEF,168cm,Right
+3537,K. Lopez,24,Indonesia,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€975K,€72K,57.9,78.9,38.9,25.7,74,AMF,178cm,Left
+241138,S. Morgan,22,South Africa,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€971K,€71K,71.0,31.0,16.8,75.0,74,FWD,194cm,Right
+830997,M. Good,35,Tonga,"Lee, Nguyen and Johnson",Premier League (England),€962K,€71K,62.3,77.9,15.0,60.4,74,DMF,208cm,Left
+257690,G. Yates,21,Rwanda,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€965K,€71K,77.0,51.0,59.3,66.8,74,DMF,178cm,Right
+773903,K. Phillips,21,Thailand,Shaffer-Stevens,Premier League (England),€974K,€71K,67.6,30.0,43.8,76.8,74,GKP,163cm,Right
+438156,Jeffrey Conley,22,Indonesia,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€964K,€71K,23.1,61.1,43.1,78.4,74,MID,160cm,Right
+257973,David Jr.,30,Liechtenstein,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€961K,€71K,24.9,76.0,68.7,40.0,74,FWD,189cm,Left
+327691,S. Williams,31,Rwanda,Hendrix-Leonard,Premier League (England),€962K,€70K,72.5,27.9,73.1,15.2,73,FWD,167cm,Left
+532584,Vincent Jr.,26,Turks and Caicos Islands,Walker Group,Brown-White (Somalia),€961K,€72K,68.2,36.4,27.9,75.2,73,AMF,205cm,Left
+155907,A. Weiss,22,Faroe Islands,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€961K,€71K,47.7,16.4,26.6,81.2,73,GKP,174cm,Right
+180488,Walter Morgan,48,Rwanda,Liverpool,Premier League (England),€959K,€70K,55.9,79.1,27.6,15.0,73,SPT,150cm,Left
+623086,A. Meyers,26,Faroe Islands,"Hill, Wagner and Watkins",Premier League (England),€958K,€70K,49.5,66.1,75.8,51.4,73,FWD,206cm,Right
+647968,B. Melendez,29,Somalia,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€955K,€70K,40.7,55.5,47.6,79.4,73,DMF,164cm,Left
+943135,J. Schmitt,23,Rwanda,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€954K,€70K,56.2,56.5,77.9,35.1,73,WNG,192cm,Left
+541861,M. Gutierrez,30,Rwanda,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€954K,€70K,36.1,47.5,31.8,81.9,73,FWD,209cm,Right
+435407,M. Murphy,29,Faroe Islands,Sparks-White,Premier League (England),€954K,€69K,51.8,62.7,46.7,76.5,73,MID,175cm,Left
+853313,Joseph Jr.,21,Sudan,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€953K,€69K,47.6,58.0,78.6,43.4,73,GKP,197cm,Right
+230815,M. Perez,35,Faroe Islands,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€954K,€69K,41.6,12.3,50.6,80.1,73,AMF,174cm,Right
+689639,Timothy Jr.,24,Saint Pierre and Miquelon,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€942K,€69K,63.2,38.4,76.9,25.0,73,FWD,203cm,Right
+26155,R. Jensen,32,Sudan,Rios Ltd,Premier League (England),€945K,€69K,49.5,64.0,76.6,60.0,73,WNG,150cm,Left
+9778,Michael Jr.,15,Sudan,Lopez-Turner,Brown-White (Somalia),€949K,€70K,58.3,39.1,78.1,11.7,73,DMF,157cm,Left
+313304,R. House,30,South Africa,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€949K,€68K,60.7,27.3,77.4,29.5,73,MID,150cm,Right
+182332,D. Mcfarland,28,Rwanda,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€941K,€69K,76.6,56.6,61.4,13.0,73,DEF,158cm,Right
+403572,C. Miller,30,Thailand,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€937K,€69K,49.2,35.3,80.6,19.7,73,DMF,176cm,Left
+288906,A. Soto,31,Somalia,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€940K,€69K,70.6,34.8,74.0,30.6,73,DMF,208cm,Right
+608485,M. Perez,24,Tonga,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€932K,€68K,23.2,22.5,45.4,81.8,73,DMF,166cm,Right
+198961,J. Hess,29,South Africa,"Christian, Wallace and Harding",Premier League (England),€938K,€67K,14.8,51.0,62.2,77.1,73,AMF,174cm,Right
+936288,J. Lopez,20,Indonesia,FC Barcelona,Hernandez-White (Thailand),€932K,€68K,49.1,43.6,67.0,74.8,73,DMF,171cm,Left
+977320,J. Cruz,25,Somalia,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€934K,€68K,64.9,30.4,32.2,75.3,73,SPT,201cm,Right
+568097,C. Terry,35,Liechtenstein,"Willis, Williams and Smith",Hernandez-White (Thailand),€929K,€67K,46.7,21.5,43.3,82.0,73,WNG,174cm,Right
+486184,A. Singleton,38,Sudan,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€931K,€67K,27.2,21.6,88.5,14.3,73,FWD,185cm,Right
+683086,S. Williams,36,Rwanda,Walker Group,Brown-White (Somalia),€928K,€68K,54.4,79.6,37.4,15.4,73,DMF,174cm,Left
+535675,H. Walker,48,Indonesia,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€927K,€67K,75.0,62.2,68.4,49.3,73,SPT,199cm,Left
+85304,T. Johnson,24,Thailand,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€925K,€67K,51.2,59.6,77.5,45.4,73,FWD,191cm,Left
+470336,C. Wolfe,20,Turks and Caicos Islands,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€924K,€67K,39.5,63.9,75.6,31.8,73,DMF,184cm,Left
+183769,Seth Pena,30,Faroe Islands,"Willis, Williams and Smith",Hernandez-White (Thailand),€927K,€66K,47.4,25.6,36.4,82.0,73,AMF,180cm,Left
+921181,Joseph Jr.,28,Thailand,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€925K,€67K,76.7,61.4,16.1,49.6,73,WNG,174cm,Left
+896933,Donald Jr.,33,Indonesia,"Lee, Nguyen and Johnson",Premier League (England),€913K,€66K,40.2,73.8,69.9,30.3,73,DEF,188cm,Right
+585641,J. Morgan,20,Indonesia,Lopez-Turner,Brown-White (Somalia),€926K,€66K,48.5,73.6,72.1,33.9,73,AMF,195cm,Left
+86016,Nicholas Waller,31,Rwanda,"Hill, Wagner and Watkins",Premier League (England),€916K,€66K,81.1,22.8,24.6,47.1,73,MID,188cm,Left
+57676,J. White,33,South Africa,Lopez-Turner,Brown-White (Somalia),€915K,€67K,38.1,67.9,73.7,68.0,72,SPT,176cm,Left
+360895,J. Vaughn,26,South Africa,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€922K,€66K,58.2,46.0,68.8,73.3,72,WNG,204cm,Right
+369395,M. Jones,28,South Africa,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€911K,€66K,49.5,48.7,14.4,79.8,72,SPT,185cm,Left
+525061,J. Moody,33,Sudan,Manchester United,Premier League (England),€912K,€66K,52.5,57.9,10.2,77.1,72,DMF,167cm,Left
+287530,B. Johnson,33,South Africa,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€912K,€66K,44.0,72.8,56.4,69.7,72,MID,158cm,Right
+541566,S. Summers,26,Turks and Caicos Islands,"Foster, Zimmerman and Mason",Premier League (England),€904K,€66K,75.0,61.2,52.9,38.2,72,FWD,178cm,Left
+459685,R. Leon,20,Thailand,"Henderson, Nichols and Cochran",Premier League (England),€905K,€65K,29.8,77.8,56.2,49.5,72,GKP,161cm,Right
+115657,J. Dawson,22,Sudan,"Henderson, Nichols and Cochran",Premier League (England),€905K,€65K,58.0,44.4,76.4,16.0,72,WNG,178cm,Right
+312607,K. Morales,29,Thailand,FC Barcelona,Hernandez-White (Thailand),€906K,€65K,54.0,49.4,36.0,78.2,72,FWD,167cm,Left
+198093,S. Carpenter,35,South Africa,Morris Group,Simmons-Johnson (Indonesia),€900K,€65K,39.1,68.3,29.1,73.2,72,DEF,177cm,Left
+157383,Henry Hudson,35,Tonga,Morris Group,Simmons-Johnson (Indonesia),€898K,€65K,62.9,74.8,55.2,46.3,72,DEF,204cm,Left
+223082,S. Bauer,25,Indonesia,Schneider Inc,Premier League (England),€897K,€65K,63.5,23.2,29.4,74.6,72,FWD,155cm,Right
+288957,J. Peters,23,Somalia,"Henderson, Nichols and Cochran",Premier League (England),€902K,€65K,47.0,51.5,78.4,35.7,72,GKP,164cm,Right
+657798,J. Rodriguez,21,South Africa,Walker Group,Brown-White (Somalia),€898K,€64K,54.1,29.8,67.7,73.9,72,AMF,171cm,Left
+215505,M. Berry,21,Rwanda,Schneider Inc,Premier League (England),€893K,€64K,39.2,38.3,35.2,82.9,72,SPT,159cm,Right
+616928,R. Walker,44,Saint Pierre and Miquelon,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€897K,€64K,48.2,62.3,28.8,75.3,72,WNG,179cm,Right
+297457,Quinn,26,Thailand,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€897K,€64K,77.3,48.6,22.2,57.6,72,FWD,178cm,Right
+526972,Luna,27,Somalia,FC Barcelona,Hernandez-White (Thailand),€882K,€64K,59.1,16.1,10.3,76.0,72,DEF,164cm,Right
+846651,Jacob Pruitt,34,Faroe Islands,"Henderson, Nichols and Cochran",Premier League (England),€887K,€64K,16.7,52.1,76.7,58.2,72,WNG,183cm,Left
+289679,T. Weiss,34,Somalia,"Freeman, Burns and Curtis",Premier League (England),€881K,€64K,80.2,41.7,47.1,40.1,72,AMF,196cm,Right
+543725,R. Pitts,19,Saint Pierre and Miquelon,FC Barcelona,Hernandez-White (Thailand),€883K,€64K,74.6,59.7,62.2,54.2,72,DMF,208cm,Right
+93486,B. Taylor,24,Liechtenstein,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€896K,€63K,41.2,56.6,17.2,76.5,72,AMF,191cm,Left
+634204,T. Armstrong,26,Liechtenstein,Walker Group,Brown-White (Somalia),€879K,€64K,49.6,78.7,50.3,41.9,72,AMF,175cm,Right
+716147,J. Martin,29,Turks and Caicos Islands,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€879K,€64K,50.9,65.5,74.0,29.9,72,WNG,196cm,Left
+937581,J. Guzman,20,Turks and Caicos Islands,"Christian, Wallace and Harding",Premier League (England),€878K,€63K,57.7,49.9,77.3,27.4,72,AMF,197cm,Left
+896709,T. Vincent,27,Thailand,Morris Group,Simmons-Johnson (Indonesia),€878K,€63K,76.7,41.1,57.0,10.8,72,DMF,175cm,Left
+806636,G. Greene,16,Somalia,Morris Group,Simmons-Johnson (Indonesia),€875K,€63K,38.1,69.9,42.2,73.2,72,AMF,202cm,Right
+913408,Richard Jr.,24,Thailand,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€878K,€63K,62.2,75.2,16.8,60.9,72,MID,189cm,Left
+581919,R. Dunn,26,Thailand,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€875K,€63K,62.5,62.1,74.3,47.4,71,AMF,173cm,Right
+795006,Gabriel Martinez,24,South Africa,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€866K,€63K,52.0,54.0,77.2,19.5,71,SPT,185cm,Left
+524797,M. Young,33,Turks and Caicos Islands,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€863K,€63K,9.8,73.0,65.6,29.7,71,MID,174cm,Left
+197152,K. Miller,33,Turks and Caicos Islands,Walker Group,Brown-White (Somalia),€865K,€63K,75.1,40.1,57.4,48.4,71,DMF,203cm,Left
+746237,M. Stewart,35,South Africa,"Christian, Wallace and Harding",Premier League (England),€866K,€63K,40.0,19.0,69.4,71.8,71,FWD,204cm,Right
+860944,J. Ryan,26,Thailand,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€845K,€62K,74.4,59.9,52.2,36.9,71,SPT,193cm,Left
+836425,M. Flowers,25,Sudan,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€881K,€62K,53.7,36.0,54.2,76.2,71,AMF,168cm,Left
+885615,J. Jenkins,23,Sudan,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€861K,€63K,73.2,57.7,25.5,63.2,71,DMF,172cm,Right
+558106,D. Fox,30,Somalia,Jones-Snyder,Premier League (England),€857K,€63K,48.8,50.8,71.6,68.2,71,FWD,173cm,Right
+246846,R. Martinez,39,Rwanda,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€841K,€62K,56.2,75.1,30.2,60.5,71,WNG,204cm,Left
+296186,Jordan,32,Saint Pierre and Miquelon,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€844K,€62K,35.4,77.0,43.5,53.3,71,FWD,201cm,Right
+83367,J. Mcdowell,23,Indonesia,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€844K,€62K,56.6,13.9,75.5,30.2,71,FWD,164cm,Right
+116224,J. Garcia,29,Saint Pierre and Miquelon,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€852K,€62K,41.6,36.1,62.9,73.4,71,AMF,188cm,Right
+165413,C. Barrett,24,South Africa,Sparks-White,Premier League (England),€845K,€62K,37.7,73.3,44.9,64.1,71,DMF,194cm,Right
+984653,J. Riley,35,Thailand,Morse Group,Premier League (England),€838K,€62K,76.7,47.0,54.7,28.6,71,DEF,180cm,Right
+75347,R. Martinez,32,Indonesia,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€837K,€61K,18.6,75.1,60.2,54.0,71,DMF,152cm,Right
+345703,B. Davis,29,Somalia,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€841K,€62K,59.1,28.9,74.5,31.9,71,AMF,152cm,Left
+124610,J. Sandoval,38,Rwanda,"Lee, Nguyen and Johnson",Premier League (England),€830K,€62K,69.5,60.4,72.1,20.9,71,DEF,155cm,Left
+50952,Le,41,Somalia,Bailey Inc,Premier League (England),€837K,€60K,27.5,34.5,83.2,32.9,71,WNG,185cm,Right
+296733,C. Matthews,32,Liechtenstein,"Christian, Wallace and Harding",Premier League (England),€830K,€60K,14.3,72.5,65.7,40.6,71,DMF,204cm,Left
+632610,S. Day,37,Thailand,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€833K,€61K,71.8,33.4,69.1,9.2,71,MID,178cm,Left
+26621,W. Taylor,28,Faroe Islands,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€826K,€61K,47.8,37.4,14.0,79.0,71,SPT,207cm,Right
+624652,J. Marquez,24,Tonga,"Freeman, Burns and Curtis",Premier League (England),€831K,€60K,67.0,23.1,72.3,37.9,71,FWD,208cm,Left
+936203,Jonathon Jr.,25,Thailand,"King, Armstrong and Mack",Premier League (England),€823K,€60K,71.1,54.3,69.6,37.7,71,AMF,184cm,Left
+182770,G. Orr,23,Indonesia,Sparks-White,Premier League (England),€829K,€60K,50.3,28.2,73.4,61.9,71,DMF,168cm,Left
+797196,Robert Jr.,34,Turks and Caicos Islands,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€821K,€59K,74.6,45.8,60.4,52.2,71,MID,206cm,Left
+764463,Carpenter,25,Rwanda,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€821K,€59K,59.5,53.3,74.7,12.6,71,GKP,184cm,Left
+895589,Fischer,34,Somalia,Walker Group,Brown-White (Somalia),€819K,€60K,68.5,33.4,72.3,54.9,71,AMF,200cm,Left
+92925,Eric Johnson,35,Saint Pierre and Miquelon,Morse Group,Premier League (England),€823K,€60K,47.8,48.1,76.5,53.2,71,AMF,150cm,Right
+510770,J. Taylor,34,Sudan,"Foster, Zimmerman and Mason",Premier League (England),€815K,€59K,59.8,40.4,74.4,10.4,71,DEF,163cm,Right
+527226,A. Hooper,21,Tonga,"Henderson, Nichols and Cochran",Premier League (England),€816K,€58K,59.7,42.4,57.6,75.3,71,FWD,159cm,Left
+396278,S. Huang,35,Somalia,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€819K,€59K,67.3,72.4,29.3,59.7,71,MID,164cm,Left
+961547,M. Morales,23,Thailand,"Willis, Williams and Smith",Hernandez-White (Thailand),€814K,€60K,75.1,44.3,52.5,60.5,71,DEF,205cm,Left
+511008,D. Nguyen,26,Thailand,FC Barcelona,Hernandez-White (Thailand),€807K,€58K,72.3,34.1,68.7,67.8,71,GKP,152cm,Right
+35959,T. Allen,48,Somalia,Hendrix-Leonard,Premier League (England),€808K,€58K,78.5,25.6,49.3,21.4,71,DEF,174cm,Right
+511110,S. Spencer,28,Sudan,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€809K,€58K,54.6,57.1,76.2,50.7,71,GKP,190cm,Right
+322720,B. Nguyen,27,Faroe Islands,Hendrix-Leonard,Premier League (England),€811K,€58K,67.2,72.5,42.8,55.7,71,GKP,191cm,Left
+396564,W. Cannon,54,Turks and Caicos Islands,Schneider Inc,Premier League (England),€797K,€58K,74.4,35.8,60.3,58.0,71,AMF,186cm,Left
+609590,W. Wells,32,Liechtenstein,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€796K,€58K,71.1,43.7,68.9,60.4,71,DMF,157cm,Right
+478531,J. Medina,36,Sudan,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€801K,€58K,74.3,39.3,60.7,61.6,71,SPT,155cm,Left
+732681,C. Ross,31,Sudan,Walker Group,Brown-White (Somalia),€798K,€58K,71.8,47.2,28.7,69.2,71,MID,153cm,Right
+3763,B. Hernandez,32,Sudan,"Christian, Wallace and Harding",Premier League (England),€810K,€57K,77.7,41.7,52.5,50.7,71,DEF,158cm,Left
+544493,Mayo,22,Indonesia,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€790K,€58K,72.7,50.8,26.6,66.6,71,DMF,190cm,Right
+978888,M. Vasquez,48,Thailand,Shaffer-Stevens,Premier League (England),€794K,€57K,46.8,30.2,79.0,36.2,71,AMF,173cm,Left
+573790,L. Ponce,29,Liechtenstein,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€790K,€57K,56.3,52.0,74.9,52.2,70,WNG,155cm,Right
+360878,Fred Leonard,21,South Africa,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€789K,€57K,14.0,45.5,78.8,39.1,70,AMF,186cm,Left
+655814,Travis Jr.,22,Liechtenstein,"Christian, Wallace and Harding",Premier League (England),€789K,€56K,59.1,53.9,63.2,72.5,70,AMF,164cm,Right
+57934,C. Smith,26,Thailand,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€790K,€57K,34.7,71.1,65.3,57.2,70,DMF,171cm,Left
+737895,B. Macdonald,29,Tonga,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€787K,€56K,25.7,72.2,62.2,35.3,70,GKP,181cm,Left
+934675,B. Bean,32,Turks and Caicos Islands,Morse Group,Premier League (England),€775K,€56K,61.1,30.9,41.3,72.6,70,FWD,167cm,Right
+369573,J. Sullivan,26,South Africa,"Lee, Nguyen and Johnson",Premier League (England),€786K,€56K,50.4,61.3,72.4,29.4,70,MID,180cm,Left
+926631,M. Scott,22,South Africa,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€771K,€57K,66.4,43.7,70.9,16.5,70,AMF,167cm,Left
+443394,Derek Jr.,22,Somalia,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€782K,€55K,73.4,50.1,49.6,59.7,70,MID,197cm,Right
+631820,Joseph Rose,18,South Africa,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€771K,€55K,73.4,38.7,28.0,60.3,70,DMF,203cm,Left
+107652,M. Osborn,34,Saint Pierre and Miquelon,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€780K,€55K,71.5,64.9,34.7,26.3,70,AMF,195cm,Left
+967831,S. Evans,27,South Africa,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€768K,€55K,77.6,47.5,47.3,45.6,70,AMF,202cm,Left
+566473,T. Miller,21,Liechtenstein,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€766K,€55K,43.4,30.2,57.4,74.3,70,MID,156cm,Left
+42194,N. Glenn,50,Tonga,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€763K,€55K,74.1,34.9,57.4,39.5,70,WNG,162cm,Left
+361700,K. Harris,34,Liechtenstein,"Foster, Zimmerman and Mason",Premier League (England),€767K,€56K,71.6,43.9,63.6,45.0,70,FWD,172cm,Left
+312772,Leonard Jr.,35,Thailand,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€763K,€55K,37.2,21.4,34.3,80.5,70,FWD,199cm,Right
+689692,Anderson,32,Liechtenstein,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€765K,€54K,43.7,31.8,58.6,74.2,70,SPT,185cm,Right
+739370,J. Gregory,23,Saint Pierre and Miquelon,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€765K,€54K,59.1,31.1,44.7,73.3,70,DEF,157cm,Left
+804934,P. Martin,23,Liechtenstein,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€760K,€54K,64.5,34.4,71.8,10.1,70,GKP,157cm,Right
+903548,V. Jackson,15,Saint Pierre and Miquelon,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€757K,€54K,33.8,33.2,26.3,82.4,70,SPT,173cm,Right
+502215,J. Smith,26,Indonesia,Shaffer-Stevens,Premier League (England),€761K,€54K,32.4,65.9,21.0,71.2,70,DEF,202cm,Left
+740218,D. Myers,20,Saint Pierre and Miquelon,Sparks-White,Premier League (England),€748K,€53K,52.3,71.4,61.0,66.4,70,AMF,198cm,Right
+871297,Richard Cannon,25,Thailand,"Foster, Zimmerman and Mason",Premier League (England),€750K,€53K,67.9,57.9,70.6,17.0,70,SPT,181cm,Right
+887704,T. Whitney,25,South Africa,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€757K,€53K,55.9,43.4,63.0,72.7,70,DMF,172cm,Right
+330809,C. Johnson,28,Somalia,Bailey Inc,Premier League (England),€751K,€53K,33.9,46.3,66.4,71.1,70,DMF,160cm,Left
+60598,Zachary Miller,54,Tonga,Jones-Snyder,Premier League (England),€746K,€53K,48.0,64.8,65.3,72.2,70,GKP,200cm,Left
+896300,B. Cochran,22,Saint Pierre and Miquelon,"Hill, Wagner and Watkins",Premier League (England),€744K,€52K,41.0,56.9,74.9,38.9,70,AMF,207cm,Left
+60842,C. Cohen,23,Sudan,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€739K,€55K,61.2,46.3,73.0,47.8,70,WNG,178cm,Right
+970537,Aaron Jr.,27,Thailand,Lopez-Turner,Brown-White (Somalia),€744K,€53K,49.0,45.3,77.4,17.4,70,SPT,154cm,Right
+237737,Tracy Jr.,37,Rwanda,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€747K,€52K,70.7,36.4,63.4,40.3,69,MID,167cm,Left
+639152,R. Sellers,34,Liechtenstein,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€734K,€52K,46.0,17.6,53.2,74.7,69,WNG,170cm,Right
+999737,R. Callahan,26,Thailand,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€738K,€52K,35.7,24.3,79.6,36.9,69,AMF,210cm,Right
+934287,Gregory Jr.,30,Saint Pierre and Miquelon,"King, Armstrong and Mack",Premier League (England),€732K,€52K,74.4,39.1,52.9,29.5,69,FWD,182cm,Left
+721525,J. Martinez,23,Turks and Caicos Islands,Morse Group,Premier League (England),€731K,€52K,43.6,36.9,77.4,38.6,69,AMF,207cm,Left
+131928,Nathaniel Jr.,20,Indonesia,"Henderson, Nichols and Cochran",Premier League (England),€736K,€52K,71.4,42.3,60.2,22.6,69,SPT,157cm,Right
+812034,J. Rivera,22,Saint Pierre and Miquelon,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€727K,€51K,44.9,32.1,12.9,76.5,69,SPT,190cm,Right
+558097,J. Daniel,21,South Africa,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€730K,€51K,71.0,64.0,55.1,10.3,69,GKP,152cm,Right
+803869,J. Gillespie,27,Rwanda,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€732K,€51K,25.3,21.1,79.6,35.3,69,MID,183cm,Right
+984175,J. Jones,30,South Africa,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€720K,€51K,61.5,55.8,66.5,70.3,69,AMF,160cm,Left
+722880,J. Robinson,32,Sudan,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€717K,€52K,37.4,45.1,75.7,47.1,69,MID,164cm,Right
+18414,B. Ritter,21,Sudan,"Foster, Zimmerman and Mason",Premier League (England),€727K,€51K,37.2,34.0,34.6,79.2,69,GKP,156cm,Right
+600220,Jon Mccormick,53,South Africa,"Lee, Nguyen and Johnson",Premier League (England),€711K,€51K,34.4,19.2,24.3,80.1,69,GKP,210cm,Right
+395488,M. Cervantes,20,Rwanda,Sparks-White,Premier League (England),€713K,€51K,42.0,23.5,68.5,69.7,69,AMF,171cm,Right
+649755,A. Wood,25,Indonesia,Liverpool,Premier League (England),€711K,€49K,62.9,38.9,61.7,71.0,69,WNG,161cm,Right
+289368,S. Kim,20,Turks and Caicos Islands,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€708K,€50K,37.2,73.1,55.1,50.7,69,MID,199cm,Left
+592682,J. Roberts,25,Somalia,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€717K,€49K,29.6,71.4,60.9,20.0,69,AMF,159cm,Left
+52394,W. Cortez,21,Sudan,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€706K,€50K,74.0,35.3,53.4,54.4,69,AMF,168cm,Left
+404654,V. Young,22,Sudan,FC Barcelona,Hernandez-White (Thailand),€707K,€49K,55.8,55.6,73.2,34.1,69,DEF,210cm,Right
+19659,Antonio Jr.,28,Tonga,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€708K,€49K,42.1,73.3,50.7,54.9,69,WNG,169cm,Right
+543978,R. Kelly,26,Sudan,Morris Group,Simmons-Johnson (Indonesia),€705K,€49K,39.1,74.1,16.1,54.3,69,AMF,189cm,Left
+126253,T. Colon,27,Indonesia,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€705K,€49K,74.3,20.8,48.6,51.6,69,WNG,159cm,Left
+978339,G. Curtis,24,Saint Pierre and Miquelon,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€705K,€49K,51.7,38.5,74.6,34.3,69,WNG,176cm,Left
+527781,H. Morales,55,Rwanda,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€701K,€48K,52.2,22.9,64.7,70.5,69,WNG,179cm,Right
+134575,W. Welch,28,Tonga,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€694K,€48K,27.6,74.4,51.3,47.7,69,DMF,156cm,Right
+798442,N. Bell,33,Faroe Islands,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€696K,€49K,41.6,16.4,22.1,78.2,69,DEF,178cm,Right
+970745,W. Salas,34,Turks and Caicos Islands,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€694K,€48K,50.2,55.6,45.3,74.0,69,AMF,185cm,Left
+581652,C. Dennis,24,Saint Pierre and Miquelon,"Freeman, Burns and Curtis",Premier League (England),€702K,€48K,26.3,44.2,76.3,13.6,68,DEF,197cm,Right
+950301,Bryan Jr.,30,Turks and Caicos Islands,"King, Armstrong and Mack",Premier League (England),€691K,€47K,37.1,75.5,45.0,28.0,68,AMF,154cm,Right
+696632,T. Gutierrez,35,Liechtenstein,Morse Group,Premier League (England),€700K,€48K,64.5,8.0,52.3,68.7,68,WNG,168cm,Right
+680298,K. Sandoval,29,Somalia,"Henderson, Nichols and Cochran",Premier League (England),€692K,€47K,13.2,69.6,62.1,60.6,68,DEF,172cm,Left
+737707,B. Frazier,23,Tonga,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€692K,€47K,69.1,40.8,66.3,47.5,68,DEF,158cm,Right
+57794,John Jr.,15,Thailand,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€693K,€46K,65.1,68.6,52.1,42.0,68,FWD,200cm,Left
+213489,D. Weber,26,Faroe Islands,"Willis, Williams and Smith",Hernandez-White (Thailand),€689K,€47K,68.3,34.1,66.8,54.4,68,GKP,206cm,Left
+869059,J. Wilkins,21,Indonesia,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€685K,€46K,56.0,56.2,72.4,32.6,68,FWD,150cm,Right
+287507,J. Bridges,20,South Africa,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€689K,€47K,40.3,64.2,27.9,68.6,68,WNG,174cm,Left
+926536,Contreras,55,Tonga,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€681K,€47K,56.6,58.4,60.1,70.1,68,DEF,158cm,Right
+25458,M. Grant,27,Thailand,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€680K,€46K,48.3,64.6,36.6,68.7,68,GKP,171cm,Right
+451522,T. Howell,40,Faroe Islands,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€684K,€46K,56.3,71.7,36.3,52.3,68,AMF,205cm,Left
+574416,M. Matthews,23,Thailand,Schneider Inc,Premier League (England),€688K,€46K,68.6,11.9,60.6,64.6,68,DMF,182cm,Left
+558175,Gallagher,20,Saint Pierre and Miquelon,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€683K,€45K,49.2,44.1,73.8,10.1,68,FWD,203cm,Right
+132206,Mitchell Jr.,24,Tonga,"Hill, Wagner and Watkins",Premier League (England),€675K,€45K,50.6,32.6,45.1,74.1,68,DEF,196cm,Right
+115851,R. Martinez,34,South Africa,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€674K,€45K,63.2,27.6,69.7,55.7,68,DMF,203cm,Right
+722088,A. Brown,21,Thailand,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€675K,€45K,62.0,56.0,65.8,69.0,68,AMF,189cm,Right
+17868,T. Frederick,23,Turks and Caicos Islands,Shaffer-Stevens,Premier League (England),€674K,€45K,55.7,36.2,72.0,16.2,68,GKP,153cm,Left
+468561,D. Hanson,25,Rwanda,"Hill, Wagner and Watkins",Premier League (England),€668K,€45K,43.1,53.4,72.4,40.1,68,FWD,178cm,Left
+689771,M. Harris,21,Indonesia,Schneider Inc,Premier League (England),€663K,€45K,45.6,8.2,75.8,41.5,68,GKP,157cm,Right
+771790,G. Mcdowell,42,Tonga,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€670K,€45K,29.8,16.2,68.5,65.3,68,DEF,179cm,Right
+1764,J. Allen,21,Sudan,King LLC,Premier League (England),€657K,€44K,64.4,30.6,68.9,19.0,68,AMF,182cm,Left
+722739,John Jr.,34,Sudan,Manchester United,Premier League (England),€662K,€44K,50.2,20.9,73.8,50.0,68,MID,172cm,Right
+395125,M. Stephens,30,Faroe Islands,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€663K,€46K,53.3,47.0,70.4,61.3,68,FWD,207cm,Right
+682048,R. Curry,25,Liechtenstein,Morris Group,Simmons-Johnson (Indonesia),€660K,€44K,70.0,42.9,60.5,19.2,68,FWD,209cm,Right
+591968,T. Villanueva,33,Tonga,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€653K,€43K,43.0,15.3,76.2,41.3,68,AMF,196cm,Right
+551231,M. Ross,22,Thailand,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€655K,€43K,34.1,66.4,68.4,49.0,68,GKP,151cm,Right
+526819,D. Mckee,30,South Africa,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€656K,€44K,30.3,20.6,70.9,58.8,68,GKP,157cm,Right
+969474,J. Carpenter,40,Indonesia,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€655K,€44K,41.5,72.6,55.1,26.7,68,FWD,176cm,Left
+797590,Robert Herring,35,Faroe Islands,Jones-Snyder,Premier League (England),€650K,€43K,53.9,43.6,17.0,72.8,68,DEF,208cm,Right
+314373,M. Smith,34,Tonga,Morris Group,Simmons-Johnson (Indonesia),€651K,€42K,46.4,31.0,31.1,74.6,68,SPT,163cm,Right
+601631,Erik Lewis,21,South Africa,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€658K,€43K,42.4,70.5,59.0,53.9,68,FWD,198cm,Right
+454538,N. Hernandez,28,Liechtenstein,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€651K,€42K,38.3,62.7,58.7,69.1,68,AMF,189cm,Left
+122938,D. King,23,Thailand,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€644K,€42K,66.8,35.5,39.3,66.8,67,MID,208cm,Right
+107049,J. Harrington,31,Thailand,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€646K,€42K,36.6,48.7,70.3,57.3,67,GKP,159cm,Left
+451272,T. Gomez,24,South Africa,White-Holland,Lowery-Vasquez (South Africa),€634K,€43K,51.9,24.7,72.1,36.2,67,MID,169cm,Left
+328407,D. Burns,33,Turks and Caicos Islands,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€651K,€42K,46.6,67.6,65.3,50.4,67,SPT,199cm,Right
+131830,Alan Mclaughlin,53,Sudan,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€636K,€42K,66.8,51.9,66.5,33.4,67,DEF,163cm,Right
+566229,Justin Burch,32,Rwanda,Schneider Inc,Premier League (England),€629K,€42K,18.6,76.7,38.9,32.0,67,GKP,192cm,Right
+541895,V. Thomas,24,Somalia,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€634K,€42K,48.0,16.1,30.9,73.2,67,FWD,161cm,Right
+238907,J. Johnson,24,Faroe Islands,Rios Ltd,Premier League (England),€624K,€42K,76.2,37.8,40.9,22.9,67,FWD,199cm,Right
+910842,M. Andrews,30,Liechtenstein,Jones-Snyder,Premier League (England),€633K,€41K,35.2,50.2,18.5,72.3,67,AMF,197cm,Right
+272205,J. Hudson,30,Faroe Islands,Liverpool,Premier League (England),€621K,€42K,72.6,32.4,48.4,43.1,67,SPT,176cm,Right
+460845,J. Fletcher,21,Liechtenstein,Jones-Snyder,Premier League (England),€616K,€41K,34.7,37.1,32.6,77.6,67,DMF,175cm,Right
+698471,L. Chavez,40,Sudan,Morse Group,Premier League (England),€622K,€41K,65.2,67.3,25.2,33.5,67,DEF,185cm,Left
+673928,J. Johnson,21,Tonga,Morse Group,Premier League (England),€619K,€40K,67.9,48.8,33.5,65.1,67,MID,151cm,Left
+796949,Richard Jr.,35,Liechtenstein,"Hill, Wagner and Watkins",Premier League (England),€613K,€41K,24.5,70.9,55.3,27.5,67,AMF,171cm,Right
+985515,W. Jackson,31,Saint Pierre and Miquelon,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€614K,€41K,52.0,7.4,72.4,35.5,67,DMF,156cm,Right
+494403,Samuel Hicks,33,Indonesia,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€613K,€40K,25.1,53.2,49.4,71.3,67,WNG,180cm,Right
+404316,W. Kelly,39,Sudan,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€609K,€40K,69.8,38.5,29.2,60.1,67,DMF,209cm,Right
+134016,Malik Jr.,29,Tonga,Sparks-White,Premier League (England),€607K,€40K,38.0,32.5,36.5,77.3,67,SPT,199cm,Right
+330642,S. Henderson,22,Thailand,Manchester United,Premier League (England),€613K,€40K,56.5,14.1,30.8,69.9,67,WNG,172cm,Right
+404504,Jordan Jr.,32,Indonesia,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€608K,€41K,68.5,32.4,36.8,64.0,67,SPT,210cm,Left
+527565,D. Gibbs,29,Thailand,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€604K,€40K,68.9,58.3,61.1,9.4,67,FWD,192cm,Right
+642902,K. Jenkins,31,Thailand,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€602K,€40K,67.7,37.3,65.4,28.0,67,WNG,202cm,Left
+794655,Evan Griffith,23,Rwanda,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€614K,€40K,74.0,34.0,34.6,42.7,66,AMF,196cm,Right
+557168,Shaw,40,Sudan,Lopez-Turner,Brown-White (Somalia),€602K,€40K,65.6,28.9,65.9,48.8,66,MID,183cm,Right
+950446,J. Burke,31,Faroe Islands,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€597K,€40K,45.7,73.2,28.6,30.5,66,AMF,203cm,Left
+950466,W. Shaw,32,Saint Pierre and Miquelon,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€598K,€39K,62.9,16.3,67.4,56.7,66,GKP,203cm,Right
+966938,J. Christensen,31,South Africa,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€606K,€39K,68.8,22.1,40.7,59.0,66,FWD,191cm,Right
+762692,Garner,22,Rwanda,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€601K,€39K,67.4,58.1,60.0,26.2,66,WNG,200cm,Left
+189612,B. Sweeney,28,Faroe Islands,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€587K,€39K,57.7,39.1,68.8,44.8,66,FWD,203cm,Right
+107749,S. Ward,28,Thailand,Shaffer-Stevens,Premier League (England),€597K,€40K,33.9,29.3,41.0,73.9,66,FWD,176cm,Right
+615684,T. Johnson,22,South Africa,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€581K,€39K,66.2,41.6,64.4,41.7,66,SPT,171cm,Left
+951616,John Jr.,29,Thailand,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€580K,€39K,62.3,67.7,39.4,59.9,66,WNG,209cm,Left
+705992,D. Garcia,32,Saint Pierre and Miquelon,FC Barcelona,Hernandez-White (Thailand),€577K,€39K,66.4,7.5,47.9,63.0,66,FWD,184cm,Left
+329312,Mark Gonzalez,32,Turks and Caicos Islands,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€597K,€39K,20.2,46.9,51.4,70.2,66,AMF,194cm,Right
+632421,T. Garcia,29,South Africa,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€580K,€39K,66.9,26.4,22.7,62.1,66,GKP,161cm,Right
+689824,David Avila,30,Thailand,Bailey Inc,Premier League (England),€579K,€39K,57.7,16.3,55.4,68.4,66,DEF,190cm,Left
+903031,D. Crawford,31,Saint Pierre and Miquelon,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€580K,€38K,41.5,70.9,50.3,13.0,66,WNG,178cm,Right
+985030,E. Hall,50,South Africa,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€574K,€39K,55.2,61.3,67.3,38.0,66,DMF,186cm,Left
+706558,Douglas,20,Liechtenstein,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€574K,€38K,66.4,64.9,29.9,42.0,66,DMF,184cm,Left
+469294,J. Lee,20,Sudan,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€574K,€38K,39.1,57.7,59.1,68.3,66,AMF,207cm,Left
+993730,M. Sanford,29,Rwanda,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€565K,€37K,63.5,66.4,57.8,48.9,66,SPT,165cm,Right
+895429,N. Johnson,23,Indonesia,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€567K,€38K,38.5,50.7,70.7,45.5,66,MID,155cm,Left
+494040,H. Martinez,35,Rwanda,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€577K,€38K,66.6,46.7,59.0,62.4,66,MID,206cm,Right
+43502,B. White,24,Sudan,King LLC,Premier League (England),€568K,€38K,24.8,66.9,63.7,52.5,66,DMF,196cm,Right
+600655,Church,32,Faroe Islands,"Freeman, Burns and Curtis",Premier League (England),€563K,€37K,41.2,58.2,68.1,59.3,66,MID,173cm,Left
+772952,A. Huber,22,Saint Pierre and Miquelon,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€564K,€37K,38.3,69.0,47.3,57.7,66,DEF,185cm,Left
+846760,D. Perez,35,Sudan,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€567K,€37K,50.4,26.4,70.8,40.1,66,GKP,169cm,Right
+560157,Moran,44,Rwanda,Rios Ltd,Premier League (England),€564K,€36K,45.3,72.1,46.1,32.1,66,DMF,204cm,Right
+920728,J. Davis,50,Turks and Caicos Islands,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€564K,€36K,33.4,33.5,71.0,49.3,66,GKP,188cm,Right
+108109,Alexander Jr.,28,Sudan,Lopez-Turner,Brown-White (Somalia),€556K,€36K,52.8,23.9,55.2,69.5,66,AMF,193cm,Left
+732587,Craig Jr.,31,Sudan,Jones-Snyder,Premier League (England),€558K,€36K,46.3,46.8,71.9,18.7,66,AMF,178cm,Left
+585204,D. Hill,27,Liechtenstein,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€557K,€36K,25.0,73.4,40.4,44.1,66,WNG,170cm,Right
+11950,James King,32,Saint Pierre and Miquelon,"King, Armstrong and Mack",Premier League (England),€553K,€36K,25.3,38.6,39.9,75.2,66,DEF,160cm,Right
+921269,Mccarthy,32,Rwanda,"Hill, Wagner and Watkins",Premier League (England),€552K,€35K,55.0,58.7,68.6,34.5,66,DEF,150cm,Right
+12066,E. Smith,33,Somalia,"Christian, Wallace and Harding",Premier League (England),€552K,€36K,44.9,46.1,72.3,19.3,66,SPT,194cm,Left
+69462,R. Perry,20,South Africa,"Foster, Zimmerman and Mason",Premier League (England),€557K,€36K,48.4,61.3,68.0,26.1,66,WNG,175cm,Left
+802980,T. Vargas,35,Somalia,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€547K,€35K,38.7,18.8,73.6,35.8,65,GKP,181cm,Right
+491729,E. Munoz,38,Sudan,Morris Group,Simmons-Johnson (Indonesia),€551K,€34K,50.0,23.6,67.4,56.0,65,WNG,156cm,Left
+467168,Johnson,35,Saint Pierre and Miquelon,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€546K,€35K,17.9,75.8,33.1,8.0,65,DMF,166cm,Right
+786685,J. Johnston,31,Tonga,King LLC,Premier League (England),€549K,€34K,62.8,31.9,65.4,48.4,65,AMF,154cm,Left
+16668,D. Miller,27,Liechtenstein,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€525K,€34K,20.2,30.1,48.5,70.0,65,SPT,164cm,Right
+41288,K. Price,28,Somalia,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€528K,€34K,55.9,45.3,56.5,67.5,65,WNG,199cm,Left
+57761,Jacob Jr.,35,Sudan,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€540K,€34K,68.1,30.0,56.9,43.8,65,DEF,200cm,Right
+156078,Lozano,24,Saint Pierre and Miquelon,"Freeman, Burns and Curtis",Premier League (England),€552K,€34K,22.5,17.9,60.1,66.5,65,SPT,183cm,Right
+131655,D. Reyes,30,Somalia,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€522K,€33K,51.0,54.1,58.8,67.2,65,MID,201cm,Left
+541493,Matthew Stevens,27,South Africa,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€523K,€33K,67.9,56.8,50.8,14.7,65,GKP,189cm,Right
+975681,D. Stevens,35,Sudan,"Christian, Wallace and Harding",Premier League (England),€522K,€34K,65.3,32.8,29.1,64.9,65,SPT,151cm,Left
+99527,Darin Jr.,30,Turks and Caicos Islands,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€522K,€33K,48.1,30.1,20.0,70.9,65,DEF,165cm,Right
+197947,J. Casey,23,Turks and Caicos Islands,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€521K,€33K,61.9,65.4,62.7,56.9,65,WNG,153cm,Left
+918949,W. Koch,20,Indonesia,"Willis, Williams and Smith",Hernandez-White (Thailand),€546K,€33K,40.9,55.0,68.2,52.7,65,DEF,157cm,Right
+444074,E. Garrett,34,Thailand,Hendrix-Leonard,Premier League (England),€517K,€32K,63.0,36.0,65.9,57.2,65,FWD,151cm,Right
+911066,M. Griffin,26,South Africa,Morse Group,Premier League (England),€516K,€33K,12.7,52.2,38.7,69.2,65,FWD,170cm,Right
+67562,Williamson,32,Saint Pierre and Miquelon,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€511K,€32K,28.6,19.5,31.8,76.7,65,SPT,201cm,Right
+182262,Johnson,31,Faroe Islands,White-Holland,Lowery-Vasquez (South Africa),€518K,€32K,41.8,36.9,73.1,40.9,65,FWD,176cm,Left
+198767,J. Marquez,41,Tonga,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€510K,€32K,58.6,65.8,61.5,64.5,65,GKP,177cm,Right
+641149,Darrell Jr.,23,Somalia,"Christian, Wallace and Harding",Premier League (England),€513K,€32K,41.1,53.1,46.6,68.9,65,DMF,191cm,Left
+944567,J. Sanchez,16,Tonga,White-Holland,Lowery-Vasquez (South Africa),€509K,€31K,18.9,40.9,40.5,73.1,65,FWD,155cm,Right
+84953,R. Chang,32,Faroe Islands,"Henderson, Nichols and Cochran",Premier League (England),€508K,€31K,42.7,72.6,27.1,42.0,65,FWD,156cm,Left
+863363,Odom,15,Indonesia,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€507K,€31K,28.5,66.7,60.8,51.4,65,SPT,183cm,Left
+3567,J. White,24,Turks and Caicos Islands,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€510K,€32K,55.7,61.0,66.5,18.3,65,GKP,206cm,Left
+749303,S. Oneill,25,Rwanda,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€499K,€31K,69.0,34.4,46.1,53.5,65,AMF,151cm,Right
+659325,Salazar,30,Tonga,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€505K,€30K,67.7,53.0,37.2,57.6,65,AMF,175cm,Left
+610317,M. Rodriguez,24,Thailand,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€505K,€33K,66.5,45.2,60.9,28.5,65,FWD,151cm,Left
+860213,Williams,31,Thailand,"Hill, Wagner and Watkins",Premier League (England),€498K,€30K,32.5,63.5,63.8,50.9,64,DEF,204cm,Right
+114779,A. Patrick,24,Sudan,Liverpool,Premier League (England),€498K,€30K,47.0,32.8,32.9,69.3,64,DMF,192cm,Right
+24670,T. Walker,17,Thailand,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€497K,€30K,64.5,61.6,49.0,53.0,64,DEF,154cm,Right
+876851,T. Walker,25,Faroe Islands,Morris Group,Simmons-Johnson (Indonesia),€492K,€30K,58.4,65.6,49.3,34.0,64,MID,183cm,Right
+721427,F. Juarez,55,Tonga,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€492K,€30K,39.4,55.3,66.8,39.4,64,AMF,156cm,Right
+606921,David Ward,25,Tonga,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€487K,€29K,31.5,60.2,65.6,33.4,64,MID,152cm,Left
+492684,E. Smith,30,Faroe Islands,Bailey Inc,Premier League (England),€483K,€29K,68.8,35.6,27.2,47.9,64,DEF,196cm,Right
+83098,P. Maxwell,30,Somalia,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€491K,€29K,68.7,33.9,50.4,31.9,64,WNG,195cm,Left
+951469,Jason Forbes,29,Thailand,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€489K,€30K,31.8,62.9,64.6,42.2,64,DEF,157cm,Right
+132299,J. Murphy,27,Saint Pierre and Miquelon,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€478K,€29K,57.0,41.8,41.2,66.4,64,AMF,181cm,Right
+918823,P. Barr,27,Liechtenstein,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€481K,€28K,18.6,72.2,40.9,34.0,64,FWD,166cm,Right
+402767,D. Gordon,27,Rwanda,"Hill, Wagner and Watkins",Premier League (England),€483K,€30K,66.4,43.2,53.2,57.4,64,DMF,156cm,Right
+394797,D. Scott,29,Turks and Caicos Islands,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€479K,€28K,62.7,64.3,21.9,53.0,64,GKP,180cm,Right
+591408,T. Mcdowell,35,Thailand,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€477K,€28K,32.7,27.7,46.9,69.3,64,GKP,203cm,Right
+9799,N. Anderson,45,Saint Pierre and Miquelon,"King, Armstrong and Mack",Premier League (England),€475K,€28K,68.0,29.8,53.4,49.5,64,WNG,181cm,Left
+190034,T. Fuller,45,Sudan,King LLC,Premier League (England),€480K,€28K,16.1,63.5,64.4,60.3,64,DEF,190cm,Left
+50830,J. Hopkins,29,Sudan,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€478K,€28K,65.7,35.6,51.6,56.9,64,MID,203cm,Left
+116498,Phillips,31,Turks and Caicos Islands,Jones-Snyder,Premier League (England),€466K,€28K,59.0,29.7,13.5,65.2,64,MID,198cm,Right
+403296,C. Carson,24,Liechtenstein,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€474K,€27K,44.6,45.0,70.3,43.2,64,DEF,205cm,Left
+296852,C. Mcdaniel,25,Saint Pierre and Miquelon,"Lee, Nguyen and Johnson",Premier League (England),€470K,€27K,50.3,52.1,56.5,66.8,64,FWD,150cm,Right
+173982,Smith,27,Saint Pierre and Miquelon,Hendrix-Leonard,Premier League (England),€467K,€27K,26.9,45.8,59.0,66.0,64,AMF,198cm,Right
+321462,S. Sanchez,24,Indonesia,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€462K,€26K,43.8,30.6,53.5,67.0,64,AMF,204cm,Right
+804856,Brian Spencer,26,Thailand,Morris Group,Simmons-Johnson (Indonesia),€468K,€26K,58.5,33.4,66.1,41.6,64,WNG,202cm,Left
+878794,M. Cain,17,South Africa,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€461K,€26K,48.2,22.1,46.1,69.3,64,FWD,182cm,Right
+51677,M. Payne,24,Somalia,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€461K,€27K,51.4,23.6,32.1,68.6,64,DMF,156cm,Left
+609470,J. Garcia,37,Rwanda,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€455K,€25K,62.4,63.9,61.8,64.5,64,WNG,190cm,Left
+732599,A. Kim,35,Rwanda,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€451K,€25K,54.7,66.6,56.8,44.9,64,SPT,168cm,Right
+560715,M. Choi,26,Turks and Caicos Islands,Shaffer-Stevens,Premier League (England),€460K,€25K,58.9,60.2,62.4,64.9,64,SPT,207cm,Left
+44774,E. Crawford,21,Faroe Islands,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€464K,€26K,68.7,11.7,49.8,46.5,64,DEF,172cm,Left
+790374,Lewis,22,Somalia,Schneider Inc,Premier League (England),€449K,€25K,61.4,32.6,45.3,64.3,64,MID,196cm,Left
+929725,J. Clark,29,Faroe Islands,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€446K,€25K,22.8,66.0,56.9,22.4,64,AMF,163cm,Left
+135157,D. Elliott,22,Sudan,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€447K,€25K,27.2,66.3,59.0,59.0,64,WNG,205cm,Left
+565407,S. Williams,50,South Africa,White-Holland,Lowery-Vasquez (South Africa),€456K,€25K,42.4,59.2,64.1,49.3,63,MID,155cm,Left
+902126,Bryan Nunez,34,Indonesia,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€437K,€24K,67.1,45.7,42.0,52.2,63,DMF,154cm,Left
+189458,Timothy Stewart,32,South Africa,"Lee, Nguyen and Johnson",Premier League (England),€449K,€24K,11.0,46.8,43.4,68.3,63,DEF,174cm,Right
+181706,M. Trevino,20,Turks and Caicos Islands,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€436K,€25K,63.6,58.0,62.2,57.3,63,FWD,190cm,Right
+550382,N. Anderson,30,Turks and Caicos Islands,"Foster, Zimmerman and Mason",Premier League (England),€444K,€24K,42.8,34.1,68.0,49.6,63,GKP,193cm,Right
+755349,W. Hobbs,23,Liechtenstein,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€434K,€24K,45.6,62.0,56.6,63.5,63,DEF,170cm,Left
+263926,Clark,26,Sudan,Rios Ltd,Premier League (England),€437K,€24K,42.6,64.9,58.8,40.9,63,WNG,203cm,Right
+575241,Serrano,26,Sudan,"Henderson, Nichols and Cochran",Premier League (England),€433K,€23K,31.4,17.5,29.0,74.1,63,AMF,159cm,Right
+378679,M. Goodman,33,Saint Pierre and Miquelon,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€434K,€23K,65.8,45.2,46.9,56.0,63,DMF,153cm,Right
+968549,J. Cobb,25,Faroe Islands,Morris Group,Simmons-Johnson (Indonesia),€430K,€23K,13.7,48.1,63.2,63.3,63,AMF,182cm,Right
+862187,Singh,33,South Africa,Walker Group,Brown-White (Somalia),€428K,€23K,63.2,57.0,54.0,61.5,63,FWD,207cm,Right
+370949,C. Potts,31,Tonga,"Christian, Wallace and Harding",Premier League (England),€433K,€23K,55.7,45.7,65.8,53.5,63,WNG,183cm,Right
+428413,Tyler Jr.,46,Indonesia,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€431K,€24K,66.3,30.1,29.4,52.2,63,SPT,201cm,Right
+371368,D. Elliott,25,Thailand,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€427K,€23K,19.7,52.6,67.0,51.1,63,DMF,158cm,Left
+289812,J. Myers,20,Liechtenstein,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€419K,€23K,22.4,53.5,40.9,65.8,63,DMF,150cm,Right
+404590,Wilkinson,23,Faroe Islands,Morse Group,Premier League (England),€422K,€23K,64.8,29.6,32.5,56.1,63,MID,196cm,Right
+953770,Barker,23,Sudan,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€424K,€23K,39.0,46.9,67.5,49.9,63,AMF,207cm,Left
+388537,Andrew Jr.,40,Liechtenstein,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€413K,€23K,66.5,51.4,53.1,45.7,63,DMF,167cm,Right
+118243,Davis,46,Faroe Islands,"Freeman, Burns and Curtis",Premier League (England),€410K,€22K,61.2,60.2,64.2,41.4,63,GKP,192cm,Left
+445963,A. Rose,34,Thailand,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€426K,€22K,39.5,36.4,64.8,56.9,63,FWD,203cm,Right
+642722,Russell,21,Liechtenstein,"Freeman, Burns and Curtis",Premier League (England),€413K,€22K,55.7,18.5,30.1,64.9,63,SPT,162cm,Right
+585409,S. Peterson,27,Thailand,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€405K,€22K,64.2,35.2,55.2,58.2,63,AMF,193cm,Right
+671813,R. Curry,30,Faroe Islands,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€410K,€22K,49.1,65.5,50.5,42.7,62,GKP,155cm,Left
+303380,W. Paul,30,Thailand,Walker Group,Brown-White (Somalia),€407K,€23K,55.5,37.5,64.5,35.7,62,DMF,171cm,Right
+500089,E. Williams,23,Rwanda,"Freeman, Burns and Curtis",Premier League (England),€408K,€22K,23.2,44.8,67.5,14.6,62,SPT,196cm,Right
+991677,D. Rubio,22,Saint Pierre and Miquelon,Bailey Inc,Premier League (England),€401K,€21K,72.4,28.6,28.8,29.4,62,AMF,173cm,Left
+74318,J. Huynh,31,Thailand,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€403K,€22K,61.8,49.6,58.1,62.4,62,SPT,198cm,Left
+860857,Davies,34,Liechtenstein,Rios Ltd,Premier League (England),€401K,€21K,44.8,26.5,68.4,35.3,62,DMF,182cm,Right
+287767,Jacob Ward,35,Rwanda,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€401K,€21K,66.0,49.2,47.9,21.9,62,AMF,161cm,Right
+246872,B. Young,23,Faroe Islands,Walker Group,Brown-White (Somalia),€399K,€21K,52.9,47.7,65.0,32.3,62,SPT,150cm,Right
+500826,N. Miller,32,Saint Pierre and Miquelon,Rios Ltd,Premier League (England),€401K,€21K,62.3,40.7,52.0,59.8,62,SPT,158cm,Right
+460242,Joel Shannon,24,Somalia,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€396K,€21K,38.2,59.5,55.8,62.3,62,DMF,150cm,Left
+157292,R. Eaton,35,South Africa,"Freeman, Burns and Curtis",Premier League (England),€395K,€21K,28.5,52.0,65.8,27.2,62,DEF,164cm,Left
+280258,D. Taylor,55,Somalia,"Willis, Williams and Smith",Hernandez-White (Thailand),€393K,€21K,62.7,59.6,37.7,15.6,62,SPT,198cm,Left
+550787,G. Garcia,34,Liechtenstein,King LLC,Premier League (England),€394K,€21K,33.4,23.9,53.1,65.4,62,DMF,158cm,Right
+870499,R. Anderson,34,Turks and Caicos Islands,Schneider Inc,Premier League (England),€394K,€22K,67.7,32.9,18.3,45.8,62,DEF,202cm,Left
+313507,S. Griffin,26,Tonga,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€389K,€21K,62.4,26.4,61.1,29.5,62,SPT,200cm,Right
+469268,D. Morales,25,Tonga,Morris Group,Simmons-Johnson (Indonesia),€380K,€21K,67.2,44.6,42.7,42.8,62,DEF,210cm,Left
+977422,M. Griffin,33,Thailand,King LLC,Premier League (England),€377K,€20K,63.1,43.0,56.9,33.7,62,GKP,162cm,Right
+559673,J. Smith,25,Indonesia,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€389K,€20K,22.2,60.6,62.0,59.1,62,SPT,164cm,Right
+330434,J. Martin,30,Thailand,"Hill, Wagner and Watkins",Premier League (England),€409K,€19K,45.7,51.1,18.0,65.7,62,AMF,194cm,Left
+363262,R. Nunez,45,Thailand,Schneider Inc,Premier League (England),€387K,€19K,48.8,19.0,66.1,43.0,62,WNG,203cm,Right
+781143,S. Savage,31,South Africa,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€376K,€20K,53.5,45.5,64.7,55.7,62,DEF,157cm,Right
+584576,Phillips,35,Liechtenstein,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€374K,€19K,67.9,22.3,24.2,44.5,62,DMF,183cm,Left
+969705,T. Brown,22,Tonga,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€375K,€19K,59.1,40.3,63.5,20.1,62,DEF,184cm,Left
+748669,J. Jimenez,45,Rwanda,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€364K,€19K,58.8,20.3,62.1,62.2,62,SPT,160cm,Left
+814343,C. Collins,35,Tonga,Lopez-Turner,Brown-White (Somalia),€372K,€18K,66.6,33.1,28.5,47.4,62,DEF,177cm,Left
+118319,C. Marks,16,Sudan,Bailey Inc,Premier League (England),€370K,€18K,64.2,15.2,48.4,54.6,62,GKP,185cm,Right
+839244,King,26,Liechtenstein,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€367K,€18K,46.8,32.2,63.5,58.2,62,AMF,178cm,Left
+765838,T. Robinson,30,Tonga,Sparks-White,Premier League (England),€361K,€18K,35.6,58.8,62.4,39.1,62,MID,157cm,Left
+151556,R. Lopez,28,Rwanda,Hendrix-Leonard,Premier League (England),€358K,€18K,67.3,33.7,38.2,47.8,62,GKP,150cm,Right
+38,J. Morales,30,Rwanda,Walker Group,Brown-White (Somalia),€359K,€18K,52.4,27.4,63.6,40.4,61,GKP,175cm,Right
+287282,C. Reynolds,21,Saint Pierre and Miquelon,Sparks-White,Premier League (England),€375K,€18K,46.9,22.9,44.4,65.3,61,AMF,176cm,Right
+713368,J. Smith,27,Indonesia,Shaffer-Stevens,Premier League (England),€357K,€18K,63.0,41.6,56.8,39.1,61,SPT,202cm,Right
+582437,Burns,37,Faroe Islands,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€356K,€18K,56.7,18.5,62.8,43.3,61,FWD,179cm,Right
+680813,Burns,21,Thailand,"Hill, Wagner and Watkins",Premier League (England),€355K,€18K,64.4,51.7,26.9,19.7,61,DEF,159cm,Left
+82893,J. Collins,29,Liechtenstein,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€358K,€18K,61.5,51.0,53.1,59.5,61,MID,201cm,Left
+296062,K. Clark,17,Rwanda,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€350K,€17K,49.4,42.4,64.5,42.7,61,SPT,172cm,Left
+492729,Anderson,45,Thailand,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€346K,€18K,40.2,34.7,53.4,63.6,61,WNG,202cm,Right
+337260,A. Hall,31,Liechtenstein,Schneider Inc,Premier League (England),€356K,€17K,43.1,57.8,61.6,38.7,61,AMF,175cm,Left
+665019,R. Sherman,30,Sudan,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€353K,€17K,48.4,55.5,18.8,62.9,61,SPT,174cm,Right
+452146,R. Liu,27,Faroe Islands,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€344K,€17K,62.8,49.3,56.9,9.5,61,DEF,205cm,Left
+125246,Andres Jr.,31,Rwanda,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€344K,€17K,63.3,33.8,27.2,53.8,61,AMF,210cm,Left
+51653,B. Warren,46,Somalia,Sparks-White,Premier League (England),€345K,€17K,50.7,14.1,46.5,64.2,61,GKP,204cm,Right
+190965,Richard Ortiz,30,Sudan,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€345K,€17K,65.6,36.4,43.9,47.8,61,DMF,180cm,Right
+388018,C. Turner,32,Turks and Caicos Islands,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€349K,€16K,58.7,17.6,61.7,35.7,61,GKP,209cm,Right
+265147,J. Friedman,50,South Africa,Hendrix-Leonard,Premier League (England),€337K,€16K,50.1,54.6,38.0,63.0,61,DEF,202cm,Right
+306130,A. Harrison,33,Faroe Islands,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€331K,€16K,54.6,63.8,50.4,29.1,61,AMF,184cm,Left
+158810,Rogers,28,Saint Pierre and Miquelon,Lopez-Turner,Brown-White (Somalia),€342K,€16K,29.0,26.4,65.4,47.4,61,MID,151cm,Right
+437620,Edward Hendrix,20,Sudan,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€321K,€16K,63.0,41.1,47.2,53.1,61,AMF,180cm,Right
+511380,J. Schroeder,23,Thailand,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€321K,€15K,50.4,62.6,57.9,45.3,61,DEF,208cm,Left
+142758,H. Hahn,26,Tonga,"King, Armstrong and Mack",Premier League (England),€324K,€17K,36.1,50.5,63.2,55.5,61,AMF,174cm,Right
+192174,S. Richard,29,Turks and Caicos Islands,Morse Group,Premier League (England),€340K,€16K,33.1,47.4,64.9,26.7,61,GKP,189cm,Left
+675612,M. Graham,29,Somalia,Schneider Inc,Premier League (England),€319K,€15K,22.2,71.0,29.3,15.1,61,MID,184cm,Right
+347951,D. Miller,29,Indonesia,Rios Ltd,Premier League (England),€322K,€15K,61.3,57.8,60.1,18.5,61,FWD,188cm,Right
+462676,David Jr.,33,Faroe Islands,"Foster, Zimmerman and Mason",Premier League (England),€319K,€16K,57.1,42.7,61.7,30.7,61,GKP,170cm,Left
+148038,G. Cunningham,54,Tonga,"Hill, Wagner and Watkins",Premier League (England),€318K,€15K,24.0,60.9,55.3,8.0,60,DMF,171cm,Right
+737961,J. Goodwin,35,Indonesia,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€312K,€15K,44.8,53.3,57.6,60.7,60,DEF,164cm,Left
+967383,Robert Jr.,33,Thailand,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€313K,€15K,64.6,45.8,22.3,33.2,60,MID,197cm,Left
+606988,Garner,24,Liechtenstein,Walker Group,Brown-White (Somalia),€315K,€15K,12.6,21.7,46.0,64.5,60,GKP,168cm,Right
+369544,M. Cameron,23,Somalia,Shaffer-Stevens,Premier League (England),€317K,€15K,62.7,52.6,35.9,45.2,60,WNG,172cm,Left
+156913,C. Taylor,27,Indonesia,Rios Ltd,Premier League (England),€307K,€15K,28.8,68.5,35.7,34.4,60,GKP,155cm,Right
+730604,Steven Jr.,33,South Africa,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€311K,€15K,62.0,23.6,51.5,53.7,60,WNG,173cm,Left
+796216,D. Hopkins,27,Somalia,"Foster, Zimmerman and Mason",Premier League (England),€312K,€15K,63.9,29.0,49.1,22.6,60,DMF,176cm,Right
+501922,A. Alvarez,29,Saint Pierre and Miquelon,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€308K,€14K,60.8,59.4,52.0,24.5,60,DEF,166cm,Left
+166156,M. Clay,28,South Africa,Jones-Snyder,Premier League (England),€300K,€14K,20.6,70.4,30.7,27.9,60,DMF,156cm,Right
+854423,Samuel Jr.,25,Saint Pierre and Miquelon,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€298K,€14K,60.4,26.6,60.3,50.4,60,FWD,181cm,Right
+879026,W. Lewis,28,Indonesia,Walker Group,Brown-White (Somalia),€310K,€14K,57.4,30.4,59.7,60.0,60,GKP,191cm,Left
+133612,J. Rivers,26,Somalia,Walker Group,Brown-White (Somalia),€302K,€14K,48.1,27.0,61.7,54.8,60,MID,210cm,Left
+2636,Johnson,29,Liechtenstein,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€305K,€14K,67.7,36.9,34.1,12.3,60,WNG,208cm,Right
+420468,C. Simpson,27,Faroe Islands,Hendrix-Leonard,Premier League (England),€298K,€14K,63.5,32.3,14.2,49.1,60,GKP,194cm,Left
+699057,J. Brown,35,South Africa,"Lee, Nguyen and Johnson",Premier League (England),€298K,€14K,50.2,22.9,59.8,59.4,60,FWD,169cm,Left
+240519,Charles Jr.,30,Faroe Islands,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€296K,€14K,56.1,55.9,24.0,61.4,60,SPT,172cm,Right
+977852,P. Romero,23,South Africa,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€288K,€14K,55.1,37.8,62.0,41.2,60,AMF,195cm,Left
+724334,Rogers,35,Rwanda,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€286K,€14K,53.3,33.9,38.7,62.8,60,DMF,197cm,Right
+707978,D. Mills,35,Saint Pierre and Miquelon,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€281K,€14K,55.5,62.1,52.0,20.6,60,DEF,176cm,Right
+11780,J. Dennis,34,Thailand,FC Barcelona,Hernandez-White (Thailand),€286K,€14K,62.4,53.7,39.0,31.4,60,FWD,170cm,Right
+609798,C. Lyons,23,Saint Pierre and Miquelon,"Willis, Williams and Smith",Hernandez-White (Thailand),€280K,€14K,60.9,57.2,57.1,40.1,60,FWD,197cm,Right
+773659,J. Duran,24,South Africa,Bailey Inc,Premier League (England),€274K,€13K,42.0,58.1,60.6,18.6,60,MID,184cm,Left
+266160,J. Johnson,35,Tonga,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€274K,€14K,62.6,15.9,37.2,51.1,60,GKP,202cm,Left
+36831,Matthew Jr.,32,Faroe Islands,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€298K,€13K,60.8,30.6,57.5,28.7,60,GKP,195cm,Left
+761973,T. Smith,26,Rwanda,Shaffer-Stevens,Premier League (England),€272K,€12K,49.3,62.7,36.8,22.4,59,GKP,199cm,Left
+32993,J. Blair,24,Liechtenstein,Morris Group,Simmons-Johnson (Indonesia),€271K,€12K,60.3,34.2,54.8,18.2,59,GKP,209cm,Right
+590340,J. Williams,35,Faroe Islands,Shaffer-Stevens,Premier League (England),€277K,€13K,38.9,47.4,52.9,61.1,59,MID,173cm,Right
+893452,J. Jackson,20,South Africa,"Willis, Williams and Smith",Hernandez-White (Thailand),€273K,€13K,55.3,24.7,55.6,60.8,59,AMF,188cm,Right
+786986,P. Cruz,55,Sudan,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€272K,€11K,44.3,36.4,62.1,48.5,59,SPT,193cm,Right
+721498,J. Richards,29,Somalia,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€269K,€11K,59.7,52.5,37.0,57.9,59,GKP,203cm,Right
+656120,C. Simpson,43,Sudan,"King, Armstrong and Mack",Premier League (England),€263K,€13K,48.9,62.3,49.7,38.1,59,FWD,176cm,Right
+164629,A. Mckenzie,26,Sudan,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€265K,€11K,50.9,54.0,60.8,41.1,59,SPT,154cm,Left
+992086,Jordan Jr.,36,South Africa,Morse Group,Premier League (England),€263K,€11K,18.3,45.3,61.3,50.7,59,DMF,190cm,Left
+730022,Erik Perry,27,South Africa,Hendrix-Leonard,Premier League (England),€262K,€11K,44.5,12.5,59.1,57.6,59,SPT,194cm,Right
+33718,M. Williams,31,Rwanda,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€266K,€12K,45.1,24.8,33.2,63.1,59,WNG,151cm,Right
+959598,A. Turner,25,South Africa,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€260K,€11K,60.7,41.6,53.2,42.7,59,DMF,205cm,Left
+74905,Z. White,33,Thailand,Bailey Inc,Premier League (England),€260K,€10K,42.7,48.0,63.0,33.5,59,DMF,155cm,Right
+738497,J. Mccarthy,32,Saint Pierre and Miquelon,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€249K,€11K,38.2,45.7,62.1,49.1,59,GKP,174cm,Left
+337155,Adam Jr.,31,Thailand,Hendrix-Leonard,Premier League (England),€257K,€11K,35.2,66.6,31.3,20.3,59,SPT,195cm,Left
+820666,J. Bennett,28,Indonesia,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€251K,€10K,30.1,58.8,58.1,19.2,59,SPT,192cm,Left
+345575,B. Anderson,34,Tonga,Bailey Inc,Premier League (England),€248K,€10K,48.6,23.5,52.6,60.5,59,MID,207cm,Right
+829005,Ray,54,Indonesia,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€244K,€9K,48.8,58.5,59.5,56.2,59,FWD,172cm,Right
+436009,S. Hawkins,33,Liechtenstein,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€241K,€10K,31.7,42.4,64.8,38.6,59,SPT,151cm,Right
+542619,Robertson,29,Turks and Caicos Islands,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€242K,€10K,55.9,59.5,47.3,29.8,59,AMF,152cm,Left
+763890,A. Wang,26,Somalia,"Willis, Williams and Smith",Hernandez-White (Thailand),€238K,€9K,46.1,42.5,36.7,63.4,59,AMF,198cm,Right
+985218,Adam Patel,19,Tonga,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€240K,€9K,44.5,61.0,53.0,37.2,59,DMF,189cm,Left
+682298,Shaw,21,Sudan,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€235K,€9K,38.8,52.4,30.3,61.3,59,FWD,171cm,Right
+731683,T. Berg,20,Tonga,Morse Group,Premier League (England),€235K,€9K,59.6,40.6,46.0,55.9,59,MID,175cm,Right
+871032,D. Hill,53,South Africa,"Hill, Wagner and Watkins",Premier League (England),€232K,€8K,32.1,39.7,34.7,65.0,59,MID,156cm,Right
+166715,J. Francis,33,Turks and Caicos Islands,"King, Armstrong and Mack",Premier League (England),€229K,€9K,41.9,60.2,53.4,22.8,59,AMF,157cm,Left
+396736,N. Mills,26,Saint Pierre and Miquelon,Shaffer-Stevens,Premier League (England),€234K,€8K,45.5,19.5,42.8,63.3,59,DEF,164cm,Right
+798167,J. Meza,35,South Africa,"Lee, Nguyen and Johnson",Premier League (England),€234K,€8K,60.1,28.9,36.2,57.3,59,MID,184cm,Left
+945715,Bailey,35,Somalia,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€228K,€8K,37.1,13.5,46.9,62.7,59,DMF,207cm,Right
+827424,H. Cole,18,Tonga,FC Barcelona,Hernandez-White (Thailand),€220K,€7K,59.8,24.8,45.5,50.8,58,AMF,171cm,Right
+696353,Juan Jr.,29,Rwanda,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€225K,€7K,57.6,28.5,57.5,26.4,58,FWD,205cm,Right
+975028,C. Padilla,17,Turks and Caicos Islands,"Lee, Nguyen and Johnson",Premier League (England),€250K,€8K,45.2,37.5,61.7,16.1,58,DMF,151cm,Right
+508463,Moore,33,Somalia,"Christian, Wallace and Harding",Premier League (England),€203K,€7K,12.3,52.3,39.9,60.2,58,DMF,181cm,Right
+107108,Walter Jr.,54,Liechtenstein,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€229K,€7K,60.2,50.7,50.3,25.1,58,FWD,191cm,Right
+574191,Jones,31,Rwanda,"Lee, Nguyen and Johnson",Premier League (England),€213K,€7K,31.1,59.7,52.2,41.2,58,WNG,164cm,Right
+476399,G. Ortega,21,South Africa,"King, Armstrong and Mack",Premier League (England),€203K,€7K,39.9,59.8,53.9,48.8,58,SPT,206cm,Right
+42244,E. Long,26,Faroe Islands,Jones-Snyder,Premier League (England),€200K,€7K,39.6,26.5,57.8,57.7,58,AMF,162cm,Right
+17769,M. Lopez,33,South Africa,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€198K,€7K,48.1,54.4,59.7,23.6,58,DEF,178cm,Right
+943695,I. Wiley,25,Thailand,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€197K,€6K,41.2,52.5,59.9,36.3,58,WNG,204cm,Left
+199186,E. Carter,28,Liechtenstein,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€219K,€11K,56.1,38.2,58.9,33.0,58,GKP,196cm,Left
+289733,N. Colon,25,Thailand,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€193K,€7K,55.3,50.4,33.6,58.8,58,DEF,162cm,Left
+314636,Miller,21,Faroe Islands,"Freeman, Burns and Curtis",Premier League (England),€191K,€6K,33.1,31.2,39.2,63.9,58,DEF,164cm,Right
+495610,A. Potts,25,Sudan,"Freeman, Burns and Curtis",Premier League (England),€191K,€5K,36.6,32.8,51.8,60.5,58,DMF,175cm,Right
+745698,T. Smith,25,Somalia,FC Barcelona,Hernandez-White (Thailand),€196K,€5K,51.9,33.7,22.0,58.6,57,MID,200cm,Right
+795226,C. Jordan,31,Thailand,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€186K,€5K,44.6,35.3,34.8,61.3,57,MID,192cm,Right
+754362,R. Olsen,30,Thailand,FC Barcelona,Hernandez-White (Thailand),€187K,€4K,25.2,28.2,58.1,52.4,57,MID,188cm,Right
+353421,K. Nelson,29,Faroe Islands,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€190K,€5K,48.8,6.3,60.1,30.9,57,DMF,168cm,Right
+328883,Moran,21,Somalia,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€184K,€4K,39.1,35.7,17.4,62.9,57,FWD,197cm,Right
+443585,F. Barron,35,Somalia,Manchester United,Premier League (England),€182K,€4K,42.0,28.4,30.0,62.4,57,DEF,206cm,Right
+148824,Jack Jr.,31,Faroe Islands,Manchester United,Premier League (England),€179K,€4K,47.0,52.4,57.9,34.3,57,FWD,163cm,Right
+861561,R. Brewer,26,Tonga,Rios Ltd,Premier League (England),€184K,€4K,60.5,45.3,45.6,31.6,57,DEF,169cm,Left
+517857,Eric Johnson,29,Somalia,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€199K,€5K,58.8,18.6,53.1,45.9,57,DMF,168cm,Right
+804834,B. Kennedy,34,Thailand,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€173K,€3K,60.4,19.0,37.7,47.9,57,MID,179cm,Left
+878661,A. Alvarez,22,Thailand,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€176K,€4K,56.8,51.9,56.2,33.2,57,WNG,165cm,Left
+157823,Stephen Jr.,35,Rwanda,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€182K,€3K,55.6,42.0,56.9,31.8,57,GKP,152cm,Right
+469298,M. Hancock,40,South Africa,Lopez-Turner,Brown-White (Somalia),€176K,€4K,32.2,48.9,39.5,59.6,57,FWD,204cm,Right
+723480,R. Holland,22,South Africa,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€173K,€3K,59.3,33.0,51.7,37.6,57,FWD,154cm,Right
+567884,G. Flores,21,Saint Pierre and Miquelon,Sparks-White,Premier League (England),€168K,€3K,54.0,17.5,57.8,50.5,57,GKP,175cm,Right
+248752,J. Moran,28,Indonesia,"Lee, Nguyen and Johnson",Premier League (England),€170K,€3K,59.9,11.9,29.3,47.9,57,GKP,197cm,Right
+273703,J. Smith,21,Indonesia,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€171K,€3K,42.7,50.8,38.6,59.2,57,GKP,207cm,Right
+511624,J. Gillespie,28,South Africa,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€163K,€3K,57.0,45.4,30.1,55.2,57,MID,179cm,Right
+986867,Hoover,20,Thailand,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€173K,€2K,44.5,60.1,28.5,48.8,57,DMF,185cm,Right
+323414,A. Preston,27,South Africa,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€164K,€2K,58.3,50.5,37.7,54.4,57,GKP,168cm,Left
+3966,A. Anderson,22,Faroe Islands,Sparks-White,Premier League (England),€164K,€3K,62.6,21.0,18.8,40.7,57,GKP,204cm,Left
+94222,B. Hill,33,Turks and Caicos Islands,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€158K,€2K,16.5,40.9,58.1,54.4,57,FWD,173cm,Right
+483682,C. Crawford,35,Turks and Caicos Islands,Hendrix-Leonard,Premier League (England),€162K,€2K,42.6,56.1,54.5,45.4,56,MID,197cm,Right
+188886,Griffin,23,Liechtenstein,"Willis, Williams and Smith",Hernandez-White (Thailand),€160K,€2K,59.7,33.0,46.5,42.2,56,GKP,160cm,Left
+401893,P. Schneider,32,Indonesia,Hendrix-Leonard,Premier League (England),€158K,€2K,56.1,54.7,52.5,22.6,56,WNG,158cm,Left
+50055,J. Mason,30,Sudan,Manchester United,Premier League (England),€151K,€2K,51.3,7.2,58.0,23.7,56,FWD,210cm,Right
+762926,William Jr.,27,Thailand,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€157K,€2K,42.8,55.6,34.2,55.6,56,GKP,175cm,Right
+238704,R. Bartlett,27,Sudan,"Freeman, Burns and Curtis",Premier League (England),€151K,€2K,49.1,52.2,40.5,57.3,56,FWD,182cm,Right
+328976,B. Williams,45,Somalia,Manchester United,Premier League (England),€150K,€2K,59.1,39.4,30.5,47.4,56,DEF,168cm,Right
+444375,R. Castro,22,Faroe Islands,Walker Group,Brown-White (Somalia),€146K,€1K,54.6,18.8,54.5,56.1,56,GKP,160cm,Right
+690481,J. Wilson,40,Saint Pierre and Miquelon,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€146K,€2K,57.1,33.5,41.5,52.5,56,DMF,150cm,Right
+674194,Michael Daniels,36,Turks and Caicos Islands,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€148K,€2K,38.2,41.9,39.4,61.3,56,AMF,203cm,Right
+739940,David Hernandez,20,Liechtenstein,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€145K,€2K,58.3,7.1,29.2,50.3,56,FWD,161cm,Left
+436853,D. Chung,35,Somalia,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€160K,€1K,18.5,55.0,56.4,35.8,56,FWD,174cm,Left
+436918,L. Cunningham,49,Thailand,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€142K,€1K,31.0,30.5,50.1,58.0,56,FWD,197cm,Left
+52172,R. Anderson,22,South Africa,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€140K,€2K,49.9,30.8,21.1,58.2,56,MID,158cm,Right
+650350,J. Ramirez,19,South Africa,Bailey Inc,Premier League (England),€143K,€1K,52.1,44.2,34.0,56.8,56,GKP,153cm,Right
+937211,T. Long,30,Thailand,"King, Armstrong and Mack",Premier League (England),€133K,€0,41.6,35.5,52.6,57.0,56,DMF,199cm,Right
+265701,J. Smith,49,Tonga,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€134K,€0,39.0,31.7,21.8,61.4,56,AMF,153cm,Right
+577200,J. Drake,28,Rwanda,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€141K,€1K,53.4,29.2,56.9,46.2,56,SPT,166cm,Left
+61370,J. Peters,46,Tonga,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€136K,€1K,34.2,22.7,56.0,54.9,56,FWD,182cm,Right
+901170,M. Scott,33,Rwanda,Lopez-Turner,Brown-White (Somalia),€126K,€0,34.4,48.8,57.5,15.8,55,SPT,166cm,Right
+147712,A. Hurst,31,Thailand,Manchester United,Premier League (England),€137K,€0,24.5,56.9,49.3,49.8,55,AMF,173cm,Right
+975599,C. Bray,34,Liechtenstein,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€127K,€0,45.7,21.9,53.1,55.2,55,MID,158cm,Left
+108002,L. Wilson,33,Tonga,Morris Group,Simmons-Johnson (Indonesia),€125K,€0,46.0,58.4,40.3,38.0,55,SPT,172cm,Left
+313266,Sanchez,23,Liechtenstein,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€129K,€0,19.0,53.4,55.3,14.3,55,MID,154cm,Right
+247932,B. White,27,Somalia,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€121K,€0,44.6,45.2,57.3,50.1,55,DMF,159cm,Right
+256334,M. Kim,33,Faroe Islands,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€120K,€0,55.6,26.6,34.1,53.4,55,GKP,159cm,Right
+584249,M. Cooper,32,South Africa,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€123K,€0,53.2,16.6,55.5,30.0,55,GKP,187cm,Left
+322136,S. Green,35,Turks and Caicos Islands,"King, Armstrong and Mack",Premier League (England),€117K,€0,38.7,59.0,44.9,20.1,55,FWD,202cm,Left
+469717,Petty,26,Faroe Islands,Hendrix-Leonard,Premier League (England),€117K,€0,29.4,53.2,55.6,31.1,55,GKP,167cm,Left
+978016,W. Richards,31,Saint Pierre and Miquelon,Shaffer-Stevens,Premier League (England),€118K,€0,45.3,38.0,57.4,48.9,55,AMF,158cm,Right
+593048,Mathew Jr.,32,Somalia,Cunningham Inc,Baldwin-Rivera (Saint Pierre and Miquelon),€124K,€0,31.6,52.6,56.3,45.3,55,GKP,190cm,Right
+806112,M. Marshall,27,Saint Pierre and Miquelon,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€107K,€0,37.7,56.3,50.5,47.7,55,DMF,193cm,Left
+126313,A. Haas,32,Liechtenstein,Shaffer-Stevens,Premier League (England),€109K,€0,56.9,31.3,21.6,50.7,55,DMF,198cm,Left
+634328,S. Armstrong,22,South Africa,Morris Group,Simmons-Johnson (Indonesia),€116K,€0,55.9,52.0,53.7,33.7,55,GKP,196cm,Left
+524293,Patrick Smith,21,Thailand,Schneider Inc,Premier League (England),€103K,€0,54.7,43.5,36.3,51.8,54,DEF,173cm,Left
+901137,Marcus Reynolds,34,South Africa,"Henderson, Nichols and Cochran",Premier League (England),€101K,€0,43.7,53.7,51.9,53.7,54,MID,208cm,Left
+376922,A. King,24,Tonga,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€102K,€0,52.3,22.8,36.9,55.1,54,DEF,163cm,Right
+418175,P. Davis,16,Thailand,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€100K,€0,48.2,30.2,56.5,41.2,54,WNG,194cm,Left
+180695,J. Eaton,34,Tonga,Schneider Inc,Premier League (England),€116K,€0,55.1,51.7,25.4,27.0,54,DEF,203cm,Left
+566055,M. Hall,50,Saint Pierre and Miquelon,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€99K,€0,31.8,24.6,47.3,56.2,54,DMF,182cm,Left
+901936,Carl Jr.,27,Rwanda,"Johnson, Young and Jones","Curtis, Ashley and Gentry (Faroe Islands)",€99K,€0,35.8,37.1,59.0,31.3,54,SPT,190cm,Right
+17248,Gary Walton,43,Saint Pierre and Miquelon,"Christian, Wallace and Harding",Premier League (England),€99K,€0,52.7,30.6,54.3,49.6,54,WNG,172cm,Right
+304002,S. Smith,35,South Africa,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€101K,€0,53.2,13.0,28.0,54.3,54,DEF,198cm,Right
+336971,Brian Jr.,30,Tonga,Lopez-Turner,Brown-White (Somalia),€98K,€0,56.1,43.2,36.7,45.9,54,DMF,205cm,Left
+238822,Brennan,32,Rwanda,"King, Armstrong and Mack",Premier League (England),€93K,€0,48.9,29.5,54.0,52.1,54,DEF,159cm,Left
+34055,K. Bush,35,Liechtenstein,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€90K,€0,33.0,55.4,43.9,50.6,54,SPT,165cm,Right
+869748,Johnson,32,Indonesia,Jones-Snyder,Premier League (England),€93K,€0,54.2,26.1,53.3,41.5,54,SPT,196cm,Left
+616073,J. Newman,18,Tonga,Walker Group,Brown-White (Somalia),€89K,€0,44.6,55.8,47.0,28.3,54,SPT,201cm,Right
+820882,D. Cruz,23,Turks and Caicos Islands,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€89K,€0,22.6,21.3,64.9,20.2,54,WNG,197cm,Right
+820981,A. Dean,35,South Africa,Shaffer-Stevens,Premier League (England),€96K,€0,56.0,46.8,16.4,48.7,54,WNG,170cm,Left
+215108,Huber,50,South Africa,"Foster, Zimmerman and Mason",Premier League (England),€88K,€0,58.2,42.3,35.7,31.8,54,AMF,156cm,Left
+535151,Thomas Jr.,24,Indonesia,Morse Group,Premier League (England),€81K,€0,48.1,36.8,28.5,55.4,54,GKP,168cm,Right
+232671,J. Petty,35,Rwanda,White-Holland,Lowery-Vasquez (South Africa),€80K,€0,56.2,19.5,32.5,48.8,54,SPT,164cm,Right
+986414,James Jr.,23,Liechtenstein,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€85K,€0,37.5,20.1,38.6,59.5,54,SPT,168cm,Right
+388493,Scott Jr.,23,South Africa,King LLC,Premier League (England),€79K,€0,16.5,20.7,46.5,56.4,54,WNG,178cm,Right
+429861,M. Charles,21,Turks and Caicos Islands,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€78K,€0,55.4,50.7,51.1,32.4,54,SPT,169cm,Left
+565499,T. Scott,29,Sudan,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€79K,€0,58.9,31.5,16.3,37.2,53,FWD,169cm,Left
+991644,J. Payne,30,Thailand,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€76K,€0,21.7,56.8,43.5,29.7,53,MID,150cm,Left
+344569,K. Proctor,23,Turks and Caicos Islands,Morris Group,Simmons-Johnson (Indonesia),€85K,€0,53.4,19.1,28.2,50.9,53,DMF,193cm,Left
+254467,M. Terrell,29,Somalia,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€71K,€0,58.1,38.9,20.2,27.5,53,MID,173cm,Left
+156249,Hunt,32,Saint Pierre and Miquelon,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€77K,€0,48.3,37.6,45.3,54.5,53,SPT,195cm,Left
+419237,D. Weaver,28,Sudan,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€73K,€0,43.8,38.2,46.6,54.6,53,FWD,154cm,Right
+542298,Michael Turner,33,Saint Pierre and Miquelon,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€76K,€0,35.9,26.7,41.9,56.7,53,FWD,192cm,Right
+157320,J. Harris,24,Faroe Islands,Jordan-Mccarthy,"Kaufman, Bolton and Fox (Faroe Islands)",€69K,€0,39.1,53.2,32.6,52.5,53,AMF,158cm,Left
+304787,D. Clayton,21,Liechtenstein,Shaffer-Stevens,Premier League (England),€70K,€0,55.6,28.5,12.3,44.4,53,GKP,168cm,Left
+149505,C. Williams,35,Saint Pierre and Miquelon,Morris-Wheeler,"Hurst, Quinn and Barnes (Thailand)",€71K,€0,55.1,31.0,28.6,45.3,53,DEF,183cm,Left
+190676,David Jones,28,Rwanda,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€70K,€0,36.4,58.1,36.8,6.1,53,AMF,162cm,Left
+961159,J. Monroe,34,Turks and Caicos Islands,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€62K,€0,33.5,59.5,7.1,20.2,53,MID,177cm,Left
+502848,M. Haynes,24,South Africa,"Hill, Wagner and Watkins",Premier League (England),€67K,€0,19.4,57.6,39.2,33.2,53,FWD,157cm,Right
+60885,C. Lee,21,Thailand,Liverpool,Premier League (England),€66K,€0,50.5,53.3,51.1,27.2,53,DMF,198cm,Left
+36337,M. Buckley,29,Sudan,Walker Group,Brown-White (Somalia),€63K,€0,25.4,7.7,54.3,51.1,53,DMF,170cm,Right
+364025,R. Santiago,26,Indonesia,Browning-Williams,"Shepard, Hogan and Hall (Thailand)",€60K,€0,48.9,53.7,33.8,18.8,53,SPT,192cm,Right
+708161,Russell Jr.,30,Turks and Caicos Islands,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€67K,€0,57.3,35.8,41.9,19.8,53,MID,153cm,Right
+126647,I. Ross,21,Indonesia,Shaffer-Stevens,Premier League (England),€62K,€0,43.5,41.5,55.8,28.9,53,SPT,199cm,Left
+61247,J. Rivera,29,Saint Pierre and Miquelon,"Lee, Nguyen and Johnson",Premier League (England),€59K,€0,55.8,25.6,45.6,20.7,53,WNG,193cm,Left
+585724,J. Pierce,29,Faroe Islands,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€58K,€0,54.7,45.0,48.7,24.6,53,DEF,154cm,Right
+53251,A. Bailey,50,Rwanda,Rios Ltd,Premier League (England),€61K,€0,36.5,53.0,30.8,52.5,53,DEF,195cm,Left
+815112,D. Price,32,Somalia,Nelson-Collins,"Curtis, Ashley and Gentry (Faroe Islands)",€59K,€0,23.2,43.0,31.7,56.1,53,DEF,200cm,Right
+194,Morales,53,Turks and Caicos Islands,Hendrix-Leonard,Premier League (England),€58K,€0,37.7,55.4,34.0,40.0,52,AMF,163cm,Right
+327930,T. Knapp,28,Faroe Islands,FC Barcelona,Hernandez-White (Thailand),€58K,€0,49.2,36.9,52.9,24.4,52,WNG,194cm,Left
+909591,J. Wood,28,Rwanda,Lopez-Turner,Brown-White (Somalia),€52K,€0,43.7,29.8,53.3,46.6,52,GKP,178cm,Left
+541150,J. Moore,39,Faroe Islands,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€54K,€0,11.6,56.8,38.6,32.3,52,DEF,172cm,Right
+98806,M. Rasmussen,26,Somalia,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€52K,€0,47.8,53.6,21.8,8.3,52,DMF,163cm,Left
+508560,R. Hall,30,Liechtenstein,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€45K,€0,32.1,20.3,55.3,42.9,52,AMF,165cm,Right
+254787,R. Patel,28,Turks and Caicos Islands,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€43K,€0,34.6,15.4,51.1,51.8,52,SPT,204cm,Left
+484175,David Jr.,16,Somalia,Hendrix-Leonard,Premier League (England),€51K,€0,36.8,35.9,41.6,55.1,52,FWD,207cm,Right
+501543,R. Adams,35,Sudan,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€51K,€0,55.2,25.7,40.5,22.7,52,AMF,187cm,Left
+608083,J. Francis,54,Somalia,Manchester United,Premier League (England),€43K,€0,46.7,28.3,52.3,52.1,52,DEF,207cm,Right
+903345,B. Wade,22,Tonga,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€42K,€0,29.7,29.9,59.8,24.7,52,GKP,185cm,Right
+551488,M. Church,21,South Africa,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€56K,€0,35.1,34.0,32.5,57.7,52,FWD,190cm,Right
+921210,R. Robinson,32,Sudan,Manchester United,Premier League (England),€42K,€0,43.3,31.7,52.8,49.6,52,AMF,209cm,Left
+295264,B. Garcia,26,Faroe Islands,Morris Group,Simmons-Johnson (Indonesia),€38K,€0,46.1,46.3,42.3,52.8,51,FWD,206cm,Left
+99760,C. Scott,53,Sudan,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€36K,€0,40.8,43.8,53.1,23.8,51,DMF,160cm,Left
+484945,D. Webb,21,Saint Pierre and Miquelon,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€37K,€0,29.2,54.1,39.9,23.6,51,WNG,150cm,Left
+805088,J. Hunter,46,Liechtenstein,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€42K,€0,27.8,35.0,49.0,51.2,51,DEF,161cm,Left
+248326,J. Olson,26,Saint Pierre and Miquelon,Jones-Snyder,Premier League (England),€21K,€0,34.1,27.5,56.2,20.2,51,WNG,210cm,Left
+60338,J. Miles,25,Somalia,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€23K,€0,24.1,45.8,53.2,23.4,51,AMF,185cm,Left
+519320,Stephen Black,47,Rwanda,Morris Group,Simmons-Johnson (Indonesia),€32K,€0,45.2,48.0,19.6,52.6,51,FWD,186cm,Right
+134543,D. Miller,36,Indonesia,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€29K,€0,44.2,53.9,22.2,35.3,51,GKP,167cm,Left
+658927,J. Brown,29,Thailand,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€21K,€0,45.4,12.6,41.4,52.8,51,FWD,180cm,Right
+926044,Brown,22,Tonga,Jones-Snyder,Premier League (England),€21K,€0,50.7,46.3,38.8,31.1,50,DEF,152cm,Left
+295719,J. Wells,27,Liechtenstein,"Willis, Williams and Smith",Hernandez-White (Thailand),€20K,€0,53.9,24.9,38.1,27.0,50,AMF,157cm,Left
+312297,M. Beltran,21,Thailand,Sparks-White,Premier League (England),€19K,€0,19.4,53.8,40.6,11.5,50,FWD,208cm,Right
+837051,C. Rogers,32,Liechtenstein,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€16K,€0,51.3,25.6,46.7,43.4,50,DMF,168cm,Right
+353740,C. Lopez,32,Tonga,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€17K,€0,35.0,47.4,50.3,33.5,50,MID,210cm,Right
+132710,Davis,25,Thailand,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€19K,€0,39.2,36.3,53.9,22.8,50,WNG,192cm,Right
+575174,Morrison,27,Thailand,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€21K,€0,32.6,17.1,52.4,43.7,50,FWD,207cm,Right
+591574,C. Parker,22,Tonga,Jones-Snyder,Premier League (England),€14K,€0,53.3,31.4,39.2,36.7,50,DEF,190cm,Left
+755785,J. Hicks,41,Somalia,Walker Group,Brown-White (Somalia),€14K,€0,19.0,51.8,26.6,43.8,50,WNG,180cm,Left
+723329,G. Mann,29,Thailand,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€15K,€0,49.1,38.3,50.3,50.2,50,DEF,201cm,Right
+338450,J. Shaw,31,Turks and Caicos Islands,"Rodriguez, Gates and Nelson",Simmons-Johnson (Indonesia),€17K,€0,50.2,28.5,16.7,47.6,50,GKP,186cm,Right
+429211,E. Mcconnell,24,Thailand,White-Holland,Lowery-Vasquez (South Africa),€7K,€0,19.0,8.6,57.6,28.2,50,SPT,189cm,Right
+11974,J. Graham,32,Faroe Islands,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€4K,€0,45.5,36.8,49.0,50.3,50,MID,172cm,Right
+155717,S. Taylor,22,Tonga,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€14K,€0,33.5,26.5,34.9,53.3,49,FWD,151cm,Left
+24748,B. Johnson,22,Somalia,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€750,€0,33.7,42.3,51.6,15.2,49,DMF,163cm,Right
+958752,J. Adams,20,Saint Pierre and Miquelon,Paris Saint Germain,"Hurst, Quinn and Barnes (Thailand)",€10K,€0,21.6,30.6,55.5,26.9,49,DEF,167cm,Right
+516428,Mckinney,25,Thailand,Morris Group,Simmons-Johnson (Indonesia),€750,€0,23.5,33.2,54.3,30.2,49,AMF,165cm,Right
+648297,N. Smith,27,Somalia,Morris Group,Simmons-Johnson (Indonesia),€750,€0,41.3,24.6,51.8,41.5,49,AMF,193cm,Left
+345530,S. Turner,35,Faroe Islands,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€750,€0,54.4,27.5,25.2,32.7,49,WNG,185cm,Left
+886338,Robert Jr.,36,Indonesia,Liverpool,Premier League (England),€750,€0,48.7,49.1,35.3,36.1,49,AMF,153cm,Left
+116669,M. Palmer,20,Thailand,Liverpool,Premier League (England),€750,€0,20.5,58.0,20.4,10.0,49,DMF,150cm,Left
+207093,J. Jones,21,Somalia,Jones-Snyder,Premier League (England),€750,€0,49.5,46.6,44.2,44.2,49,AMF,152cm,Left
+510499,W. Middleton,28,Sudan,"Willis, Williams and Smith",Hernandez-White (Thailand),€750,€0,47.9,49.8,40.9,36.9,49,GKP,182cm,Right
+216038,Todd Jr.,28,South Africa,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€750,€0,10.8,46.4,50.4,28.1,49,GKP,192cm,Right
+363507,J. Washington,25,Somalia,Manchester United,Premier League (England),€750,€0,42.5,49.3,45.8,48.3,49,FWD,180cm,Left
+855144,Dylan Brewer,22,Rwanda,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€750,€0,40.5,51.9,35.6,14.7,49,SPT,167cm,Left
+478593,Stephen Jr.,21,Thailand,FC Bayern München,Baldwin-Rivera (Saint Pierre and Miquelon),€750,€0,47.8,41.1,48.9,48.2,49,DEF,201cm,Right
+789920,A. Holden,33,Rwanda,Shaffer-Stevens,Premier League (England),€750,€0,50.7,17.3,37.8,42.7,49,GKP,207cm,Right
+738431,J. Nguyen,29,South Africa,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€750,€0,30.3,23.8,47.2,47.6,48,AMF,173cm,Left
+648399,J. Martin,45,Rwanda,Schneider Inc,Premier League (England),€750,€0,37.7,51.7,30.7,16.3,48,SPT,210cm,Left
+706081,M. Jimenez,37,Somalia,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€750,€0,52.5,27.4,32.2,34.9,48,DEF,203cm,Left
+436224,Peter Jr.,29,Turks and Caicos Islands,"Willis, Williams and Smith",Hernandez-White (Thailand),€750,€0,49.3,31.1,21.4,44.9,48,DEF,201cm,Left
+174478,Christopher Blankenship,36,Liechtenstein,White-Holland,Lowery-Vasquez (South Africa),€500,€0,49.0,16.6,31.4,46.7,48,DEF,160cm,Right
+379472,R. Hall,39,Saint Pierre and Miquelon,Liverpool,Premier League (England),€750,€0,11.2,51.4,36.0,9.7,48,WNG,208cm,Left
+511891,R. Gonzalez,32,Faroe Islands,King LLC,Premier League (England),€750,€0,20.0,55.2,27.7,17.0,48,SPT,166cm,Left
+114788,Justin Jr.,30,Somalia,Lopez-Turner,Brown-White (Somalia),€500,€0,47.2,46.3,39.7,34.9,47,GKP,202cm,Right
+41081,R. Garcia,23,Faroe Islands,Lopez-Turner,Brown-White (Somalia),€500,€0,20.1,33.4,19.4,52.1,47,DMF,164cm,Left
+984014,C. Blake,45,Faroe Islands,"Foster, Zimmerman and Mason",Premier League (England),€500,€0,42.1,22.7,34.2,49.0,47,DEF,198cm,Right
+378002,B. Stewart,31,Somalia,Morris Group,Simmons-Johnson (Indonesia),€750,€0,30.3,48.5,41.1,39.8,47,DEF,165cm,Right
+910483,R. Garcia,24,South Africa,King LLC,Premier League (England),€500,€0,47.7,27.9,33.2,46.6,47,DEF,202cm,Right
+182072,C. Olson,31,Faroe Islands,King LLC,Premier League (England),€500,€0,30.2,53.0,21.7,21.3,47,FWD,160cm,Left
+805474,Powell,26,Indonesia,Barnes-Lee,"Kaufman, Bolton and Fox (Faroe Islands)",€500,€0,48.3,37.8,20.5,44.2,47,SPT,163cm,Left
+90144,B. Bennett,51,Sudan,Manchester United,Premier League (England),€500,€0,9.3,47.8,18.6,41.0,46,FWD,191cm,Left
+892989,C. Stewart,33,Faroe Islands,Schmitt PLC,"Hurst, Quinn and Barnes (Thailand)",€500,€0,41.0,31.0,44.0,47.0,46,WNG,171cm,Left
+491685,Burton,26,South Africa,"King, Armstrong and Mack",Premier League (England),€500,€0,49.2,35.2,29.9,26.2,46,FWD,199cm,Left
+680753,D. Barnes,33,Faroe Islands,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€500,€0,37.8,48.3,15.5,21.8,46,DMF,165cm,Left
+894002,M. Smith,28,Somalia,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€500,€0,34.5,30.2,44.6,46.9,46,GKP,150cm,Left
+943581,T. Price,27,South Africa,Rios Ltd,Premier League (England),€500,€0,48.8,38.2,7.4,9.4,46,DMF,196cm,Left
+714392,P. Lester,34,Indonesia,Lopez-Turner,Brown-White (Somalia),€500,€0,49.5,31.4,28.3,34.8,46,AMF,179cm,Left
+535915,R. Mendez,22,Turks and Caicos Islands,Bailey Inc,Premier League (England),€500,€0,15.8,49.5,32.5,35.4,46,DEF,187cm,Left
+454082,J. Malone,23,South Africa,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€500,€0,33.6,49.8,30.7,24.7,46,DEF,150cm,Left
+123008,C. Gibson,29,Somalia,"Henderson, Nichols and Cochran",Premier League (England),€250,€0,47.7,36.2,14.1,33.6,45,DMF,183cm,Left
+672532,S. Cantu,20,South Africa,"Christian, Wallace and Harding",Premier League (England),€500,€0,45.1,44.2,43.0,39.8,45,AMF,156cm,Right
+779059,B. Brooks,54,Liechtenstein,"Christian, Wallace and Harding",Premier League (England),€500,€0,34.2,32.1,29.9,48.1,45,WNG,154cm,Left
+344940,T. Payne,31,Tonga,Shaffer-Stevens,Premier League (England),€500,€0,47.2,37.9,40.1,22.5,45,DMF,197cm,Left
+500815,Santiago,32,Turks and Caicos Islands,Shaffer-Stevens,Premier League (England),€250,€0,37.4,47.9,33.1,16.8,45,DMF,172cm,Left
+280939,R. Kane,25,Faroe Islands,Morse Group,Premier League (England),€250,€0,44.2,22.5,45.6,39.7,45,MID,195cm,Left
+289173,J. Barrett,29,South Africa,"Thomas, Hall and Miller","Shepard, Hogan and Hall (Thailand)",€500,€0,42.7,45.6,21.0,44.9,45,DEF,207cm,Left
+772936,Edward Jr.,34,Somalia,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€250,€0,44.8,45.5,40.6,12.1,45,DMF,160cm,Right
+764772,B. White,23,Somalia,Schneider Inc,Premier League (England),€250,€0,51.7,21.5,24.9,20.6,45,AMF,179cm,Left
+405037,C. Norman,25,Thailand,Schneider Inc,Premier League (England),€250,€0,35.7,23.5,48.7,35.2,45,GKP,195cm,Left
+397061,Clark,28,Tonga,Moon Ltd,Baldwin-Rivera (Saint Pierre and Miquelon),€250,€0,28.3,23.0,45.4,41.9,45,MID,194cm,Right
+647819,Anthony Jr.,26,Indonesia,Fuller-Barajas,Herman-Fletcher (Saint Pierre and Miquelon),€250,€0,39.9,29.1,44.8,23.8,44,GKP,189cm,Left
+295804,R. Taylor,33,Somalia,"Ramos, Schwartz and Shelton","Hurst, Quinn and Barnes (Thailand)",€250,€0,41.5,44.3,27.4,42.1,44,AMF,174cm,Left
+640047,J. Ballard,27,Turks and Caicos Islands,"Lee, Nguyen and Johnson",Premier League (England),€250,€0,30.3,45.7,39.8,29.1,44,AMF,177cm,Left
+140649,T. Hunter,22,Rwanda,"Foster, Zimmerman and Mason",Premier League (England),€250,€0,16.8,43.4,43.7,38.0,44,MID,193cm,Right
+165456,Z. Lee,52,Tonga,Liverpool,Premier League (England),€250,€0,13.9,48.1,20.6,30.8,44,DEF,209cm,Left
+85529,F. Kent,40,Tonga,"Hill, Wagner and Watkins",Premier League (England),€250,€0,28.1,36.9,31.4,46.7,44,DEF,208cm,Right
+139404,Morales,41,Rwanda,"Henderson, Nichols and Cochran",Premier League (England),€250,€0,33.4,46.3,28.5,6.4,43,FWD,197cm,Left
+401844,Matthew Green,22,Somalia,Ross-Holmes,Herman-Fletcher (Saint Pierre and Miquelon),€250,€0,30.4,38.3,41.9,43.2,43,WNG,184cm,Left
+582195,A. Porter,31,Thailand,Morris Group,Simmons-Johnson (Indonesia),€250,€0,13.6,48.1,26.1,26.3,43,DEF,200cm,Right
+385642,J. Martinez,35,Turks and Caicos Islands,King LLC,Premier League (England),€250,€0,21.0,43.3,43.5,29.1,43,GKP,174cm,Left
+230217,A. Roth,28,Tonga,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€250,€0,46.0,34.4,26.8,25.8,43,FWD,153cm,Left
+337696,M. Martinez,33,Indonesia,"Foster, Zimmerman and Mason",Premier League (England),€250,€0,33.6,34.4,45.2,33.5,43,AMF,195cm,Right
+142942,David Walker,48,Turks and Caicos Islands,Shaffer-Stevens,Premier League (England),€250,€0,40.7,33.9,44.2,29.4,43,AMF,169cm,Left
+770868,S. Ho,43,Indonesia,"Henderson, Nichols and Cochran",Premier League (England),€250,€0,44.2,30.3,36.1,27.3,42,AMF,159cm,Left
+461224,J. Dougherty,53,Saint Pierre and Miquelon,Gonzalez Ltd,"Shepard, Hogan and Hall (Thailand)",€250,€0,31.4,41.9,17.8,42.2,42,DEF,167cm,Left
+167915,Marcus Brown,20,Rwanda,"Weaver, Dougherty and Martin",Lowery-Vasquez (South Africa),€250,€0,43.0,28.6,38.7,6.0,42,WNG,195cm,Left
+934303,Kevin Jr.,27,Sudan,"Gutierrez, Hawkins and Hunter","Curtis, Ashley and Gentry (Faroe Islands)",€250,€0,38.7,19.5,28.8,41.2,41,GKP,174cm,Left
+535096,Justin Jr.,21,Thailand,"Lee, Nguyen and Johnson",Premier League (England),€0,€0,20.6,37.0,33.8,42.4,41,GKP,158cm,Left
+658344,M. Garcia,42,Saint Pierre and Miquelon,Reeves-Pham,Baldwin-Rivera (Saint Pierre and Miquelon),€0,€0,14.6,45.5,20.2,28.6,41,AMF,176cm,Left
+631059,D. Dixon,29,Liechtenstein,Flynn LLC,Baldwin-Rivera (Saint Pierre and Miquelon),€250,€0,20.9,45.1,24.1,17.6,40,DEF,208cm,Left
+920704,C. Brooks,28,Tonga,Manchester United,Premier League (England),€0,€0,34.8,24.8,42.1,21.3,40,AMF,153cm,Left
+421169,Christopher Jr.,29,Thailand,Chavez Ltd,"Curtis, Ashley and Gentry (Faroe Islands)",€250,€0,20.3,22.2,45.3,16.2,40,WNG,185cm,Left
+278542,J. Barton,26,South Africa,Liverpool,Premier League (England),€0,€0,43.3,25.1,24.9,27.1,39,DEF,202cm,Left
+436221,Spencer Jr.,35,Thailand,Bailey Inc,Premier League (England),€0,€0,42.5,28.1,17.6,24.0,39,WNG,186cm,Left
+397236,J. Reed,20,Faroe Islands,Morse Group,Premier League (England),€0,€0,21.4,23.2,39.4,38.8,39,DMF,170cm,Left
+549804,M. Hall,25,Faroe Islands,Schneider Inc,Premier League (England),€0,€0,30.5,28.1,26.1,40.3,38,WNG,167cm,Left
+894030,E. Berry,21,Somalia,Morse Group,Premier League (England),€0,€0,27.8,28.3,31.0,40.1,38,DMF,209cm,Left
+27701,Smith,24,South Africa,"Smith, Blanchard and Brown","Shepard, Hogan and Hall (Thailand)",€0,€0,35.5,39.2,30.6,32.5,38,AMF,195cm,Left
+690942,Gerald Hall,35,Indonesia,Bailey Inc,Premier League (England),€0,€0,37.1,32.5,35.2,31.8,37,MID,201cm,Left
+740171,D. Smith,32,Thailand,"Hill, Wagner and Watkins",Premier League (England),€0,€0,10.1,40.9,23.5,5.9,37,GKP,205cm,Right
+658566,B. Waller,27,Faroe Islands,Johnson-Montgomery,"Curtis, Ashley and Gentry (Faroe Islands)",€0,€0,20.8,24.2,30.7,38.5,37,WNG,197cm,Left
+377926,Jesse Jr.,31,Thailand,"Freeman, Burns and Curtis",Premier League (England),€0,€0,34.3,16.0,35.8,36.6,36,MID,198cm,Left
+607754,H. Mendoza,27,Faroe Islands,Manchester United,Premier League (England),€0,€0,29.0,38.4,21.6,19.2,36,SPT,178cm,Left
+706338,T. Goodman,55,Sudan,"Lee, Nguyen and Johnson",Premier League (England),€0,€0,27.5,15.5,14.1,38.3,36,AMF,160cm,Left
+928131,D. Fisher,28,Tonga,Jones-Snyder,Premier League (England),€0,€0,17.9,31.6,37.5,23.0,36,DMF,194cm,Left
+322504,J. Weaver,20,Faroe Islands,"Foster, Zimmerman and Mason",Premier League (England),€0,€0,37.2,33.9,13.3,22.7,36,MID,170cm,Left
+188692,J. Caldwell,25,Sudan,Davis LLC,"Curtis, Ashley and Gentry (Faroe Islands)",€0,€0,36.8,30.3,16.1,22.1,35,DMF,193cm,Left
+567900,C. Wilson,28,Tonga,Shaffer-Stevens,Premier League (England),€0,€0,37.9,24.4,25.1,27.0,35,SPT,184cm,Left
+663933,N. Grimes,25,South Africa,"Henderson, Nichols and Cochran",Premier League (England),€0,€0,19.6,23.4,37.7,5.9,34,FWD,160cm,Left
+213599,R. Hansen,25,Tonga,"Hill, Wagner and Watkins",Premier League (England),€0,€0,24.3,33.3,29.1,8.1,32,SPT,181cm,Left
+197058,J. Sanchez,20,South Africa,"Foster, Zimmerman and Mason",Premier League (England),€0,€0,19.6,33.7,11.9,23.7,31,FWD,165cm,Left
+124517,A. Allen,32,Tonga,Sparks-White,Premier League (England),€0,€0,31.5,29.4,10.3,28.4,31,SPT,156cm,Left
+256282,Bryant,25,Sudan,Sparks-White,Premier League (England),€0,€0,23.9,32.4,13.9,22.7,30,DEF,159cm,Left
+951420,K. Morton,20,Thailand,"Willis, Williams and Smith",Hernandez-White (Thailand),€0,€0,25.0,21.1,23.5,30.4,29,DEF,206cm,Left
+887605,D. Austin,49,Turks and Caicos Islands,Walker Group,Brown-White (Somalia),€0,€0,10.2,23.5,21.1,30.3,29,WNG,165cm,Left
+877099,R. Johnson,22,Indonesia,Allen PLC,"Shepard, Hogan and Hall (Thailand)",€0,€0,18.4,23.0,29.3,18.0,28,FWD,151cm,Left
+574848,J. Wallace,21,Rwanda,Williams Group,Herman-Fletcher (Saint Pierre and Miquelon),€0,€0,9.6,22.3,7.5,29.8,28,WNG,154cm,Left
+393575,Christopher Yang,24,Turks and Caicos Islands,"Willis, Williams and Smith",Hernandez-White (Thailand),€0,€0,26.8,22.5,17.3,19.9,26,GKP,194cm,Left
+917726,M. Schwartz,20,South Africa,"Christian, Wallace and Harding",Premier League (England),€0,€0,22.4,24.8,24.6,17.3,25,FWD,184cm,Left

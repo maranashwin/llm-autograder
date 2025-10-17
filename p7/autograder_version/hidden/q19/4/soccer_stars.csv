@@ -1,0 +1,1001 @@
+ID,Name,Age,Nationality,Team,League,Value,Wage,Attacking,Movement,Defending,Goalkeeping,Overall rating,Position,Height,Preferred foot
+442608,J. Burgess,24,Cameroon,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€188.8M,€484K,93.4,90.4,19.7,60.2,93,RW,176cm,Right
+869896,M. Hartman,31,Saint Martin,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€189.6M,€497K,42.7,94.4,87.2,38.1,93,CDM,150cm,Right
+814026,Angel Haas,27,United Arab Emirates,Liverpool,Premier League (England),€249.1M,€495K,36.6,93.6,88.9,33.0,93,RW,192cm,Right
+573791,M. Davis,36,Egypt,"Fox, Baker and Robles",Premier League (England),€198.1M,€548K,88.8,91.4,17.9,28.4,91,RW,189cm,Right
+427638,M. Calhoun,33,Saint Helena,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€179M,€474K,90.6,88.2,40.2,56.9,90,RW,181cm,Right
+287302,K. Mooney,30,Saint Martin,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€181.9M,€473K,68.9,89.3,88.9,60.9,89,CDM,161cm,Right
+11632,G. Murphy,27,United Arab Emirates,"Atkins, Jimenez and Rodriguez",Premier League (England),€189.6M,€472K,80.6,91.5,39.0,34.3,89,RW,197cm,Right
+470652,Michael Jr.,23,Saint Martin,Clark and Sons,Premier League (England),€184.1M,€498K,55.7,90.7,82.8,26.0,89,GK,195cm,Right
+575105,J. Mullins,29,United Arab Emirates,Rodriguez-Gonzalez,Premier League (England),€170.7M,€462K,88.9,86.7,55.5,58.3,88,RW,158cm,Right
+42996,Thompson,39,Cameroon,"Perez, Ruiz and Lopez",Premier League (England),€171.8M,€467K,37.1,89.7,83.7,25.1,88,LWB,193cm,Left
+92329,Steven Sanchez,20,Liechtenstein,FC Barcelona,Premier League (England),€170.5M,€459K,61.9,88.5,86.4,43.8,88,LWB,162cm,Left
+44292,C. Cole,30,Saint Martin,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€181.8M,€480K,81.9,89.6,21.2,39.9,88,RW,195cm,Right
+674756,S. Lewis,26,United Arab Emirates,Liverpool,Premier League (England),€166.7M,€468K,63.9,87.6,85.8,68.0,87,CDM,209cm,Right
+45121,S. Pearson,27,Saint Helena,Johnson-Turner,Premier League (England),€169.9M,€426K,94.5,65.2,29.3,43.7,87,RW,209cm,Right
+991833,C. Weiss,25,Chad,Lopez PLC,Premier League (England),€165.6M,€455K,73.1,87.7,79.6,31.0,86,LWB,170cm,Left
+476444,D. Young,24,Argentina,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€168.8M,€433K,36.1,66.2,91.1,70.5,86,CDM,171cm,Right
+1888,J. Peters,26,Cameroon,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€159.5M,€425K,41.5,94.4,62.5,59.4,86,CDM,193cm,Right
+51336,T. Lewis,27,United Arab Emirates,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€158.6M,€421K,86.2,40.7,11.1,84.4,86,LM,209cm,Left
+985326,D. Wilkerson,34,Chad,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€162.8M,€441K,91.9,19.1,14.0,66.4,86,LM,192cm,Left
+675439,M. Olson,22,Cameroon,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€162.8M,€418K,90.6,23.2,17.3,74.1,86,LM,181cm,Left
+331377,B. Parks,23,United Arab Emirates,Rodriguez-Gonzalez,Premier League (England),€158.4M,€401K,19.2,28.8,75.0,89.6,86,RW,175cm,Left
+77518,Edward Herrera,30,United Arab Emirates,Johnson-Turner,Premier League (England),€155M,€406K,35.8,93.5,64.2,38.9,86,GK,179cm,Right
+995065,Joseph Jr.,28,Liechtenstein,"Atkins, Jimenez and Rodriguez",Premier League (England),€158.6M,€425K,85.6,85.8,43.8,25.6,86,RW,197cm,Right
+298828,K. Taylor,26,Argentina,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€158.5M,€394K,33.5,41.1,75.3,89.8,86,RW,167cm,Left
+483336,K. Arnold,34,Saint Martin,Rodriguez-Gonzalez,Premier League (England),€148M,€397K,15.0,74.4,56.0,88.2,85,RM,191cm,Left
+852120,Robert Jr.,27,Serbia,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€153.1M,€384K,57.4,81.8,85.9,28.2,85,LWB,171cm,Left
+467454,E. Tucker,35,Liechtenstein,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€145.7M,€376K,38.6,18.3,73.4,88.5,85,RWB,186cm,Right
+402316,S. Wade,22,Brunei Darussalam,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€176M,€394K,49.4,16.2,73.8,88.2,85,RW,185cm,Left
+164914,M. Welch,24,Saint Helena,Townsend LLC,"Morales, Lee and Hill (Egypt)",€143M,€376K,36.1,94.0,59.6,44.9,85,GK,178cm,Right
+583087,D. Rodriguez,35,Argentina,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€141.9M,€381K,86.0,21.1,16.2,83.8,85,LM,206cm,Left
+616618,D. Williams,28,Chad,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€143.9M,€351K,53.0,19.7,72.3,88.7,85,RW,188cm,Left
+740994,J. Johnson,27,Brunei Darussalam,Rodriguez-Gonzalez,Premier League (England),€153.6M,€352K,57.2,94.4,49.0,18.1,85,GK,150cm,Right
+895697,R. Cunningham,31,Saint Helena,Manchester United,Premier League (England),€135.1M,€348K,91.7,41.3,42.1,62.9,85,CDM,206cm,Left
+311437,J. Miranda,20,Serbia,"Scott, Nash and Roth",Premier League (England),€134.4M,€349K,44.2,90.3,67.1,57.7,84,GK,210cm,Right
+98821,B. Weber,33,Egypt,Mccarthy-Stokes,Alexander LLC (Saint Martin),€141.5M,€347K,92.0,23.6,9.3,61.2,84,LM,192cm,Left
+426656,Tyler Jr.,29,Argentina,Clark and Sons,Premier League (England),€139.6M,€354K,81.7,32.1,14.9,84.5,84,LM,171cm,Left
+304349,J. Camacho,20,Saint Helena,Huber-Olson,Premier League (England),€127.7M,€323K,39.0,80.9,75.8,85.7,84,RM,199cm,Left
+378739,Michael Price,24,Saint Martin,Baker Inc,Rios PLC (Saint Helena),€126M,€338K,86.3,37.8,45.4,76.7,84,LM,201cm,Left
+166100,B. Berg,33,Cameroon,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€144.4M,€327K,57.2,91.1,61.2,33.9,84,GK,167cm,Right
+166493,B. Wilson,25,Saint Helena,"Perez, Ruiz and Lopez",Premier League (England),€121.3M,€323K,54.1,94.3,54.9,54.6,84,GK,202cm,Right
+699505,S. Kemp,32,Cambodia,Clark and Sons,Premier League (England),€121.2M,€319K,48.7,85.3,78.7,25.8,84,GK,184cm,Right
+520264,T. Barnes,34,Liechtenstein,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€124.4M,€321K,26.3,87.8,71.2,53.7,84,RM,165cm,Left
+8227,Melton,20,United Arab Emirates,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€119.1M,€312K,89.4,28.2,63.5,41.3,83,CB,184cm,Left
+909599,Anthony Jr.,25,Argentina,Mccarthy-Stokes,Alexander LLC (Saint Martin),€119.7M,€338K,48.0,86.3,72.5,56.1,83,GK,177cm,Right
+893716,J. Baxter,26,Saint Martin,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€114.2M,€309K,67.4,88.2,65.8,48.4,83,GK,158cm,Right
+582927,A. Robinson,21,Saint Helena,"Scott, Nash and Roth",Premier League (England),€114.7M,€308K,39.7,80.8,83.2,29.5,83,LWB,203cm,Left
+140706,John Fisher,25,Egypt,Huber-Olson,Premier League (England),€118.8M,€309K,38.2,58.5,66.3,88.1,83,RM,162cm,Left
+141136,Lindsey,34,Liechtenstein,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€111.3M,€308K,68.3,39.3,87.6,44.6,83,CM,208cm,Left
+583833,S. Smith,25,United Arab Emirates,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€100.2M,€298K,38.3,86.4,67.2,70.9,83,CDM,150cm,Right
+174861,F. Davis,25,Serbia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€104.9M,€296K,85.7,47.6,11.6,76.0,83,LM,154cm,Left
+93056,D. Davila,24,Liechtenstein,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€105.7M,€305K,34.8,87.0,72.1,50.3,83,CDM,189cm,Right
+585219,D. Davenport,31,Saint Martin,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€106.6M,€292K,92.3,53.4,44.1,45.7,83,RW,164cm,Right
+815223,L. Cervantes,45,Chad,Liverpool,Premier League (England),€98.8M,€273K,81.3,84.0,39.6,30.8,83,RW,173cm,Right
+287275,Walsh,25,Cameroon,"Atkins, Jimenez and Rodriguez",Premier League (England),€103.9M,€274K,83.8,58.4,33.0,76.8,82,RB,183cm,Left
+132458,Bond,31,Argentina,FC Barcelona,Premier League (England),€97.2M,€275K,43.4,34.3,66.6,87.5,82,RWB,157cm,Right
+845417,Roy,41,Liechtenstein,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€96.2M,€301K,66.7,54.6,86.8,36.2,82,CM,203cm,Left
+919350,Johnny Jr.,21,Serbia,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€93.3M,€278K,53.3,79.7,82.6,32.3,82,GK,179cm,Right
+403317,Gerald Jr.,52,United Arab Emirates,Mccarthy-Stokes,Alexander LLC (Saint Martin),€99.2M,€272K,45.9,68.3,85.9,59.6,82,LWB,182cm,Left
+461025,S. Tapia,26,Saint Helena,Liverpool,Premier League (England),€88.7M,€255K,66.9,17.2,19.9,87.6,82,LM,169cm,Left
+739836,T. Camacho,24,Saint Martin,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€94.2M,€259K,43.3,88.2,42.4,62.8,82,RM,195cm,Left
+731668,S. Haynes,31,Egypt,Liverpool,Premier League (England),€94.3M,€253K,27.4,89.0,60.1,27.4,82,ST,168cm,Right
+641667,K. Quinn,24,Argentina,Mccarthy-Stokes,Alexander LLC (Saint Martin),€83.4M,€264K,58.1,44.5,19.8,89.8,82,LM,199cm,Left
+477836,T. Andrews,26,Argentina,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€87.6M,€251K,83.7,36.0,25.5,75.8,82,LM,185cm,Left
+183020,B. Mooney,30,Argentina,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€87M,€249K,87.7,65.3,25.1,33.3,82,RW,160cm,Right
+846753,Randy Campbell,21,United Arab Emirates,"Perez, Ruiz and Lopez",Premier League (England),€80M,€248K,46.4,87.4,65.0,53.4,82,GK,199cm,Right
+101972,W. Brandt,49,Cameroon,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€86.5M,€241K,88.8,13.7,59.7,21.9,82,CB,176cm,Left
+470889,W. Chandler,21,Liechtenstein,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€74.5M,€243K,33.2,75.8,83.9,70.8,82,CDM,180cm,Right
+937866,Brett Bentley,32,United Arab Emirates,"Buckley, Jones and Brooks",Henry and Sons (Chad),€82.1M,€245K,64.8,32.5,49.5,87.5,82,LW,171cm,Right
+733225,D. Chavez,24,Chad,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€59.2M,€233K,84.5,75.6,34.5,51.8,82,RW,203cm,Right
+274633,Adrian Jr.,55,Argentina,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€63.3M,€253K,74.6,76.6,83.5,40.7,82,LWB,195cm,Left
+807124,H. Vazquez,30,Cambodia,Huber-Olson,Premier League (England),€76.9M,€218K,75.6,83.9,34.0,30.5,82,RW,188cm,Right
+778431,Aaron Jr.,25,Brunei Darussalam,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€73.5M,€223K,27.6,86.9,43.4,64.4,81,LB,180cm,Right
+754224,F. Gross,26,Argentina,Manchester United,Premier League (England),€73.6M,€220K,56.7,39.0,49.0,89.4,81,RW,205cm,Left
+517032,Lucas Irwin,35,Egypt,Liverpool,Premier League (England),€50.5M,€216K,53.1,69.3,84.6,52.5,81,CDM,209cm,Right
+214063,Brown,31,United Arab Emirates,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€51M,€217K,37.9,46.4,77.7,82.1,81,RW,196cm,Left
+402683,P. Matthews,20,Saint Helena,Savage-Lewis,Premier League (England),€50.8M,€206K,44.5,85.7,66.8,25.4,81,GK,157cm,Right
+558453,S. Herman,34,United Arab Emirates,Gillespie LLC,Premier League (England),€49M,€203K,43.3,87.6,59.5,40.2,81,GK,172cm,Right
+468597,Adam Burch,25,United Arab Emirates,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€52.2M,€183K,83.8,73.9,48.6,46.6,81,RW,191cm,Right
+75516,M. Russell,34,Saint Martin,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€39.8M,€197K,35.1,16.3,67.0,86.1,81,RW,198cm,Left
+812980,R. Peterson,32,Saint Martin,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€39.6M,€214K,64.1,78.5,81.3,19.4,81,GK,167cm,Right
+419774,K. Clark,27,Chad,"Fox, Baker and Robles",Premier League (England),€47.3M,€176K,42.0,86.9,61.7,62.4,81,CDM,202cm,Right
+362454,J. Wagner,40,Cambodia,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€35.5M,€191K,87.9,35.4,34.8,59.2,81,LM,207cm,Left
+601082,L. Greer,24,Cambodia,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€37.9M,€177K,85.9,21.8,36.0,65.5,81,LM,189cm,Left
+945174,B. Gallegos,30,Serbia,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€31.7M,€173K,64.0,86.7,36.6,61.7,81,RW,175cm,Right
+830697,K. Ruiz,23,Chad,"Atkins, Jimenez and Rodriguez",Premier League (England),€36.4M,€167K,72.8,46.5,84.0,44.0,81,CAM,196cm,Left
+961824,M. Aguirre,31,Saint Helena,Gillespie LLC,Premier League (England),€30.6M,€173K,88.5,47.1,16.7,57.6,81,LM,168cm,Left
+535923,E. Brown,30,Saint Martin,"Ellis, Cruz and Johnson",Premier League (England),€28.2M,€167K,66.3,85.9,36.9,33.8,81,CF,185cm,Left
+577031,J. Anderson,35,Liechtenstein,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€29.4M,€173K,47.4,37.1,90.0,54.2,81,CAM,190cm,Left
+683616,R. Holmes,27,Cameroon,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€18.7M,€165K,69.1,84.9,26.9,23.6,81,CF,203cm,Left
+700292,J. Arias,36,Egypt,"Fox, Baker and Robles",Premier League (England),€24.1M,€180K,40.0,27.6,82.7,75.4,81,RB,162cm,Right
+158023,A. Ramirez,33,Brunei Darussalam,Baker Inc,Rios PLC (Saint Helena),€18.3M,€166K,48.7,50.1,83.7,73.5,81,CDM,172cm,Left
+798717,Padilla,22,Serbia,Mccarthy-Stokes,Alexander LLC (Saint Martin),€24.6M,€160K,43.7,63.5,85.0,69.1,81,CDM,195cm,Right
+725066,W. Douglas,34,Chad,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€10.8M,€140K,88.8,56.3,28.4,45.8,81,RW,159cm,Right
+102505,W. Tucker,33,Argentina,Cook Group,"Morales, Lee and Hill (Egypt)",€30.4M,€152K,45.3,54.4,64.7,86.8,81,RM,181cm,Left
+934338,J. Velez,28,Cambodia,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€10M,€159K,29.5,49.0,31.9,91.0,80,LW,195cm,Right
+426743,C. Hansen,26,Argentina,"Perez, Ruiz and Lopez",Premier League (England),€12.5M,€146K,23.5,50.0,77.9,80.2,80,RW,169cm,Left
+697112,J. Reed,25,Serbia,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€9.9M,€124K,73.0,16.6,43.4,82.6,80,LM,202cm,Left
+410663,K. Hall,28,Serbia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€9.9M,€135K,46.4,87.3,57.2,37.1,80,ST,159cm,Right
+853304,Steven Jr.,30,Egypt,Savage-Lewis,Premier League (England),€10.4M,€123K,72.9,14.4,29.1,82.5,80,LM,198cm,Left
+681856,P. Thompson,55,Saint Helena,Mccarthy-Stokes,Alexander LLC (Saint Martin),€9.9M,€136K,47.2,33.9,31.6,90.8,80,LW,203cm,Right
+108910,Holt,26,United Arab Emirates,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€9.7M,€121K,20.5,55.9,63.6,85.8,80,RM,170cm,Left
+830003,J. Ruiz,24,Cambodia,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€9.5M,€118K,57.1,59.9,83.0,70.7,80,CDM,153cm,Right
+412333,A. Phillips,32,Liechtenstein,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€9.9M,€159K,30.6,58.5,81.6,74.2,80,CDM,152cm,Left
+477994,D. Anderson,24,Cameroon,Cook Group,"Morales, Lee and Hill (Egypt)",€9.7M,€117K,49.6,54.5,54.3,89.1,80,RW,157cm,Left
+986060,Haley,35,Saint Martin,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€9.5M,€100K,26.7,83.5,24.9,70.1,80,LB,210cm,Right
+495161,Farmer,35,Brunei Darussalam,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€9.4M,€108K,31.4,86.9,42.4,58.4,80,LB,192cm,Right
+364146,Taylor,20,United Arab Emirates,"Scott, Nash and Roth",Premier League (England),€9.7M,€121K,47.9,82.0,74.2,59.5,80,LWB,166cm,Left
+151484,C. Jackson,25,Brunei Darussalam,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€9.5M,€100K,52.2,46.5,82.1,72.1,80,RB,199cm,Right
+962672,J. Rivera,30,Cameroon,Johnson-Turner,Premier League (England),€9.4M,€99K,63.6,36.9,85.6,36.8,80,CM,176cm,Left
+770099,A. Wilson,35,Liechtenstein,Huber-Olson,Premier League (England),€9.4M,€116K,53.1,87.3,51.9,53.9,79,LB,184cm,Right
+672174,A. Wilson,25,Cameroon,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€9.4M,€99K,17.9,23.1,62.0,85.2,79,RWB,162cm,Right
+336839,R. Torres,52,Brunei Darussalam,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€9.3M,€99K,55.1,68.2,82.5,56.3,79,GK,185cm,Right
+590921,D. Burgess,32,Argentina,Townsend LLC,"Morales, Lee and Hill (Egypt)",€9.2M,€98K,67.1,58.0,82.4,33.3,79,GK,150cm,Right
+173356,M. White,35,Saint Martin,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€9.2M,€99K,53.7,26.8,81.4,71.2,79,RW,196cm,Left
+255398,D. Lee,24,United Arab Emirates,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€9.5M,€99K,37.6,26.2,69.2,82.8,79,RW,196cm,Left
+443900,Williams,28,Chad,Huber-Olson,Premier League (England),€9.2M,€99K,33.6,68.4,82.9,26.5,79,GK,188cm,Right
+993306,Paul Thompson,52,Liechtenstein,"Buckley, Jones and Brooks",Henry and Sons (Chad),€8.9M,€97K,40.5,28.2,47.5,89.8,79,LW,175cm,Right
+206969,B. Wong,22,Serbia,Cook Group,"Morales, Lee and Hill (Egypt)",€8.9M,€99K,38.4,20.2,50.6,88.9,79,RW,196cm,Left
+723074,J. Duke,28,Brunei Darussalam,"Scott, Nash and Roth",Premier League (England),€9.2M,€97K,40.6,84.1,63.5,44.5,79,CM,189cm,Right
+796973,P. Velez,26,Argentina,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€9.2M,€98K,72.0,35.5,81.6,30.9,79,CB,180cm,Left
+141625,B. Terry,35,Cambodia,Townsend LLC,"Morales, Lee and Hill (Egypt)",€8.8M,€97K,59.7,81.0,72.3,51.0,79,GK,153cm,Right
+854487,Victor Bates,27,Serbia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€9.2M,€98K,19.8,79.9,50.5,77.3,79,RM,163cm,Left
+141843,Richard Jr.,30,United Arab Emirates,"Perez, Ruiz and Lopez",Premier League (England),€8.8M,€97K,82.4,69.4,31.4,58.1,79,RW,164cm,Right
+60195,Riley,35,Saint Helena,"Perez, Ruiz and Lopez",Premier League (England),€8.7M,€97K,86.1,42.5,51.5,56.5,79,CB,151cm,Left
+977916,T. Mendez,20,Argentina,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€8.5M,€96K,86.3,58.5,20.2,37.2,79,RW,210cm,Right
+248861,William Jr.,20,Serbia,Townsend LLC,"Morales, Lee and Hill (Egypt)",€8.5M,€96K,25.7,25.4,82.0,70.3,79,RW,204cm,Left
+11585,N. Green,16,Cambodia,"Ellis, Cruz and Johnson",Premier League (England),€8.5M,€97K,40.1,56.7,86.3,35.8,79,LWB,188cm,Left
+897076,J. Rodriguez,27,Serbia,"Vang, Morris and Nelson",Premier League (England),€8.8M,€96K,65.5,34.5,84.0,45.3,79,CM,164cm,Left
+500139,Jerry Jr.,24,Cambodia,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€8.5M,€96K,73.8,22.7,80.0,52.3,78,CAM,200cm,Left
+688849,D. Beck,51,Cambodia,Ross Inc,Day PLC (Saint Helena),€8.5M,€96K,50.9,80.8,35.5,69.8,78,LB,186cm,Right
+434967,K. Gray,28,Chad,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€8.5M,€96K,46.7,82.0,65.9,50.2,78,ST,169cm,Right
+361245,S. Riley,23,Liechtenstein,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€8.5M,€96K,35.9,84.2,48.5,60.8,78,LB,182cm,Right
+541540,B. Castro,27,Liechtenstein,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€8.4M,€95K,39.8,32.8,79.2,73.6,78,RW,156cm,Left
+779552,Max Calhoun,24,Cameroon,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€8.5M,€96K,61.2,44.3,24.5,83.0,78,LW,176cm,Right
+657340,J. Hunt,29,Egypt,Clark and Sons,Premier League (England),€8.3M,€95K,53.8,32.5,77.5,78.6,78,RW,201cm,Left
+624582,Earl Rodriguez,25,Cambodia,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€8.4M,€96K,79.3,74.6,32.7,52.7,78,RW,200cm,Right
+698918,Morris,32,Argentina,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€8.4M,€94K,62.5,68.3,80.6,44.2,78,LWB,163cm,Left
+608912,Darren Jr.,23,Chad,Liverpool,Premier League (England),€8.1M,€94K,81.9,45.9,44.1,68.2,78,LM,153cm,Left
+936634,E. Evans,33,Cameroon,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€8.3M,€96K,12.8,53.6,75.9,78.2,78,RM,160cm,Left
+355450,D. Rodriguez,23,Cambodia,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€8.3M,€95K,72.2,10.1,80.6,51.1,78,CB,190cm,Left
+650580,J. Brown,44,Serbia,Henry PLC,Premier League (England),€8M,€95K,16.8,87.9,49.7,47.2,78,LWB,187cm,Right
+658981,B. Sanders,29,Brunei Darussalam,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€8.1M,€94K,65.0,44.1,82.3,48.9,78,CB,154cm,Left
+85586,V. Green,34,Brunei Darussalam,Townsend LLC,"Morales, Lee and Hill (Egypt)",€8M,€93K,25.8,87.7,29.4,50.3,78,LWB,204cm,Right
+12140,Gregory Mack,22,Cambodia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€8M,€94K,81.5,33.6,32.0,65.8,78,RB,153cm,Left
+503859,Martin,40,United Arab Emirates,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€7.9M,€92K,63.2,83.1,54.2,14.5,78,CM,204cm,Right
+790742,Jack Jr.,34,Cambodia,Cook Group,"Morales, Lee and Hill (Egypt)",€7.9M,€91K,80.4,33.1,32.8,68.8,78,RB,173cm,Left
+852042,D. Anderson,28,Saint Martin,Baker Inc,Rios PLC (Saint Helena),€8.1M,€93K,48.8,79.1,68.8,21.1,77,LWB,185cm,Left
+262370,J. Soto,21,Argentina,Jones LLC,Premier League (England),€7.9M,€93K,70.3,57.6,79.6,53.1,77,LWB,157cm,Left
+320047,John Valdez,29,Argentina,"Smith, Murphy and Carr",Henry and Sons (Chad),€8M,€91K,50.7,53.2,82.9,60.5,77,RB,187cm,Right
+844,J. Peters,35,United Arab Emirates,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€7.8M,€91K,63.8,81.1,53.0,19.0,77,CM,184cm,Right
+664699,Jesse Kline,21,Chad,"Ellis, Cruz and Johnson",Premier League (England),€7.9M,€91K,26.4,83.4,57.8,14.1,77,LM,156cm,Right
+255183,Richard Jr.,33,Cambodia,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€7.8M,€91K,21.7,79.7,70.6,64.2,77,RM,197cm,Left
+288010,R. Evans,34,Cambodia,"Buckley, Jones and Brooks",Henry and Sons (Chad),€7.6M,€90K,48.1,25.7,86.7,37.2,77,CAM,198cm,Left
+66862,B. Garner,23,Cambodia,"Vang, Morris and Nelson",Premier League (England),€7.6M,€92K,32.1,31.6,77.5,76.3,77,CDM,186cm,Left
+493009,W. Garcia,37,United Arab Emirates,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€7.7M,€91K,32.1,79.7,67.5,52.0,77,GK,184cm,Right
+394842,Darren Jr.,31,Liechtenstein,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€7.7M,€91K,46.4,87.3,36.7,13.8,77,LM,191cm,Right
+477075,Waller,26,Argentina,FC Barcelona,Premier League (England),€7.3M,€90K,69.1,65.1,80.0,54.7,77,GK,203cm,Right
+616365,S. Lee,30,Cambodia,Huber-Olson,Premier League (England),€7.4M,€90K,58.7,82.8,52.1,37.2,77,LWB,158cm,Left
+838052,L. Diaz,21,Saint Martin,Ross Inc,Day PLC (Saint Helena),€7.4M,€90K,23.4,46.8,78.2,72.4,77,RB,179cm,Right
+355012,R. Jones,32,Saint Martin,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€7.8M,€90K,85.5,31.9,9.9,50.2,77,LM,188cm,Left
+52024,R. Williams,33,Serbia,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€7.1M,€89K,79.3,36.2,17.1,71.0,77,RB,209cm,Left
+461975,Thomas Jr.,17,Argentina,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€7.1M,€91K,84.5,56.1,45.4,46.6,77,RW,161cm,Right
+552109,K. Ford,26,Cameroon,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€7.5M,€89K,42.2,77.8,75.5,25.1,77,GK,200cm,Right
+437806,W. Myers,16,Brunei Darussalam,Rodriguez-Gonzalez,Premier League (England),€7.1M,€90K,37.9,42.9,88.1,45.1,77,CAM,179cm,Left
+855773,Joshua Bell,52,Liechtenstein,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€6.8M,€89K,75.4,20.7,13.8,77.8,77,LM,171cm,Left
+577385,G. Price,21,Serbia,Mccarthy-Stokes,Alexander LLC (Saint Martin),€6.7M,€89K,58.0,19.8,33.4,83.1,77,LM,154cm,Left
+905385,Zachary Jr.,20,Brunei Darussalam,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€6.9M,€89K,37.8,24.2,70.1,79.9,77,RWB,168cm,Right
+655544,R. Burke,25,Serbia,Johnson-Turner,Premier League (England),€6.7M,€89K,69.8,71.1,77.4,40.6,76,LWB,203cm,Left
+606446,J. Harris,22,Serbia,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€6.6M,€88K,55.5,82.7,33.8,21.9,76,LM,199cm,Right
+278813,James Jr.,18,United Arab Emirates,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€6.6M,€88K,57.8,29.4,30.8,82.0,76,CF,203cm,Right
+49483,Brian Jr.,32,United Arab Emirates,"Perez, Ruiz and Lopez",Premier League (England),€6.6M,€89K,43.7,82.8,54.7,40.9,76,LB,193cm,Right
+934268,S. Molina,22,Egypt,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€6.7M,€88K,77.4,26.8,72.7,45.5,76,CB,199cm,Left
+361021,J. Anderson,27,Cameroon,"Atkins, Jimenez and Rodriguez",Premier League (England),€6.4M,€87K,76.5,74.7,59.3,33.8,76,CF,181cm,Left
+434884,Burton,30,Serbia,Huber-Olson,Premier League (England),€6.5M,€87K,65.0,33.4,58.3,80.3,76,RWB,207cm,Left
+779031,Zachary Jr.,26,Egypt,Townsend LLC,"Morales, Lee and Hill (Egypt)",€6.5M,€89K,19.8,41.1,77.9,69.2,76,RB,153cm,Right
+828438,S. Harrison,24,Saint Helena,Smith-Conner,"Shaw, Jenkins and Moore (Egypt)",€6.5M,€87K,52.7,22.5,52.6,84.0,76,RWB,192cm,Right
+976302,D. Lewis,26,Cambodia,Henry PLC,Premier League (England),€6.3M,€87K,69.1,77.8,72.0,58.8,76,CDM,166cm,Right
+796423,Smith,33,Cameroon,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€6.3M,€87K,56.3,21.6,43.0,82.2,76,RWB,159cm,Left
+919346,Justin Jr.,27,United Arab Emirates,"Buckley, Jones and Brooks",Henry and Sons (Chad),€6.3M,€87K,61.1,81.1,61.5,45.8,76,CM,174cm,Right
+780121,J. Walker,22,Cambodia,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€6.3M,€87K,53.9,83.0,50.5,51.4,76,GK,176cm,Right
+264325,Justin Olson,35,United Arab Emirates,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€6.4M,€86K,47.4,80.5,62.6,24.7,76,CM,195cm,Right
+116918,D. Myers,30,Serbia,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€6M,€87K,54.0,59.8,78.7,69.2,76,CDM,196cm,Right
+624969,S. Jones,24,Serbia,Townsend LLC,"Morales, Lee and Hill (Egypt)",€6M,€86K,35.3,36.4,77.2,74.0,76,CDM,157cm,Left
+371130,Sean Solomon,17,Saint Martin,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€6.2M,€86K,56.7,48.8,12.7,83.1,76,LM,168cm,Left
+649869,T. Hatfield,23,Saint Martin,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€6M,€86K,84.8,28.9,13.4,50.4,76,RB,173cm,Left
+903858,Shaw,22,Saint Helena,Gillespie LLC,Premier League (England),€6M,€86K,43.8,30.1,63.5,80.1,76,RWB,161cm,Right
+625393,M. Roberts,28,Chad,Clark and Sons,Premier League (England),€6M,€85K,44.9,37.7,79.6,65.9,76,RB,209cm,Right
+805640,J. Oliver,46,Chad,"Smith, Murphy and Carr",Henry and Sons (Chad),€6.1M,€86K,34.7,24.1,51.4,84.1,76,RWB,187cm,Right
+895926,T. Velez,16,Cambodia,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€5.7M,€85K,76.8,46.8,73.4,46.5,76,CB,164cm,Left
+683215,B. Rodriguez,34,Argentina,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€5.9M,€85K,53.3,83.9,33.9,15.0,76,LM,209cm,Right
+101941,R. Richardson,24,Serbia,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€5.8M,€85K,38.3,65.1,79.8,45.4,76,CDM,171cm,Right
+3847,A. Brown,21,Argentina,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€5.8M,€85K,14.5,76.1,67.7,74.9,76,RM,176cm,Left
+487259,C. Mckenzie,23,Brunei Darussalam,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€5.6M,€84K,70.9,43.1,30.4,78.3,76,CF,199cm,Right
+831555,C. Montgomery,28,Serbia,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€5.6M,€85K,41.4,57.9,80.8,60.1,76,CDM,187cm,Right
+626855,W. Martin,32,Saint Martin,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€5.5M,€86K,62.4,80.8,53.4,23.5,76,CM,175cm,Right
+532648,P. Ortiz,27,Saint Martin,Ross Inc,Day PLC (Saint Helena),€5.6M,€84K,30.5,83.1,50.7,30.5,75,LWB,176cm,Right
+328109,Buchanan,29,Saint Martin,Manchester United,Premier League (England),€5.3M,€84K,43.4,81.5,57.1,42.9,75,CDM,198cm,Right
+467452,R. Smith,26,Saint Martin,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€5.8M,€84K,19.9,55.2,66.4,78.4,75,RM,150cm,Left
+377890,J. Bartlett,20,Cambodia,Smith-Conner,"Shaw, Jenkins and Moore (Egypt)",€5.4M,€84K,53.9,47.7,78.0,64.6,75,RB,158cm,Right
+99953,Isaiah Jr.,29,Saint Helena,FC Barcelona,Premier League (England),€5.5M,€84K,26.8,36.2,69.5,76.5,75,CDM,165cm,Left
+419456,D. Shah,33,Cameroon,Savage-Lewis,Premier League (England),€5.2M,€84K,18.5,56.5,76.7,70.1,75,CDM,157cm,Left
+927416,Timothy Bentley,24,Liechtenstein,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€5.2M,€84K,21.3,42.4,75.3,73.9,75,CDM,198cm,Left
+714934,T. Harris,39,Saint Helena,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€5.2M,€84K,45.2,76.0,70.8,59.7,75,LWB,174cm,Left
+920488,T. Cruz,30,Saint Helena,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€5.3M,€84K,25.1,81.4,36.3,54.4,75,ST,172cm,Right
+298038,A. Fields,21,Cambodia,"Ellis, Cruz and Johnson",Premier League (England),€5.1M,€83K,71.1,76.5,56.8,42.7,75,LWB,171cm,Left
+748738,T. Whitehead,33,Serbia,Clark and Sons,Premier League (England),€5M,€83K,77.4,38.8,40.5,66.4,75,RB,204cm,Left
+216435,J. Price,23,Chad,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€5.2M,€83K,48.4,84.4,27.7,11.2,75,CM,206cm,Right
+85406,L. White,32,Argentina,"Perez, Ruiz and Lopez",Premier League (England),€5.1M,€84K,75.8,36.8,72.8,45.7,75,CB,163cm,Left
+109985,G. Williams,34,Serbia,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€5M,€82K,42.2,85.7,37.7,10.9,75,CF,157cm,Left
+560588,S. Larson,46,United Arab Emirates,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€5M,€83K,47.6,44.8,81.0,58.4,75,RB,180cm,Right
+257533,C. Jenkins,32,Saint Martin,"Vang, Morris and Nelson",Premier League (England),€4.9M,€82K,71.0,55.2,76.4,53.1,75,LWB,198cm,Left
+110137,J. Mcdonald,27,Egypt,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€5.2M,€82K,39.7,56.1,77.1,68.0,75,CDM,158cm,Right
+749390,Oliver,26,Brunei Darussalam,Liverpool,Premier League (England),€4.9M,€82K,54.7,81.3,51.9,46.6,75,LWB,197cm,Left
+397407,R. Robertson,22,United Arab Emirates,Rodriguez-Gonzalez,Premier League (England),€4.8M,€82K,16.3,86.9,32.4,41.2,75,LWB,198cm,Right
+241813,J. Wilson,34,Brunei Darussalam,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€4.7M,€82K,62.5,24.1,78.8,19.9,75,CB,153cm,Left
+53426,J. Armstrong,35,Brunei Darussalam,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€4.7M,€82K,74.4,40.6,45.0,74.7,75,LM,204cm,Left
+426041,O. Dennis,23,United Arab Emirates,Clark and Sons,Premier League (England),€4.9M,€81K,79.5,58.8,55.1,53.8,74,RW,186cm,Right
+270412,D. Nelson,28,Liechtenstein,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€4.7M,€82K,18.4,82.1,48.3,19.3,74,ST,190cm,Right
+16642,C. Weber,34,Cameroon,"Ellis, Cruz and Johnson",Premier League (England),€4.5M,€82K,55.5,79.5,57.5,29.3,74,LWB,209cm,Left
+999712,J. Cooper,22,Saint Helena,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€4.5M,€81K,54.2,79.3,59.6,24.2,74,ST,172cm,Right
+344465,A. Gates,42,Cameroon,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€4.5M,€81K,58.3,39.1,53.1,79.9,74,LW,170cm,Right
+377342,M. Spence,33,Cambodia,"Scott, Nash and Roth",Premier League (England),€4.4M,€81K,36.0,51.7,74.5,73.0,74,RW,154cm,Left
+975677,B. Smith,29,United Arab Emirates,"Smith, Murphy and Carr",Henry and Sons (Chad),€4.4M,€81K,56.2,32.4,28.3,79.5,74,CF,155cm,Right
+820488,S. Hammond,37,Cambodia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€4.3M,€81K,51.9,82.0,44.3,29.3,74,CM,151cm,Right
+99606,E. Heath,32,Egypt,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€4.3M,€81K,40.0,78.4,59.5,55.2,74,CDM,152cm,Right
+206397,G. Hardy,15,Cambodia,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€4.1M,€80K,75.7,70.8,45.8,47.2,74,RW,210cm,Right
+911233,G. Harris,22,Saint Martin,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€4.7M,€80K,20.2,81.8,42.6,50.9,74,ST,167cm,Right
+34812,Rodney Jr.,28,Cambodia,Jones LLC,Premier League (England),€4.2M,€81K,43.7,83.6,44.1,25.5,74,LM,150cm,Right
+927746,D. Nunez,28,Serbia,"Atkins, Jimenez and Rodriguez",Premier League (England),€4.1M,€80K,53.4,81.1,40.0,43.1,74,CF,208cm,Left
+256023,C. Silva,18,Liechtenstein,Cook Group,"Morales, Lee and Hill (Egypt)",€4.1M,€81K,76.3,53.7,11.2,67.6,74,LM,179cm,Left
+862311,W. Wilson,24,Chad,"Scott, Nash and Roth",Premier League (England),€4.2M,€80K,49.7,26.0,64.8,77.1,74,RWB,183cm,Right
+928073,M. Gardner,26,Saint Martin,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€4.1M,€80K,49.6,45.0,21.7,82.6,74,RWB,176cm,Left
+780648,R. Wagner,42,Cambodia,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€4M,€80K,70.2,75.0,48.1,39.0,74,GK,201cm,Right
+461219,M. Cooper,28,Liechtenstein,Manchester United,Premier League (England),€4.1M,€80K,45.2,52.9,22.1,80.6,74,CF,206cm,Right
+166327,Matthew Henry,21,United Arab Emirates,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€4M,€80K,33.4,82.7,46.6,33.7,74,LM,200cm,Right
+330250,Elijah Jr.,29,Cameroon,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€4M,€80K,44.3,54.2,80.7,21.1,74,LWB,157cm,Left
+912111,C. Barber,28,Cambodia,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€3.8M,€79K,37.9,37.0,61.7,77.9,74,RW,200cm,Left
+805674,R. Monroe,27,Saint Helena,"Buckley, Jones and Brooks",Henry and Sons (Chad),€4M,€79K,28.8,27.5,77.1,64.6,74,RW,161cm,Left
+666429,D. Miller,23,Chad,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€3.8M,€79K,80.8,35.6,54.3,35.8,74,CB,191cm,Left
+240496,Morris,55,Saint Martin,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€3.7M,€79K,23.0,76.5,66.4,56.7,74,ST,189cm,Right
+920489,S. Taylor,43,Liechtenstein,"Buckley, Jones and Brooks",Henry and Sons (Chad),€3.8M,€80K,52.1,81.5,25.8,24.5,74,LM,158cm,Right
+527391,J. Evans,28,Argentina,Ross Inc,Day PLC (Saint Helena),€3.6M,€79K,66.9,75.9,26.4,60.6,74,RW,173cm,Right
+494668,R. Buck,21,Cameroon,"Atkins, Jimenez and Rodriguez",Premier League (England),€3.6M,€79K,74.3,52.7,20.6,72.7,74,RB,198cm,Left
+142449,E. Wood,27,Cambodia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€3.7M,€79K,57.0,34.7,76.4,68.2,74,CAM,164cm,Left
+240768,Moore,20,Liechtenstein,Liverpool,Premier League (England),€3.6M,€79K,44.2,74.5,72.2,25.7,74,LWB,188cm,Left
+453891,Joshua Jr.,23,United Arab Emirates,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€3.6M,€79K,83.9,42.1,40.7,43.3,74,RB,150cm,Left
+953778,J. Calderon,34,Cambodia,Cook Group,"Morales, Lee and Hill (Egypt)",€3.5M,€79K,26.5,89.9,17.0,18.3,74,LWB,206cm,Right
+757303,Cardenas,22,Liechtenstein,Ross Inc,Day PLC (Saint Helena),€3.6M,€79K,76.8,17.1,65.5,20.1,74,CB,165cm,Left
+241244,G. Taylor,25,Brunei Darussalam,"Vang, Morris and Nelson",Premier League (England),€3.5M,€78K,65.9,76.5,25.8,51.1,74,RW,169cm,Right
+692133,J. Pena,50,Saint Martin,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€3.6M,€78K,83.0,41.5,47.9,48.4,74,CB,176cm,Left
+503740,Robert Jr.,30,Cambodia,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€3.5M,€78K,39.5,81.6,51.8,26.5,74,CM,192cm,Right
+495550,S. Castillo,31,Cameroon,Cook Group,"Morales, Lee and Hill (Egypt)",€3.5M,€78K,56.7,35.6,57.2,80.1,74,RWB,179cm,Left
+45120,Timothy Barron,26,Cameroon,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€3.5M,€78K,25.7,40.2,75.4,68.0,74,RW,166cm,Left
+237604,Rodgers,22,United Arab Emirates,Huber-Olson,Premier League (England),€3.5M,€78K,72.0,41.0,24.3,73.1,73,RB,167cm,Left
+631013,Bradley Jr.,32,Liechtenstein,"Atkins, Jimenez and Rodriguez",Premier League (England),€3.5M,€78K,49.4,42.3,51.2,80.3,73,RWB,166cm,Right
+82247,Day,31,Chad,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€3.4M,€79K,53.8,36.1,79.0,53.1,73,CAM,170cm,Left
+303627,Dwayne Reeves,20,Saint Helena,"Atkins, Jimenez and Rodriguez",Premier League (England),€3.4M,€78K,25.1,82.1,47.6,41.3,73,LB,200cm,Right
+172638,Holloway,25,Serbia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€3.3M,€78K,78.2,47.2,59.2,33.1,73,CB,152cm,Left
+975527,J. Moore,40,Argentina,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€3.3M,€78K,41.2,78.6,56.8,16.8,73,LM,156cm,Right
+74701,Peterson,35,Chad,Huber-Olson,Premier League (England),€3.1M,€77K,47.1,52.4,80.2,50.5,73,LWB,153cm,Left
+247256,M. Holmes,34,United Arab Emirates,Rodriguez-Gonzalez,Premier League (England),€3.1M,€77K,62.9,14.3,76.9,49.0,73,CB,168cm,Left
+239411,D. Rodriguez,51,United Arab Emirates,Huber-Olson,Premier League (England),€3.2M,€77K,31.3,80.2,52.7,39.0,73,ST,198cm,Right
+911189,Stone,34,Egypt,Smith-Conner,"Shaw, Jenkins and Moore (Egypt)",€3.1M,€77K,66.8,42.8,7.8,74.8,73,LM,195cm,Left
+714593,T. Martinez,24,Serbia,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€3.1M,€77K,79.5,26.0,52.2,32.4,73,CB,158cm,Left
+526203,M. Moody,22,Saint Helena,"Vang, Morris and Nelson",Premier League (England),€2.9M,€77K,64.2,52.7,75.9,19.7,73,CM,173cm,Left
+362548,Hernandez,25,Cambodia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€2.9M,€78K,79.3,54.0,54.6,40.8,73,RW,169cm,Right
+526389,Moss,22,United Arab Emirates,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€2.9M,€77K,43.3,20.5,56.7,78.4,73,RWB,205cm,Left
+485866,S. Wright,26,Liechtenstein,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€2.9M,€77K,40.2,83.8,33.1,39.9,73,LB,203cm,Right
+436722,J. Perkins,23,Egypt,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€2.7M,€77K,70.7,74.4,43.5,31.4,73,CM,174cm,Right
+363012,J. Torres,39,Cameroon,FC Barcelona,Premier League (England),€2.7M,€77K,75.8,51.0,16.4,65.4,73,RB,150cm,Left
+699299,John Jr.,34,Liechtenstein,Townsend LLC,"Morales, Lee and Hill (Egypt)",€2.8M,€76K,76.3,62.6,14.9,46.4,73,RB,196cm,Left
+109547,M. Mitchell,33,Egypt,FC Barcelona,Premier League (England),€3.1M,€76K,47.7,81.5,45.5,23.5,73,CM,165cm,Right
+617465,Cuevas,29,Brunei Darussalam,"Buckley, Jones and Brooks",Henry and Sons (Chad),€2.5M,€77K,55.4,67.2,61.8,74.5,73,LB,162cm,Right
+568420,K. Roberson,20,Argentina,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€2.5M,€76K,40.4,53.8,36.9,78.8,73,LW,170cm,Right
+126071,D. Hughes,22,Saint Helena,FC Barcelona,Premier League (England),€2.8M,€76K,59.7,21.8,24.6,78.0,73,CF,151cm,Right
+830592,Henry Jr.,39,Cambodia,Rodriguez-Gonzalez,Premier League (England),€2.6M,€76K,34.7,73.7,51.3,71.9,73,RM,156cm,Left
+929144,D. Walker,18,Egypt,"Fox, Baker and Robles",Premier League (England),€2.3M,€76K,19.9,41.3,16.6,83.7,73,ST,197cm,Left
+396680,P. Gonzalez,22,Egypt,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€2.4M,€76K,16.2,48.6,52.1,80.4,73,RWB,156cm,Right
+142996,S. Jones,34,Brunei Darussalam,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€2.3M,€76K,40.1,12.4,30.9,83.7,73,ST,205cm,Left
+880644,B. Howe,24,Argentina,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€2.3M,€76K,48.1,81.2,47.5,37.7,73,CF,167cm,Left
+319602,D. Acosta,35,Saint Helena,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€2.1M,€76K,79.7,44.5,47.2,35.1,72,CB,188cm,Left
+320046,J. Contreras,24,Cambodia,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€2.1M,€75K,65.1,74.2,57.1,50.4,72,GK,203cm,Right
+90677,D. Fox,16,Serbia,"Atkins, Jimenez and Rodriguez",Premier League (England),€2.3M,€75K,38.9,29.6,37.3,82.7,72,CF,160cm,Right
+131768,Davis,24,Cameroon,"Ellis, Cruz and Johnson",Premier League (England),€2.3M,€76K,59.3,75.7,26.4,20.0,72,CM,151cm,Right
+697070,B. Patton,33,United Arab Emirates,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€2M,€75K,61.2,74.9,62.4,44.3,72,CDM,205cm,Right
+99094,S. Reed,26,Saint Helena,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€1.9M,€75K,74.1,25.6,18.6,64.9,72,LM,167cm,Left
+631586,Thompson,26,Saint Helena,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€1.9M,€75K,31.7,61.0,53.6,76.1,72,RM,178cm,Left
+58658,B. Brown,21,United Arab Emirates,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€2M,€76K,61.1,29.8,76.2,32.0,72,CB,184cm,Left
+927053,M. Waters,27,Egypt,Huber-Olson,Premier League (England),€1.7M,€75K,38.8,25.0,73.7,66.1,72,RW,186cm,Left
+435549,Craig Haley,20,Saint Helena,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€1.8M,€74K,59.5,75.9,56.5,24.1,72,CM,193cm,Right
+837041,Murphy,53,Cambodia,"Perez, Ruiz and Lopez",Premier League (England),€1.7M,€73K,75.6,52.3,61.7,25.5,72,CF,197cm,Left
+837343,J. Thornton,31,Egypt,Henry PLC,Premier League (England),€1.8M,€74K,51.3,76.6,57.7,30.1,72,ST,196cm,Right
+51130,A. Hill,33,Cameroon,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€2.1M,€73K,36.6,16.7,77.0,58.1,72,CM,210cm,Left
+51205,G. Martin,27,Brunei Darussalam,Jones LLC,Premier League (England),€1.7M,€73K,75.1,22.7,63.4,51.5,72,CB,173cm,Left
+174099,T. Barrett,20,Cameroon,Rodriguez-Gonzalez,Premier League (England),€1.6M,€74K,58.0,75.9,60.7,25.4,72,LWB,194cm,Left
+616489,A. Holmes,30,Serbia,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€1.6M,€73K,25.9,77.6,45.5,53.2,72,LWB,194cm,Right
+362582,M. Hernandez,51,Saint Martin,Ross Inc,Day PLC (Saint Helena),€1.6M,€72K,62.5,27.2,74.5,50.0,72,CB,155cm,Left
+845915,Gregory Jr.,36,Saint Martin,"Atkins, Jimenez and Rodriguez",Premier League (England),€1.5M,€72K,16.6,81.7,29.4,40.9,72,LWB,204cm,Right
+190707,A. Andrews,24,Cameroon,Cook Group,"Morales, Lee and Hill (Egypt)",€1.5M,€72K,51.4,78.3,23.5,27.8,72,CF,185cm,Left
+387418,B. Woods,36,Liechtenstein,Clark and Sons,Premier League (England),€1.6M,€73K,49.0,79.7,32.0,10.4,72,CM,151cm,Right
+280988,B. Brown,28,United Arab Emirates,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€1.5M,€71K,23.0,68.7,48.2,72.5,72,LB,161cm,Right
+764372,M. Freeman,21,Saint Martin,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€1.4M,€72K,36.3,35.8,83.9,24.7,72,CM,189cm,Left
+27110,R. Clark,28,Saint Martin,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€1.5M,€72K,47.3,79.6,22.3,50.1,72,LM,202cm,Right
+387804,D. Fischer,34,Cameroon,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€1.4M,€72K,69.3,16.9,72.3,31.4,72,CB,204cm,Left
+805663,K. Adams,31,Cambodia,Huber-Olson,Premier League (England),€1.1M,€71K,38.5,51.7,75.9,62.2,72,RM,198cm,Left
+830380,D. Hall,44,Saint Martin,Johnson-Turner,Premier League (England),€1.4M,€71K,33.0,53.8,75.2,61.0,72,CDM,200cm,Left
+158642,P. Morales,21,Saint Martin,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€1.4M,€71K,41.9,14.2,43.3,81.7,72,ST,171cm,Left
+486456,Hernandez,29,Brunei Darussalam,Henry PLC,Premier League (England),€1.2M,€72K,73.3,66.3,30.9,35.1,72,RW,186cm,Right
+322702,D. Green,42,Saint Martin,Rodriguez-Gonzalez,Premier League (England),€996K,€70K,74.4,65.9,38.2,39.1,72,CM,188cm,Right
+495157,Robert Haney,34,Brunei Darussalam,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€994K,€70K,54.1,78.1,54.7,30.5,72,LWB,163cm,Left
+904792,M. Moore,33,Saint Martin,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€1M,€71K,71.0,72.9,37.9,56.6,72,RW,185cm,Right
+405113,James Jr.,47,Serbia,Gillespie LLC,Premier League (England),€999K,€70K,41.0,82.3,32.6,7.4,72,CF,169cm,Left
+306991,John Jr.,33,Argentina,Rodriguez-Gonzalez,Premier League (England),€991K,€70K,29.2,81.6,42.7,21.8,72,LWB,196cm,Right
+774056,D. Brown,34,Brunei Darussalam,Savage-Lewis,Premier League (England),€991K,€71K,33.6,76.9,57.3,44.0,72,ST,154cm,Right
+331892,Michael Spears,27,Chad,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€990K,€70K,28.1,78.9,50.2,39.9,72,ST,159cm,Right
+651430,David Jr.,21,Brunei Darussalam,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€991K,€70K,54.8,39.5,39.9,77.2,72,LM,195cm,Left
+237585,P. Miller,31,Liechtenstein,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€989K,€70K,21.4,22.3,72.7,65.9,71,RW,176cm,Left
+286801,S. Mcknight,20,United Arab Emirates,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€989K,€69K,25.7,51.4,30.9,77.3,71,LW,161cm,Right
+393431,Kevin Jr.,20,Egypt,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€990K,€69K,14.5,61.0,74.5,58.7,71,RM,173cm,Left
+975103,A. Dyer,24,Cameroon,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€994K,€69K,41.7,24.0,25.4,80.7,71,LW,158cm,Right
+516417,C. Gardner,21,Saint Martin,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€983K,€69K,32.1,48.1,71.9,68.8,71,RW,173cm,Left
+197493,G. Carroll,29,Brunei Darussalam,Huber-Olson,Premier League (England),€984K,€69K,80.1,37.0,44.6,44.7,71,CB,190cm,Left
+984353,R. Morrison,48,Cameroon,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€988K,€68K,18.5,32.2,54.4,77.0,71,RWB,172cm,Right
+108049,Daniel Jr.,52,Serbia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€987K,€69K,33.4,26.0,62.7,73.7,71,GK,185cm,Left
+370236,J. Potter,28,United Arab Emirates,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€973K,€68K,36.0,82.5,22.6,37.5,71,LWB,164cm,Right
+558943,Williams,33,Liechtenstein,Townsend LLC,"Morales, Lee and Hill (Egypt)",€972K,€69K,15.8,44.5,76.6,54.4,71,CDM,159cm,Left
+2118,Joseph Williams,26,Serbia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€974K,€68K,30.3,60.3,56.5,74.6,71,LB,152cm,Right
+739430,Matthew Bishop,23,Serbia,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€976K,€68K,63.0,53.2,55.1,73.9,71,CB,180cm,Right
+362658,Darren Robinson,50,Chad,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€972K,€68K,25.7,53.1,44.2,77.0,71,RWB,179cm,Right
+911612,M. Soto,21,Brunei Darussalam,"Smith, Murphy and Carr",Henry and Sons (Chad),€971K,€68K,18.5,84.8,30.8,21.9,71,LWB,182cm,Right
+879270,T. Mcintosh,31,Egypt,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€972K,€67K,61.0,37.5,72.5,66.0,71,CAM,151cm,Left
+142106,J. Stephens,30,Cameroon,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€980K,€67K,63.9,40.1,24.6,72.8,71,RB,158cm,Left
+371732,B. Marsh,26,Cameroon,Mccarthy-Stokes,Alexander LLC (Saint Martin),€959K,€67K,13.9,32.6,78.2,50.5,71,CDM,181cm,Left
+11550,J. Rodriguez,24,Saint Helena,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€968K,€67K,69.6,64.2,62.6,72.1,71,CDM,197cm,Right
+650586,William Williams,32,Egypt,"Fox, Baker and Robles",Premier League (England),€970K,€68K,67.4,71.9,61.3,11.5,71,CM,155cm,Right
+36244,J. Hensley,24,Saint Helena,Baker Inc,Rios PLC (Saint Helena),€954K,€67K,47.2,62.3,74.4,56.1,71,RM,195cm,Left
+495162,J. Hernandez,34,Serbia,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€958K,€67K,46.9,60.2,72.0,67.8,71,RM,169cm,Left
+446012,T. Myers,24,Cambodia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€943K,€67K,29.3,17.1,58.8,75.1,71,RW,163cm,Left
+290554,M. Schaefer,29,Serbia,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€945K,€67K,73.1,38.2,16.4,66.1,71,RB,157cm,Left
+118664,Jordan Hanna,27,Chad,Ross Inc,Day PLC (Saint Helena),€952K,€67K,72.5,57.5,24.3,67.0,71,RB,172cm,Left
+864143,T. Watts,30,Cambodia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€942K,€66K,41.3,77.1,54.4,39.3,71,GK,175cm,Right
+344341,M. Bennett,35,Liechtenstein,"Scott, Nash and Roth",Premier League (England),€935K,€67K,55.3,22.4,53.0,74.7,70,LW,208cm,Right
+41393,J. Sexton,26,Cameroon,Baker Inc,Rios PLC (Saint Helena),€935K,€66K,58.4,40.1,74.3,52.8,70,CM,186cm,Left
+180852,Morris,35,Cambodia,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€944K,€67K,67.0,71.6,22.9,45.2,70,RW,181cm,Right
+213709,T. Wilson,24,Chad,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€934K,€66K,32.6,44.3,50.7,75.9,70,ST,184cm,Left
+631759,Dakota Roberts,49,United Arab Emirates,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€941K,€66K,65.5,28.3,40.3,71.8,70,RWB,200cm,Left
+459953,J. Patel,28,United Arab Emirates,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€933K,€67K,38.1,77.4,46.1,46.3,70,GK,167cm,Right
+181471,King,28,Cambodia,FC Barcelona,Premier League (England),€933K,€66K,76.1,31.6,53.7,43.9,70,CB,165cm,Left
+460038,A. Smith,27,United Arab Emirates,"Scott, Nash and Roth",Premier League (England),€931K,€65K,70.8,37.2,44.3,68.5,70,CF,170cm,Right
+697606,T. Murphy,25,Saint Martin,FC Barcelona,Premier League (England),€932K,€65K,40.4,79.2,38.1,36.0,70,CM,188cm,Right
+476629,Cody Vasquez,24,Liechtenstein,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€932K,€65K,77.5,46.7,28.4,42.2,70,RB,152cm,Left
+927274,Mueller,31,Egypt,Rodriguez-Gonzalez,Premier League (England),€928K,€65K,34.0,75.5,55.4,26.3,70,GK,153cm,Right
+280161,Richard Buchanan,28,Cameroon,"Vang, Morris and Nelson",Premier League (England),€926K,€66K,50.0,67.6,33.8,70.7,70,CB,160cm,Right
+198243,J. Young,31,Serbia,Clark and Sons,Premier League (England),€925K,€65K,38.4,35.2,77.2,47.7,70,CDM,162cm,Left
+100162,J. Keith,22,Saint Helena,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€933K,€65K,54.7,22.5,75.0,52.8,70,RW,150cm,Left
+812872,Victor James,31,Chad,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€919K,€65K,71.8,54.6,62.3,63.5,70,CAM,154cm,Left
+550745,B. Garza,24,Liechtenstein,Huber-Olson,Premier League (England),€917K,€64K,10.1,33.2,68.4,69.9,70,CDM,206cm,Left
+960427,Reginald Gomez,34,Brunei Darussalam,"Buckley, Jones and Brooks",Henry and Sons (Chad),€926K,€64K,29.3,51.1,73.3,59.1,70,RM,201cm,Left
+723078,R. Jackson,22,Argentina,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€919K,€64K,40.3,79.7,39.8,33.4,70,LM,183cm,Right
+960734,T. Hamilton,27,Argentina,"Buckley, Jones and Brooks",Henry and Sons (Chad),€916K,€64K,72.6,36.9,39.6,64.0,70,LM,197cm,Left
+796911,Anthony Jr.,32,Argentina,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€912K,€64K,72.2,62.0,22.9,45.6,70,RW,172cm,Right
+395601,J. Hopkins,18,United Arab Emirates,Ross Inc,Day PLC (Saint Helena),€910K,€64K,66.2,70.9,43.5,59.5,70,RW,163cm,Right
+920060,J. Gonzales,30,Saint Helena,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€912K,€63K,34.5,43.5,57.0,74.3,70,CB,158cm,Right
+322087,Stephens,45,Saint Martin,Mccarthy-Stokes,Alexander LLC (Saint Martin),€911K,€64K,29.1,83.1,15.1,22.9,70,LWB,179cm,Right
+961197,C. Martin,21,Brunei Darussalam,"Smith, Murphy and Carr",Henry and Sons (Chad),€908K,€63K,26.7,17.5,34.1,81.6,70,LW,171cm,Right
+813790,M. Harper,24,Brunei Darussalam,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€908K,€62K,11.3,47.7,76.4,49.9,70,CDM,191cm,Left
+568094,Jeffrey Griffith,31,Serbia,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€907K,€63K,53.7,18.4,53.9,74.7,70,LW,190cm,Right
+772944,K. Shields,30,Brunei Darussalam,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€909K,€63K,65.6,71.9,37.9,26.5,70,CM,201cm,Right
+797533,M. Jones,28,Cameroon,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€898K,€62K,46.4,73.7,60.0,57.6,70,LB,180cm,Right
+412529,R. Tucker,25,Cambodia,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€902K,€63K,39.5,73.9,56.4,54.0,70,LWB,181cm,Left
+150583,Garrett Jr.,22,Cambodia,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€901K,€62K,57.1,73.9,44.2,25.6,70,CAM,201cm,Right
+740497,M. Robinson,32,Argentina,Johnson-Turner,Premier League (England),€893K,€62K,58.9,45.6,72.4,62.4,70,CAM,199cm,Left
+970082,Derek Jr.,22,Serbia,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€891K,€62K,65.7,57.6,71.1,51.2,70,GK,159cm,Right
+282041,R. Thomas,33,Liechtenstein,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€887K,€61K,65.4,70.9,57.2,38.3,70,LWB,164cm,Left
+700214,C. Choi,21,Argentina,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€917K,€62K,69.0,55.6,70.0,45.3,70,CDM,186cm,Right
+905097,Victor Stephenson,23,Brunei Darussalam,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€892K,€61K,70.8,66.7,47.1,26.3,70,LWB,187cm,Left
+462752,G. Garza,48,Brunei Darussalam,"Perez, Ruiz and Lopez",Premier League (England),€882K,€61K,66.8,37.5,43.7,70.6,70,RB,150cm,Left
+258215,I. Fitzgerald,21,Argentina,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€876K,€61K,40.6,40.0,68.9,70.7,70,CDM,188cm,Left
+335982,S. Pham,32,United Arab Emirates,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€876K,€61K,76.3,46.4,29.8,23.9,69,LW,207cm,Left
+901327,C. Chavez,27,Saint Helena,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€887K,€61K,60.5,31.0,71.6,48.4,69,GK,151cm,Left
+885049,D. Burch,20,Saint Martin,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€876K,€60K,41.1,42.3,68.6,68.6,69,RW,160cm,Left
+713049,T. Freeman,20,Serbia,Huber-Olson,Premier League (England),€876K,€61K,35.2,67.3,56.2,69.0,69,CDM,183cm,Right
+745833,R. Jackson,29,Saint Martin,Johnson-Turner,Premier League (England),€874K,€61K,36.6,35.3,50.5,75.7,69,CDM,168cm,Left
+647541,L. Day,26,Brunei Darussalam,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€872K,€61K,54.6,73.6,49.4,26.3,69,CAM,182cm,Right
+205222,William Thompson,26,Cameroon,"Fox, Baker and Robles",Premier League (England),€864K,€60K,18.0,35.6,72.3,58.2,69,RB,156cm,Right
+565902,Anthony Ramirez,30,Cameroon,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€861K,€60K,54.7,41.2,16.4,73.8,69,LM,186cm,Left
+369304,R. Gonzalez,24,Cameroon,Mccarthy-Stokes,Alexander LLC (Saint Martin),€880K,€60K,36.3,36.1,53.8,73.6,69,RWB,162cm,Left
+475879,G. Kelly,27,Liechtenstein,"Ellis, Cruz and Johnson",Premier League (England),€863K,€60K,34.5,47.5,20.3,76.1,69,RWB,184cm,Left
+942825,R. Burton,21,Liechtenstein,Lopez PLC,Premier League (England),€872K,€59K,22.0,71.0,63.2,50.5,69,ST,170cm,Right
+869319,Bright,55,Argentina,Henry PLC,Premier League (England),€859K,€60K,56.6,35.2,72.9,33.5,69,CM,179cm,Left
+419137,T. Cochran,25,Cameroon,Smith-Conner,"Shaw, Jenkins and Moore (Egypt)",€856K,€59K,63.6,70.5,31.2,55.9,69,RW,159cm,Right
+771438,D. Gutierrez,26,Saint Helena,Gillespie LLC,Premier League (England),€856K,€59K,34.2,62.5,55.8,70.8,69,CDM,203cm,Right
+345912,G. Gray,24,Chad,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€852K,€59K,52.4,47.5,60.0,72.6,69,RWB,209cm,Right
+411506,R. Sharp,26,Cameroon,"Fox, Baker and Robles",Premier League (England),€853K,€60K,39.5,56.8,73.6,37.5,69,CDM,184cm,Right
+673755,E. Diaz,20,United Arab Emirates,Gillespie LLC,Premier League (England),€856K,€59K,32.7,74.5,53.7,49.4,69,RM,165cm,Left
+714736,A. Lawson,48,Egypt,Jones LLC,Premier League (England),€861K,€59K,46.9,72.4,58.2,18.7,69,CM,187cm,Right
+608332,B. Clay,33,Chad,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€849K,€59K,68.7,68.0,40.1,30.7,69,CM,153cm,Right
+772642,D. Lambert,22,Cambodia,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€851K,€59K,46.2,33.6,76.3,42.3,69,CDM,187cm,Left
+903964,C. Miller,28,Egypt,Huber-Olson,Premier League (England),€847K,€59K,23.3,47.8,59.7,71.7,69,RB,189cm,Right
+691013,D. Jackson,21,Argentina,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€842K,€59K,56.4,39.3,53.5,73.5,69,RW,165cm,Left
+994199,Adam Alexander,31,Egypt,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€840K,€58K,17.9,70.8,63.4,57.5,69,ST,152cm,Right
+970032,J. Watkins,23,Egypt,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€836K,€58K,43.3,18.4,22.4,77.7,69,RWB,177cm,Left
+101713,D. Allen,21,Argentina,"Ellis, Cruz and Johnson",Premier League (England),€837K,€58K,26.0,76.1,48.7,29.2,69,ST,171cm,Right
+454091,D. Hobbs,17,Chad,Johnson-Turner,Premier League (England),€840K,€58K,58.8,27.2,27.3,72.5,69,RB,155cm,Left
+159377,Christopher Hammond,26,United Arab Emirates,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€829K,€58K,73.7,53.1,28.9,31.1,69,RW,166cm,Right
+520054,K. Reyes,34,Serbia,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€832K,€57K,62.6,71.1,39.8,27.5,69,CF,201cm,Left
+175993,D. Smith,25,Serbia,Mccarthy-Stokes,Alexander LLC (Saint Martin),€850K,€57K,60.3,39.8,13.6,71.5,69,LM,160cm,Left
+364572,R. Henderson,28,Serbia,"Smith, Murphy and Carr",Henry and Sons (Chad),€833K,€58K,51.1,60.5,14.8,72.1,69,RB,185cm,Left
+733278,Irwin,27,Serbia,"Ellis, Cruz and Johnson",Premier League (England),€828K,€58K,71.3,61.9,38.7,45.7,69,RW,167cm,Right
+577727,J. Jones,30,Egypt,Gillespie LLC,Premier League (England),€826K,€57K,49.6,38.7,43.4,76.1,69,RB,176cm,Left
+524650,S. Rodriguez,26,Saint Martin,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€828K,€57K,24.2,57.3,34.7,71.6,68,GK,155cm,Left
+713262,Johnson,24,Argentina,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€834K,€57K,53.7,28.2,40.0,72.3,68,LM,167cm,Left
+336552,A. Marquez,24,Cambodia,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€824K,€57K,15.2,39.0,39.4,77.4,68,RWB,199cm,Right
+418613,Frank Hopkins,48,Saint Helena,Rodriguez-Gonzalez,Premier League (England),€825K,€57K,43.1,65.4,69.0,50.4,68,RM,206cm,Left
+648100,B. Spencer,43,Egypt,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€822K,€57K,41.9,29.0,72.0,56.7,68,RWB,186cm,Right
+656353,J. Gregory,20,Brunei Darussalam,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€818K,€57K,43.1,72.1,53.7,57.3,68,RM,174cm,Left
+295985,J. Dawson,34,Serbia,Baker Inc,Rios PLC (Saint Helena),€816K,€56K,59.8,27.8,44.4,70.4,68,LM,167cm,Left
+165001,T. Ford,24,Saint Helena,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€814K,€56K,41.7,61.7,68.0,66.7,68,RM,184cm,Left
+959734,Christopher Jr.,35,Argentina,"Ellis, Cruz and Johnson",Premier League (England),€815K,€56K,71.0,24.7,61.0,21.6,68,CB,154cm,Left
+492870,C. Scott,54,Liechtenstein,Clark and Sons,Premier League (England),€814K,€56K,53.6,72.6,42.3,14.6,68,CM,164cm,Right
+353838,R. Jones,42,Saint Helena,Liverpool,Premier League (England),€806K,€56K,31.7,55.7,72.4,49.7,68,RM,199cm,Left
+796274,P. Everett,26,Liechtenstein,Huber-Olson,Premier League (England),€828K,€55K,24.6,72.7,53.3,45.6,68,CAM,164cm,Right
+108155,M. Bowman,20,Saint Martin,Cook Group,"Morales, Lee and Hill (Egypt)",€806K,€55K,66.9,57.2,21.7,68.2,68,RB,166cm,Left
+894728,T. Meyers,29,Egypt,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€809K,€55K,40.5,44.7,29.7,75.1,68,CF,166cm,Right
+444199,B. Carlson,27,Cameroon,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€805K,€55K,72.5,30.1,33.5,53.3,68,LW,155cm,Left
+517960,E. Rodriguez,27,United Arab Emirates,"Perez, Ruiz and Lopez",Premier League (England),€800K,€55K,23.0,50.7,44.1,73.7,68,GK,190cm,Left
+337754,S. Hogan,24,Egypt,Mccarthy-Stokes,Alexander LLC (Saint Martin),€800K,€55K,48.2,34.0,40.7,74.9,68,RB,192cm,Left
+206838,E. Hughes,28,Cameroon,Manchester United,Premier League (England),€805K,€54K,56.0,72.4,50.8,12.1,68,CM,181cm,Right
+190672,L. Yu,21,Chad,Gillespie LLC,Premier League (England),€798K,€54K,34.2,76.8,25.2,40.5,68,LB,197cm,Right
+428257,T. White,28,Argentina,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€811K,€54K,28.4,37.6,73.1,53.8,68,RW,165cm,Left
+969026,Daniel Buckley,22,Egypt,Ross Inc,Day PLC (Saint Helena),€799K,€54K,50.0,48.5,30.8,74.5,68,RWB,171cm,Left
+444825,A. Flowers,24,Cambodia,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€792K,€54K,68.1,67.6,55.5,44.2,68,CM,180cm,Right
+256579,M. Flynn,27,Egypt,"Vang, Morris and Nelson",Premier League (England),€789K,€53K,70.7,58.2,32.1,59.0,68,LW,174cm,Left
+510572,Mills,30,Argentina,Mccarthy-Stokes,Alexander LLC (Saint Martin),€793K,€53K,40.0,53.8,67.7,67.7,68,CAM,156cm,Left
+445352,T. Gregory,25,Saint Helena,"Buckley, Jones and Brooks",Henry and Sons (Chad),€783K,€54K,42.1,21.1,31.0,77.0,68,CF,175cm,Right
+240566,Eric Jr.,31,Saint Martin,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€785K,€54K,51.6,70.5,58.5,57.5,68,LWB,151cm,Left
+560151,Bradshaw,22,Saint Martin,Gillespie LLC,Premier League (England),€783K,€52K,12.7,55.9,62.9,69.5,68,RM,175cm,Left
+281843,G. Barnes,27,Cambodia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€786K,€52K,75.2,47.6,22.8,33.0,68,CF,161cm,Left
+412967,M. Richards,27,United Arab Emirates,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€777K,€53K,59.7,53.0,24.7,71.0,68,CB,164cm,Right
+126422,J. Santiago,33,Saint Martin,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€780K,€55K,54.7,73.0,52.1,41.5,68,LWB,184cm,Left
+396763,M. Turner,25,Argentina,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€768K,€52K,45.5,69.3,62.8,35.3,68,CM,204cm,Right
+335926,K. Sherman,31,Liechtenstein,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€768K,€52K,69.5,58.1,29.2,40.1,67,CM,200cm,Right
+901290,C. Farrell,31,Chad,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€774K,€52K,50.9,72.7,18.5,20.7,67,LM,190cm,Right
+868546,Dakota Jr.,34,Argentina,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€773K,€52K,71.4,37.9,55.5,38.2,67,CAM,151cm,Left
+795211,R. Williams,45,Saint Helena,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€765K,€52K,38.3,26.5,50.9,71.8,67,RW,161cm,Left
+918100,Jason Jr.,25,Chad,Henry PLC,Premier League (England),€764K,€52K,56.5,51.6,57.6,70.7,67,LB,172cm,Right
+33406,Jeffrey Jr.,35,Chad,Gillespie LLC,Premier League (England),€778K,€52K,35.1,38.3,70.5,54.8,67,RW,204cm,Left
+877291,Klein,23,Saint Helena,Mccarthy-Stokes,Alexander LLC (Saint Martin),€767K,€52K,42.1,55.2,70.8,40.7,67,CAM,204cm,Left
+787298,C. Durham,21,Liechtenstein,Henry PLC,Premier League (England),€763K,€51K,50.1,55.6,70.4,25.2,67,GK,202cm,Right
+197566,Cox,23,Cambodia,"Vang, Morris and Nelson",Premier League (England),€764K,€51K,35.4,39.5,28.9,75.8,67,RWB,176cm,Left
+500731,T. Parks,21,Brunei Darussalam,"Fox, Baker and Robles",Premier League (England),€766K,€51K,52.0,46.2,71.5,52.0,67,RB,162cm,Right
+918643,E. Smith,26,Cameroon,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€762K,€51K,74.4,32.5,44.8,22.9,67,LW,191cm,Left
+459933,J. Kennedy,22,United Arab Emirates,Mccarthy-Stokes,Alexander LLC (Saint Martin),€753K,€51K,38.1,30.6,44.9,74.5,67,ST,190cm,Left
+197808,Nicholas Meza,27,Cambodia,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€752K,€52K,19.4,44.5,64.1,68.0,67,RB,190cm,Right
+771442,T. Kelly,25,Saint Helena,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€762K,€51K,68.3,54.0,61.3,47.0,67,CM,203cm,Right
+353806,B. Smith,34,United Arab Emirates,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€750K,€51K,37.0,29.9,67.8,66.5,67,GK,158cm,Left
+501277,Jonathan Diaz,16,Brunei Darussalam,Manchester United,Premier League (England),€754K,€50K,32.0,19.6,68.1,64.6,67,RW,207cm,Left
+468645,Jeremy Daniels,51,Cameroon,"Fox, Baker and Robles",Premier League (England),€749K,€50K,55.0,46.0,16.2,70.9,67,RB,171cm,Left
+501442,J. Bell,24,Saint Helena,"Fox, Baker and Robles",Premier League (England),€748K,€51K,68.4,39.9,40.0,61.6,67,CF,159cm,Right
+509663,A. Ramsey,41,Chad,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€749K,€50K,71.4,17.9,52.1,28.2,67,CB,188cm,Left
+706322,C. Anderson,51,United Arab Emirates,Rodriguez-Gonzalez,Premier League (England),€748K,€50K,72.8,49.3,23.6,50.8,67,CF,179cm,Right
+649426,C. Bailey,20,United Arab Emirates,"Perez, Ruiz and Lopez",Premier League (England),€743K,€50K,53.6,69.1,59.6,10.3,67,CF,196cm,Left
+117068,D. Chen,34,Saint Helena,Townsend LLC,"Morales, Lee and Hill (Egypt)",€744K,€50K,70.5,58.3,55.1,40.6,67,LW,184cm,Left
+764473,J. Juarez,24,Saint Martin,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€749K,€51K,23.4,79.6,27.4,29.2,67,LM,173cm,Right
+658212,Willie Ellis,31,Chad,Mccarthy-Stokes,Alexander LLC (Saint Martin),€741K,€50K,66.5,52.0,66.9,50.9,67,CM,198cm,Left
+928659,I. Roberts,28,Chad,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€732K,€50K,49.5,17.5,20.1,73.0,67,RWB,198cm,Left
+404395,J. Hudson,23,Egypt,"Ellis, Cruz and Johnson",Premier League (England),€736K,€50K,55.9,31.2,44.2,70.7,67,RWB,157cm,Left
+355363,S. Powell,47,Brunei Darussalam,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€741K,€49K,74.2,19.7,36.8,47.1,67,CF,166cm,Right
+601386,R. Doyle,34,Serbia,Johnson-Turner,Premier League (England),€731K,€49K,46.5,37.9,62.9,68.9,67,CDM,179cm,Left
+265692,J. Scott,24,Serbia,Lopez PLC,Premier League (England),€728K,€49K,51.2,46.2,72.5,44.6,67,CM,150cm,Left
+314866,J. Charles,24,Cameroon,Cook Group,"Morales, Lee and Hill (Egypt)",€726K,€49K,67.0,64.8,67.1,61.3,67,CDM,188cm,Right
+544253,Thomas Jr.,47,Chad,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€730K,€49K,36.0,59.5,69.0,51.1,67,ST,165cm,Right
+871968,William Benson,22,Egypt,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€740K,€49K,56.4,55.9,70.5,34.4,67,CAM,151cm,Left
+77498,W. Moses,22,Chad,Manchester United,Premier League (England),€724K,€48K,35.7,70.4,58.6,31.1,67,ST,162cm,Right
+618202,W. Hale,20,Egypt,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€724K,€48K,60.5,57.2,30.0,69.6,67,CB,188cm,Right
+126693,Kevin Jr.,26,Saint Helena,Johnson-Turner,Premier League (England),€716K,€48K,38.6,51.7,72.5,49.8,67,CAM,181cm,Left
+921659,Morris,34,Serbia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€715K,€48K,52.3,71.8,43.8,19.3,67,LM,166cm,Right
+303236,Jacob Perez,21,United Arab Emirates,"Atkins, Jimenez and Rodriguez",Premier League (England),€713K,€48K,39.2,55.8,69.1,49.9,66,CDM,159cm,Right
+237860,D. Larson,31,Cameroon,Rodriguez-Gonzalez,Premier League (England),€715K,€48K,60.3,22.2,60.3,68.3,66,CAM,171cm,Left
+434770,M. Brown,34,Saint Helena,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€713K,€48K,54.7,69.7,19.5,49.8,66,CAM,175cm,Right
+934522,N. Lowery,29,Argentina,"Perez, Ruiz and Lopez",Premier League (England),€710K,€47K,49.7,29.9,48.2,71.0,66,LW,161cm,Right
+213693,S. Porter,24,Liechtenstein,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€721K,€47K,46.0,60.9,49.6,68.1,66,LB,201cm,Right
+738202,T. Brown,25,Liechtenstein,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€712K,€47K,43.4,31.1,49.4,72.0,66,RW,153cm,Left
+263123,Donald Warren,29,Brunei Darussalam,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€708K,€47K,50.0,19.8,62.6,67.6,66,RW,210cm,Left
+995,J. Thomas,26,Argentina,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€705K,€47K,46.7,26.5,71.1,51.2,66,RW,179cm,Left
+656421,Velez,29,Argentina,"Vang, Morris and Nelson",Premier League (England),€706K,€47K,21.3,58.9,45.7,68.7,66,LB,186cm,Right
+583081,M. Maddox,18,Serbia,"Perez, Ruiz and Lopez",Premier League (England),€705K,€46K,50.9,70.9,24.9,49.2,66,CAM,162cm,Right
+648665,Robertson,27,Saint Helena,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€708K,€46K,27.0,60.5,49.8,67.9,66,CDM,205cm,Left
+640511,Mitchell Miller,42,Liechtenstein,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€704K,€46K,50.8,38.2,70.5,40.9,66,CAM,161cm,Left
+312829,J. Morgan,23,Liechtenstein,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€706K,€46K,36.8,75.4,26.8,19.5,66,LWB,158cm,Right
+189975,James Valdez,46,Egypt,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€701K,€45K,38.7,28.7,68.2,59.8,66,GK,154cm,Left
+763419,C. Branch,28,Liechtenstein,Liverpool,Premier League (England),€699K,€46K,38.0,39.5,72.6,48.1,66,CDM,203cm,Left
+362050,Figueroa,25,United Arab Emirates,Savage-Lewis,Premier League (England),€704K,€45K,36.7,53.6,69.6,55.7,66,LWB,168cm,Left
+681622,D. Barton,26,Saint Martin,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€697K,€45K,71.3,49.6,48.7,48.1,66,CM,177cm,Right
+345773,T. George,42,Brunei Darussalam,Gillespie LLC,Premier League (England),€697K,€45K,65.6,66.3,24.8,63.7,66,CB,166cm,Right
+772351,Jenkins,32,Cambodia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€696K,€45K,26.3,40.9,62.3,67.8,66,GK,181cm,Left
+321898,C. Galvan,25,Serbia,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€690K,€45K,69.1,57.9,29.7,16.7,66,CM,189cm,Right
+494087,Z. Phelps,29,Serbia,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€694K,€45K,67.3,48.4,29.1,63.1,66,RM,175cm,Right
+289634,Terrell,30,Cameroon,Gillespie LLC,Premier League (England),€694K,€46K,62.9,28.0,67.7,53.5,66,CM,171cm,Left
+322576,Fry,29,Cameroon,Baker Inc,Rios PLC (Saint Helena),€688K,€44K,62.6,66.7,62.9,41.2,66,CDM,175cm,Right
+380031,J. Rivera,22,Brunei Darussalam,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€683K,€44K,34.4,16.2,67.9,60.6,66,RW,178cm,Left
+519324,R. Diaz,24,Chad,FC Barcelona,Premier League (England),€684K,€44K,31.8,67.8,60.7,51.7,66,ST,176cm,Right
+404874,R. Sparks,35,Egypt,Johnson-Turner,Premier League (England),€677K,€45K,40.8,61.6,52.6,67.9,66,CB,169cm,Right
+339486,E. Reed,15,Serbia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€698K,€44K,29.5,47.9,28.7,71.5,66,CB,163cm,Right
+495477,Hodges,25,Cambodia,Baker Inc,Rios PLC (Saint Helena),€678K,€43K,35.2,71.2,52.2,24.7,66,LWB,157cm,Left
+151491,J. Hernandez,53,Saint Helena,Baker Inc,Rios PLC (Saint Helena),€674K,€43K,44.8,34.1,51.7,70.8,66,GK,190cm,Left
+626750,G. Jones,34,Saint Helena,Huber-Olson,Premier League (England),€672K,€43K,34.7,75.8,38.4,29.7,66,ST,160cm,Right
+962644,A. Davis,21,Saint Martin,Cook Group,"Morales, Lee and Hill (Egypt)",€672K,€44K,46.0,72.8,31.0,26.2,66,CF,179cm,Left
+426151,Joseph Jr.,22,Egypt,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€675K,€43K,33.6,40.5,73.6,29.4,65,CM,159cm,Left
+696502,J. Austin,34,Argentina,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€669K,€43K,34.0,75.0,31.8,34.0,65,LWB,183cm,Right
+336190,A. Taylor,29,Saint Helena,Liverpool,Premier League (England),€664K,€43K,66.2,45.7,32.7,62.1,65,CF,158cm,Right
+876992,Frank Jr.,29,Cameroon,"Buckley, Jones and Brooks",Henry and Sons (Chad),€671K,€43K,62.6,65.6,48.5,50.3,65,RB,187cm,Left
+803336,M. Patterson,34,United Arab Emirates,"Smith, Murphy and Carr",Henry and Sons (Chad),€661K,€43K,21.7,39.9,58.3,67.4,65,GK,157cm,Left
+713256,S. Meza,31,Liechtenstein,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€663K,€43K,51.5,22.5,67.9,57.2,65,GK,157cm,Left
+279106,D. Parsons,33,Saint Martin,Rodriguez-Gonzalez,Premier League (England),€668K,€43K,19.4,68.8,52.4,35.4,65,CAM,158cm,Right
+500330,Schneider,21,Argentina,Henry PLC,Premier League (England),€663K,€42K,57.1,55.4,68.0,57.6,65,CAM,164cm,Left
+238589,J. Burnett,43,Brunei Darussalam,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€661K,€42K,41.4,50.0,70.5,36.5,65,CM,168cm,Left
+615543,G. Lawson,30,Liechtenstein,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€648K,€42K,56.1,38.7,50.3,67.9,65,CAM,173cm,Left
+804312,C. Cox,32,United Arab Emirates,Townsend LLC,"Morales, Lee and Hill (Egypt)",€653K,€44K,70.4,48.0,38.4,36.8,65,CF,172cm,Left
+427544,M. Briggs,26,Chad,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€663K,€42K,61.2,66.5,52.7,49.2,65,CDM,156cm,Right
+558748,A. Johnson,29,United Arab Emirates,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€645K,€42K,42.0,69.1,52.6,30.9,65,CF,162cm,Left
+288499,T. Carrillo,21,Saint Martin,Manchester United,Premier League (England),€659K,€42K,67.7,33.9,39.1,56.0,65,RM,152cm,Right
+681721,Andrews,45,United Arab Emirates,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€643K,€41K,42.2,35.0,69.4,50.6,65,RW,200cm,Left
+18350,Parker,30,Chad,Henry PLC,Premier League (England),€645K,€42K,60.4,36.6,13.3,66.3,65,LM,156cm,Left
+460853,C. Parker,32,Brunei Darussalam,"Perez, Ruiz and Lopez",Premier League (England),€641K,€41K,41.0,50.2,70.5,42.8,65,CM,155cm,Left
+723119,Randy Wilson,36,Egypt,"Vang, Morris and Nelson",Premier League (England),€641K,€41K,61.8,65.8,49.1,16.6,65,CM,185cm,Right
+568772,S. Washington,40,Liechtenstein,Manchester United,Premier League (England),€643K,€41K,64.4,37.6,65.6,33.9,65,CM,196cm,Left
+585349,M. Simmons,29,Liechtenstein,Mccarthy-Stokes,Alexander LLC (Saint Martin),€640K,€41K,52.1,50.8,20.0,68.7,65,RB,152cm,Left
+306884,M. Joyce,21,Cameroon,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€639K,€41K,25.2,75.7,34.6,23.1,65,LWB,150cm,Right
+462928,M. Zamora,30,United Arab Emirates,"Smith, Murphy and Carr",Henry and Sons (Chad),€626K,€41K,63.5,25.5,34.9,65.0,65,CF,167cm,Right
+364725,C. Green,34,Liechtenstein,"Ellis, Cruz and Johnson",Premier League (England),€639K,€41K,71.0,45.9,35.4,31.8,65,CM,204cm,Right
+548887,J. Chavez,25,Saint Helena,Liverpool,Premier League (England),€628K,€40K,28.9,54.9,66.8,51.1,64,RWB,170cm,Right
+327764,A. Alvarez,33,Egypt,Cook Group,"Morales, Lee and Hill (Egypt)",€620K,€40K,60.1,25.8,48.5,65.3,64,GK,209cm,Left
+983246,J. Davis,33,Chad,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€644K,€41K,31.3,71.6,40.8,35.9,64,ST,193cm,Right
+98702,J. Palmer,23,Serbia,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€616K,€40K,27.5,65.1,61.1,50.7,64,ST,197cm,Right
+344485,L. Wheeler,24,Chad,"Atkins, Jimenez and Rodriguez",Premier League (England),€623K,€40K,26.7,51.9,43.4,67.8,64,RM,152cm,Left
+574103,Chen,31,Cambodia,"Buckley, Jones and Brooks",Henry and Sons (Chad),€614K,€40K,58.0,18.8,66.3,35.4,64,CB,177cm,Left
+737948,Bryan Jr.,21,Egypt,Lopez PLC,Premier League (England),€612K,€40K,39.8,41.8,47.0,69.7,64,RW,199cm,Left
+983741,L. Estrada,34,Cameroon,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€613K,€40K,31.7,44.0,44.4,70.8,64,RWB,190cm,Left
+803661,C. Rodriguez,22,Egypt,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€612K,€39K,38.4,17.8,72.1,37.7,64,CM,161cm,Left
+74767,J. Hall,30,Saint Helena,"Scott, Nash and Roth",Premier League (England),€620K,€40K,59.0,38.0,60.5,65.2,64,RW,176cm,Left
+132133,J. Stuart,34,Brunei Darussalam,"Smith, Murphy and Carr",Henry and Sons (Chad),€608K,€39K,46.7,68.4,51.9,33.0,64,CAM,175cm,Right
+877614,K. Johnson,36,Brunei Darussalam,Johnson-Turner,Premier League (England),€610K,€39K,65.1,25.8,32.0,59.4,64,LM,206cm,Left
+17645,B. Wilcox,31,Argentina,Liverpool,Premier League (England),€604K,€39K,48.8,69.4,47.1,37.9,64,CF,189cm,Left
+902405,C. Whitaker,35,Cambodia,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€601K,€38K,23.3,75.0,33.0,26.3,64,LM,199cm,Right
+99607,P. Benjamin,23,Serbia,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€599K,€38K,50.2,51.0,27.3,68.9,64,CB,210cm,Right
+566727,N. Clark,46,Brunei Darussalam,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€600K,€37K,51.4,66.1,58.4,41.7,64,CDM,168cm,Right
+222753,A. Adams,28,Egypt,Manchester United,Premier League (England),€606K,€38K,62.7,51.3,21.5,64.7,64,LW,163cm,Right
+378455,A. Sandoval,52,Cambodia,"Vang, Morris and Nelson",Premier League (England),€585K,€38K,17.0,26.3,65.5,58.5,64,RB,163cm,Right
+149110,T. Bryant,27,Chad,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€597K,€37K,46.4,19.3,69.6,46.0,64,CM,157cm,Left
+853775,Larson,24,Saint Helena,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€587K,€37K,69.5,29.5,47.9,43.1,64,RB,191cm,Left
+927576,C. Mckinney,25,Chad,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€591K,€37K,43.5,44.5,42.1,69.9,64,RWB,208cm,Left
+108378,A. Williams,22,Saint Helena,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€581K,€36K,62.7,64.3,41.4,23.9,64,LW,195cm,Left
+354167,Maxwell Jr.,35,Cambodia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€582K,€36K,57.1,66.9,47.4,24.3,64,GK,191cm,Right
+362437,Andrews,33,Cameroon,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€578K,€36K,43.6,70.0,44.0,12.5,64,CM,155cm,Right
+968844,G. Stout,32,Liechtenstein,Liverpool,Premier League (England),€596K,€36K,67.7,51.6,32.4,54.9,64,LW,169cm,Left
+846094,J. Silva,24,United Arab Emirates,Henry PLC,Premier League (England),€567K,€35K,22.6,48.5,45.4,69.4,64,ST,178cm,Left
+543223,Turner,21,Brunei Darussalam,Baker Inc,Rios PLC (Saint Helena),€582K,€35K,23.0,73.0,12.8,37.7,64,LWB,171cm,Right
+191024,D. Herrera,22,United Arab Emirates,"Fox, Baker and Robles",Premier League (England),€568K,€36K,59.1,32.6,65.4,40.7,64,GK,170cm,Left
+780863,R. Fletcher,23,Cambodia,"Buckley, Jones and Brooks",Henry and Sons (Chad),€577K,€36K,33.1,15.7,37.2,73.4,64,LW,182cm,Right
+444997,Small,47,Brunei Darussalam,"Perez, Ruiz and Lopez",Premier League (England),€564K,€35K,43.7,25.0,36.2,70.2,64,ST,176cm,Left
+936811,S. Wade,25,Cameroon,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€571K,€35K,34.1,67.8,53.4,37.5,64,CDM,164cm,Right
+297859,M. Bullock,27,Argentina,Smith-Conner,"Shaw, Jenkins and Moore (Egypt)",€566K,€36K,19.8,46.1,49.4,69.4,64,RWB,196cm,Right
+740423,Shawn Jr.,50,Liechtenstein,Clark and Sons,Premier League (England),€563K,€35K,37.4,69.1,47.9,46.1,64,LWB,155cm,Left
+855155,Dakota Jr.,27,Argentina,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€559K,€35K,33.6,55.6,35.5,66.9,64,LB,198cm,Right
+437395,B. Grant,20,Egypt,"Buckley, Jones and Brooks",Henry and Sons (Chad),€558K,€34K,49.6,65.7,29.7,56.9,64,CAM,210cm,Right
+920773,J. Day,24,Cambodia,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€558K,€34K,61.4,41.7,65.1,49.4,64,CAM,157cm,Left
+790020,D. Carlson,35,Serbia,"Ellis, Cruz and Johnson",Premier League (England),€561K,€35K,32.1,20.1,56.7,66.4,64,RWB,158cm,Right
+659077,D. Ward,26,United Arab Emirates,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€551K,€34K,33.7,28.4,66.1,58.1,64,RW,190cm,Left
+954044,S. Ramos,29,Argentina,"Perez, Ruiz and Lopez",Premier League (England),€557K,€34K,65.9,37.8,57.2,32.1,64,RM,159cm,Right
+577464,Michael Villa,25,Argentina,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€557K,€35K,26.4,32.1,69.8,47.6,64,GK,163cm,Left
+835983,J. Hanson,26,Egypt,"Scott, Nash and Roth",Premier League (England),€545K,€34K,25.0,9.9,21.4,76.1,63,ST,168cm,Left
+393828,J. Miller,27,Brunei Darussalam,"Scott, Nash and Roth",Premier League (England),€544K,€34K,29.3,64.2,58.0,57.0,63,ST,204cm,Right
+795411,Ramirez,17,Brunei Darussalam,Savage-Lewis,Premier League (England),€542K,€33K,41.7,70.6,18.5,24.2,63,LWB,201cm,Right
+394056,B. Reynolds,21,Egypt,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€544K,€33K,61.6,63.3,18.1,58.8,63,RB,173cm,Left
+459640,P. Kirk,24,Argentina,Jones LLC,Premier League (England),€560K,€33K,66.3,55.0,55.0,28.6,63,LW,189cm,Left
+558135,M. Haley,23,Saint Martin,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€537K,€33K,67.0,35.1,45.9,51.2,63,LW,188cm,Left
+976133,B. Griffin,28,Argentina,Lopez PLC,Premier League (England),€540K,€33K,43.4,61.6,64.0,57.6,63,CB,190cm,Right
+435561,N. Cardenas,27,Cambodia,Mccarthy-Stokes,Alexander LLC (Saint Martin),€536K,€33K,41.7,26.3,70.4,33.7,63,CM,185cm,Left
+263548,M. Parker,28,Argentina,"Ellis, Cruz and Johnson",Premier League (England),€540K,€33K,41.1,68.2,48.7,47.2,63,LB,187cm,Right
+427803,W. Miller,23,United Arab Emirates,Clark and Sons,Premier League (England),€531K,€33K,23.8,71.1,38.7,19.7,63,LM,162cm,Right
+960609,T. Lowery,35,Serbia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€532K,€32K,67.4,36.3,48.0,47.9,63,RM,165cm,Right
+223502,M. Alexander,26,Cameroon,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€541K,€32K,43.7,69.0,33.9,39.1,63,LW,194cm,Left
+764261,Brandon Bass,35,Liechtenstein,Manchester United,Premier League (England),€532K,€32K,64.0,60.4,10.4,54.6,63,RB,150cm,Left
+51586,Bell,53,Argentina,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€522K,€31K,48.1,67.6,47.4,45.1,63,LW,175cm,Left
+944641,T. Stewart,22,United Arab Emirates,Johnson-Turner,Premier League (England),€532K,€31K,42.6,66.9,51.7,48.9,63,LB,167cm,Right
+911897,M. Hill,35,Argentina,Cook Group,"Morales, Lee and Hill (Egypt)",€527K,€31K,42.1,22.5,70.0,31.7,63,CAM,197cm,Left
+682559,G. Leonard,22,Serbia,Cook Group,"Morales, Lee and Hill (Egypt)",€519K,€31K,53.5,63.8,61.6,23.4,63,GK,205cm,Right
+264895,Craig Jr.,33,Chad,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€519K,€30K,41.1,61.1,63.7,44.2,63,ST,158cm,Right
+371488,B. Adams,22,Brunei Darussalam,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€518K,€33K,66.5,19.5,31.0,50.7,63,RM,201cm,Right
+740226,T. Phillips,23,Egypt,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€530K,€30K,63.4,29.0,62.0,28.9,63,CM,156cm,Left
+519048,M. Simpson,20,Saint Martin,"Smith, Murphy and Carr",Henry and Sons (Chad),€518K,€31K,44.4,49.8,41.4,67.8,63,GK,192cm,Left
+216130,M. Fisher,32,Liechtenstein,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€517K,€30K,54.0,42.0,65.6,41.7,63,CB,177cm,Left
+421031,J. Wise,25,Argentina,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€514K,€30K,20.5,52.6,38.3,67.0,63,RWB,199cm,Right
+879879,C. Burke,31,United Arab Emirates,"Ellis, Cruz and Johnson",Premier League (England),€518K,€31K,54.2,66.0,41.1,31.7,63,CAM,180cm,Right
+486706,Matthew Jr.,29,Cambodia,Baker Inc,Rios PLC (Saint Helena),€517K,€30K,47.6,33.6,47.5,67.5,63,GK,207cm,Left
+240975,Gary Hendricks,30,Saint Helena,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€514K,€30K,39.6,64.5,47.9,58.2,63,CB,199cm,Right
+478641,D. James,30,Argentina,FC Barcelona,Premier League (England),€510K,€30K,53.5,56.9,52.1,65.5,63,CAM,209cm,Left
+274180,T. Martin,35,Argentina,Mccarthy-Stokes,Alexander LLC (Saint Martin),€503K,€30K,64.7,57.9,42.5,38.0,63,CB,194cm,Right
+192306,K. Hayes,28,Liechtenstein,Huber-Olson,Premier League (England),€508K,€30K,19.7,40.2,49.4,67.0,63,ST,204cm,Left
+651325,J. James,18,Liechtenstein,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€499K,€29K,47.5,49.0,26.8,68.1,63,LW,189cm,Right
+372841,D. Diaz,32,Cameroon,Manchester United,Premier League (England),€507K,€29K,30.6,41.8,68.9,45.7,63,RB,157cm,Right
+372846,Norman,24,Cameroon,Johnson-Turner,Premier League (England),€502K,€29K,29.0,37.4,54.8,65.9,63,CB,191cm,Right
+274555,S. Gonzalez,30,Cambodia,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€499K,€29K,31.8,61.4,63.6,56.5,63,GK,183cm,Left
+139474,J. Brown,35,Chad,Townsend LLC,"Morales, Lee and Hill (Egypt)",€493K,€29K,46.9,66.5,41.6,20.8,62,CF,166cm,Left
+516349,P. Taylor,24,United Arab Emirates,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€497K,€28K,53.1,20.5,44.1,65.4,62,CF,184cm,Right
+647472,S. Williams,24,Saint Helena,"Atkins, Jimenez and Rodriguez",Premier League (England),€494K,€29K,52.0,20.9,65.6,40.1,62,CM,150cm,Left
+451223,Cody Jr.,33,Saint Helena,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€492K,€29K,63.7,58.1,35.7,34.1,62,CM,160cm,Right
+557725,D. Carpenter,29,United Arab Emirates,Jones LLC,Premier League (England),€501K,€28K,37.0,30.1,31.7,70.7,62,ST,180cm,Left
+877244,P. Montgomery,28,Brunei Darussalam,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€487K,€28K,47.5,55.5,61.4,61.9,62,CDM,205cm,Left
+983783,W. Crawford,21,Cambodia,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€485K,€28K,50.8,50.8,49.9,65.2,62,RW,194cm,Left
+762638,Sean Hampton,35,Saint Helena,"Ellis, Cruz and Johnson",Premier League (England),€491K,€28K,29.3,27.7,55.7,63.7,62,RW,176cm,Left
+697235,Sheppard,34,Brunei Darussalam,Baker Inc,Rios PLC (Saint Helena),€482K,€28K,65.0,55.0,54.2,17.9,62,CF,164cm,Left
+492488,J. Melton,28,Argentina,FC Barcelona,Premier League (England),€479K,€28K,44.6,66.9,37.7,46.0,62,LB,203cm,Right
+451551,B. Carter,23,Serbia,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€479K,€28K,20.2,44.1,52.5,64.7,62,RW,162cm,Left
+377837,K. Simmons,31,Cameroon,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€486K,€28K,51.4,51.1,65.3,45.6,62,CAM,204cm,Left
+591044,T. Price,25,Chad,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€470K,€27K,40.5,29.5,64.6,54.6,62,CAM,168cm,Left
+107936,J. Blackwell,42,Saint Martin,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€478K,€27K,44.4,68.4,29.2,41.1,62,LWB,207cm,Right
+124467,R. Wood,27,Saint Helena,"Fox, Baker and Robles",Premier League (England),€481K,€27K,64.1,55.5,32.5,24.0,62,LW,198cm,Left
+550649,Nelson,28,Saint Martin,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€471K,€29K,37.8,37.4,24.5,69.4,62,CF,168cm,Right
+75712,J. Silva,32,Saint Helena,Clark and Sons,Premier League (England),€461K,€27K,55.2,26.0,63.9,28.1,62,CM,210cm,Left
+133060,Hanson,34,Saint Helena,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€473K,€27K,64.0,57.4,48.1,39.2,62,CB,196cm,Right
+272532,C. Leonard,24,United Arab Emirates,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€458K,€26K,44.5,65.2,50.9,33.4,62,CM,197cm,Right
+559375,B. Martinez,20,Saint Martin,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€455K,€27K,53.7,64.7,43.0,15.2,62,CF,189cm,Left
+215408,Dickson,28,Brunei Darussalam,Rodriguez-Gonzalez,Premier League (England),€450K,€27K,18.7,39.8,63.8,54.7,62,RWB,168cm,Right
+707241,Rivera,32,Cameroon,"Smith, Murphy and Carr",Henry and Sons (Chad),€459K,€26K,63.1,59.8,45.7,58.8,62,LW,169cm,Left
+68354,B. Hogan,26,Chad,"Smith, Murphy and Carr",Henry and Sons (Chad),€445K,€26K,54.4,64.2,56.0,51.3,62,CB,198cm,Right
+150592,L. Roberts,35,Saint Helena,Baker Inc,Rios PLC (Saint Helena),€446K,€26K,35.8,51.0,59.3,62.5,62,RB,197cm,Right
+142410,C. Harris,20,Egypt,Mccarthy-Stokes,Alexander LLC (Saint Martin),€444K,€26K,54.2,34.0,55.7,63.7,62,GK,167cm,Left
+691307,A. Cook,32,Serbia,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€445K,€26K,29.3,50.2,52.7,65.5,62,RM,172cm,Left
+847002,Thomas,28,Cambodia,Manchester United,Premier League (England),€437K,€26K,49.6,18.3,44.7,65.7,62,RB,206cm,Right
+708045,Ronald Jr.,21,Cameroon,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€436K,€26K,62.6,58.2,51.1,48.5,62,CB,171cm,Right
+356054,A. Wong,51,Argentina,Huber-Olson,Premier League (England),€435K,€25K,13.8,60.8,52.0,63.0,62,RM,193cm,Left
+110669,J. Sanchez,29,Chad,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€430K,€26K,50.4,19.3,65.3,40.2,62,RB,164cm,Right
+393234,D. Smith,20,Argentina,Mccarthy-Stokes,Alexander LLC (Saint Martin),€432K,€25K,35.0,28.5,62.1,58.1,61,GK,188cm,Left
+483500,Ricardo Roman,48,Argentina,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€432K,€26K,48.0,35.4,62.7,55.6,61,RWB,168cm,Right
+212,R. Hernandez,35,Liechtenstein,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€427K,€25K,61.6,34.0,14.2,57.8,61,LM,162cm,Left
+557434,D. Rogers,27,Liechtenstein,Townsend LLC,"Morales, Lee and Hill (Egypt)",€430K,€25K,48.0,50.4,25.6,64.3,61,CB,193cm,Right
+491925,Joel Carter,33,United Arab Emirates,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€428K,€25K,40.5,51.7,64.2,32.5,61,CM,197cm,Right
+434719,T. Smith,28,United Arab Emirates,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€429K,€26K,63.8,33.5,47.2,51.7,61,CF,192cm,Right
+803453,D. Gonzalez,26,Cameroon,Huber-Olson,Premier League (England),€421K,€25K,25.0,18.0,64.4,52.1,61,RW,177cm,Left
+795729,Anderson,25,Argentina,"Buckley, Jones and Brooks",Henry and Sons (Chad),€423K,€25K,54.2,63.2,48.0,40.7,61,LB,175cm,Right
+451776,T. Woods,22,Argentina,Liverpool,Premier League (England),€423K,€25K,15.9,25.5,40.4,67.3,61,ST,185cm,Left
+419030,D. Hansen,17,Saint Martin,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€440K,€25K,16.0,61.9,34.2,57.9,61,ST,160cm,Right
+992592,C. Horton,31,Liechtenstein,Clark and Sons,Premier League (England),€410K,€25K,38.1,23.3,62.0,56.6,61,GK,164cm,Left
+918917,V. Brown,32,Liechtenstein,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€427K,€24K,60.3,35.9,50.1,61.7,61,RWB,198cm,Left
+411025,A. Allen,23,Saint Helena,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€416K,€25K,32.7,36.4,69.0,21.6,61,CM,168cm,Left
+681422,Brian Jr.,25,Cameroon,Lopez PLC,Premier League (England),€410K,€24K,29.4,52.2,61.8,58.2,61,LB,185cm,Right
+919788,J. Burns,24,Argentina,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€413K,€24K,36.1,33.6,48.3,65.1,61,CB,209cm,Right
+469239,C. Hall,27,Cameroon,Johnson-Turner,Premier League (England),€408K,€25K,11.5,65.5,47.2,48.8,61,LWB,210cm,Right
+526803,S. Owens,29,Egypt,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€409K,€24K,18.0,65.5,45.6,26.2,61,LWB,169cm,Right
+543269,N. Scott,20,Serbia,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€403K,€24K,35.7,66.1,44.1,43.0,61,LM,160cm,Right
+887359,J. Rogers,29,Serbia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€400K,€24K,59.3,54.1,62.1,38.4,61,LWB,187cm,Left
+822338,R. Gonzales,35,United Arab Emirates,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€408K,€24K,61.9,50.3,54.3,57.8,61,LW,152cm,Right
+462053,S. Wilson,23,Cambodia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€402K,€24K,61.2,33.0,25.0,60.3,61,CF,198cm,Right
+880072,R. Hogan,23,Egypt,FC Barcelona,Premier League (England),€401K,€24K,51.9,31.3,38.4,63.5,61,CF,157cm,Right
+470552,T. Mosley,29,Liechtenstein,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€393K,€24K,61.9,58.8,50.9,58.1,61,RW,161cm,Right
+716337,J. Jones,26,Saint Helena,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€399K,€24K,57.1,46.9,62.3,28.1,61,CM,202cm,Right
+593746,J. Duke,24,Saint Martin,Mccarthy-Stokes,Alexander LLC (Saint Martin),€402K,€24K,31.8,59.4,61.2,49.2,61,CDM,198cm,Left
+610142,B. Daniel,23,Liechtenstein,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€398K,€24K,28.7,32.5,65.6,48.0,61,CDM,181cm,Left
+241517,S. Kelly,55,Liechtenstein,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€386K,€23K,63.9,35.8,53.2,35.3,61,LW,194cm,Left
+12246,B. Burke,28,Liechtenstein,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€389K,€23K,60.3,52.1,60.6,41.4,61,LW,205cm,Left
+700381,M. Sweeney,34,Argentina,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€398K,€23K,12.4,41.0,52.0,64.1,61,CDM,177cm,Left
+848076,D. Hayes,23,Argentina,Clark and Sons,Premier League (England),€389K,€24K,45.3,17.9,63.2,55.2,61,CM,182cm,Left
+356570,B. Frazier,20,Saint Helena,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€377K,€22K,54.9,26.0,52.3,63.2,61,RWB,179cm,Left
+434218,Holmes,29,Brunei Darussalam,"Ellis, Cruz and Johnson",Premier League (England),€382K,€23K,54.6,39.4,58.5,60.9,60,LW,210cm,Left
+123161,J. Anderson,22,Cambodia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€392K,€23K,35.6,61.4,54.9,44.3,60,LB,195cm,Right
+155958,G. Smith,30,Cameroon,Lopez PLC,Premier League (England),€385K,€22K,55.5,22.4,61.4,57.2,60,RB,166cm,Right
+877086,Bryant,20,Saint Martin,Rodriguez-Gonzalez,Premier League (England),€376K,€22K,61.0,19.2,41.6,58.3,60,RM,203cm,Right
+401961,J. Allen,29,Saint Martin,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€373K,€23K,62.1,53.4,49.3,28.7,60,CM,154cm,Right
+246414,D. Williams,35,Brunei Darussalam,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€375K,€22K,58.1,43.2,43.8,60.4,60,GK,190cm,Left
+737935,S. Patton,35,Cameroon,Rodriguez-Gonzalez,Premier League (England),€375K,€21K,56.8,45.0,47.8,61.2,60,RWB,154cm,Left
+983779,T. Brown,31,Liechtenstein,Jones LLC,Premier League (England),€371K,€20K,61.5,27.5,25.0,54.3,60,RB,192cm,Left
+926489,Dustin Jr.,22,Cambodia,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€372K,€22K,56.6,52.0,52.8,61.4,60,CAM,210cm,Right
+795433,A. Gardner,23,Chad,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€369K,€20K,60.9,19.1,57.9,30.7,60,CB,209cm,Left
+828324,L. Jones,23,United Arab Emirates,"Vang, Morris and Nelson",Premier League (England),€372K,€21K,61.4,33.2,34.3,56.3,60,LW,151cm,Left
+779618,J. Anderson,29,Egypt,Jones LLC,Premier League (England),€366K,€19K,55.5,61.8,42.1,44.6,60,RB,193cm,Left
+50685,J. Fry,17,Saint Helena,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€369K,€19K,18.9,14.3,39.9,67.0,60,ST,158cm,Left
+165481,D. Lowery,21,Saint Martin,"Ellis, Cruz and Johnson",Premier League (England),€368K,€19K,64.9,38.2,22.4,44.0,60,RB,179cm,Left
+272078,Dawson,39,Saint Martin,"Buckley, Jones and Brooks",Henry and Sons (Chad),€377K,€19K,59.9,36.8,54.4,59.5,60,CF,177cm,Right
+181975,Christopher Jacobson,19,Saint Martin,"Fox, Baker and Robles",Premier League (England),€366K,€19K,52.8,56.8,58.3,61.2,60,GK,208cm,Left
+665307,J. Griffin,38,Brunei Darussalam,Jones LLC,Premier League (England),€364K,€20K,18.8,60.5,60.5,22.6,60,ST,190cm,Right
+132897,C. Miller,31,Liechtenstein,Jones LLC,Premier League (England),€362K,€19K,40.7,61.8,55.4,35.6,60,CDM,210cm,Right
+173875,C. Mcgrath,43,Cambodia,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€363K,€19K,16.6,41.1,31.8,66.8,60,ST,166cm,Left
+345917,J. Anderson,35,Argentina,Gillespie LLC,Premier League (England),€359K,€19K,31.9,18.3,36.1,68.4,60,ST,165cm,Left
+182078,K. Mcclure,34,Liechtenstein,"Perez, Ruiz and Lopez",Premier League (England),€363K,€19K,60.8,39.9,56.9,50.0,60,CAM,180cm,Left
+878814,M. Arias,26,Egypt,Lopez PLC,Premier League (England),€360K,€18K,15.4,51.4,63.1,39.4,60,CDM,153cm,Left
+109022,B. Santana,34,Argentina,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€354K,€19K,52.3,63.0,45.8,13.1,60,CM,164cm,Right
+723498,M. Munoz,34,Saint Martin,Ross Inc,Day PLC (Saint Helena),€348K,€18K,61.7,32.0,49.7,56.5,60,CB,170cm,Left
+297572,C. Lin,27,Cameroon,Cook Group,"Morales, Lee and Hill (Egypt)",€348K,€19K,24.3,44.7,60.2,58.1,60,RW,201cm,Left
+404127,B. Clay,34,Serbia,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€353K,€18K,61.0,19.9,58.2,49.0,60,CF,155cm,Right
+19231,J. Smith,22,Argentina,Townsend LLC,"Morales, Lee and Hill (Egypt)",€359K,€18K,63.0,52.1,39.2,36.1,60,RW,203cm,Right
+371585,C. Park,20,Serbia,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€353K,€17K,56.2,12.0,61.0,51.5,60,CB,171cm,Left
+396439,Anthony Jr.,54,Brunei Darussalam,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€341K,€17K,26.9,55.9,61.9,39.3,60,ST,206cm,Right
+249018,Shaffer,44,Serbia,"Scott, Nash and Roth",Premier League (England),€346K,€17K,52.8,62.4,43.0,38.8,60,RB,179cm,Left
+495125,B. Brewer,31,Serbia,"Scott, Nash and Roth",Premier League (England),€340K,€17K,36.9,61.9,55.4,39.2,60,CAM,175cm,Left
+413704,T. Black,30,Brunei Darussalam,Gillespie LLC,Premier League (England),€338K,€17K,63.1,22.6,37.6,49.6,60,CF,160cm,Right
+372747,Kurt Hughes,42,Saint Helena,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€339K,€17K,55.0,18.5,51.0,61.6,60,RW,172cm,Left
+225385,J. Rodriguez,37,Saint Helena,"Fox, Baker and Robles",Premier League (England),€339K,€17K,31.6,66.0,40.2,31.6,60,ST,199cm,Right
+688172,J. Gordon,30,Saint Helena,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€343K,€17K,55.0,59.7,45.2,25.2,59,LW,202cm,Left
+327734,Dave Reed,30,Saint Martin,Lopez PLC,Premier League (England),€337K,€17K,54.5,60.4,47.8,38.2,59,RB,156cm,Left
+229459,D. Robinson,30,Egypt,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€333K,€17K,38.4,65.4,23.9,41.1,59,CAM,183cm,Right
+319758,W. Castillo,30,Chad,Gillespie LLC,Premier League (England),€335K,€16K,42.8,63.9,42.8,21.5,59,LM,206cm,Right
+573901,Jenkins,39,Argentina,"Scott, Nash and Roth",Premier League (England),€339K,€16K,16.1,59.3,57.1,57.2,59,RM,202cm,Left
+172815,A. Lee,31,Cambodia,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€330K,€15K,44.7,12.0,41.3,63.4,59,ST,150cm,Left
+574228,M. Murphy,21,Chad,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€325K,€16K,41.2,23.7,28.7,65.1,59,ST,201cm,Left
+435345,R. Perez,43,Saint Martin,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€330K,€15K,29.9,53.3,60.2,55.3,59,RM,195cm,Left
+378151,D. Leonard,31,United Arab Emirates,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€326K,€15K,64.9,30.7,35.6,39.7,59,LW,177cm,Left
+697707,Schaefer,26,Serbia,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€323K,€15K,57.7,34.0,60.0,38.5,59,CM,178cm,Left
+804218,Wayne Jr.,25,Saint Helena,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€323K,€15K,21.0,21.3,60.7,52.6,59,RB,193cm,Right
+984468,C. Meadows,32,Saint Martin,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€325K,€15K,37.2,66.2,36.8,31.0,59,LWB,210cm,Right
+787876,J. Vega,35,Chad,Huber-Olson,Premier League (England),€332K,€16K,27.2,55.4,57.2,59.5,59,RM,204cm,Left
+75259,E. Palmer,32,United Arab Emirates,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€320K,€14K,39.1,28.8,25.1,66.3,59,CF,200cm,Right
+984596,R. Miller,35,Liechtenstein,Liverpool,Premier League (England),€315K,€15K,27.2,46.0,29.8,62.7,59,CB,200cm,Right
+345652,D. Guzman,27,Argentina,Liverpool,Premier League (England),€325K,€15K,48.1,61.8,29.5,49.3,59,RB,174cm,Left
+34395,C. Luna,22,Saint Martin,Cook Group,"Morales, Lee and Hill (Egypt)",€316K,€15K,60.0,38.1,57.7,39.6,59,CAM,163cm,Left
+952103,R. Morales,24,Saint Helena,Mccarthy-Stokes,Alexander LLC (Saint Martin),€314K,€14K,40.9,23.9,27.2,65.1,59,RWB,207cm,Left
+1948,Stephen Jr.,25,Argentina,Clark and Sons,Premier League (England),€320K,€14K,46.7,42.5,63.4,33.3,59,LW,199cm,Left
+223339,Michael Bailey,26,Saint Helena,Huber-Olson,Premier League (England),€312K,€14K,31.7,39.6,60.8,53.7,59,CM,201cm,Left
+502001,C. Dean,22,Brunei Darussalam,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€311K,€14K,52.6,52.4,60.8,51.8,59,CB,157cm,Right
+821980,R. King,20,Saint Helena,Ross Inc,Day PLC (Saint Helena),€309K,€13K,60.7,47.2,55.6,26.1,59,CM,165cm,Left
+85092,D. Stephenson,34,United Arab Emirates,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€310K,€14K,50.3,36.0,34.3,61.7,59,CB,167cm,Right
+380292,C. Warner,33,Egypt,Huber-Olson,Premier League (England),€309K,€13K,60.3,53.8,44.2,49.9,59,CF,190cm,Right
+159224,Mark Jr.,35,Saint Helena,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€311K,€14K,46.7,45.4,58.4,59.6,59,RWB,185cm,Left
+28347,T. Rodriguez,54,Cameroon,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€306K,€13K,56.7,40.0,38.1,59.4,59,CB,205cm,Right
+970584,Bush,32,Saint Martin,Liverpool,Premier League (England),€302K,€13K,31.4,20.6,37.1,66.4,59,LW,186cm,Right
+516150,John Kemp,34,Serbia,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€300K,€13K,37.3,29.4,29.1,65.2,58,CB,157cm,Right
+8526,Richard Jr.,32,Saint Helena,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€299K,€12K,46.4,35.9,53.6,59.6,58,CB,207cm,Right
+90578,Mark Morris,26,Serbia,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€310K,€12K,28.5,49.8,29.6,60.5,58,RWB,202cm,Left
+17140,Michael Jr.,26,United Arab Emirates,Manchester United,Premier League (England),€293K,€13K,35.2,56.5,59.1,50.4,58,LB,167cm,Right
+172797,Christopher Brown,51,Argentina,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€294K,€12K,54.3,32.5,50.9,59.7,58,CAM,189cm,Left
+312112,B. Brooks,27,Saint Helena,Rodriguez-Gonzalez,Premier League (England),€297K,€12K,63.8,31.9,36.4,41.7,58,RB,177cm,Left
+918364,C. Robinson,34,Saint Martin,Mccarthy-Stokes,Alexander LLC (Saint Martin),€289K,€11K,43.4,17.7,21.4,63.4,58,ST,160cm,Left
+934806,R. Mills,27,Liechtenstein,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€283K,€12K,41.5,62.5,27.7,44.6,58,CAM,202cm,Right
+869308,Michael Jr.,35,Cambodia,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€291K,€11K,42.4,34.8,56.4,59.1,58,CB,173cm,Right
+312433,J. Cummings,35,Argentina,"Fox, Baker and Robles",Premier League (England),€293K,€11K,41.6,45.2,41.0,62.3,58,RWB,173cm,Right
+361707,Patrick Jr.,35,Egypt,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€275K,€12K,39.0,53.3,59.1,56.5,58,RB,152cm,Right
+836862,J. Khan,26,Argentina,Rodriguez-Gonzalez,Premier League (England),€283K,€11K,23.7,27.6,51.5,60.7,58,RW,156cm,Left
+886581,D. Combs,26,Serbia,Johnson-Turner,Premier League (England),€272K,€11K,49.9,41.0,54.2,59.1,58,GK,181cm,Left
+370530,B. Lewis,26,Cameroon,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€280K,€11K,40.2,59.4,54.3,45.3,58,LWB,172cm,Left
+1958,M. Becker,29,Chad,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€264K,€11K,55.1,44.7,27.5,58.7,58,LW,208cm,Left
+567284,J. Taylor,29,Brunei Darussalam,FC Barcelona,Premier League (England),€269K,€11K,57.6,37.2,35.6,57.2,58,RWB,205cm,Left
+207245,J. Martin,31,Cambodia,Savage-Lewis,Premier League (England),€269K,€11K,26.1,37.6,24.0,64.6,58,ST,171cm,Left
+650079,Cory Watkins,24,Cambodia,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€273K,€11K,55.2,28.8,38.2,58.4,58,LW,157cm,Right
+93065,J. Martinez,26,Chad,Rodriguez-Gonzalez,Premier League (England),€261K,€11K,59.0,17.9,55.0,21.6,58,CM,175cm,Left
+650261,R. Lee,35,Liechtenstein,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€253K,€11K,53.5,30.1,21.3,59.0,58,CF,163cm,Right
+666816,N. Craig,32,Argentina,Clark and Sons,Premier League (England),€257K,€11K,36.5,65.2,18.3,16.7,58,LM,175cm,Right
+830707,Carter,25,Cambodia,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€262K,€11K,48.9,59.3,51.2,53.1,58,CAM,174cm,Left
+175492,A. Cook,22,Argentina,Johnson-Turner,Premier League (England),€246K,€10K,54.6,18.2,59.8,27.7,58,CB,198cm,Left
+322981,C. Conner,29,Saint Helena,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€251K,€10K,51.7,24.4,51.1,60.7,58,RW,193cm,Left
+921530,D. Yang,33,Cameroon,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€250K,€10K,49.4,41.7,48.9,61.1,58,RWB,166cm,Left
+184269,E. Johnson,21,Cambodia,FC Barcelona,Premier League (England),€249K,€11K,57.9,57.5,29.2,24.9,58,CAM,157cm,Right
+405466,M. Santos,23,Serbia,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€244K,€10K,57.2,20.3,57.9,19.8,58,CM,153cm,Left
+544777,N. Myers,25,Saint Martin,Lopez PLC,Premier League (England),€246K,€10K,57.1,58.1,28.9,41.9,58,RW,163cm,Right
+618565,M. Jones,30,Cambodia,Townsend LLC,"Morales, Lee and Hill (Egypt)",€258K,€10K,48.3,36.1,42.5,61.0,58,RB,199cm,Left
+659674,T. Snyder,41,Serbia,Lopez PLC,Premier League (England),€241K,€10K,54.3,32.4,59.1,56.2,58,CB,168cm,Right
+409642,Nathan Young,34,Chad,"Smith, Murphy and Carr",Henry and Sons (Chad),€237K,€9K,20.3,22.9,46.2,60.6,57,RW,194cm,Left
+270755,Paul Cook,21,Cameroon,FC Barcelona,Premier League (England),€240K,€10K,34.4,54.0,57.4,40.8,57,GK,169cm,Left
+107224,D. Lawson,30,Cameroon,Rodriguez-Gonzalez,Premier League (England),€241K,€10K,57.4,53.5,57.0,27.0,57,LWB,173cm,Left
+328853,C. Burke,30,Saint Martin,Huber-Olson,Premier League (England),€242K,€9K,48.0,60.3,45.5,44.4,57,GK,158cm,Left
+148652,G. Matthews,51,Cameroon,Clark and Sons,Premier League (England),€233K,€9K,27.6,41.2,58.7,51.0,57,RWB,204cm,Right
+148726,E. Jones,34,Saint Martin,"Atkins, Jimenez and Rodriguez",Premier League (England),€237K,€9K,41.7,16.4,35.5,62.1,57,RM,159cm,Right
+140646,J. Tran,34,Liechtenstein,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€237K,€9K,44.9,61.5,40.6,44.5,57,CB,193cm,Right
+943563,D. Orozco,26,Serbia,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€237K,€9K,17.8,62.2,41.8,36.0,57,LWB,182cm,Right
+689658,J. Wood,42,Cameroon,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€240K,€10K,48.7,59.7,28.0,50.1,57,RB,161cm,Left
+862033,P. Mueller,34,Argentina,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€231K,€8K,35.9,57.9,55.2,24.4,57,LM,176cm,Right
+796513,K. Kent,29,Saint Martin,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€232K,€7K,36.4,50.0,51.3,59.1,57,CAM,172cm,Right
+550788,Charles Jr.,24,Brunei Darussalam,Gillespie LLC,Premier League (England),€232K,€8K,47.9,43.1,51.5,59.2,57,GK,160cm,Left
+968804,J. Frey,47,Chad,Cook Group,"Morales, Lee and Hill (Egypt)",€232K,€8K,28.7,40.2,21.2,62.1,57,CAM,188cm,Right
+895467,Dillon,31,Cameroon,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€225K,€6K,50.7,52.8,57.6,53.7,57,LWB,154cm,Left
+84625,V. Morton,28,Saint Martin,Henry PLC,Premier League (England),€228K,€7K,60.5,37.6,47.2,37.4,57,CB,162cm,Right
+707333,J. Good,35,Serbia,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€225K,€7K,40.6,49.0,56.8,56.6,57,RWB,151cm,Left
+420686,J. Thomas,30,Brunei Darussalam,Johnson-Turner,Premier League (England),€216K,€6K,57.2,45.4,38.8,56.7,57,LW,165cm,Left
+142223,Austin Davenport,28,Brunei Darussalam,"Perez, Ruiz and Lopez",Premier League (England),€226K,€6K,38.4,58.5,48.3,51.3,57,LWB,192cm,Right
+699313,Brian Jr.,32,Serbia,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€214K,€6K,14.6,64.4,28.6,36.4,57,LWB,153cm,Right
+527318,T. Ruiz,33,Cambodia,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€211K,€6K,26.7,33.3,27.2,65.4,57,ST,208cm,Left
+109605,D. Taylor,33,Saint Martin,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€208K,€6K,46.9,60.0,38.1,43.3,57,LWB,194cm,Right
+822872,A. Jones,21,Egypt,FC Barcelona,Premier League (England),€209K,€6K,35.0,56.6,57.7,44.9,57,LB,201cm,Right
+200435,Anthony Jr.,30,Saint Helena,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€211K,€6K,44.1,48.2,43.7,59.8,57,GK,188cm,Left
+577270,A. Larson,24,Egypt,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€216K,€6K,27.7,63.4,36.7,35.9,57,LM,156cm,Right
+573444,Larry Jr.,28,United Arab Emirates,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€206K,€5K,54.0,57.3,28.9,17.7,56,LM,185cm,Right
+172052,F. Hernandez,42,United Arab Emirates,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€193K,€5K,43.7,36.9,34.2,59.9,56,CF,158cm,Right
+548941,A. Francis,20,Liechtenstein,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€202K,€5K,52.6,57.3,33.5,29.7,56,LW,176cm,Left
+622904,Charles Powell,17,Saint Helena,Lopez PLC,Premier League (England),€203K,€5K,40.8,57.7,52.2,32.0,56,CM,163cm,Right
+180980,M. Mendoza,22,Serbia,Huber-Olson,Premier League (England),€190K,€5K,36.5,40.4,27.3,60.8,56,RM,199cm,Right
+549955,S. Hill,26,Egypt,Ross Inc,Day PLC (Saint Helena),€187K,€4K,22.2,45.8,58.4,49.6,56,CDM,186cm,Left
+484573,M. Foster,21,Argentina,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€210K,€4K,43.6,50.8,45.2,58.2,56,CDM,182cm,Left
+181639,M. Durham,49,Cameroon,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€191K,€4K,52.4,56.6,52.0,19.3,56,LM,163cm,Right
+812455,M. Duarte,24,Brunei Darussalam,"Vang, Morris and Nelson",Premier League (England),€185K,€3K,59.4,40.1,36.6,44.1,56,LW,199cm,Left
+976550,M. Jacobson,23,Liechtenstein,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€184K,€4K,45.1,55.3,55.9,27.7,56,LWB,162cm,Left
+469114,E. Carroll,15,Cambodia,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€186K,€4K,18.5,57.2,54.1,25.6,56,CAM,170cm,Right
+936166,A. Romero,17,Cameroon,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€193K,€4K,46.7,56.2,54.1,27.5,56,CF,183cm,Left
+682310,P. Bryant,23,Egypt,"Ellis, Cruz and Johnson",Premier League (England),€180K,€3K,52.0,57.9,50.6,50.3,56,RWB,161cm,Right
+264628,D. Andersen,53,Argentina,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€186K,€3K,38.3,54.1,56.9,36.3,56,RB,178cm,Right
+584516,Maurice Jr.,34,Saint Martin,Liverpool,Premier League (England),€182K,€3K,46.5,58.6,49.6,30.1,56,LW,188cm,Left
+347465,Raymond Jr.,23,Serbia,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€180K,€4K,57.0,31.6,53.4,36.4,56,CB,177cm,Left
+921243,Burns,30,Cameroon,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€172K,€3K,57.2,52.5,35.4,42.1,56,CB,157cm,Right
+945953,M. Collier,25,Saint Martin,Gillespie LLC,Premier League (England),€174K,€3K,52.3,38.3,43.7,57.5,56,RB,163cm,Right
+487273,Walter Cuevas,28,Brunei Darussalam,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€170K,€3K,24.2,58.1,40.7,50.5,56,LM,169cm,Right
+438168,M. Carter,22,Egypt,Huber-Olson,Premier League (England),€183K,€3K,41.7,61.1,35.5,17.0,56,CF,196cm,Left
+877334,Michael Jr.,32,United Arab Emirates,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€168K,€2K,52.0,38.8,56.2,35.8,55,CM,173cm,Left
+500897,D. Gonzales,34,Saint Helena,Lopez PLC,Premier League (England),€164K,€2K,12.2,50.2,56.3,50.2,55,CDM,154cm,Left
+837185,T. Keller,42,Egypt,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€164K,€2K,28.0,56.3,29.3,50.8,55,CAM,159cm,Right
+878261,David Jr.,25,Brunei Darussalam,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€163K,€2K,31.0,55.7,25.5,53.7,55,RWB,205cm,Left
+485159,Austin,27,Brunei Darussalam,"Smith, Murphy and Carr",Henry and Sons (Chad),€167K,€2K,48.0,57.0,45.0,10.8,55,CF,186cm,Left
+34765,B. Rosario,31,United Arab Emirates,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€162K,€2K,55.5,53.6,34.3,43.0,55,CB,152cm,Right
+960707,A. Alvarez,27,United Arab Emirates,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€162K,€2K,54.6,51.4,55.8,30.2,55,CAM,164cm,Right
+35080,D. Wilkins,31,Brunei Darussalam,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€162K,€2K,49.8,26.7,43.5,56.2,55,RWB,158cm,Left
+666054,W. Watkins,32,Chad,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€159K,€2K,32.2,59.0,21.2,44.8,55,LWB,185cm,Right
+346619,G. Casey,35,Brunei Darussalam,Ross Inc,Day PLC (Saint Helena),€160K,€0,33.0,36.7,20.2,60.8,55,RM,152cm,Right
+379531,Hicks,18,Cameroon,FC Barcelona,Premier League (England),€158K,€0,41.1,35.6,21.8,59.0,55,CF,210cm,Right
+117717,D. Owen,25,Argentina,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€163K,€0,36.4,46.2,41.8,58.5,55,RM,162cm,Right
+445826,Preston Duran,33,Cameroon,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€161K,€0,40.2,56.5,23.0,49.9,55,RWB,187cm,Left
+471261,R. Vargas,33,Saint Helena,Ross Inc,Day PLC (Saint Helena),€154K,€0,40.2,49.3,56.3,39.9,55,LB,160cm,Right
+737285,Scott Jr.,34,Chad,Liverpool,Premier League (England),€152K,€0,38.0,40.7,19.3,59.0,54,ST,163cm,Left
+327725,W. Anderson,30,Chad,Cook Group,"Morales, Lee and Hill (Egypt)",€158K,€0,38.6,32.7,59.1,39.0,54,CM,192cm,Left
+770243,Richard Jr.,29,Argentina,"Atkins, Jimenez and Rodriguez",Premier League (England),€145K,€0,54.7,50.5,26.4,30.2,54,LB,167cm,Left
+721455,Kevin Wallace,24,Liechtenstein,Townsend LLC,"Morales, Lee and Hill (Egypt)",€149K,€0,52.1,54.9,29.3,45.2,54,RWB,186cm,Left
+140125,Roberto Jones,21,Cambodia,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€147K,€0,53.9,51.8,54.5,47.1,54,GK,161cm,Left
+82893,R. Ford,24,Serbia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€154K,€0,54.7,48.2,29.1,52.4,54,RB,173cm,Left
+411002,Jason Berry,40,Saint Helena,Gillespie LLC,Premier League (England),€142K,€0,44.5,29.2,35.5,56.5,54,CF,154cm,Right
+632361,J. Casey,54,Chad,Rodriguez-Gonzalez,Premier League (England),€147K,€0,37.0,38.1,56.8,44.8,54,RM,151cm,Right
+763858,C. Summers,23,Cambodia,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€142K,€0,54.1,52.3,49.9,42.6,54,ST,172cm,Right
+419928,T. Snyder,27,Saint Helena,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€141K,€0,23.3,38.4,35.1,59.1,54,ST,201cm,Left
+428153,T. Cowan,15,Brunei Darussalam,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€134K,€0,54.1,53.6,43.9,20.2,54,CF,194cm,Left
+223544,Michael Jr.,22,Egypt,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€137K,€0,34.7,34.2,35.8,60.0,54,GK,163cm,Left
+199384,Wall,20,Brunei Darussalam,Jones LLC,Premier League (England),€132K,€0,42.5,39.8,45.4,56.8,54,RW,204cm,Left
+650295,A. Richmond,24,Chad,Savage-Lewis,Premier League (England),€143K,€0,54.0,26.5,44.6,53.7,54,RWB,153cm,Right
+183640,Jason Jr.,51,United Arab Emirates,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€122K,€0,40.0,53.3,54.1,50.4,54,CB,196cm,Right
+617851,R. Patton,52,Liechtenstein,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€140K,€0,46.0,35.6,41.4,57.1,54,RWB,168cm,Left
+806311,R. Ruiz,24,Saint Martin,Page-Mcgee,"Shaw, Jenkins and Moore (Egypt)",€121K,€0,47.9,56.0,37.5,49.8,54,CAM,153cm,Right
+122934,J. Dunn,30,Saint Helena,"Smith, Murphy and Carr",Henry and Sons (Chad),€121K,€0,44.8,52.8,52.0,44.0,53,CAM,174cm,Left
+458887,R. Reynolds,44,Argentina,"Ellis, Cruz and Johnson",Premier League (England),€110K,€0,55.1,25.3,35.5,46.7,53,CF,196cm,Right
+778572,M. Powell,29,Brunei Darussalam,Baker Inc,Rios PLC (Saint Helena),€130K,€0,29.5,53.7,41.6,50.2,53,ST,208cm,Right
+483685,A. Smith,22,Brunei Darussalam,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€109K,€0,54.1,34.5,49.9,46.7,53,GK,157cm,Left
+811471,S. Livingston,25,Brunei Darussalam,Rodriguez-Gonzalez,Premier League (England),€110K,€0,53.8,29.4,41.3,52.1,53,CB,191cm,Right
+737768,A. Sullivan,41,Liechtenstein,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€107K,€0,20.2,51.7,53.7,23.8,53,CAM,165cm,Right
+549361,M. King,27,Saint Helena,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€107K,€0,24.4,19.4,52.5,53.8,53,RW,190cm,Left
+295568,Randall Jr.,22,Cameroon,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€116K,€0,33.7,48.6,54.1,47.8,53,RB,193cm,Right
+107178,Michael Jr.,21,Liechtenstein,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€106K,€0,45.3,39.7,53.6,52.6,53,RW,166cm,Left
+320421,Joseph Jr.,27,Egypt,Ross Inc,Day PLC (Saint Helena),€101K,€0,46.0,17.7,54.1,48.1,53,CF,150cm,Right
+222206,Eric Anderson,27,Brunei Darussalam,Cook Group,"Morales, Lee and Hill (Egypt)",€103K,€0,44.7,30.9,17.2,55.6,53,ST,183cm,Left
+713791,I. Herrera,32,Chad,Cook Group,"Morales, Lee and Hill (Egypt)",€102K,€0,25.5,58.9,23.6,36.2,53,LWB,185cm,Right
+320809,A. Smith,23,Brunei Darussalam,Baker Inc,Rios PLC (Saint Helena),€105K,€0,40.3,52.5,53.5,41.8,53,CAM,170cm,Right
+435730,A. Murphy,27,Brunei Darussalam,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€101K,€0,49.4,48.6,54.8,34.0,53,CM,176cm,Left
+83569,J. Jones,37,Serbia,Lopez PLC,Premier League (England),€100K,€0,53.7,41.0,51.3,26.1,53,CAM,183cm,Right
+460479,B. Haynes,23,Saint Helena,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€103K,€0,23.5,61.1,30.6,21.4,53,LWB,154cm,Right
+976983,R. Butler,35,Saint Helena,"Vang, Morris and Nelson",Premier League (England),€97K,€0,53.2,36.5,22.4,52.0,53,RWB,150cm,Left
+117298,C. Larsen,25,Cameroon,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€90K,€0,12.0,62.6,20.9,26.1,53,LWB,191cm,Right
+27647,M. Phillips,27,Argentina,Clark and Sons,Premier League (England),€94K,€0,39.0,57.8,18.7,25.6,53,LM,157cm,Right
+412738,E. Colon,35,Cameroon,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€90K,€0,24.7,46.0,33.9,54.9,53,CAM,190cm,Right
+986241,J. House,31,Cambodia,"Buckley, Jones and Brooks",Henry and Sons (Chad),€96K,€0,35.3,48.2,53.6,49.9,53,CM,168cm,Left
+380052,G. Stevenson,23,Chad,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€80K,€0,25.7,40.8,46.4,54.7,53,RW,164cm,Left
+20113,J. Li,23,Argentina,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€93K,€0,53.6,39.0,50.3,50.3,53,CF,169cm,Right
+348246,T. Soto,52,Saint Helena,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€82K,€0,45.0,50.4,40.4,53.8,53,LW,151cm,Right
+970866,G. Shaw,24,Serbia,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€84K,€0,27.6,51.1,53.4,45.4,53,GK,182cm,Left
+639078,J. Morris,34,Saint Helena,Huber-Olson,Premier League (England),€75K,€0,55.4,29.2,38.7,41.8,52,LB,169cm,Left
+197046,W. Phillips,26,Brunei Darussalam,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€87K,€0,43.2,31.5,55.0,35.7,52,RM,176cm,Right
+98800,M. Jensen,38,Liechtenstein,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€79K,€0,45.7,16.4,53.4,45.8,52,RB,176cm,Right
+401934,Mahoney,21,Brunei Darussalam,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€79K,€0,10.3,10.3,49.8,53.1,52,ST,161cm,Left
+656085,J. Kane,29,Saint Helena,Clark and Sons,Premier League (England),€74K,€0,55.3,42.6,28.8,28.9,52,LB,196cm,Left
+434956,P. Sanchez,32,Liechtenstein,"Scott, Nash and Roth",Premier League (England),€73K,€0,32.8,53.8,46.6,37.7,52,RB,152cm,Right
+230268,B. Lane,26,Cameroon,"Ellis, Cruz and Johnson",Premier League (England),€75K,€0,44.5,47.4,37.3,53.1,52,CAM,160cm,Right
+304235,Casey,34,Cameroon,Manchester United,Premier League (England),€79K,€0,52.2,42.0,52.1,52.3,52,RWB,166cm,Left
+369777,S. Miller,34,Egypt,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€75K,€0,33.6,57.5,31.9,18.8,52,LM,183cm,Right
+304792,Wayne Braun,32,Chad,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€70K,€0,37.4,53.2,46.8,32.9,52,LB,166cm,Left
+9966,F. Kim,35,Serbia,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€73K,€0,53.4,48.4,22.7,41.3,52,CF,201cm,Left
+518203,Joseph Murray,32,Serbia,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€73K,€0,8.5,61.0,26.3,25.8,52,LWB,162cm,Right
+141835,John Jr.,33,Serbia,Johnson-Turner,Premier League (England),€66K,€0,33.4,52.7,49.9,41.4,52,LB,191cm,Right
+551999,Benson,34,Saint Helena,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€68K,€0,39.9,53.0,51.0,49.4,52,LM,152cm,Right
+298143,J. Stevens,28,Chad,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€68K,€0,23.9,55.8,33.1,41.6,52,LM,180cm,Right
+601593,J. Bell,32,Cameroon,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€70K,€0,51.2,36.9,52.4,50.0,52,RM,170cm,Right
+831097,Steven Mendoza,39,Argentina,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€66K,€0,34.2,44.6,53.1,49.8,52,CB,200cm,Right
+716410,R. Sanchez,28,Brunei Darussalam,"Scott, Nash and Roth",Premier League (England),€66K,€0,49.5,53.3,45.1,16.2,52,CM,177cm,Right
+987086,C. Franklin,35,Saint Helena,Liverpool,Premier League (England),€65K,€0,36.7,19.2,48.9,53.4,52,RW,186cm,Left
+397415,Sweeney,28,Chad,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€65K,€0,48.5,52.5,50.4,34.5,52,CAM,163cm,Right
+241808,W. Harris,29,Egypt,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€64K,€0,54.8,17.3,34.5,42.6,52,LB,159cm,Left
+471227,J. Jones,27,Cameroon,Lopez PLC,Premier League (England),€63K,€0,45.2,30.6,43.3,54.6,52,GK,166cm,Left
+487631,S. Schultz,29,Egypt,"Vang, Morris and Nelson",Premier League (England),€65K,€0,53.2,50.0,25.9,6.7,52,LB,150cm,Left
+221195,D. Fitzgerald,24,Saint Martin,"Buckley, Jones and Brooks",Henry and Sons (Chad),€61K,€0,41.2,51.5,37.1,48.3,51,RM,169cm,Right
+909675,B. Reed,34,United Arab Emirates,Cook Group,"Morales, Lee and Hill (Egypt)",€59K,€0,23.2,43.9,33.2,52.7,51,ST,191cm,Left
+124495,B. Barrera,34,Egypt,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€64K,€0,24.5,59.1,12.6,27.4,51,LWB,187cm,Right
+468924,P. Davis,24,Cambodia,"Ellis, Cruz and Johnson",Premier League (England),€53K,€0,50.3,34.3,33.7,50.8,51,RM,163cm,Right
+665572,J. Rivera,32,Cameroon,"Herrera, Saunders and Rangel","Potts, Hernandez and Kelly (Cambodia)",€58K,€0,38.0,31.2,55.3,37.6,51,CM,206cm,Left
+182408,Alan Morton,30,Saint Martin,Rodriguez-Gonzalez,Premier League (England),€42K,€0,48.3,51.5,28.3,49.3,51,CAM,192cm,Right
+510167,K. Lowe,20,Saint Martin,"Fox, Baker and Robles",Premier League (England),€52K,€0,15.3,42.2,53.6,39.8,51,CDM,156cm,Left
+444844,D. Jacobson,33,Liechtenstein,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€48K,€0,32.7,20.4,22.1,57.1,51,RWB,178cm,Left
+60181,J. Russell,25,Liechtenstein,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€44K,€0,47.4,46.3,50.5,51.3,51,RWB,177cm,Left
+822065,J. Johnson,20,Serbia,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€40K,€0,38.5,21.2,24.9,55.4,51,CF,172cm,Right
+85045,S. Jones,26,United Arab Emirates,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€38K,€0,23.7,45.1,42.9,52.6,51,CAM,169cm,Right
+478477,R. Lopez,21,Chad,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€60K,€0,38.5,35.9,53.5,43.9,51,GK,182cm,Left
+560407,Kyle Scott,54,Cambodia,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€39K,€0,19.2,55.3,22.6,38.8,51,LWB,172cm,Right
+101830,B. Sullivan,23,Chad,Mccarthy-Stokes,Alexander LLC (Saint Martin),€38K,€0,28.1,15.0,30.1,57.7,51,LW,200cm,Right
+77655,R. West,32,United Arab Emirates,Townsend LLC,"Morales, Lee and Hill (Egypt)",€39K,€0,46.6,17.2,46.4,52.7,51,RW,192cm,Left
+766195,T. Martin,33,Saint Martin,Manchester United,Premier League (England),€37K,€0,49.2,51.8,41.0,38.9,51,ST,179cm,Right
+369127,F. Schneider,20,Argentina,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€34K,€0,22.9,29.4,53.3,40.2,50,RB,163cm,Right
+434749,J. Rodriguez,21,Saint Helena,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€28K,€0,43.2,52.1,30.1,22.0,50,LWB,150cm,Right
+279124,A. Ferguson,34,Egypt,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€23K,€0,35.3,18.3,52.4,43.5,50,RWB,163cm,Left
+975753,Nathaniel Jr.,33,Brunei Darussalam,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€26K,€0,51.9,32.6,28.5,43.5,50,LW,175cm,Left
+272016,D. Fields,35,Chad,"Atkins, Jimenez and Rodriguez",Premier League (England),€34K,€0,54.3,36.7,32.5,30.7,50,RM,203cm,Right
+157351,Thomas Jr.,32,Cameroon,"Vaughn, Mason and Mccullough","Flynn, Dixon and Jones (Brunei Darussalam)",€19K,€0,32.7,43.8,50.8,46.5,50,GK,158cm,Left
+870119,S. Mcdowell,39,Cambodia,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€34K,€0,50.1,50.0,25.4,25.7,50,LM,162cm,Right
+969058,P. Savage,27,Cameroon,"Vang, Morris and Nelson",Premier League (England),€16K,€0,48.8,50.6,44.5,8.2,50,CF,155cm,Left
+256380,M. Small,29,Chad,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€17K,€0,23.1,39.5,20.3,52.9,50,CAM,188cm,Right
+674413,Nelson,24,Cameroon,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€15K,€0,42.7,32.8,20.2,52.2,50,RWB,174cm,Left
+68320,Thomas Jr.,35,Liechtenstein,"Marsh, Smith and French","Shaw, Jenkins and Moore (Egypt)",€23K,€0,45.1,51.8,43.1,35.8,50,LW,153cm,Left
+240426,R. Watkins,22,Cambodia,Henry PLC,Premier League (England),€15K,€0,28.9,26.5,28.3,57.2,50,ST,153cm,Left
+126167,J. Smith,26,Cambodia,"Smith, Murphy and Carr",Henry and Sons (Chad),€11K,€0,22.4,18.4,43.9,51.5,50,RB,179cm,Right
+118068,Bradley Young,34,Saint Helena,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€6K,€0,26.0,58.5,23.3,23.9,50,CAM,203cm,Right
+126276,L. Romero,30,Liechtenstein,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€9K,€0,44.9,48.3,44.1,50.5,50,ST,189cm,Left
+904795,K. Hanson,33,Argentina,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€9K,€0,22.7,40.5,50.7,46.4,50,CDM,154cm,Left
+929419,R. Smith,36,Saint Martin,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€7K,€0,50.6,49.6,36.6,32.6,50,CM,176cm,Right
+901426,C. Flores,30,United Arab Emirates,"Johnson, Weiss and Becker",Rios PLC (Saint Helena),€7K,€0,35.2,52.7,36.6,33.0,49,ST,154cm,Right
+377788,C. Harris,32,Chad,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€2K,€0,26.1,35.7,23.0,53.4,49,ST,161cm,Left
+558036,J. Baker,26,Egypt,Mccarthy-Stokes,Alexander LLC (Saint Martin),€3K,€0,38.8,50.2,40.4,44.4,49,CM,152cm,Right
+549893,P. Stevens,26,Liechtenstein,Ross Inc,Day PLC (Saint Helena),€3K,€0,47.5,34.4,43.9,49.5,49,RWB,176cm,Left
+132166,J. Anderson,29,Chad,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€750,€0,39.1,36.3,51.8,38.3,49,LW,190cm,Left
+239585,Santiago,24,Saint Helena,Jones LLC,Premier League (England),€750,€0,23.7,52.1,40.1,39.2,49,LWB,194cm,Right
+288984,D. Wright,15,Serbia,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€750,€0,42.0,20.5,50.3,45.1,49,CF,187cm,Right
+305993,A. Chandler,34,Saint Helena,"Lynch, Perez and Edwards","Potts, Hernandez and Kelly (Cambodia)",€3K,€0,12.4,18.5,25.9,57.3,49,ST,203cm,Left
+920449,Williams,26,Cameroon,Henry PLC,Premier League (England),€750,€0,47.6,49.9,21.6,42.3,49,CAM,205cm,Right
+593885,K. Nelson,29,Cameroon,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€750,€0,49.0,48.6,13.2,43.1,49,RB,185cm,Left
+856180,T. Murphy,23,Saint Martin,Johnson-Turner,Premier League (England),€750,€0,41.1,42.7,24.1,50.5,49,CAM,194cm,Right
+492053,Jacob Cortez,51,Cameroon,Baker Inc,Rios PLC (Saint Helena),€750,€0,38.1,51.5,31.8,25.4,48,LM,179cm,Right
+853000,Karl Jr.,29,Saint Helena,Henry PLC,Premier League (England),€750,€0,46.0,48.9,37.1,27.0,48,LB,153cm,Left
+304794,David Jr.,28,Saint Martin,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€750,€0,49.7,43.5,32.3,44.0,48,LW,175cm,Left
+60378,R. Burton,20,Egypt,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€750,€0,40.4,43.1,48.5,48.3,48,RB,194cm,Right
+208602,Sullivan,26,Argentina,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€750,€0,45.2,40.2,45.2,48.6,48,CB,188cm,Right
+28525,R. Yang,29,Serbia,Henry PLC,Premier League (England),€750,€0,54.8,14.5,23.7,29.0,48,LB,195cm,Left
+246673,L. Jones,41,Saint Martin,Lopez PLC,Premier League (England),€750,€0,24.9,49.5,39.6,30.9,47,CAM,207cm,Right
+828619,W. Boone,22,United Arab Emirates,"Vang, Morris and Nelson",Premier League (England),€750,€0,19.6,45.9,46.9,25.5,47,CAM,163cm,Right
+173565,Brown,33,Egypt,"Atkins, Jimenez and Rodriguez",Premier League (England),€750,€0,21.0,47.4,44.1,27.1,47,CAM,209cm,Right
+91984,R. Bolton,26,United Arab Emirates,Lopez PLC,Premier League (England),€750,€0,46.3,46.0,31.1,47.2,47,ST,175cm,Left
+600190,M. Smith,27,Cambodia,Gillespie LLC,Premier League (England),€750,€0,51.4,28.0,30.9,33.2,47,LB,203cm,Left
+772500,M. Hendrix,30,Liechtenstein,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€750,€0,47.5,42.8,46.0,35.8,47,CAM,190cm,Right
+534935,R. Ross,45,United Arab Emirates,Henry PLC,Premier League (England),€750,€0,42.1,20.0,47.3,45.8,47,RB,192cm,Right
+655799,Ryan,24,Saint Helena,Ross Inc,Day PLC (Saint Helena),€750,€0,21.8,40.3,29.8,48.4,46,ST,206cm,Left
+737837,G. Wolf,32,Argentina,Gillespie LLC,Premier League (England),€750,€0,32.9,45.8,46.3,23.2,46,LB,188cm,Left
+255137,J. Williams,31,Saint Helena,"Williams, Cannon and Thomas",Day PLC (Saint Helena),€750,€0,46.6,27.1,43.9,19.9,46,LB,157cm,Left
+541974,W. Singh,23,Saint Martin,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€500,€0,39.2,48.3,32.4,41.0,46,CB,158cm,Right
+607606,E. Smith,26,Cambodia,Cole Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€500,€0,18.8,30.4,22.5,50.6,46,ST,185cm,Left
+968838,M. Gray,31,United Arab Emirates,"Buckley, Jones and Brooks",Henry and Sons (Chad),€500,€0,31.6,20.7,20.1,50.8,46,ST,176cm,Left
+543065,Christian Perez,34,Brunei Darussalam,"Atkins, Jimenez and Rodriguez",Premier League (England),€750,€0,24.4,47.6,17.6,40.3,46,LB,203cm,Left
+453845,K. Miller,31,Liechtenstein,"Greer, Flores and Maldonado",Alexander LLC (Saint Martin),€500,€0,38.6,38.0,43.6,46.7,46,ST,209cm,Left
+372900,E. Clark,33,Cambodia,"Scott, Nash and Roth",Premier League (England),€500,€0,37.3,42.8,32.8,46.7,46,RM,160cm,Right
+958857,Glen Jr.,28,Saint Helena,Gutierrez-Horton,"Flynn, Dixon and Jones (Brunei Darussalam)",€500,€0,40.9,39.6,25.6,46.3,45,LW,158cm,Left
+902265,Dylan Jr.,26,Egypt,"Ellis, Cruz and Johnson",Premier League (England),€500,€0,33.4,49.2,15.8,14.0,45,LB,155cm,Left
+771255,B. Hamilton,31,Cameroon,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€500,€0,47.7,14.1,35.1,37.2,45,LB,170cm,Left
+444239,B. Melendez,19,Liechtenstein,"Vang, Morris and Nelson",Premier League (England),€500,€0,45.3,32.2,42.5,36.8,45,GK,178cm,Left
+84614,N. Wise,27,Saint Helena,Baker Inc,Rios PLC (Saint Helena),€500,€0,27.0,13.9,25.8,51.5,45,ST,200cm,Left
+494474,Jacob Mccoy,19,Cambodia,"Vang, Morris and Nelson",Premier League (England),€500,€0,45.3,27.8,38.0,45.2,45,LB,191cm,Left
+281539,Petty,30,Argentina,Manchester United,Premier League (England),€500,€0,46.2,38.1,40.8,22.7,45,LB,164cm,Left
+773484,Gomez,35,Argentina,Smith-Conner,"Shaw, Jenkins and Moore (Egypt)",€500,€0,44.7,44.0,31.0,31.5,45,LW,179cm,Left
+348385,R. Jones,29,Cameroon,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€500,€0,45.7,32.7,44.0,27.1,45,RM,176cm,Right
+614651,Butler,20,Egypt,Johnson-Turner,Premier League (England),€500,€0,46.3,38.2,14.1,22.6,44,LB,196cm,Left
+665120,Coleman,31,Chad,Huber-Olson,Premier League (England),€500,€0,18.9,45.0,20.1,40.7,44,LB,183cm,Left
+993186,Jonathan Jackson,21,Brunei Darussalam,"Ellis, Cruz and Johnson",Premier League (England),€250,€0,35.4,43.8,23.8,44.0,44,RM,176cm,Right
+2069,C. Holland,31,United Arab Emirates,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€500,€0,48.2,12.8,25.2,30.0,44,RM,193cm,Right
+168107,D. Moore,18,Saint Martin,"Martin, Hart and Martin","Flynn, Dixon and Jones (Brunei Darussalam)",€500,€0,35.8,47.2,35.7,33.6,44,LB,195cm,Left
+573805,Patrick Mills,33,Liechtenstein,"Fox, Baker and Robles",Premier League (England),€250,€0,45.4,31.7,34.8,35.5,43,LB,200cm,Left
+394477,R. Davis,37,Liechtenstein,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€250,€0,30.9,46.4,8.4,20.7,43,LB,165cm,Left
+165914,Christian Villanueva,35,Liechtenstein,Mccarthy-Stokes,Alexander LLC (Saint Martin),€250,€0,24.0,43.1,43.3,22.0,43,LB,177cm,Left
+822882,David White,22,Chad,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€250,€0,20.9,31.9,30.5,46.9,43,ST,177cm,Left
+429673,A. Serrano,28,Cambodia,Cook Group,"Morales, Lee and Hill (Egypt)",€250,€0,35.1,18.4,28.3,46.3,43,RM,208cm,Right
+741602,D. Matthews,30,Cambodia,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€500,€0,24.9,48.5,13.8,11.6,43,LB,197cm,Left
+270535,Mason Munoz,23,Saint Martin,"Atkins, Jimenez and Rodriguez",Premier League (England),€250,€0,38.7,41.3,42.4,23.5,42,LW,191cm,Left
+746315,M. Buckley,26,Liechtenstein,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€250,€0,32.2,45.3,10.2,14.0,42,LB,170cm,Left
+878482,J. Ramirez,18,Cameroon,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€250,€0,34.5,26.2,39.9,42.8,42,GK,195cm,Left
+428283,Anthony Khan,26,Chad,FC Bayern München,"Potts, Hernandez and Kelly (Cambodia)",€250,€0,38.1,41.7,42.3,28.1,42,LB,183cm,Left
+437480,A. Andrews,43,Argentina,Paris Saint Germain,"Flynn, Dixon and Jones (Brunei Darussalam)",€250,€0,46.1,28.8,30.1,15.4,42,LB,162cm,Left
+863518,Jim Wilkins,33,Saint Helena,Mccarthy-Stokes,Alexander LLC (Saint Martin),€250,€0,25.0,39.1,43.2,37.7,42,LB,199cm,Left
+648428,B. Donovan,15,Serbia,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€250,€0,39.7,29.8,32.8,41.9,41,RM,159cm,Right
+26249,Luis Jr.,46,Brunei Darussalam,"Lopez, Miller and Ward","Potts, Hernandez and Kelly (Cambodia)",€250,€0,39.4,41.7,34.5,38.8,41,CAM,210cm,Right
+453135,M. Graham,23,Cambodia,Rodriguez-Gonzalez,Premier League (England),€250,€0,38.2,26.7,41.3,36.0,41,LB,187cm,Left
+11331,J. Kent,22,Saint Martin,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€250,€0,36.0,39.8,37.3,41.7,41,RM,163cm,Right
+675905,N. Thompson,27,Cambodia,"Owens, Lee and Gallegos","Potts, Hernandez and Kelly (Cambodia)",€250,€0,35.7,42.9,11.6,21.6,41,LB,198cm,Left
+352863,N. Collins,26,United Arab Emirates,Cook Group,"Morales, Lee and Hill (Egypt)",€250,€0,35.6,37.4,29.1,40.8,40,CB,155cm,Right
+984395,M. Gardner,35,Saint Helena,"Fox, Baker and Robles",Premier League (England),€250,€0,23.6,20.6,10.4,45.7,40,LB,196cm,Left
+239682,B. Frazier,51,Egypt,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€250,€0,32.1,18.2,33.9,42.3,40,RM,175cm,Right
+127054,J. Brown,20,Egypt,"Perez, Ruiz and Lopez",Premier League (England),€250,€0,19.0,37.2,40.4,29.5,40,CAM,166cm,Right
+336563,C. Rowe,32,Brunei Darussalam,Townsend LLC,"Morales, Lee and Hill (Egypt)",€250,€0,21.3,20.9,18.9,44.6,39,LB,196cm,Left
+67364,D. Houston,35,Egypt,"Bautista, Hall and Ford","Morales, Lee and Hill (Egypt)",€0,€0,41.4,17.2,31.7,20.4,39,LB,180cm,Left
+204948,R. Mcmahon,21,Brunei Darussalam,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€250,€0,37.0,38.5,34.0,21.6,38,LB,172cm,Left
+305853,D. Reyes,29,Liechtenstein,Smith-Conner,"Shaw, Jenkins and Moore (Egypt)",€250,€0,38.7,23.1,22.5,37.7,38,LB,196cm,Left
+609691,P. Merritt,24,Liechtenstein,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€0,€0,40.3,22.3,29.7,10.6,38,LB,171cm,Left
+885145,Z. Hines,23,United Arab Emirates,"Smith, Murphy and Carr",Henry and Sons (Chad),€0,€0,18.1,42.1,21.7,18.4,37,LB,159cm,Left
+886143,R. Howe,29,Liechtenstein,"Parks, Martinez and Santiago",Blake Group (Saint Martin),€250,€0,28.6,39.3,27.9,8.0,37,LB,176cm,Left
+166214,Daniel Jr.,20,United Arab Emirates,"Benson, Baker and Day","Flynn, Dixon and Jones (Brunei Darussalam)",€0,€0,39.3,19.1,24.5,31.5,37,LB,174cm,Left
+732040,J. Mitchell,23,Brunei Darussalam,Hamilton Ltd,"Flynn, Dixon and Jones (Brunei Darussalam)",€0,€0,30.3,21.1,39.3,16.1,37,LB,206cm,Left
+954412,K. Everett,27,Egypt,Huber-Olson,Premier League (England),€0,€0,28.5,32.6,38.0,34.0,37,LB,209cm,Left
+272761,D. Huang,29,Egypt,"Diaz, Johnson and Andrews",Rios PLC (Saint Helena),€0,€0,24.9,39.6,15.6,14.1,36,LB,184cm,Left
+974956,A. Barnes,32,Chad,Manchester United,Premier League (England),€0,€0,18.1,37.3,23.6,6.0,34,LB,181cm,Left
+281591,Daniel Jordan,30,Liechtenstein,"Clarke, Hansen and Coleman",Rios PLC (Saint Helena),€0,€0,31.1,33.6,18.3,27.2,33,LB,178cm,Left
+10304,C. Hill,35,Serbia,"Scott, Nash and Roth",Premier League (England),€0,€0,30.8,32.2,31.2,20.0,32,LB,169cm,Left
+444141,Ethan Thomas,21,United Arab Emirates,"Wagner, Larson and Chapman","Potts, Hernandez and Kelly (Cambodia)",€0,€0,20.7,34.9,20.8,14.1,31,LB,205cm,Left
+216277,R. Cochran,34,Cambodia,Huber-Olson,Premier League (England),€0,€0,27.8,31.6,8.2,12.9,31,LB,208cm,Left
+697173,P. Gutierrez,27,Chad,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€0,€0,30.5,23.5,21.0,27.1,30,RM,204cm,Right
+66463,R. Rivera,38,Egypt,"Bolton, Smith and Bauer",Day PLC (Saint Helena),€0,€0,16.0,33.5,8.8,12.6,29,LB,189cm,Left
+779406,Rivera,20,Saint Helena,"Daniels, Pearson and Morse","Flynn, Dixon and Jones (Brunei Darussalam)",€0,€0,20.5,26.0,22.8,19.0,25,LB,164cm,Left
+854819,Bill Cunningham,51,Serbia,"Wagner, Salas and Velazquez","Flynn, Dixon and Jones (Brunei Darussalam)",€0,€0,22.1,21.3,8.3,13.1,22,LB,186cm,Left
