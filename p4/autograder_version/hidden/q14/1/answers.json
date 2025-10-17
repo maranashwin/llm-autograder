@@ -1,0 +1,82 @@
+{
+  "q1": {
+    "format": "TEXT_FORMAT",
+    "answer": "damage_tinkaton_arcanine"
+  },
+  "q2": {
+    "format": "TEXT_FORMAT",
+    "answer": "damage_lucario_klawf"
+  },
+  "q3": {
+    "format": "TEXT_FORMAT",
+    "answer": "bonus_rock_talonflame"
+  },
+  "q4": {
+    "format": "TEXT_FORMAT",
+    "answer": "bonus_bug_ninetales"
+  },
+  "q5": {
+    "format": "TEXT_FORMAT",
+    "answer": "eff_damage_froakie_snivy"
+  },
+  "q6": {
+    "format": "TEXT_FORMAT",
+    "answer": "eff_damage_gengar_lapras"
+  },
+  "q7": {
+    "format": "TEXT_FORMAT",
+    "answer": "eff_damage_tyranitar_charizard"
+  },
+  "q8": {
+    "format": "TEXT_FORMAT",
+    "answer": "hits_snorlax_golem"
+  },
+  "q9": {
+    "format": "TEXT_FORMAT",
+    "answer": "hits_sceptile_meowscarada"
+  },
+  "q10": {
+    "format": "TEXT_FORMAT",
+    "answer": "hits_copperajah_trubbish"
+  },
+  "q11": {
+    "format": "TEXT_FORMAT",
+    "answer": "battle_infernape_typhlosion"
+  },
+  "q12": {
+    "format": "TEXT_FORMAT",
+    "answer": "battle_espeon_sylveon"
+  },
+  "q13": {
+    "format": "TEXT_FORMAT",
+    "answer": "battle_terrakion_volcanion"
+  },
+  "q14": {
+    "format": "TEXT_FORMAT",
+    "answer": "battle_miraidon_koraidon"
+  },
+  "q15": {
+    "format": "TEXT_FORMAT",
+    "answer": "battle_meowth_greavard"
+  },
+  "q16": {
+    "format": "TEXT_FORMAT",
+    "answer": "battle_stufful_dragapult"
+  },
+  "q17": {
+    "format": "TEXT_FORMAT",
+    "answer": "friendship_landorus_thundurus"
+  },
+  "q18": {
+    "format": "TEXT_FORMAT",
+    "answer": "friendship_pikachu_raichu"
+  },
+  "q19": {
+    "format": "TEXT_FORMAT",
+    "answer": "friendship_ceruledge_skeledirge"
+  },
+  "q20": {
+    "format": "TEXT_FORMAT",
+    "answer": "friendship_flygon_garchomp"
+  }
+}
