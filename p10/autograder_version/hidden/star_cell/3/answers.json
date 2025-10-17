@@ -1,0 +1,90 @@
+{
+  "q1": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "files_in_data"
+  },
+  "q2": {
+    "format": "TEXT_FORMAT_ORDERED_LIST_SLASHES",
+    "answer": "file_paths"
+  },
+  "q3": {
+    "format": "TEXT_FORMAT_ORDERED_LIST_SLASHES",
+    "answer": "csv_file_paths"
+  },
+  "q4": {
+    "format": "TEXT_FORMAT_ORDERED_LIST_SLASHES",
+    "answer": "stars_paths"
+  },
+  "Star": {
+    "format": "TEXT_FORMAT_NAMEDTUPLE",
+    "answer": "sun"
+  },
+  "q5": {
+    "format": "TEXT_FORMAT_NAMEDTUPLE",
+    "answer": "third_star"
+  },
+  "q6": {
+    "format": "TEXT_FORMAT_NAMEDTUPLE",
+    "answer": "dp_leo"
+  },
+  "q7": {
+    "format": "TEXT_FORMAT",
+    "answer": "avg_lum_stars_1"
+  },
+  "q8": {
+    "format": "TEXT_FORMAT",
+    "answer": "avg_age_stars_2"
+  },
+  "q9": {
+    "format": "TEXT_FORMAT",
+    "answer": "kepler_220_temp"
+  },
+  "q10": {
+    "format": "TEXT_FORMAT",
+    "answer": "biggest_star"
+  },
+  "q11": {
+    "format": "TEXT_FORMAT",
+    "answer": "avg_age_kepler"
+  },
+  "Planet": {
+    "format": "TEXT_FORMAT_NAMEDTUPLE",
+    "answer": "jupiter"
+  },
+  "q12": {
+    "format": "TEXT_FORMAT_NAMEDTUPLE",
+    "answer": "fifth_planet"
+  },
+  "q13": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "last_five_planets_1"
+  },
+  "q14": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "controversial_planets"
+  },
+  "q15": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "last_five_planets_4"
+  },
+  "q16": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "planets_5020_5025"
+  },
+  "q17": {
+    "format": "TEXT_FORMAT",
+    "answer": "planets_disc_2023"
+  },
+  "q18": {
+    "format": "TEXT_FORMAT_NAMEDTUPLE",
+    "answer": "toi_2022_c_star"
+  },
+  "q19": {
+    "format": "TEXT_FORMAT",
+    "answer": "avg_planet_radius_big_stars"
+  },
+  "q20": {
+    "format": "TEXT_FORMAT_UNORDERED_LIST",
+    "answer": "youngest_star_planets"
+  }
+}

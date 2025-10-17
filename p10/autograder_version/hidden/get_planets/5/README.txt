@@ -1,0 +1,10 @@
+function is defined more than once
+
+This test is designed to ensure that your function
+'get_planets' is defined only once in your notebook.
+Having multiple definitions can lead to unexpected
+results if notebook cells are executed out of
+order. The test reads through your code and counts
+definitions of the function 'get_planets'. It may
+fail if more than one definition is found. Please
+ensure your function is defined only once.

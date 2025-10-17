@@ -1,0 +1,11 @@
+`star_cell` function is not used to answer
+
+This test is checking if you are using the
+`star_cell` function to answer the question. A
+modification has been made to the `star_cell`
+function so that it reads from a different
+dataset. If your answer does not change
+accordingly, it suggests that you did not use the
+`star_cell` function. Remember to utilize the
+provided functions instead of reading the data
+directly from the csv again.
