@@ -1,0 +1,82 @@
+{
+  "q1": {
+    "format": "TEXT_FORMAT_UNORDERED_LIST",
+    "answer": "ratios_gj9827"
+  },
+  "q2": {
+    "format": "TEXT_FORMAT",
+    "answer": "coeff_gj9827"
+  },
+  "q3": {
+    "format": "TEXT_FORMAT",
+    "answer": "percentage_change"
+  },
+  "q4": {
+    "format": "PNG_FORMAT_SCATTER",
+    "answer": "{'flux_list': flux_list, 'temp_4th_power_list': temp_4th_power_list}"
+  },
+  "q5": {
+    "format": "PNG_FORMAT_SCATTER",
+    "answer": "{'flux_list_no_outliers': flux_list_no_outliers, 'temp_4th_power_list_no_outliers': temp_4th_power_list_no_outliers}"
+  },
+  "q6": {
+    "format": "TEXT_FORMAT_DICT",
+    "answer": "star_classes_avg_lum"
+  },
+  "q7": {
+    "format": "PNG_FORMAT_SCATTER",
+    "answer": "{'density_dict': density_dict, 'lum_dict': lum_dict}"
+  },
+  "q8": {
+    "format": "PNG_FORMAT_SCATTER",
+    "answer": "{'density_dict_no_outliers': density_dict_no_outliers, 'lum_dict_no_outliers': lum_dict_no_outliers}"
+  },
+  "q9": {
+    "format": "PNG_FORMAT_SCATTER",
+    "answer": "{'temp_list': temp_list, 'lum_list': lum_list, 'age_list': age_list, 'mass_list': mass_list}"
+  },
+  "q10": {
+    "format": "TEXT_FORMAT_ORDERED_LIST_SLASHES",
+    "answer": "broken_data_toi"
+  },
+  "q11": {
+    "format": "TEXT_FORMAT_ORDERED_LIST_SLASHES",
+    "answer": "broken_data_keplers_100s"
+  },
+  "q12": {
+    "format": "TEXT_FORMAT_ORDERED_LIST_SLASHES",
+    "answer": "broken_data_kepler_100_others"
+  },
+  "q13": {
+    "format": "TEXT_FORMAT_ORDERED_LIST_SLASHES",
+    "answer": "broken_data"
+  },
+  "q14": {
+    "format": "TEXT_FORMAT",
+    "answer": "gj_674_b_gravity"
+  },
+  "q15": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "distances_to_star_b_cen_ab_b"
+  },
+  "q16": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "liquid_water_distances_kepler_197_e"
+  },
+  "q17": {
+    "format": "TEXT_FORMAT_UNORDERED_LIST",
+    "answer": "planets_with_liquid_water"
+  },
+  "q18": {
+    "format": "TEXT_FORMAT_ORDERED_LIST",
+    "answer": "surface_temp_hd_20794_d"
+  },
+  "q19": {
+    "format": "TEXT_FORMAT_UNORDERED_LIST",
+    "answer": "pleasant_planets"
+  },
+  "q20": {
+    "format": "TEXT_FORMAT_UNORDERED_LIST",
+    "answer": "habitable_planets"
+  }
+}
